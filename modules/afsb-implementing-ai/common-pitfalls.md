@@ -125,3 +125,7 @@ If you take one thing from this lesson, let it be this: **plan before you purcha
 [Privacy Commissioner — Guidance Resources](https://privacy.org.nz/publications/guidance-resources/)
 
 [AI Forum NZ — Governance Framework](https://aiforum.org.nz/our-work/governance/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

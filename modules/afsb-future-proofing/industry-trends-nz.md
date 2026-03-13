@@ -120,3 +120,9 @@ AI-assisted clinical decision support, predictive health analytics, automated pa
 [NZTech — New Zealand's technology industry association](https://nztech.org.nz/)
 
 [MBIE AI Strategy — New Zealand's national artificial intelligence strategy](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[Callaghan Innovation](https://www.callaghaninnovation.govt.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

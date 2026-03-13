@@ -102,3 +102,7 @@ AI systems can reflect and amplify existing biases. In an NZ context, this might
 [Data Ethics — Data.govt.nz](https://data.govt.nz/toolkit/data-ethics/)
 
 [AI Forum New Zealand](https://aiforum.org.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

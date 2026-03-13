@@ -93,3 +93,9 @@ You'll be surprised how quickly these tools become part of your daily routine. T
 [Google Gemini](https://gemini.google.com/)
 
 [Microsoft Copilot](https://copilot.microsoft.com/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

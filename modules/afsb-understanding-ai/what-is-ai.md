@@ -63,4 +63,8 @@ The businesses that start now — even with small experiments — will be the on
 
 [New Zealand's Artificial Intelligence Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
 
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
 [What Is AI? — McKinsey Explainer](https://www.mckinsey.com/featured-insights/artificial-intelligence/what-is-ai)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

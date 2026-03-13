@@ -147,3 +147,9 @@ Use this to track your progress. You don't have to do everything at once — tic
 [AI Forum NZ Governance Reports](https://aiforum.org.nz/our-work/governance/)
 
 [Business.govt.nz — Artificial Intelligence](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[Privacy Commissioner](https://www.privacy.org.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

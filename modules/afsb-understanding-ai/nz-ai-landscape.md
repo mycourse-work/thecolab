@@ -147,3 +147,7 @@ The strongest sector adoption is in **agritech** (Halter, Robotics Plus, Figured
 [AWS Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-asia-pacific-new-zealand-region/)
 
 [Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[Regional Business Partners Network](https://www.regionalbusinesspartners.co.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

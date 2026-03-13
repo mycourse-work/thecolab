@@ -143,4 +143,10 @@ The biggest killer of AI adoption is fear — fear of looking silly, fear of mak
 
 [Spark AI Foundations — AI literacy programme for NZ businesses](https://www.spark.co.nz/business/)
 
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[Callaghan Innovation](https://www.callaghaninnovation.govt.nz/)
+
 [The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

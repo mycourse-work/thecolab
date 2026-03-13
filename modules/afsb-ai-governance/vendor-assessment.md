@@ -124,3 +124,9 @@ Here's a simple process for evaluating a new AI tool before you commit:
 [New Zealand Government Procurement](https://www.procurement.govt.nz/)
 
 [Privacy Commissioner — Privacy Principles (Cross-Border Transfers)](https://privacy.org.nz/privacy-act-2020/privacy-principles/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[CERT NZ — Cyber Security](https://www.cert.govt.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

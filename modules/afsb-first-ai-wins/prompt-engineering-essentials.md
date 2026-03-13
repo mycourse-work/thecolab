@@ -172,3 +172,7 @@ Each round of feedback makes the output better. Most people give up after the fi
 [Prompt Engineering Overview — Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 [Introduction to Prompt Design — Google AI](https://ai.google.dev/gemini-api/docs/prompting-intro)
+
+[Privacy Commissioner — AI Guidance](https://www.privacy.org.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

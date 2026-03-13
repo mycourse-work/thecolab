@@ -128,3 +128,7 @@ One of the biggest risks with AI-generated content is that everything starts sou
 [Buffer](https://buffer.com/)
 
 [HubSpot](https://www.hubspot.com/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

@@ -156,3 +156,9 @@ AI moves fast. A policy written today might be partly outdated in six months. Bu
 [AI Governance Framework — AI Forum NZ](https://aiforum.org.nz/our-work/governance/)
 
 [Workplace Policies — Business.govt.nz](https://www.business.govt.nz/risks-and-operations/)
+
+[Privacy Commissioner](https://www.privacy.org.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

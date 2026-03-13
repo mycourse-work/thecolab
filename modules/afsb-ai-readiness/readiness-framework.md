@@ -154,3 +154,7 @@ If you ticked five or more, you're likely in the Emerging range or above. If you
 [AI Forum NZ Reports](https://aiforum.org.nz/reports/)
 
 [Business.govt.nz — Artificial Intelligence](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

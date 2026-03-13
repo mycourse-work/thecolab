@@ -163,3 +163,11 @@ Now go and build something brilliant.
 [Business.govt.nz Funding Finder — Search for grants and funding to support your AI journey](https://funds.business.govt.nz/)
 
 [MBIE AI Strategy — New Zealand's national artificial intelligence strategy and priorities](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[Privacy Commissioner](https://www.privacy.org.nz/)
+
+[Callaghan Innovation](https://www.callaghaninnovation.govt.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

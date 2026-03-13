@@ -164,4 +164,8 @@ AI is **not** reliable for:
 
 [Dext — Receipt Scanning and Bookkeeping](https://dext.com/)
 
-[Inland Revenue — IRD New Zealand](https://www.ird.govt.nz/)
+[IRD — Managing Your Tax](https://www.ird.govt.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

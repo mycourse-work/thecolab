@@ -139,3 +139,9 @@ When a pilot isn't working, you have three choices:
 [AI Forum NZ — Reports and Research](https://aiforum.org.nz/reports/)
 
 [Business.govt.nz — Innovation and Measuring Performance](https://www.business.govt.nz/how-to-grow/innovation/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

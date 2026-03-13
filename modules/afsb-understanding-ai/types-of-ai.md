@@ -93,3 +93,7 @@ Once you're comfortable with that, look at **predictive AI** features already bu
 [Get Started with AI — Google AI](https://ai.google/get-started/)
 
 [Claude — Anthropic's AI Assistant](https://www.anthropic.com/claude)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

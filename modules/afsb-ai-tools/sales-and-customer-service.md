@@ -127,3 +127,9 @@ The worst thing you can do is deploy a chatbot that goes in circles, can't answe
 [Intercom](https://www.intercom.com/)
 
 [HubSpot CRM](https://www.hubspot.com/products/crm)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[Privacy Commissioner — AI Guidance](https://www.privacy.org.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

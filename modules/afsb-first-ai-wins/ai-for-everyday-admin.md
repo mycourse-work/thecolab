@@ -149,3 +149,7 @@ Start with one of these tasks today. Literally right now, while you're thinking 
 [Google Workspace AI Solutions](https://workspace.google.com/solutions/ai/)
 
 [Otter.ai — AI Meeting Notes](https://otter.ai/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

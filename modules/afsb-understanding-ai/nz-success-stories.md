@@ -121,3 +121,7 @@ Looking across all seven examples, some clear themes emerge:
 [Xero — Cloud Accounting with AI Features](https://www.xero.com/nz/)
 
 [AI Forum NZ Reports — Case Studies and Adoption Research](https://aiforum.org.nz/reports/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

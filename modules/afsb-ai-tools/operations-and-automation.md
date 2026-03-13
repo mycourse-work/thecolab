@@ -135,3 +135,9 @@ Start small and build up. Here's a sensible progression:
 [Zapier](https://zapier.com/)
 
 [Microsoft Power Automate](https://powerautomate.microsoft.com/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

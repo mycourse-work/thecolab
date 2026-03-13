@@ -180,3 +180,9 @@ Track the time each experiment saves and note the quality of the output. This be
 [MBIE — R&D Tax Incentive](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/r-and-d-tax-incentive/)
 
 [Business.govt.nz — Funding Finder](https://funds.business.govt.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

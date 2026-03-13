@@ -189,3 +189,7 @@ Set aside 20 minutes and do this right now:
 [Toggl — Time Tracking](https://toggl.com/)
 
 [Make.com — Automation Platform](https://www.make.com/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

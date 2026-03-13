@@ -135,3 +135,9 @@ Here's a practical data governance checklist for your business:
 [Stats NZ — Data Standards](https://www.stats.govt.nz/)
 
 [CERT NZ — Data Protection Guides for Business](https://www.cert.govt.nz/business/guides/)
+
+[Data.govt.nz — Data Ethics](https://data.govt.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

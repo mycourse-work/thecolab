@@ -137,4 +137,10 @@ This works because people learn better from colleagues they trust than from exte
 
 [MBIE — Employment and Skills](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/)
 
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[Regional Business Partners Network](https://www.regionalbusinesspartners.co.nz/)
+
+[Callaghan Innovation](https://www.callaghaninnovation.govt.nz/)
+
 [The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

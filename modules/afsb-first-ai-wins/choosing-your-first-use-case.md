@@ -114,6 +114,8 @@ The next lesson will teach you how to talk to AI effectively so you get genuinel
 
 [AI and Work — OpenAI](https://openai.com/index/ai-and-work/)
 
-[Artificial Intelligence — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
 
 [AI Forum New Zealand Reports](https://aiforum.org.nz/reports/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

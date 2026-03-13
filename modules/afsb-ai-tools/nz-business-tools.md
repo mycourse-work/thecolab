@@ -117,3 +117,9 @@ The AI Forum of NZ reports that 75% of organisations found their AI setup costs 
 [Cin7](https://www.cin7.com/)
 
 [Timely](https://www.gettimely.com/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

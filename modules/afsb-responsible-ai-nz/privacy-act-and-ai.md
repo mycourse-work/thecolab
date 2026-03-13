@@ -92,3 +92,9 @@ If you're unsure, the Office of the Privacy Commissioner has free guidance on th
 [Guidance Resources — Office of the Privacy Commissioner](https://privacy.org.nz/publications/guidance-resources/)
 
 [Office of the Privacy Commissioner](https://privacy.org.nz/)
+
+[Privacy Act 2020 — NZ Legislation](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

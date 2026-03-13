@@ -137,4 +137,10 @@ This adds up to about 2-3 hours per month. That's a small investment for staying
 
 [NZTech — Advocacy and resources for New Zealand's technology sector](https://nztech.org.nz/)
 
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[CERT NZ — Cyber Security](https://www.cert.govt.nz/)
+
+[Regional Business Partners Network](https://www.regionalbusinesspartners.co.nz/)
+
 [The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

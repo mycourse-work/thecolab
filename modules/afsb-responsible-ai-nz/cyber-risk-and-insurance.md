@@ -130,3 +130,9 @@ Here's a practical approach to managing AI risk in your business:
 [Biometric Processing Privacy Code — Office of the Privacy Commissioner](https://privacy.org.nz/privacy-act-2020/codes-of-practice/biometric-processing/)
 
 [Small Business Cyber Security Guide — CERT NZ](https://www.cert.govt.nz/business/guides/)
+
+[Privacy Commissioner](https://www.privacy.org.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

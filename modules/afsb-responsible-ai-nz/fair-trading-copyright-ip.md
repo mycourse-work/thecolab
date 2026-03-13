@@ -105,8 +105,12 @@ A one-off consultation is far cheaper than defending a legal claim. Many NZ law 
 
 ## Further Reading
 
-[Advertising and Marketing — Commerce Commission Fair Trading Act](https://comcom.govt.nz/business/dealing-with-typical-situations/advertising-and-marketing)
+[Commerce Commission — Fair Trading Act](https://comcom.govt.nz/business/dealing-with-typical-situations/advertising-and-marketing)
 
 [New Zealand Intellectual Property Office](https://www.iponz.govt.nz/)
 
 [Copyright Act 1994 — New Zealand Legislation](https://www.legislation.govt.nz/act/public/1994/0143/latest/DLM345634.html)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

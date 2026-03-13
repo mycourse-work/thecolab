@@ -100,3 +100,13 @@ This might feel distant for a Kiwi small business today. But if you sell product
 [OECD AI Principles](https://oecd.ai/en/ai-principles)
 
 [NZ Government Algorithm Charter](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[Privacy Commissioner](https://www.privacy.org.nz/)
+
+[CERT NZ — Cyber Security](https://www.cert.govt.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

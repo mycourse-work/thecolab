@@ -117,3 +117,9 @@ Note any critical business data that's missing entirely. For example:
 [Stats NZ — Data Quality](https://www.stats.govt.nz/)
 
 [Business.govt.nz — IT Risk and Cybersecurity](https://www.business.govt.nz/risks-and-operations/it-risk-and-cybersecurity/)
+
+[Data.govt.nz — Data Ethics](https://data.govt.nz/)
+
+[CERT NZ — Cyber Security](https://www.cert.govt.nz/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

@@ -165,3 +165,9 @@ Your customers chose your business because of you — your personality, your exp
 [ChatGPT for Business — OpenAI](https://openai.com/chatgpt/)
 
 [Buffer AI Assistant](https://buffer.com/ai-assistant)
+
+[Commerce Commission — Fair Trading](https://comcom.govt.nz/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

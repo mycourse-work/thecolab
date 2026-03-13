@@ -113,3 +113,9 @@ The goal isn't perfection. It's having a record you can point to when someone as
 [Privacy Commissioner Guidance Resources](https://privacy.org.nz/publications/guidance-resources/)
 
 [Data.govt.nz Data Ethics Toolkit](https://data.govt.nz/toolkit/data-ethics/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

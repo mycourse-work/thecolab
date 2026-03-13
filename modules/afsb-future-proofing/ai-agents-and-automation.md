@@ -123,3 +123,9 @@ These aren't science fiction — companies are building them right now. Within t
 [Xero — Cloud accounting for NZ small businesses, featuring JAX agentic AI](https://www.xero.com/nz/)
 
 [Gartner Top Strategic Technology Trends — AI agents, agentic AI, and enterprise predictions](https://www.gartner.com/en/topics/artificial-intelligence)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[New Zealand's AI Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)

@@ -116,3 +116,7 @@ Beyond the myths, there are genuine risks you should be aware of:
 [Algorithm Charter for Aotearoa New Zealand — Data.govt.nz](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter/)
 
 [AI Forum NZ — Governance and Responsible AI](https://aiforum.org.nz/our-work/governance/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[The Co Lab — AI Training for NZ Businesses](https://thecolab.ai)
