@@ -107,3 +107,13 @@ The AI Forum of NZ reports that 75% of organisations found their AI setup costs 
 - NZ-built tools like Tradify, Fergus, Timely, and Figured understand Kiwi business requirements
 - 75% of NZ organisations found AI setup costs were under $5,000 — and for many, the cost is zero
 - Before buying anything new, make sure you're using what you've already got
+
+## Further Reading
+
+[Xero NZ](https://www.xero.com/nz/)
+
+[Tradify](https://www.tradifyhq.com/)
+
+[Cin7](https://www.cin7.com/)
+
+[Timely](https://www.gettimely.com/)

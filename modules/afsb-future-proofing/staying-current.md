@@ -122,3 +122,11 @@ This adds up to about 2-3 hours per month. That's a small investment for staying
 - Online communities (LinkedIn NZ AI groups, AI Forum events) let you stay connected from anywhere in the country
 - Staying current includes security awareness — 81% of NZ small businesses have experienced a cybersecurity breach, so adopt new tools thoughtfully
 - One good conversation with someone further along the AI journey is worth more than a dozen articles
+
+## Further Reading
+
+[AI Forum NZ — New Zealand's leading AI industry body with 280+ member organisations](https://aiforum.org.nz/)
+
+[Business.govt.nz — Government guide to AI for New Zealand businesses](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[NZTech — Advocacy and resources for New Zealand's technology sector](https://nztech.org.nz/)

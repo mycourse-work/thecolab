@@ -56,3 +56,11 @@ The businesses that start now — even with small experiments — will be the on
 - **Three breakthroughs** (cheap computing, abundant data, and generative AI models) made AI practical for everyday businesses
 - **82-87% of NZ organisations** are already using AI, but most SMEs haven't started — creating both a gap and an opportunity
 - **The cost to get started is low** (under $5K for most businesses) and the average return is 3.7x your investment
+
+## Further Reading
+
+[AI Forum NZ Reports — Research on AI adoption and productivity in New Zealand](https://aiforum.org.nz/reports/)
+
+[New Zealand's Artificial Intelligence Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[What Is AI? — McKinsey Explainer](https://www.mckinsey.com/featured-insights/artificial-intelligence/what-is-ai)

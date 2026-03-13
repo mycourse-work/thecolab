@@ -113,3 +113,11 @@ Looking across all seven examples, some clear themes emerge:
 - **You don't need to build custom AI** — most success stories involve adopting existing tools and platforms
 - **AI consistently augments rather than replaces** workers, freeing people for higher-value tasks
 - **Start with a specific, measurable problem** — every successful implementation began with a clear pain point, not a vague desire to "use AI"
+
+## Further Reading
+
+[Halter — Smart Collars for Livestock Management](https://www.halterhq.com/)
+
+[Xero — Cloud Accounting with AI Features](https://www.xero.com/nz/)
+
+[AI Forum NZ Reports — Case Studies and Adoption Research](https://aiforum.org.nz/reports/)

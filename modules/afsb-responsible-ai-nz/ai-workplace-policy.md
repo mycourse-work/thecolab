@@ -148,3 +148,11 @@ AI moves fast. A policy written today might be partly outdated in six months. Bu
 - Use the sample framework in this lesson as a starting point and customise it for your business.
 - Introduce AI to your team by leading with benefits, providing training, and making it safe to ask questions.
 - Review your policy at least every six months — the technology and the law are both moving fast.
+
+## Further Reading
+
+[Employment New Zealand — MBIE](https://www.employment.govt.nz/)
+
+[AI Governance Framework — AI Forum NZ](https://aiforum.org.nz/our-work/governance/)
+
+[Workplace Policies — Business.govt.nz](https://www.business.govt.nz/risks-and-operations/)

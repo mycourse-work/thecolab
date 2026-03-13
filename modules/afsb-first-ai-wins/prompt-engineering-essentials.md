@@ -164,3 +164,11 @@ Each round of feedback makes the output better. Most people give up after the fi
 - Always specify "NZ English" and your target audience
 - Never accept the first output — iterate and refine through conversation
 - Keep the prompt templates from this lesson handy — adapt them to your business and reuse them daily
+
+## Further Reading
+
+[Prompt Engineering Guide — OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
+
+[Prompt Engineering Overview — Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
+[Introduction to Prompt Design — Google AI](https://ai.google.dev/gemini-api/docs/prompting-intro)

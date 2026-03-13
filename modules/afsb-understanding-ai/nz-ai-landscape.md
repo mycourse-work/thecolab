@@ -137,3 +137,13 @@ The strongest sector adoption is in **agritech** (Halter, Robotics Plus, Figured
 - **Major infrastructure investment** (AWS NZ$7.5B, Microsoft data centre) means your data can stay in New Zealand
 - **Real funding is available** — the AI Advisory Pilot Programme offers up to $15K in co-funding for SMEs to adopt AI
 - **The ecosystem is strong** — AI Forum NZ, regional hubs, and government support make it a good time for NZ businesses to get started
+
+## Further Reading
+
+[New Zealand's Artificial Intelligence Strategy — MBIE](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)
+
+[AI Forum NZ — Industry Body for AI in New Zealand](https://aiforum.org.nz/)
+
+[AWS Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-asia-pacific-new-zealand-region/)
+
+[Artificial Intelligence for Business — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)

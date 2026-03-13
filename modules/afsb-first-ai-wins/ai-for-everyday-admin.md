@@ -141,3 +141,11 @@ Start with one of these tasks today. Literally right now, while you're thinking 
 - Microsoft Copilot users can access AI directly inside Outlook, Word, and Teams without switching tools
 - Always have a professional review AI-generated legal or compliance documents
 - Start with one admin task today — the best way to learn is by doing
+
+## Further Reading
+
+[Microsoft Copilot for Microsoft 365](https://www.microsoft.com/en-nz/microsoft-365/copilot)
+
+[Google Workspace AI Solutions](https://workspace.google.com/solutions/ai/)
+
+[Otter.ai — AI Meeting Notes](https://otter.ai/)

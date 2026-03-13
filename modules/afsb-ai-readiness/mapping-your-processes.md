@@ -181,3 +181,11 @@ Set aside 20 minutes and do this right now:
 - **Focus on repetitive, time-consuming, low-judgement tasks** — these are where AI delivers the biggest wins
 - **You don't need fancy tools** — pen and paper process mapping works perfectly well
 - **Start with one process** — get it working, then tackle the next one
+
+## Further Reading
+
+[Business.govt.nz — Artificial Intelligence](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[Toggl — Time Tracking](https://toggl.com/)
+
+[Make.com — Automation Platform](https://www.make.com/)

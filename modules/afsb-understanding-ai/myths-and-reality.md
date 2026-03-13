@@ -108,3 +108,11 @@ Beyond the myths, there are genuine risks you should be aware of:
 - **Getting started is affordable** — 75% of setups cost under $5K, and many tools have free tiers
 - **AI is not infallible** — always review outputs, especially facts, figures, and anything high-stakes
 - **Know when NOT to use AI** — no clear problem, poor data, situations needing empathy, or when costs exceed benefits
+
+## Further Reading
+
+[OECD AI Principles](https://oecd.ai/en/ai-principles)
+
+[Algorithm Charter for Aotearoa New Zealand — Data.govt.nz](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter/)
+
+[AI Forum NZ — Governance and Responsible AI](https://aiforum.org.nz/our-work/governance/)

@@ -117,3 +117,11 @@ If you take one thing from this lesson, let it be this: **plan before you purcha
 - Soul Machines shows that even brilliant technology can fail without sustainable business fundamentals
 - Use the pre-launch checklist before every AI initiative — ten minutes of planning saves months of frustration
 - AI tools evolve rapidly — schedule quarterly reviews to keep your implementations current
+
+## Further Reading
+
+[CERT NZ — Security Advice and Alerts](https://www.cert.govt.nz/)
+
+[Privacy Commissioner — Guidance Resources](https://privacy.org.nz/publications/guidance-resources/)
+
+[AI Forum NZ — Governance Framework](https://aiforum.org.nz/our-work/governance/)

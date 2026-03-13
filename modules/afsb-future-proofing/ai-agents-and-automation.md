@@ -113,3 +113,13 @@ These aren't science fiction — companies are building them right now. Within t
 - Protocol standardisation (MCP, A2A) will let your AI tools talk to each other seamlessly
 - You don't need agentic AI today, but choosing tools that are building towards it will serve you better long-term
 - Xero's JAX is an early NZ example of agentic AI already available in business tools
+
+## Further Reading
+
+[Model Context Protocol — Anthropic's open standard for connecting AI to your tools and data](https://modelcontextprotocol.io/)
+
+[Agent-to-Agent (A2A) Protocol — Google's open protocol for AI agent interoperability](https://google.github.io/A2A/)
+
+[Xero — Cloud accounting for NZ small businesses, featuring JAX agentic AI](https://www.xero.com/nz/)
+
+[Gartner Top Strategic Technology Trends — AI agents, agentic AI, and enterprise predictions](https://www.gartner.com/en/topics/artificial-intelligence)

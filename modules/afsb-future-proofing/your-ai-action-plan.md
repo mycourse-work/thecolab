@@ -153,3 +153,13 @@ Now go and build something brilliant.
 - The businesses that succeed with AI start small, measure results, involve their team, stay within the law, and keep iterating
 - You're already ahead of 68% of NZ SMEs who haven't even started evaluating AI
 - Your next step is simple: open an AI assistant today and give it a real business task
+
+## Further Reading
+
+[AI Forum NZ — Research, events, and the AI Governance Framework for NZ businesses](https://aiforum.org.nz/)
+
+[Regional Business Partners — Access co-funding for AI advisory and implementation](https://www.regionalbusinesspartners.co.nz/)
+
+[Business.govt.nz Funding Finder — Search for grants and funding to support your AI journey](https://funds.business.govt.nz/)
+
+[MBIE AI Strategy — New Zealand's national artificial intelligence strategy and priorities](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)

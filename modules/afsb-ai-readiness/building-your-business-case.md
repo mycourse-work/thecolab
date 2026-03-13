@@ -170,3 +170,13 @@ Track the time each experiment saves and note the quality of the output. This be
 - **Use the Impact/Effort matrix** to prioritise quick wins over complex projects
 - **A one-page business case is enough** — use the template to capture your specific opportunity
 - **Government funding is available** — the AI Advisory Pilot Programme can co-fund up to $15,000 of your AI journey
+
+## Further Reading
+
+[Regional Business Partners — AI Advisory Pilot Programme](https://www.regionalbusinesspartners.co.nz/)
+
+[Callaghan Innovation](https://www.callaghaninnovation.govt.nz/)
+
+[MBIE — R&D Tax Incentive](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/r-and-d-tax-incentive/)
+
+[Business.govt.nz — Funding Finder](https://funds.business.govt.nz/)

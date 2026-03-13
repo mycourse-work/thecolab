@@ -131,3 +131,13 @@ The biggest killer of AI adoption is fear — fear of looking silly, fear of mak
 - AI skills build progressively: Prompt Engineering, Tool Fluency, Deploying Agents, Advanced Capabilities — most businesses only need the first two
 - NZ has solid training options including AI Innovisory (400+ businesses trained), free AI Forum e-learning, and government co-funding up to $15,000
 - Building a learning culture matters more than any single training course — regular show-and-tells, shared wins, and permission to experiment drive adoption
+
+## Further Reading
+
+[AI Forum NZ e-Learning — Free modules on AI fundamentals and ethics](https://aiforum.org.nz/)
+
+[AI Innovisory — Practical AI training for NZ businesses](https://www.aiinnovisory.com/)
+
+[Regional Business Partners — Access government co-funding for AI training and advisory](https://www.regionalbusinesspartners.co.nz/)
+
+[Spark AI Foundations — AI literacy programme for NZ businesses](https://www.spark.co.nz/business/)

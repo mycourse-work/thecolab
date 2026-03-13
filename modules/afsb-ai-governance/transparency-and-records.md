@@ -105,3 +105,11 @@ The goal isn't perfection. It's having a record you can point to when someone as
 - Log AI-assisted decisions that matter — especially those affecting customers, staff, or finances.
 - Record any AI incidents and how you responded.
 - A spreadsheet is a perfectly good record-keeping system for a small business. Start simple and build from there.
+
+## Further Reading
+
+[NZ Government Algorithm Charter](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter/)
+
+[Privacy Commissioner Guidance Resources](https://privacy.org.nz/publications/guidance-resources/)
+
+[Data.govt.nz Data Ethics Toolkit](https://data.govt.nz/toolkit/data-ethics/)

@@ -84,3 +84,11 @@ If you're unsure, the Office of the Privacy Commissioner has free guidance on th
 - A new notification requirement (IPP 3A) takes effect on 1 May 2026 — prepare now.
 - Do a Privacy Impact Assessment before deploying AI, even a simple one.
 - Use business accounts, anonymise data where possible, and be transparent with customers.
+
+## Further Reading
+
+[Privacy Act 2020 — Office of the Privacy Commissioner](https://privacy.org.nz/privacy-act-2020/)
+
+[Guidance Resources — Office of the Privacy Commissioner](https://privacy.org.nz/publications/guidance-resources/)
+
+[Office of the Privacy Commissioner](https://privacy.org.nz/)

@@ -146,3 +146,11 @@ If you ticked five or more, you're likely in the Emerging range or above. If you
 - **Only 19% of NZ organisations are fully AI-ready** — you're not behind if you score low, you're normal
 - **Data is the biggest factor** — if you only improve one thing, make it your data
 - **Use the scoring system** to identify your weakest area and focus there first
+
+## Further Reading
+
+[Cisco AI Readiness Index](https://www.cisco.com/c/m/en_us/solutions/ai/readiness-index.html)
+
+[AI Forum NZ Reports](https://aiforum.org.nz/reports/)
+
+[Business.govt.nz — Artificial Intelligence](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)

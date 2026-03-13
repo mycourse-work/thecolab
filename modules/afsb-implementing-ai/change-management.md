@@ -118,3 +118,11 @@ Getting started is one thing. Keeping the momentum going is another. Here's how:
 - Find your AI champion: the curious early adopter who can show others the value
 - Address pushback honestly and specifically — don't dismiss concerns, engage with them
 - Keep momentum with regular wins, informal training, and a safe space to experiment
+
+## Further Reading
+
+[MBIE — Employment Guidance](https://www.employment.govt.nz/)
+
+[AI Forum NZ — e-Learning and Resources](https://aiforum.org.nz/)
+
+[Business.govt.nz — Hiring and Managing Staff](https://www.business.govt.nz/hiring-and-managing/)

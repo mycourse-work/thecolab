@@ -92,3 +92,11 @@ This might feel distant for a Kiwi small business today. But if you sell product
 - The risks of NOT governing include data leaks, legal exposure, reputational damage, and inconsistent quality.
 - Small businesses have an advantage: you can implement governance quickly because your team is small.
 - Good governance builds customer trust and competitive advantage — frame it as a business asset, not a burden.
+
+## Further Reading
+
+[AI Forum NZ Governance Framework](https://aiforum.org.nz/our-work/governance/)
+
+[OECD AI Principles](https://oecd.ai/en/ai-principles)
+
+[NZ Government Algorithm Charter](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter/)

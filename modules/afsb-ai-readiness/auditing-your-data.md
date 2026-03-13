@@ -109,3 +109,11 @@ Note any critical business data that's missing entirely. For example:
 - **Data quality matters more than data quantity** — focus on making your existing data accurate, complete, consistent, and accessible
 - **Start with a 30-minute audit** — list your data sources, rate their quality, and identify quick wins
 - **Basic data governance is essential** — know who can access what, where it's stored, and how long you keep it
+
+## Further Reading
+
+[NZ Privacy Commissioner — Privacy Act 2020](https://privacy.org.nz/privacy-act-2020/)
+
+[Stats NZ — Data Quality](https://www.stats.govt.nz/)
+
+[Business.govt.nz — IT Risk and Cybersecurity](https://www.business.govt.nz/risks-and-operations/it-risk-and-cybersecurity/)

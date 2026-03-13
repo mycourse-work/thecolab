@@ -122,3 +122,11 @@ Here's a practical approach to managing AI risk in your business:
 - The Biometric Processing Privacy Code 2025 applies to facial recognition, fingerprints, voiceprints, and more. Compliance deadline is 3 August 2026.
 - Review your insurance to ensure AI-related risks are covered. Professional Indemnity, Cyber Liability, and D&O insurance are the key types to consider.
 - Insurers are now asking about AI use during underwriting — having a documented policy and good practices will help.
+
+## Further Reading
+
+[CERT NZ — Cyber Security](https://www.cert.govt.nz/)
+
+[Biometric Processing Privacy Code — Office of the Privacy Commissioner](https://privacy.org.nz/privacy-act-2020/codes-of-practice/biometric-processing/)
+
+[Small Business Cyber Security Guide — CERT NZ](https://www.cert.govt.nz/business/guides/)

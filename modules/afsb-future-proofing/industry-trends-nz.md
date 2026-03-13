@@ -112,3 +112,11 @@ AI-assisted clinical decision support, predictive health analytics, automated pa
 - Professional services see some of the biggest time savings, with LawHawk achieving 75% reduction in document preparation
 - Retail AI is strongest behind the scenes — inventory management, waste reduction, and personalised marketing
 - Regardless of your industry, the pattern is the same: start with administrative and operational tasks, then expand to customer-facing applications
+
+## Further Reading
+
+[AI Forum NZ Reports — NZ-specific AI adoption data and industry research](https://aiforum.org.nz/reports/)
+
+[NZTech — New Zealand's technology industry association](https://nztech.org.nz/)
+
+[MBIE AI Strategy — New Zealand's national artificial intelligence strategy](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealands-artificial-intelligence-strategy/)

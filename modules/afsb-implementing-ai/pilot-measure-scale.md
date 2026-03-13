@@ -133,3 +133,9 @@ When a pilot isn't working, you have three choices:
 - Over 25% of NZ organisations report annual AI benefits exceeding $50,000
 - Scale when you see consistent positive metrics, genuine team adoption, and positive ROI
 - Pivoting isn't failure — only 15-20% of AI projects succeed on the first attempt, so be prepared to iterate
+
+## Further Reading
+
+[AI Forum NZ — Reports and Research](https://aiforum.org.nz/reports/)
+
+[Business.govt.nz — Innovation and Measuring Performance](https://www.business.govt.nz/how-to-grow/innovation/)

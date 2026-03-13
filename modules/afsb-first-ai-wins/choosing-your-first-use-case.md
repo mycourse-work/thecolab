@@ -109,3 +109,11 @@ The next lesson will teach you how to talk to AI effectively so you get genuinel
 - Your first use case should be low-risk, high-frequency, and something you already spend time on
 - Pick ONE specific task to try this week — don't try to transform your entire business overnight
 - Content Creation and Research are the easiest starting points for most small businesses
+
+## Further Reading
+
+[AI and Work — OpenAI](https://openai.com/index/ai-and-work/)
+
+[Artificial Intelligence — Business.govt.nz](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[AI Forum New Zealand Reports](https://aiforum.org.nz/reports/)

@@ -139,3 +139,11 @@ Use this to track your progress. You don't have to do everything at once — tic
 - Human oversight rules should match the stakes — brainstorming needs less oversight than customer-facing content.
 - Involve your team in creating the rules — they're more likely to follow policies they helped shape.
 - The full framework is free at aigovernance.aiforum.org.nz — use it as your roadmap.
+
+## Further Reading
+
+[AI Forum New Zealand](https://aiforum.org.nz/)
+
+[AI Forum NZ Governance Reports](https://aiforum.org.nz/our-work/governance/)
+
+[Business.govt.nz — Artificial Intelligence](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)

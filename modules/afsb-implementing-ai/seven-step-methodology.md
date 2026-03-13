@@ -152,3 +152,11 @@ The businesses that succeed with AI aren't the ones with the biggest budgets. Th
 - NZ-based AI consultants and government programmes can help fill gaps
 - Frame AI as a facilitator for your team, not a replacement — invest in training
 - Start with limited licenses and realistic timeframes — 75% of NZ businesses set up AI for under $5,000
+
+## Further Reading
+
+[Business.govt.nz — Artificial Intelligence for Business](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
+
+[AI Forum NZ — Reports and Research](https://aiforum.org.nz/reports/)
+
+[Regional Business Partners Network](https://www.regionalbusinesspartners.co.nz/)

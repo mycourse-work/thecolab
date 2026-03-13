@@ -127,3 +127,11 @@ Start small and build up. Here's a sensible progression:
 - Not everything should be fully automated — use AI for repetitive tasks, keep humans for judgment calls
 - A starter AI stack costs $0–40/month; a comprehensive one runs $200–500/month
 - The average NZ AI investment returns $3.50 for every $1 spent — start small, measure results, then scale up
+
+## Further Reading
+
+[Make.com](https://www.make.com/)
+
+[Zapier](https://zapier.com/)
+
+[Microsoft Power Automate](https://powerautomate.microsoft.com/)

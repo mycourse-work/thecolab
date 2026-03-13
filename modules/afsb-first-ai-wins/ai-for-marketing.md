@@ -157,3 +157,11 @@ Your customers chose your business because of you — your personality, your exp
 - Canva AI and HeyGen bring professional design and video creation within reach of any small business
 - Always specify "NZ English" and "New Zealand audience" to avoid American-sounding content
 - AI-generated marketing content is your responsibility under the Fair Trading Act — always verify claims before publishing
+
+## Further Reading
+
+[Canva AI Image Generator](https://www.canva.com/ai-image-generator/)
+
+[ChatGPT for Business — OpenAI](https://openai.com/chatgpt/)
+
+[Buffer AI Assistant](https://buffer.com/ai-assistant)

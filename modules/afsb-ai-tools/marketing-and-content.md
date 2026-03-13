@@ -118,3 +118,13 @@ One of the biggest risks with AI-generated content is that everything starts sou
 - Always edit AI-generated content to maintain your brand voice and check accuracy
 - A simple brief-review-edit-publish workflow can cut content creation time from 45 minutes to 10
 - Fair Trading Act applies to AI-generated marketing claims — you're responsible for what you publish, even if AI wrote it
+
+## Further Reading
+
+[Canva](https://www.canva.com/)
+
+[Jasper AI](https://www.jasper.ai/)
+
+[Buffer](https://buffer.com/)
+
+[HubSpot](https://www.hubspot.com/)

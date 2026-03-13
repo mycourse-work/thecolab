@@ -102,3 +102,11 @@ A one-off consultation is far cheaper than defending a legal claim. Many NZ law 
 - Always check the AI tool's terms of service — IP ownership varies by platform and pricing tier.
 - NZ has no text and data mining exception, so be careful about feeding copyrighted material into AI tools.
 - Document your creative process, edit AI outputs, and get legal advice for significant IP decisions.
+
+## Further Reading
+
+[Advertising and Marketing — Commerce Commission Fair Trading Act](https://comcom.govt.nz/business/dealing-with-typical-situations/advertising-and-marketing)
+
+[New Zealand Intellectual Property Office](https://www.iponz.govt.nz/)
+
+[Copyright Act 1994 — New Zealand Legislation](https://www.legislation.govt.nz/act/public/1994/0143/latest/DLM345634.html)

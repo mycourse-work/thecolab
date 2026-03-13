@@ -157,3 +157,11 @@ AI is **not** reliable for:
 - Hnry automates tax compliance for sole traders at just 1% of income (capped at $1,500/year)
 - AI is excellent for organising financial data and spotting patterns, but it is not a substitute for professional accounting advice
 - Always verify AI-generated financial analysis before making business decisions
+
+## Further Reading
+
+[Xero Accounting Software — New Zealand](https://www.xero.com/nz/)
+
+[Dext — Receipt Scanning and Bookkeeping](https://dext.com/)
+
+[Inland Revenue — IRD New Zealand](https://www.ird.govt.nz/)

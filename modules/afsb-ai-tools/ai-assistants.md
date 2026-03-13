@@ -83,3 +83,13 @@ You'll be surprised how quickly these tools become part of your daily routine. T
 - The NZ Microsoft Copilot pilot showed 1,781% ROI and 13 hours saved per month
 - 72% of NZ businesses prefer off-the-shelf AI tools, and these assistants are exactly that
 - Start with one assistant, try it for a week on real tasks, then decide if the paid version is worth it
+
+## Further Reading
+
+[OpenAI ChatGPT](https://chat.openai.com/)
+
+[Anthropic Claude](https://claude.ai/)
+
+[Google Gemini](https://gemini.google.com/)
+
+[Microsoft Copilot](https://copilot.microsoft.com/)

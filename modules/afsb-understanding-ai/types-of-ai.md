@@ -85,3 +85,11 @@ Once you're comfortable with that, look at **predictive AI** features already bu
 - **Predictive AI** forecasts outcomes from your data — look for it in tools you already use like Xero
 - **Agentic AI** takes autonomous actions to complete tasks — powerful but still maturing, so keep humans in the loop
 - Most modern business tools **combine all three types**, so you don't need to buy them separately
+
+## Further Reading
+
+[Types of Artificial Intelligence — IBM Think](https://www.ibm.com/think/topics/artificial-intelligence-types)
+
+[Get Started with AI — Google AI](https://ai.google/get-started/)
+
+[Claude — Anthropic's AI Assistant](https://www.anthropic.com/claude)

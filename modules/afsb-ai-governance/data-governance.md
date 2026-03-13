@@ -127,3 +127,11 @@ Here's a practical data governance checklist for your business:
 - The AWS NZ Region (2025) means NZ-based data processing is now possible for some tools, helping with data sovereignty concerns.
 - MFA, access controls, and regular access reviews are your core security measures.
 - Set clear data retention periods and know how long your AI tools store your interactions.
+
+## Further Reading
+
+[Privacy Commissioner — Privacy Act 2020](https://privacy.org.nz/privacy-act-2020/)
+
+[Stats NZ — Data Standards](https://www.stats.govt.nz/)
+
+[CERT NZ — Data Protection Guides for Business](https://www.cert.govt.nz/business/guides/)

@@ -116,3 +116,11 @@ Here's a simple process for evaluating a new AI tool before you commit:
 - Upgrade from free to paid tiers as soon as you're using a tool with business or customer data.
 - Pay attention to SLAs, data processing agreements, exit clauses, and renewal terms.
 - Document your vendor selection in your AI register and review every 90 days initially, then at least every six months.
+
+## Further Reading
+
+[AI Forum NZ](https://aiforum.org.nz/)
+
+[New Zealand Government Procurement](https://www.procurement.govt.nz/)
+
+[Privacy Commissioner — Privacy Principles (Cross-Border Transfers)](https://privacy.org.nz/privacy-act-2020/privacy-principles/)

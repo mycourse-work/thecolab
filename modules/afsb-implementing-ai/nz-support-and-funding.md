@@ -148,3 +148,13 @@ Beyond that, bookmark the AI Forum's governance framework and e-learning modules
 - Training ranges from free (AI Forum, Business Mentors NZ) to affordable (Spark AI Foundations at $450)
 - The Aotearoa AI Summit and Regional Business Partner Network are great ways to stay connected to the NZ AI community
 - Check your eligibility for the AI Advisory Pilot Programme — it's the highest-value funding option for most small businesses
+
+## Further Reading
+
+[Regional Business Partners — AI Advisory Pilot Programme](https://www.regionalbusinesspartners.co.nz/)
+
+[Callaghan Innovation — Grants and Funding](https://www.callaghaninnovation.govt.nz/)
+
+[MBIE — R&D Tax Incentive](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/r-and-d-tax-incentive/)
+
+[Business.govt.nz — Funding Finder](https://funds.business.govt.nz/)

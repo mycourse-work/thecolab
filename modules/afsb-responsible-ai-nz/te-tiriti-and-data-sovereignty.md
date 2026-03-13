@@ -94,3 +94,11 @@ AI systems can reflect and amplify existing biases. In an NZ context, this might
 - NZ's Algorithm Charter sets expectations for transparency and fairness that extend beyond government.
 - Be thoughtful, be transparent, test for bias, and engage with communities rather than making assumptions.
 - The MBIE Responsible AI Guidance includes Te Tiriti-specific considerations for businesses.
+
+## Further Reading
+
+[Te Mana Raraunga — Maori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
+
+[Data Ethics — Data.govt.nz](https://data.govt.nz/toolkit/data-ethics/)
+
+[AI Forum New Zealand](https://aiforum.org.nz/)

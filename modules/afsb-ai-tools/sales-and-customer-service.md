@@ -119,3 +119,11 @@ The worst thing you can do is deploy a chatbot that goes in circles, can't answe
 - Always give customers a clear path to a real human — chatbots should handle routine questions, not replace your team
 - Fair Trading Act applies to chatbot responses — inaccurate claims from your bot are your responsibility
 - Check if you already have AI chat included (Shopify Inbox is free with your Shopify subscription)
+
+## Further Reading
+
+[Tidio](https://www.tidio.com/)
+
+[Intercom](https://www.intercom.com/)
+
+[HubSpot CRM](https://www.hubspot.com/products/crm)

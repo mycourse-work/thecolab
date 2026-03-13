@@ -127,3 +127,11 @@ This works because people learn better from colleagues they trust than from exte
 - **Prompt writing and critical thinking** are the core skills, not coding or data science
 - **Assess your team's current level** with a simple self-rating exercise before planning training
 - **Start with 1–2 AI champions** and let them teach the rest — the "Community of Multipliers" approach is the most effective strategy for small teams
+
+## Further Reading
+
+[AI Forum NZ Reports](https://aiforum.org.nz/reports/)
+
+[Spark Business](https://www.spark.co.nz/business/)
+
+[MBIE — Employment and Skills](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/)
