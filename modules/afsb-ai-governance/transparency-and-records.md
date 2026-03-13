@@ -4,6 +4,8 @@ If governance is about knowing what AI your business uses, transparency is about
 
 The good news: NZ doesn't have a mandatory AI disclosure law. The less-good news: the government strongly recommends transparency, and the direction of travel is clear. Businesses that build good habits now won't be scrambling later.
 
+> **What you'll learn:** Apply the MBIE AI Transparency Checklist to decide when and how to disclose AI use | Build an AI register using the provided template to track all tools, data, and users | Create decision logs for AI-assisted decisions that affect customers or staff | Communicate your AI use to customers in a way that builds trust
+
 ## The MBIE AI Transparency Checklist
 
 MBIE's Responsible AI Guidance for Business (July 2025) includes a practical transparency checklist. It's voluntary, but it's what regulators and customers will increasingly expect. Here's what it covers, translated for small business:

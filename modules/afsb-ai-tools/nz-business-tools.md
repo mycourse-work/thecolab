@@ -4,6 +4,8 @@ Here's something most NZ business owners don't realise: the software you're alre
 
 Before you go shopping for new AI tools, let's make sure you're getting the most out of what you've got.
 
+> **What you'll learn:** Identify AI features already built into tools you pay for (Xero, MYOB, Employment Hero) | Activate hidden AI capabilities in your existing accounting and HR software | Evaluate NZ-built industry-specific tools for trades, farming, and retail | Determine whether you need to buy new AI tools or just switch on what you have
+
 ## Accounting and Finance
 
 ### Xero — JAX AI

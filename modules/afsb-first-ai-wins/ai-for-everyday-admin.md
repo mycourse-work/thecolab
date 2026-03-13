@@ -4,6 +4,8 @@ Admin is the stuff that keeps your business running but rarely moves it forward.
 
 This lesson is hands-on. For each task, we'll give you a specific prompt you can try right now, show you what good output looks like, and estimate how much time you'll save.
 
+> **What you'll learn:** Use AI to draft professional emails, meeting summaries, and business documents in minutes | Apply specific, tested prompts for five common admin tasks | Estimate the time savings AI can deliver across your weekly admin workload | Build a personal library of reusable prompts for your most repetitive tasks
+
 ## Email Drafting
 
 **The problem:** You spend 30-60 minutes a day writing and replying to emails, many of which follow similar patterns.

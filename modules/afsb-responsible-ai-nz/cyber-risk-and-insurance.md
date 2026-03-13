@@ -2,6 +2,8 @@
 
 AI creates new opportunities — and new risks. One in three NZ SMEs experienced a cyber-attack in the six months from April to September 2024. Meanwhile, 43% of business leaders say their biggest cyber risk is employees accidentally exposing data through AI tools. This lesson covers what you need to know about protecting your business.
 
+> **What you'll learn:** Implement essential security practices for AI tool use (MFA, business accounts, access controls) | Determine whether the Biometric Processing Privacy Code applies to your business | Identify the right insurance types to cover AI-related risks | Prepare for insurer questions about your business's AI use
+
 ## The Cyber Risk Landscape for NZ Small Business
 
 Let's be honest about the risks. The numbers tell a clear story:

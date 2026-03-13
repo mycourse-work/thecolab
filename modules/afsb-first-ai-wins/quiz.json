@@ -11,25 +11,25 @@
           "id": "q1a",
           "text": "Strategic Projects — they have the biggest long-term payoff",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Strategic Projects sit in the high-impact, high-effort quadrant. While they're worth pursuing eventually — things like customer chatbots or inventory forecasting — they're not where you should start. Your first AI project should come from the Quick Wins quadrant to build momentum."
         },
         {
           "id": "q1b",
           "text": "Quick Wins — high impact, low effort tasks that build momentum",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The Impact/Effort Matrix puts Quick Wins — high impact, low effort — in the 'DO FIRST' quadrant. Tasks like email drafting, social media posts, and meeting summaries deliver results fast and build your confidence before tackling more complex projects."
         },
         {
           "id": "q1c",
           "text": "Deferred — they're the most technically interesting",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Deferred tasks are low impact and high effort — the worst combination for a first project. Building a custom AI model when you could use ChatGPT is a classic example. Park these and start with Quick Wins instead."
         },
         {
           "id": "q1d",
           "text": "Self-Service — they're the easiest to set up",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Self-Service tasks are low effort but also low impact — things like data cleanup or document templates. They're fine for practice, but they won't transform your business. Quick Wins give you high impact for low effort, which is where you should focus first."
         }
       ]
     },
@@ -42,25 +42,25 @@
           "id": "q2a",
           "text": "Review, Test, Finalise",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "RTF stands for Role, Task, Format. You give the AI a Role (who to be), a Task (what to do), and a Format (how the output should look). Studies show structured prompting frameworks like RTF reduce resolution times by 37%."
         },
         {
           "id": "q2b",
           "text": "Research, Target, Format",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Close, but RTF stands for Role, Task, Format. The 'Role' element tells the AI who it should act as — for example, 'Act as a marketing copywriter for a NZ landscaping business.' This context dramatically improves the quality of the output."
         },
         {
           "id": "q2c",
           "text": "Role, Task, Format",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. RTF — Role, Task, Format — is the single most effective technique for getting great AI output. You tell the AI who to be (Role), what to do (Task), and how the output should look (Format). Structured prompting like RTF has been shown to reduce resolution times by 37%."
         },
         {
           "id": "q2d",
           "text": "Result, Tone, Frequency",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "RTF stands for Role, Task, Format. You assign the AI a Role (e.g., 'social media manager for a NZ physio clinic'), give it a clear Task, and specify the Format you want. This structure turns vague prompts into ones that produce genuinely useful output."
         }
       ]
     },
@@ -73,25 +73,25 @@
           "id": "q3a",
           "text": "Write me a social media post.",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "This is far too vague. It gives the AI no context about your business, audience, platform, or tone. A prompt this generic will produce a generic result. Use the RTF framework — specify a Role, Task, and Format to get something you can actually use."
         },
         {
           "id": "q3b",
           "text": "Write a marketing post about my business for Facebook.",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Better than a one-liner, but it still lacks a Role, specific constraints, and NZ context. The AI doesn't know your industry, your audience, your tone, or what you're promoting. Adding details like word count, tone, and 'NZ English' makes a dramatic difference."
         },
         {
           "id": "q3c",
           "text": "Act as a social media manager for a NZ plumbing company. Write a Facebook post promoting our winter heating check service. Under 150 words, friendly tone, include a call to action. NZ English.",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. This prompt uses the full RTF framework: Role (social media manager for a NZ plumbing company), Task (write a Facebook post promoting winter heating checks), and Format (under 150 words, friendly tone, call to action, NZ English). It gives the AI enough context to produce something specific, relevant, and ready to review."
         },
         {
           "id": "q3d",
           "text": "I need help with social media. Can you generate some content?",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "This is too vague to produce useful results. It doesn't specify your industry, platform, audience, tone, or topic. As the lesson explains, 'Help me with marketing' gives you generic advice — whereas specifying your business, audience, and constraints gives you something you can actually publish."
         }
       ]
     },
@@ -104,31 +104,31 @@
           "id": "q4a",
           "text": "It's a task you do frequently (daily or weekly)",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Frequency is key — a task you do once a year won't give you much practice. Picking something you do daily or weekly lets you iterate and improve your AI skills quickly."
         },
         {
           "id": "q4b",
           "text": "It requires building a custom AI model",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Building a custom AI model falls in the 'Deferred' quadrant of the Impact/Effort Matrix — low impact, high effort. Your first use case should use existing tools like ChatGPT or Claude, not require technical development."
         },
         {
           "id": "q4c",
           "text": "It's low-risk if something goes wrong",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Your first AI experiment shouldn't be something where a mistake costs you a client or creates a compliance issue. Internal documents like meeting summaries are safer than client-facing content while you're learning."
         },
         {
           "id": "q4d",
           "text": "It involves sensitive client financial data",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Sensitive financial data is a poor choice for your first AI use case. Most AI tools process data on overseas servers, which raises Privacy Act considerations. Start with low-risk tasks like drafting emails or summarising meeting notes instead."
         },
         {
           "id": "q4e",
           "text": "It's something that currently takes you significant time",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Look for tasks that eat up your hours — especially repetitive ones like writing similar emails, creating reports, or formatting documents. If AI saves you even 30 minutes a day, that adds up to over 120 hours a year."
         }
       ]
     },
@@ -141,25 +141,25 @@
           "id": "q5a",
           "text": "Asking the AI the same question multiple times to get better answers",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "That's iteration, not few-shot prompting. Few-shot prompting means providing an example of the output you want — like pasting in a previous product description — so the AI mirrors your style, tone, and format in its new output."
         },
         {
           "id": "q5b",
           "text": "Giving the AI an example of the output you want before asking it to produce something new",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Few-shot prompting is one of the most powerful techniques — you show the AI your style by providing an example, then ask it to produce something new in the same format. This is especially useful for maintaining your brand voice, like giving it a past product description and asking it to write new ones to match."
         },
         {
           "id": "q5c",
           "text": "Using short, minimal prompts to save time",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Short, minimal prompts typically produce vague, generic output. Few-shot prompting is actually about providing more context — specifically, an example of the output you want — so the AI can mirror your style and format."
         },
         {
           "id": "q5d",
           "text": "Limiting the AI to only a few words in its response",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "The 'few-shot' in few-shot prompting refers to giving the AI a few examples, not limiting its response length. By showing the AI a sample of what you want, it learns your preferred style and produces output that matches — great for consistent brand voice across content."
         }
       ]
     },
@@ -172,31 +172,31 @@
           "id": "q6a",
           "text": "Smart transaction reconciliation that learns from your patterns",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. JAX's Smart Reconciliation learns from your past categorisation patterns and automatically suggests how to categorise bank transactions. The more you use it, the more accurate it gets."
         },
         {
           "id": "q6b",
           "text": "Automatic tax filing and compliance decisions",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "JAX does not handle automatic tax filing or compliance decisions. AI is not reliable for tax advice or compliance — that's where your accountant comes in. JAX focuses on organising, categorising, and forecasting your financial data."
         },
         {
           "id": "q6c",
           "text": "Receipt capture from photos with automatic data extraction",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Xero's AI can extract the merchant, amount, date, and GST automatically from a photo of a receipt on your phone. No more shoeboxes full of receipts at tax time."
         },
         {
           "id": "q6d",
           "text": "Cash flow projections up to 180 days ahead",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Xero can project your cash position up to 180 days ahead based on your invoicing patterns and payment history. It even predicts when customers are likely to pay based on their past behaviour."
         },
         {
           "id": "q6e",
           "text": "Replacing your accountant for end-of-year tax returns",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "JAX is a tool, not an accountant. AI is not a substitute for professional financial advice — it's brilliant at organising data and spotting trends, but tax compliance, complex GST scenarios, and legal financial obligations still require a qualified professional."
         }
       ]
     },
@@ -209,25 +209,25 @@
           "id": "q7a",
           "text": "Nothing — AI-generated content is always accurate and ready to publish",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "AI can confidently state things that aren't true — a well-documented problem known as hallucination. Under NZ's Fair Trading Act, your marketing must not be misleading or deceptive, and you're responsible for any claims you publish, regardless of whether AI wrote them."
         },
         {
           "id": "q7b",
           "text": "Post it immediately to save time, and fix any issues later",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Publishing first and fixing later is risky. Under the Fair Trading Act, penalties for misleading marketing can reach $600,000 (rising to $5 million from 2026). AI-generated claims about your products or services need to be verified before they go live."
         },
         {
           "id": "q7c",
           "text": "Review the content, verify any claims, add personal touches, and ensure it complies with the Fair Trading Act",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. AI should be a starting point, not the finish line. Always review and edit AI content, verify specific claims, and add your personal touches — your local knowledge and real stories are what make content memorable. Under NZ's Fair Trading Act, you're legally responsible for ensuring marketing is not misleading."
         },
         {
           "id": "q7d",
           "text": "Run it through a second AI tool to double-check it",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "Using a second AI to verify the first doesn't solve the core problem — both tools can hallucinate and miss issues. AI-generated marketing needs qualified human review. Your personal knowledge of your business, customers, and NZ regulations is what ensures accuracy."
         }
       ]
     },
@@ -240,25 +240,25 @@
           "id": "q8a",
           "text": "Follow the suggestion immediately — AI is trained on financial regulations",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "AI is not reliable for tax advice or compliance decisions. It can misunderstand NZ tax rules or give advice based on overseas regulations. Always verify financial AI output with your accountant before acting on it."
         },
         {
           "id": "q8b",
           "text": "Ignore the analysis entirely — AI can't handle financial data",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "AI is actually brilliant at organising financial data, spotting patterns, and identifying trends. Tools like Xero's JAX and ChatGPT can analyse revenue figures and highlight seasonal patterns in seconds. The key is using AI for analysis while getting professional advice on compliance and tax strategy."
         },
         {
           "id": "q8c",
           "text": "Use the analysis to understand your trends, but verify the tax advice with your accountant before acting on it",
           "correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. AI excels at trend analysis, cash flow forecasting, and helping you understand your numbers — but it is not a substitute for professional financial advice. Use it to prepare and explore, then check tax strategies with your accountant, especially for complex GST scenarios and NZ-specific obligations."
         },
         {
           "id": "q8d",
           "text": "Ask the AI to recalculate with more data to confirm the strategy",
           "correct": false,
-          "feedback": "That's not quite right."
+          "feedback": "More data won't make AI tax advice reliable. AI can make calculation errors and misunderstand NZ tax rules regardless of how much data you provide. Use AI for spotting trends and organising your numbers, but always verify tax strategy with a qualified accountant."
         }
       ]
     }

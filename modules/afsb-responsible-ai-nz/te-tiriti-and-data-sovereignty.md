@@ -2,6 +2,8 @@
 
 AI doesn't exist in a cultural vacuum. In Aotearoa New Zealand, the way we develop and use technology is shaped by Te Tiriti o Waitangi and the rights and interests of tangata whenua. This lesson explains why that matters for your business and what respectful, culturally aware AI use looks like.
 
+> **What you'll learn:** Explain the six principles of Maori data sovereignty (Te Mana Raraunga) and their relevance to AI | Identify when data may be culturally sensitive regardless of its legal status | Apply the Algorithm Charter's transparency and partnership commitments to your AI use | Test your AI tools for cultural bias, including handling of te reo Maori names and place names
+
 ## Why This Matters
 
 The AI Forum NZ has noted that trust concerns around AI are "particularly acute among Maori and Pasifika communities." There are good reasons for this. Historically, data about Maori has been collected, controlled, and used by others — often without meaningful Maori input or benefit. AI amplifies these concerns because it can process and make decisions about people at scale.

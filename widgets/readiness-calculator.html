@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Readiness Calculator</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    color: #1e293b;
+    background: #fff;
+    padding: 24px;
+    line-height: 1.5;
+  }
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #0f172a;
+  }
+  .subtitle {
+    font-size: 0.875rem;
+    color: #64748b;
+    margin-bottom: 24px;
+  }
+  .dimension {
+    margin-bottom: 20px;
+    padding: 16px;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    background: #f8fafc;
+    transition: border-color 0.2s;
+  }
+  .dimension:hover {
+    border-color: #93c5fd;
+  }
+  .dimension-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .dimension-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #1e293b;
+  }
+  .dimension-weight {
+    font-size: 0.75rem;
+    color: #64748b;
+    background: #e2e8f0;
+    padding: 2px 8px;
+    border-radius: 99px;
+    font-weight: 500;
+  }
+  .dimension-desc {
+    font-size: 0.8rem;
+    color: #64748b;
+    margin-bottom: 10px;
+  }
+  .score-buttons {
+    display: flex;
+    gap: 6px;
+  }
+  .score-btn {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    background: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #64748b;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .score-btn:hover {
+    border-color: #3b82f6;
+    color: #3b82f6;
+    background: #eff6ff;
+  }
+  .score-btn.selected {
+    border-color: #3b82f6;
+    background: #3b82f6;
+    color: #fff;
+  }
+  .score-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.7rem;
+    color: #94a3b8;
+    margin-top: 4px;
+    padding: 0 4px;
+  }
+  .results {
+    margin-top: 24px;
+    padding: 24px;
+    border-radius: 12px;
+    text-align: center;
+    display: none;
+  }
+  .results.visible {
+    display: block;
+  }
+  .results-score {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .results-label {
+    font-size: 0.875rem;
+    color: #64748b;
+    margin-bottom: 16px;
+  }
+  .results-level {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .results-desc {
+    font-size: 0.875rem;
+    color: #475569;
+    max-width: 480px;
+    margin: 0 auto 20px;
+  }
+  .results-breakdown {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 16px;
+    text-align: left;
+  }
+  .breakdown-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.8rem;
+  }
+  .breakdown-label {
+    width: 140px;
+    flex-shrink: 0;
+    color: #475569;
+    font-weight: 500;
+  }
+  .breakdown-bar {
+    flex: 1;
+    height: 8px;
+    background: #e2e8f0;
+    border-radius: 99px;
+    overflow: hidden;
+  }
+  .breakdown-fill {
+    height: 100%;
+    border-radius: 99px;
+    transition: width 0.5s ease;
+  }
+  .breakdown-value {
+    width: 32px;
+    text-align: right;
+    font-weight: 600;
+    color: #1e293b;
+    font-size: 0.8rem;
+  }
+  /* Level colors */
+  .level-foundation { background: linear-gradient(135deg, #fef3c7, #fde68a); }
+  .level-foundation .results-score { color: #92400e; }
+  .level-foundation .results-level { color: #92400e; }
+  .level-emerging { background: linear-gradient(135deg, #dbeafe, #bfdbfe); }
+  .level-emerging .results-score { color: #1d4ed8; }
+  .level-emerging .results-level { color: #1d4ed8; }
+  .level-strong { background: linear-gradient(135deg, #d1fae5, #a7f3d0); }
+  .level-strong .results-score { color: #047857; }
+  .level-strong .results-level { color: #047857; }
+  .level-ready { background: linear-gradient(135deg, #ede9fe, #ddd6fe); }
+  .level-ready .results-score { color: #6d28d9; }
+  .level-ready .results-level { color: #6d28d9; }
+  .reset-btn {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 8px 20px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background: #fff;
+    color: #64748b;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .reset-btn:hover {
+    border-color: #94a3b8;
+    color: #1e293b;
+  }
+</style>
+</head>
+<body>
+
+<h2>AI Readiness Self-Assessment</h2>
+<p class="subtitle">Score each dimension 1–5 to calculate your weighted readiness score out of 100.</p>
+
+<div id="dimensions"></div>
+<div id="results" class="results"></div>
+
+<script>
+const dimensions = [
+  {
+    id: 'data',
+    name: 'Data Maturity',
+    weight: 6,
+    pct: '30%',
+    desc: 'Is your business data digital, organised, and accessible?',
+    labels: ['Paper-based', 'Some digital', 'Mostly digital', 'Well-organised', 'Clean & consistent']
+  },
+  {
+    id: 'team',
+    name: 'Team Capability',
+    weight: 5,
+    pct: '25%',
+    desc: 'Does your team have digital skills and curiosity to try new tools?',
+    labels: ['Struggles', 'Resists change', 'Open to learning', 'Experimenting', 'Actively seeking']
+  },
+  {
+    id: 'process',
+    name: 'Process Documentation',
+    weight: 4,
+    pct: '20%',
+    desc: 'Are your business processes documented and repeatable?',
+    labels: ['All in heads', 'A few written', 'Key SOPs exist', 'Most documented', 'Comprehensive']
+  },
+  {
+    id: 'infra',
+    name: 'Infrastructure',
+    weight: 3,
+    pct: '15%',
+    desc: 'Do you have reliable internet, cloud tools, and modern devices?',
+    labels: ['Outdated', 'Basic setup', 'Reliable', 'Good connectivity', 'Fully cloud']
+  },
+  {
+    id: 'budget',
+    name: 'Budget Alignment',
+    weight: 2,
+    pct: '10%',
+    desc: 'Can you invest $0–5K to get started with AI tools?',
+    labels: ['Zero budget', 'Free only', '$50-150/mo', 'Budget set aside', 'Planned annually']
+  }
+];
+
+const scores = {};
+const container = document.getElementById('dimensions');
+
+dimensions.forEach(dim => {
+  const div = document.createElement('div');
+  div.className = 'dimension';
+  div.innerHTML = `
+    <div class="dimension-header">
+      <span class="dimension-name">${dim.name}</span>
+      <span class="dimension-weight">${dim.pct} weight</span>
+    </div>
+    <p class="dimension-desc">${dim.desc}</p>
+    <div class="score-buttons" data-dim="${dim.id}">
+      ${[1,2,3,4,5].map(n => `<button class="score-btn" data-score="${n}">${n}</button>`).join('')}
+    </div>
+    <div class="score-label">
+      <span>${dim.labels[0]}</span>
+      <span>${dim.labels[4]}</span>
+    </div>
+  `;
+  container.appendChild(div);
+});
+
+container.addEventListener('click', e => {
+  const btn = e.target.closest('.score-btn');
+  if (!btn) return;
+  const group = btn.closest('.score-buttons');
+  const dim = group.dataset.dim;
+  const score = parseInt(btn.dataset.score);
+  scores[dim] = score;
+
+  group.querySelectorAll('.score-btn').forEach(b => b.classList.remove('selected'));
+  btn.classList.add('selected');
+
+  if (Object.keys(scores).length === dimensions.length) {
+    showResults();
+  }
+
+  resize();
+});
+
+function showResults() {
+  let total = 0;
+  const breakdown = [];
+  dimensions.forEach(dim => {
+    const raw = scores[dim.id] || 0;
+    const weighted = raw * dim.weight;
+    total += weighted;
+    breakdown.push({ name: dim.name, raw, weighted, max: 5 * dim.weight });
+  });
+
+  let level, levelClass, desc;
+  if (total <= 40) {
+    level = 'Foundation';
+    levelClass = 'level-foundation';
+    desc = "You've got some groundwork to do — focus on getting your data sorted and your team comfortable with digital tools before adding AI. That's completely normal for most NZ businesses.";
+  } else if (total <= 60) {
+    level = 'Emerging';
+    levelClass = 'level-emerging';
+    desc = "You're in a good position to start with simple AI tools. Pick one area — like email drafting or invoice processing — and experiment. You're ahead of most NZ SMEs.";
+  } else if (total <= 80) {
+    level = 'Strong';
+    levelClass = 'level-strong';
+    desc = "Your business has solid foundations. You can confidently adopt AI tools across multiple areas and should see real productivity gains quickly.";
+  } else {
+    level = 'AI-Ready';
+    levelClass = 'level-ready';
+    desc = "You're ahead of most NZ businesses. Time to think strategically about AI across your whole operation — and consider the AI Advisory Pilot Programme for co-funded expert support.";
+  }
+
+  const colors = {
+    'Data Maturity': '#3b82f6',
+    'Team Capability': '#6366f1',
+    'Process Documentation': '#8b5cf6',
+    'Infrastructure': '#a855f7',
+    'Budget Alignment': '#c084fc'
+  };
+
+  const resultsEl = document.getElementById('results');
+  resultsEl.className = `results visible ${levelClass}`;
+  resultsEl.innerHTML = `
+    <div class="results-score">${total}</div>
+    <div class="results-label">out of 100</div>
+    <div class="results-level">${level}</div>
+    <p class="results-desc">${desc}</p>
+    <div class="results-breakdown">
+      ${breakdown.map(b => `
+        <div class="breakdown-row">
+          <span class="breakdown-label">${b.name}</span>
+          <div class="breakdown-bar">
+            <div class="breakdown-fill" style="width: ${(b.weighted / b.max * 100).toFixed(0)}%; background: ${colors[b.name] || '#3b82f6'}"></div>
+          </div>
+          <span class="breakdown-value">${b.weighted}</span>
+        </div>
+      `).join('')}
+    </div>
+    <button class="reset-btn" onclick="resetAll()">Start Over</button>
+  `;
+
+  resize();
+}
+
+function resetAll() {
+  Object.keys(scores).forEach(k => delete scores[k]);
+  document.querySelectorAll('.score-btn').forEach(b => b.classList.remove('selected'));
+  document.getElementById('results').className = 'results';
+  document.getElementById('results').innerHTML = '';
+  resize();
+}
+
+function resize() {
+  const h = document.documentElement.scrollHeight;
+  window.parent.postMessage({ type: 'widget-resize', height: h }, '*');
+}
+
+// Signal ready
+window.parent.postMessage({ type: 'widget-ready' }, '*');
+setTimeout(resize, 100);
+</script>
+</body>
+</html>

@@ -2,6 +2,8 @@
 
 You don't need to be a lawyer to get this right — but you do need to understand the basics. Every time you use an AI tool with customer information, the Privacy Act 2020 is in play. This lesson breaks down what that means in plain English.
 
+> **What you'll learn:** Identify when the Privacy Act 2020 applies to your use of AI tools | Apply the four most relevant Information Privacy Principles to AI use | Evaluate cross-border data transfer risks when using cloud-based AI platforms | Use a practical checklist before putting any customer data into an AI tool
+
 ## When Does the Privacy Act Apply to AI?
 
 The short answer: whenever personal information is involved. Personal information is any data that can identify a real person — names, email addresses, phone numbers, physical addresses, purchase history, IP addresses, even photos.

@@ -4,6 +4,8 @@ Every business has tasks that feel like Groundhog Day — the same emails, the s
 
 Process mapping sounds fancy, but it's really just writing down what you do and how long it takes. You don't need special software. A pen, some paper, and an honest look at your week is all it takes.
 
+> **What you'll learn:** Map your repetitive business processes using a simple step-by-step method | Estimate the real time cost of your repetitive tasks per week and month | Identify which processes are the best candidates for AI assistance | Prioritise tasks based on frequency, time impact, and level of human judgement required
+
 ## Why Bother Mapping Your Processes?
 
 When you run a small business, most processes live in your head. You just "know" how things get done. The problem is:

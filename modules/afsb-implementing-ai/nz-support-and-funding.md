@@ -4,6 +4,8 @@ One of the best-kept secrets in New Zealand business is the amount of support av
 
 This lesson is your directory. Bookmark it and come back whenever you need it.
 
+> **What you'll learn:** Navigate the AI Advisory Pilot Programme and determine your eligibility for up to $15,000 in co-funding | Identify additional NZ government funding options (R&D Tax Incentive, New to R&D Grant) | Access free resources from AI Forum NZ including governance frameworks and e-learning modules | Connect with NZ-based AI consultants and training providers suited to small business needs
+
 ## Government Funding
 
 The NZ government has committed significant resources to helping businesses adopt AI. Here are the key programmes available right now.

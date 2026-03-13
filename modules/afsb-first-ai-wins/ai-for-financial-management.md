@@ -4,6 +4,8 @@ Money management is the lifeblood of any small business, but it's also one of th
 
 Let's look at the practical ways AI can help you manage your finances better.
 
+> **What you'll learn:** Activate and use Xero's JAX AI features for reconciliation, receipt capture, and cash flow forecasting | Apply ChatGPT or Claude to analyse financial trends, categorise expenses, and plan budgets | Identify which financial tasks are safe for AI and which require professional advice | Evaluate tools like Hnry for automating sole trader tax compliance
+
 ## Xero's AI Features — JAX
 
 If you're one of the many NZ businesses running Xero (and there's a good chance you are — it was founded right here in Wellington), you already have access to some seriously useful AI through **JAX**, Xero's AI financial superagent.

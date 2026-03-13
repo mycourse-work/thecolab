@@ -2,6 +2,8 @@
 
 New Zealand might be a small country at the bottom of the world, but when it comes to AI, we're far from behind. There's serious investment, real government support, and a growing ecosystem of local tools, advisors, and communities. Here's what you need to know about the landscape you're operating in.
 
+> **What you'll learn:** Describe NZ's national AI strategy and its light-touch regulatory approach | Identify government funding available for small business AI adoption | Explain the significance of local data centre investment for NZ businesses | Navigate the NZ AI ecosystem including AI Forum NZ and regional hubs
+
 ## NZ's AI Strategy: "Investing with Confidence"
 
 In July 2025, New Zealand released its first national AI strategy — making us the last OECD member to do so. Better late than never, and the approach is sensibly Kiwi: practical, principles-based, and light-touch.

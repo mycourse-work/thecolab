@@ -4,6 +4,8 @@ Here's the stat that should grab your attention: 43% of NZ businesses that aren'
 
 Meanwhile, only 24% of Kiwi workers have received any AI training at all. That's a massive gap between the tools that are available and the skills people have to use them. The good news? The skills your team actually needs are much more accessible than you might think.
 
+> **What you'll learn:** Identify the five core skills your team needs to use AI effectively (none of which involve coding) | Assess your team's current digital literacy and AI readiness level | Choose between upskilling, hiring, and outsourcing to close skills gaps | Apply the "Community of Multipliers" approach to spread AI capability through your team
+
 ## What Skills Do You Actually Need?
 
 Let's clear up the biggest misconception first: **your team does not need to learn coding, data science, or machine learning.** For the vast majority of small businesses, the skills that matter are:

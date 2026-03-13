@@ -4,6 +4,8 @@ Marketing is one of the biggest time sinks for small business owners. You know y
 
 Let's walk through the practical marketing tasks you can hand to AI today.
 
+> **What you'll learn:** Generate a week's worth of social media content in 10 minutes using AI | Create blog posts, newsletters, and product descriptions with AI-assisted workflows | Use AI for market research and competitive analysis as a starting point | Keep AI-generated marketing authentic, accurate, and compliant with the Fair Trading Act
+
 ## Social Media Content
 
 **The opportunity:** Most small businesses know they should post consistently but struggle to come up with content ideas and write posts regularly. AI can generate a week's worth of posts in about 10 minutes.

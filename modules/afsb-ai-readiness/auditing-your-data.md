@@ -4,6 +4,8 @@ Here's a secret that might surprise you: your small business is probably sitting
 
 The problem isn't usually that you don't have enough data. It's that your data is messy, scattered, or locked away in places you've forgotten about. This lesson will help you figure out what you've got, how good it is, and what needs tidying up.
 
+> **What you'll learn:** Identify the data sources your business already has that are valuable for AI | Evaluate data quality using the four criteria: accuracy, completeness, consistency, and accessibility | Conduct a 30-minute data audit to spot quick wins and critical gaps | Apply basic data governance principles to keep your data AI-ready
+
 ## Data You Already Have
 
 Before you think about collecting new data, take stock of what's already there. Most small businesses have far more than they think.

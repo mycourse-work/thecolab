@@ -2,6 +2,8 @@
 
 Reading about AI in theory is one thing. Seeing what other Kiwi businesses have actually done with it — and the real results they've achieved — is far more useful. Here are seven New Zealand success stories, from corporates to small businesses, each with practical lessons you can apply.
 
+> **What you'll learn:** Identify proven AI use cases from real NZ businesses across multiple sectors | Explain how AI augments existing teams rather than replacing workers | Apply lessons from NZ success stories to your own business context | Evaluate whether off-the-shelf AI tools could solve a specific business problem
+
 ## Foodstuffs and WhyWaste: Slashing Food Waste with AI
 
 **The problem:** Foodstuffs North Island (the co-op behind PAK'nSAVE and New World) had a massive food waste challenge. Staff were manually checking expiry dates across thousands of products — time-consuming, error-prone, and costly.

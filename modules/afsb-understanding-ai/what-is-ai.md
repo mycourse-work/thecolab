@@ -2,6 +2,8 @@
 
 You've probably heard people talking about AI as though it's some kind of magic. It's not. At its core, AI is just software that can learn from examples and make predictions or generate content — instead of following a rigid set of instructions like traditional software.
 
+> **What you'll learn:** Explain the difference between traditional software and AI software | Identify the three breakthroughs that made AI practical for everyday businesses | Evaluate the current state of AI adoption among NZ organisations | Articulate why the cost and risk of getting started with AI is lower than most people assume
+
 ## Regular Software vs AI
 
 Think about it this way. A traditional spreadsheet formula does exactly what you tell it: "add up column B." It can't handle anything you haven't specifically programmed. AI is different — you show it thousands of examples, and it figures out the patterns on its own.

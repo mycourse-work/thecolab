@@ -2,6 +2,8 @@
 
 Here's a stat that should get your attention: only 48% of NZ businesses using AI have staff policies in place. Meanwhile, 52% identify "shadow AI" — staff using unapproved AI tools without the business knowing — as a problem. If you don't have a policy, your team is almost certainly already using AI. The question is whether they're using it safely.
 
+> **What you'll learn:** Create a one-page AI workplace policy using the provided template | Define clear data rules for what staff can and cannot put into AI tools | Introduce AI to your team in a way that builds buy-in rather than resistance | Establish a review cycle to keep your policy current as AI evolves
+
 ## Why You Need a Policy (Even If You're a Small Team)
 
 You might think a formal AI policy is something only big corporates need. But consider this:

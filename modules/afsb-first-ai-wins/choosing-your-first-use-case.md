@@ -4,6 +4,8 @@ You've explored the tools, you understand the landscape, and you know your busin
 
 The biggest mistake people make is trying to do everything at once. The second biggest mistake is picking something too ambitious for a first go. In this lesson, we'll give you a framework for choosing the perfect first use case — something that gets you a quick win and builds your confidence.
 
+> **What you'll learn:** Categorise AI opportunities using the six AI Primitives framework | Use the Impact/Effort Matrix to prioritise quick wins over complex projects | Apply four qualifying questions to select your ideal first AI use case | Commit to one specific, actionable AI experiment to try this week
+
 ## The Six Things AI Is Actually Good At
 
 OpenAI studied over 300 real-world AI implementations and found that every successful use case fits into one of six categories — they call them **AI Primitives**:
@@ -18,6 +20,8 @@ OpenAI studied over 300 real-world AI implementations and found that every succe
 For most small business owners, **Content Creation** and **Research** are the easiest places to start. You're already writing emails, creating social posts, and looking things up — AI just makes those tasks faster.
 
 ## The Impact/Effort Matrix
+
+> **Tip:** If you haven't completed Module 2 yet, the Impact/Effort Matrix is covered in detail in the "Building Your Business Case" lesson.
 
 Not all AI tasks are created equal. Before you dive in, it helps to think about where your potential use cases sit on a simple grid:
 

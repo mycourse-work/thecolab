@@ -4,6 +4,8 @@ Data governance sounds technical, but it boils down to four questions: What data
 
 When AI enters the picture, data governance becomes more important because AI tools are hungry for data. They process it, learn from it, and sometimes store it in places you didn't expect. This lesson gives you a practical framework for keeping your data under control.
 
+> **What you'll learn:** Classify your business data into four sensitivity levels (Public, Internal, Confidential, Restricted) | Apply clear rules for what data should never go into AI tools | Explain why business-tier AI accounts are non-negotiable for any tool that touches business data | Implement core security measures including MFA, access controls, and data retention policies
+
 ## Types of Data in Your Business
 
 Before you can govern your data, you need to know what you've got. Most small businesses handle four broad categories:

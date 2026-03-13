@@ -4,6 +4,8 @@ If you only do one thing after this course, it should be this: try an AI assista
 
 The good news? You can start for free, right now. The even better news? You're probably already paying for one without realising it.
 
+> **What you'll learn:** Compare the four major AI assistants (ChatGPT, Claude, Gemini, Copilot) on features, pricing, and NZ relevance | Choose the right assistant based on your existing software ecosystem | Identify whether you already have AI access through current subscriptions | Apply each assistant to five practical business tasks this week
+
 ## The Big Four
 
 There are four major AI assistants worth knowing about. Each has a free option, and each has its own strengths. Here's how they stack up:

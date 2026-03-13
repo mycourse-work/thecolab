@@ -6,6 +6,8 @@ AI Ready has eight core practices. They're designed for organisations just getti
 
 You can access the full framework free at [aigovernance.aiforum.org.nz](https://aigovernance.aiforum.org.nz).
 
+> **What you'll learn:** Apply all eight AI Ready practices from the AI Forum NZ governance framework at small business scale | Create a simple risk assessment table and AI system inventory for your business | Define where human oversight is required based on the stakes of each AI use | Use the AI Ready checklist to track your governance progress over time
+
 ## Practice 1: Establish Governance Ownership
 
 **What it means:** Someone in your business needs to be the person responsible for AI governance. Not a committee, not "everyone" — one named person.

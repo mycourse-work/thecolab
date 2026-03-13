@@ -4,6 +4,8 @@ Let's get the elephant out of the room: "AI governance" sounds like something de
 
 But here's the thing — you're probably already doing some form of governance without calling it that. If you've ever said "don't put customer details into that free AI tool" or "check the AI's output before sending it to the client," that's governance. This lesson is about making those instincts deliberate, written down, and consistent.
 
+> **What you'll learn:** Explain why AI governance matters even for small businesses with fewer than 20 people | Identify the concrete risks of ungoverned AI use (data leaks, legal exposure, reputational damage) | Create a minimum viable governance document that answers three essential questions | Leverage your small team size as an advantage for implementing governance quickly
+
 ## The Shadow AI Problem
 
 Here's a stat that should get your attention: **52% of NZ businesses report "shadow AI"** — staff using AI tools the business hasn't approved, assessed, or even heard of. That's more than half.

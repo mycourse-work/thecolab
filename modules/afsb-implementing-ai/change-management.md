@@ -6,6 +6,8 @@ And here's the flip side: **companies with strong change management are 6x more 
 
 The good news? As a small business, you have massive advantages over corporates when it comes to change management. Fewer people, faster decisions, less bureaucracy, and more personal relationships. You just need to use those advantages intentionally.
 
+> **What you'll learn:** Introduce AI to your team using language that builds buy-in rather than fear | Identify and empower an AI champion to drive adoption from within | Address the six most common objections to AI with honest, specific responses | Build ongoing momentum through visible wins, safe experimentation, and informal training
+
 ## Why People Resist (and Why That's Normal)
 
 Before you label anyone as "difficult" or "behind the times," understand that resistance to AI is completely rational. People worry about:

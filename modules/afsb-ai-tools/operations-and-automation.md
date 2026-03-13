@@ -4,6 +4,8 @@ This is where AI stops being a nice-to-have and starts saving you real money. Op
 
 The question isn't whether to automate. It's what to automate first.
 
+> **What you'll learn:** Build no-code automated workflows using Make.com to connect your business apps | Identify which operational tasks to fully automate versus augment with AI | Select industry-specific AI tools for trades, agriculture, and retail operations | Plan a realistic AI tool stack at the right budget level for your business stage
+
 ## No-Code Workflow Automation
 
 ### Make.com

@@ -2,6 +2,8 @@
 
 Every transformative technology comes with hype, fear, and misinformation. AI is no different. Before you invest time or money, let's separate what's true from what's not — and talk honestly about the real risks you should be aware of.
 
+> **What you'll learn:** Debunk the five most common myths about AI in small business | Identify the real risks of AI adoption and how to manage them | Determine when AI is not the right solution for a business problem | Apply the Soul Machines cautionary tale to your own AI investment decisions
+
 ## Myth 1: "AI Will Replace My Staff"
 
 This is the fear that keeps business owners up at night. The reality is far less dramatic.

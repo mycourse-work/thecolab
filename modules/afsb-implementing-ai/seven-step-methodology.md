@@ -85,7 +85,9 @@ This doesn't mean you need a perfect data strategy before you start. It means yo
 
 ## Step 4: Prioritise High-Impact Use Cases
 
-Remember the Impact/Effort Matrix from Module 4? This is where you use it. List out all the potential AI use cases you've identified, then plot them:
+Remember the Impact/Effort Matrix? This is where you use it. List out all the potential AI use cases you've identified, then plot them:
+
+> **Tip:** If you haven't completed Module 2 yet, the Impact/Effort Matrix is covered in detail in the "Building Your Business Case" lesson.
 
 - **Quick Wins** (high impact, low effort) — these go first
 - **Strategic Projects** (high impact, high effort) — plan for later

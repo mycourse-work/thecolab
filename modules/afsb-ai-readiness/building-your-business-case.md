@@ -4,6 +4,8 @@ You've assessed your readiness, audited your data, mapped your processes, and id
 
 The short answer, based on the numbers? Yes. NZ businesses using AI report an average return of 3.7x — that's $3.50 back for every $1 invested. And 75% of organisations got started for under $5,000. But you don't have to take the national stats on faith. Let's build your own business case.
 
+> **What you'll learn:** Distinguish between trending ROI (short-term indicators) and realised ROI (long-term financial impact) | Use the Impact/Effort Matrix to prioritise AI opportunities | Create a one-page business case using the provided template | Identify NZ government funding that can offset your AI investment costs
+
 ## Understanding AI ROI
 
 Return on investment from AI comes in two flavours, and it's important to understand both:

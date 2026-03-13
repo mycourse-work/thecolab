@@ -4,6 +4,8 @@ Choosing an AI tool isn't like choosing a new stapler. When you sign up for an A
 
 MBIE published an AI Procurement Checklist as part of its Responsible AI Guidance for Business (July 2025). We'll use that as our foundation and adapt it for small business reality.
 
+> **What you'll learn:** Ask the right questions about data storage, access, and portability before committing to an AI tool | Spot red flags in terms of service that could put your business data at risk | Use the vendor evaluation scorecard to compare AI tools objectively | Determine when to upgrade from free to paid tiers based on data protection needs
+
 ## The Questions That Matter
 
 Before you commit to any AI tool, ask these questions. You won't always get perfect answers, but the way a vendor responds tells you a lot about whether you can trust them.

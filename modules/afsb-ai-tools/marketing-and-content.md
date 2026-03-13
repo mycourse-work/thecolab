@@ -4,6 +4,8 @@ Marketing is one of the areas where AI delivers the fastest, most visible result
 
 But there's a catch — and we'll get to that. First, let's look at what's available.
 
+> **What you'll learn:** Select the right AI tools for design, social media, copywriting, and video creation | Apply a practical content workflow (brief-review-edit-publish) to cut creation time by 75% | Maintain your brand voice when using AI-generated marketing content | Recognise your Fair Trading Act responsibilities for AI-generated claims
+
 ## Design and Visual Content
 
 ### Canva AI (Magic Studio)

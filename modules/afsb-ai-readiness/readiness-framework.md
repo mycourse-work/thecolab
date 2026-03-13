@@ -4,6 +4,8 @@ You wouldn't build a house without checking the site first. The same goes for AI
 
 Only 19% of New Zealand organisations are considered fully AI-ready, according to the Cisco AI Readiness Index. That means the vast majority of Kiwi businesses — including most of your competitors — are still working things out. You're not behind. But the sooner you understand your starting point, the smarter your first moves will be.
 
+> **What you'll learn:** Assess your business across the five dimensions of AI readiness | Calculate a weighted readiness score to benchmark your starting point | Identify your weakest dimension and prioritise improvement efforts | Interpret your score to determine the right level of AI ambition for now
+
 ## The Five Dimensions
 
 Think of AI readiness like a fitness check for your business. There are five areas that matter, and each one carries a different weight depending on how much it affects your ability to actually use AI effectively.
@@ -101,7 +103,11 @@ This carries the least weight because AI doesn't have to cost much. 75% of NZ or
 
 ## Calculate Your Score
 
-Here's how to work out your weighted score:
+Use the interactive calculator below to score each dimension and get your weighted readiness score instantly:
+
+:::widget readiness-calculator
+
+Or if you prefer, work it out manually:
 
 | Dimension | Your Score (1–5) | Weight | Weighted Score |
 |-----------|-----------------|--------|----------------|

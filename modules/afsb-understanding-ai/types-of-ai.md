@@ -2,6 +2,8 @@
 
 Not all AI is the same, and you don't need to understand the deep technical details. But knowing the three main types you'll encounter will help you pick the right tools for your business — and avoid buying something that doesn't actually solve your problem.
 
+> **What you'll learn:** Distinguish between generative, predictive, and agentic AI | Identify which type of AI suits different business tasks | Explain how modern tools combine all three types | Determine where to start based on your business needs
+
 ## 1. Generative AI — Your Creative Assistant
 
 Generative AI creates new content — text, images, code, video, even music. This is the type most people think of when they hear "AI" today, because it's the most visible. You type in a request, and it produces something new.

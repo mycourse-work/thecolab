@@ -2,6 +2,8 @@
 
 AI can write your marketing copy, generate images, and draft business documents in seconds. But who's legally responsible for what it produces? And who owns it? This lesson covers the two big areas you need to know about: fair trading obligations and intellectual property.
 
+> **What you'll learn:** Explain your legal responsibility for AI-generated marketing claims under the Fair Trading Act | Describe how NZ copyright law uniquely protects computer-generated works | Evaluate AI tool terms of service for intellectual property red flags | Apply practical steps to protect your AI-generated content and avoid IP problems
+
 ## Fair Trading Act — You're Responsible, Not the AI
 
 Here's the key principle: **if you publish it, you own it.** The Fair Trading Act prohibits misleading or deceptive conduct in trade. It doesn't matter that AI wrote your ad copy, product description, or social media post. If it goes out under your business name, you're legally responsible for its accuracy.

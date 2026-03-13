@@ -4,6 +4,8 @@ Here's the truth about AI: it's only as good as what you ask it. Give it a vague
 
 The good news? You don't need a computer science degree to write great prompts. You just need a simple framework and a bit of practice. This lesson will give you both.
 
+> **What you'll learn:** Structure effective prompts using the Role-Task-Format (RTF) framework | Apply few-shot prompting to get AI to match your brand voice and style | Use ready-made prompt templates for emails, meetings, social media, and analysis | Iterate on AI outputs through conversation to dramatically improve results
+
 ## The Role-Task-Format (RTF) Framework
 
 The single most effective technique for getting great AI output is **RTF** — giving the AI three things:

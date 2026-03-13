@@ -4,6 +4,8 @@ For most small businesses, sales and customer service are deeply personal. You k
 
 The answer isn't replacing that personal touch — it's handling the stuff that gets in the way of it. Logging customer details, following up on leads, answering the same questions for the hundredth time, and making sure nothing falls through the cracks.
 
+> **What you'll learn:** Compare AI-powered CRM options (HubSpot, Zoho) for managing your sales pipeline | Evaluate whether an AI chatbot is right for your customer service needs | Determine which customer interactions should use AI and which need a human | Apply NZ success stories (Bolton Hotel, Cardrona) to your own customer service strategy
+
 ## CRM — Keeping Track of Your Customers
 
 A CRM (Customer Relationship Management) system is where you track leads, customers, and sales opportunities. AI-powered CRMs do the tedious parts for you.
