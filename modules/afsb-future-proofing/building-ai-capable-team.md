@@ -4,6 +4,8 @@ You can have the best AI tools in the world, but if your team doesn't know how t
 
 Only 24% of NZ workers have received any AI training. That's a massive gap — and it's your biggest opportunity. The businesses that invest in building AI capability now will have a significant head start over those that wait.
 
+> **What you'll learn:** Choose the right mix of upskilling, hiring, and outsourcing to build AI capability | Apply the hybrid approach: train champions, use consultants for setup, then scale internally | Map a skills development roadmap from prompt engineering through to advanced AI capabilities | Create a learning culture with show-and-tells, experimentation time, and safe-to-fail practices
+
 ## The Three Approaches to Building AI Capability
 
 When it comes to getting AI expertise into your business, you've got three options. Each has trade-offs:

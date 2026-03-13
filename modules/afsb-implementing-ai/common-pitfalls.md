@@ -6,6 +6,8 @@ But don't let that put you off. Most failures aren't because AI doesn't work. Th
 
 Here are the seven most common pitfalls, what they look like in practice, and exactly how to avoid each one.
 
+> **What you'll learn:** Identify the seven most common AI implementation mistakes before you make them | Apply the Soul Machines cautionary tale to evaluate scalability and business model fit | Use the pre-launch checklist to avoid planning gaps before any AI initiative | Recognise that most AI failures are people and planning problems, not technology problems
+
 ## 1. No Clear Objectives
 
 **What it looks like:** "We should be using AI" becomes the entire strategy. Someone buys a ChatGPT subscription, a few people try it for a week, and then it sits unused because nobody knew what problem they were trying to solve.
@@ -83,24 +85,12 @@ Here are the seven most common pitfalls, what they look like in practice, and ex
 
 ## Pre-Launch Checklist
 
-Before you launch any AI initiative, run through this checklist:
+Before you launch any AI initiative, work through this interactive checklist. Your progress is saved automatically so you can come back to it:
 
-| Item | Status |
-|------|--------|
-| Clear, specific business objective defined | |
-| Success metrics identified and baseline measured | |
-| Tool selected (ideally with team input) | |
-| Data reviewed — know what's shareable and what's confidential | |
-| Privacy and compliance considerations addressed | |
-| Team informed and concerns addressed | |
-| AI champion identified | |
-| Pilot scope defined (team, timeframe, metrics) | |
-| Training plan in place (even if informal) | |
-| Review date set | |
-| Budget approved (including ongoing subscription costs) | |
-| Rollback plan — what happens if it doesn't work? | |
+:::widget pre-launch-checklist
+:::
 
-> **Action:** Print this checklist (or copy it into a document) and work through it before your next AI implementation. It takes ten minutes and can save you months of frustration.
+> **Action:** Work through the checklist above before your next AI implementation. It takes ten minutes and can save you months of frustration.
 
 ## The Bottom Line
 

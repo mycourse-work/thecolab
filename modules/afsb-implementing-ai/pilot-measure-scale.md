@@ -4,6 +4,8 @@ You've picked your first AI use case. Now you need a plan that doesn't involve c
 
 This approach protects you from wasting money on something that doesn't fit, and gives you the evidence you need to invest further with confidence.
 
+> **What you'll learn:** Design a structured AI pilot with clear scope, timeframe, and success metrics | Calculate ROI using both trending indicators (short-term) and realised returns (long-term) | Recognise the signals that indicate it is time to scale a successful pilot | Determine when to pivot, adjust, or abandon an AI initiative that is not delivering results
+
 ## Designing a Good Pilot
 
 A pilot isn't "let everyone play with ChatGPT for a bit." It's a structured experiment with clear boundaries. Here's how to set one up:
@@ -76,6 +78,11 @@ Where:
 - ROI: ($770 / $230) x 100 = **335%**
 
 That's a first-month return. Over 12 months, the ROI gets dramatically better as the training cost disappears.
+
+Try the interactive calculator below with your own numbers:
+
+:::widget roi-calculator
+:::
 
 > **NZ stat:** Over 25% of NZ organisations report annual benefits exceeding $50,000 from AI, and 75% set up their AI for under $5,000. That's a strong return by any measure.
 

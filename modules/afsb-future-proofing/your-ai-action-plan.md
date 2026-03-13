@@ -4,6 +4,8 @@ You've made it to the final lesson. Over the past eight modules, you've gone fro
 
 But knowledge without action is just trivia. So let's turn everything you've learned into a concrete plan you can start on Monday morning.
 
+> **What you'll learn:** Create a phased 90-day AI action plan with specific milestones for each month | Use the course completion checklist to identify gaps in your AI readiness | Identify the five traits that separate businesses that succeed with AI from those that don't | Take your first concrete AI action today with a real business task
+
 ## Your 90-Day AI Action Plan
 
 We're breaking this into three manageable phases. You don't need to do everything — pick what's relevant to your business and adjust the timeline to suit your pace.

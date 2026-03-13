@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Impact/Effort Matrix</title>
+<script src="https://cdn.jsdelivr.net/npm/sortablejs/Sortable.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    color: #1e293b;
+    background: #fff;
+    padding: 24px;
+    line-height: 1.5;
+  }
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #0f172a;
+  }
+  .subtitle {
+    font-size: 0.875rem;
+    color: #64748b;
+    margin-bottom: 20px;
+  }
+
+  /* Input area */
+  .input-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .input-row input {
+    flex: 1;
+    padding: 10px 14px;
+    border: 2px solid #e2e8f0;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    font-family: inherit;
+    color: #1e293b;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .input-row input:focus {
+    border-color: #3b82f6;
+  }
+  .input-row input::placeholder {
+    color: #94a3b8;
+  }
+  .btn {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 10px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .btn-primary {
+    background: #3b82f6;
+    color: #fff;
+  }
+  .btn-primary:hover {
+    background: #2563eb;
+  }
+  .btn-outline {
+    background: #fff;
+    color: #64748b;
+    border: 1px solid #e2e8f0;
+  }
+  .btn-outline:hover {
+    border-color: #94a3b8;
+    color: #1e293b;
+  }
+  .btn-green {
+    background: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+  }
+  .btn-green:hover {
+    background: #dcfce7;
+  }
+
+  /* Actions row */
+  .actions-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+
+  /* Axis labels */
+  .matrix-wrapper {
+    position: relative;
+  }
+  .axis-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .axis-y {
+    position: absolute;
+    left: -8px;
+    top: 50%;
+    transform: rotate(-90deg) translateX(-50%);
+    transform-origin: left center;
+    white-space: nowrap;
+  }
+  .axis-x {
+    text-align: center;
+    margin-top: 8px;
+  }
+
+  /* Grid */
+  .matrix-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 8px;
+    margin-left: 20px;
+    min-height: 380px;
+  }
+
+  /* Quadrants */
+  .quadrant {
+    border-radius: 12px;
+    padding: 14px;
+    min-height: 160px;
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.2s;
+  }
+  .quadrant:hover {
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.06);
+  }
+  .quadrant-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .quadrant-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+  .quadrant-count {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 99px;
+    background: rgba(255,255,255,0.7);
+  }
+  .quadrant-subtitle {
+    font-size: 0.7rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    opacity: 0.7;
+  }
+
+  /* Quadrant colors */
+  .q-quick-wins {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+  }
+  .q-quick-wins .quadrant-title { color: #15803d; }
+  .q-quick-wins .quadrant-count { color: #15803d; }
+
+  .q-major-projects {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+  }
+  .q-major-projects .quadrant-title { color: #1d4ed8; }
+  .q-major-projects .quadrant-count { color: #1d4ed8; }
+
+  .q-fill-ins {
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+  }
+  .q-fill-ins .quadrant-title { color: #92400e; }
+  .q-fill-ins .quadrant-count { color: #92400e; }
+
+  .q-avoid {
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+  }
+  .q-avoid .quadrant-title { color: #991b1b; }
+  .q-avoid .quadrant-count { color: #991b1b; }
+
+  /* Item cards */
+  .card-list {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-height: 40px;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #1e293b;
+    cursor: grab;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    transition: box-shadow 0.15s, transform 0.15s;
+    user-select: none;
+  }
+  .card:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  .card:active {
+    cursor: grabbing;
+  }
+  .card-text {
+    flex: 1;
+    line-height: 1.3;
+  }
+  .card-delete {
+    width: 20px;
+    height: 20px;
+    border: none;
+    background: none;
+    color: #cbd5e1;
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    flex-shrink: 0;
+    transition: all 0.1s;
+    line-height: 1;
+  }
+  .card-delete:hover {
+    color: #ef4444;
+    background: #fef2f2;
+  }
+
+  /* Drag ghost & chosen */
+  .sortable-ghost {
+    opacity: 0.3;
+  }
+  .sortable-chosen {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    transform: rotate(2deg);
+  }
+  .sortable-drag {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  }
+
+  /* Summary */
+  .summary {
+    margin-top: 20px;
+    padding: 16px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+  }
+  .summary-title {
+    font-size: 0.85rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #0f172a;
+  }
+  .summary-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .summary-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+  }
+  .summary-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+  .summary-label {
+    color: #475569;
+    font-weight: 500;
+  }
+  .summary-num {
+    font-weight: 700;
+    color: #1e293b;
+    margin-left: auto;
+  }
+
+  /* Empty state in quadrant */
+  .empty-hint {
+    font-size: 0.7rem;
+    color: #94a3b8;
+    font-style: italic;
+    padding: 8px 0;
+  }
+
+  /* Mobile */
+  @media (max-width: 560px) {
+    body { padding: 16px; }
+    .matrix-grid {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto;
+      margin-left: 0;
+      min-height: auto;
+    }
+    .axis-y { display: none; }
+    .quadrant { min-height: 120px; }
+    .input-row { flex-direction: column; }
+    .actions-row { flex-direction: column; }
+    .summary-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<h2>Impact/Effort Matrix</h2>
+<p class="subtitle">Drag your AI use case ideas into quadrants to prioritise them by impact and effort.</p>
+
+<div class="input-row">
+  <input type="text" id="newItem" placeholder="Type an AI use case idea..." maxlength="100">
+  <button class="btn btn-primary" id="addBtn">Add</button>
+</div>
+
+<div class="actions-row">
+  <button class="btn btn-green" id="preloadBtn">Start with common NZ use cases</button>
+  <button class="btn btn-outline" id="resetBtn">Reset</button>
+</div>
+
+<div class="matrix-wrapper">
+  <span class="axis-label axis-y">Impact &rarr;</span>
+
+  <div class="matrix-grid">
+    <!-- Top-left: High Impact, Low Effort = Quick Wins -->
+    <div class="quadrant q-quick-wins" id="quick-wins">
+      <div class="quadrant-header">
+        <span class="quadrant-title">Quick Wins</span>
+        <span class="quadrant-count" data-count="quick-wins">0</span>
+      </div>
+      <div class="quadrant-subtitle">High Impact / Low Effort</div>
+      <div class="card-list" data-quadrant="quick-wins"></div>
+    </div>
+
+    <!-- Top-right: High Impact, High Effort = Major Projects -->
+    <div class="quadrant q-major-projects" id="major-projects">
+      <div class="quadrant-header">
+        <span class="quadrant-title">Major Projects</span>
+        <span class="quadrant-count" data-count="major-projects">0</span>
+      </div>
+      <div class="quadrant-subtitle">High Impact / High Effort</div>
+      <div class="card-list" data-quadrant="major-projects"></div>
+    </div>
+
+    <!-- Bottom-left: Low Impact, Low Effort = Fill-ins -->
+    <div class="quadrant q-fill-ins" id="fill-ins">
+      <div class="quadrant-header">
+        <span class="quadrant-title">Fill-ins</span>
+        <span class="quadrant-count" data-count="fill-ins">0</span>
+      </div>
+      <div class="quadrant-subtitle">Low Impact / Low Effort</div>
+      <div class="card-list" data-quadrant="fill-ins"></div>
+    </div>
+
+    <!-- Bottom-right: Low Impact, High Effort = Avoid -->
+    <div class="quadrant q-avoid" id="avoid">
+      <div class="quadrant-header">
+        <span class="quadrant-title">Avoid</span>
+        <span class="quadrant-count" data-count="avoid">0</span>
+      </div>
+      <div class="quadrant-subtitle">Low Impact / High Effort</div>
+      <div class="card-list" data-quadrant="avoid"></div>
+    </div>
+  </div>
+
+  <div class="axis-label axis-x">Effort &rarr;</div>
+</div>
+
+<div class="summary">
+  <div class="summary-title">Summary</div>
+  <div class="summary-grid">
+    <div class="summary-item">
+      <span class="summary-dot" style="background:#22c55e"></span>
+      <span class="summary-label">Quick Wins</span>
+      <span class="summary-num" id="sum-quick-wins">0</span>
+    </div>
+    <div class="summary-item">
+      <span class="summary-dot" style="background:#3b82f6"></span>
+      <span class="summary-label">Major Projects</span>
+      <span class="summary-num" id="sum-major-projects">0</span>
+    </div>
+    <div class="summary-item">
+      <span class="summary-dot" style="background:#f59e0b"></span>
+      <span class="summary-label">Fill-ins</span>
+      <span class="summary-num" id="sum-fill-ins">0</span>
+    </div>
+    <div class="summary-item">
+      <span class="summary-dot" style="background:#ef4444"></span>
+      <span class="summary-label">Avoid</span>
+      <span class="summary-num" id="sum-avoid">0</span>
+    </div>
+  </div>
+</div>
+
+<script>
+const quadrantIds = ['quick-wins', 'major-projects', 'fill-ins', 'avoid'];
+const sortables = {};
+
+// Initial examples
+const initialItems = [
+  { text: 'Email drafting with ChatGPT', quadrant: 'quick-wins' },
+  { text: 'Custom CRM integration', quadrant: 'major-projects' },
+  { text: 'AI-powered accounting', quadrant: 'fill-ins' }
+];
+
+// Preloaded NZ use cases
+const preloadedItems = [
+  { text: 'Email drafting with ChatGPT', quadrant: 'quick-wins' },
+  { text: 'Social media content scheduling', quadrant: 'quick-wins' },
+  { text: 'Custom CRM integration', quadrant: 'major-projects' },
+  { text: 'AI chatbot for customer support', quadrant: 'major-projects' },
+  { text: 'Invoice data extraction', quadrant: 'fill-ins' },
+  { text: 'AI-generated product descriptions', quadrant: 'fill-ins' }
+];
+
+let itemIdCounter = 0;
+
+// Create a card element
+function createCard(text) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.dataset.id = ++itemIdCounter;
+  card.innerHTML = `
+    <span class="card-text">${escapeHtml(text)}</span>
+    <button class="card-delete" title="Remove">&times;</button>
+  `;
+  card.querySelector('.card-delete').addEventListener('click', function(e) {
+    e.stopPropagation();
+    card.remove();
+    updateCounts();
+    resize();
+  });
+  return card;
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+// Add item to a quadrant
+function addItemToQuadrant(text, quadrantId) {
+  const list = document.querySelector(`.card-list[data-quadrant="${quadrantId}"]`);
+  if (!list) return;
+  const card = createCard(text);
+  list.appendChild(card);
+  updateCounts();
+  resize();
+}
+
+// Update all counts
+function updateCounts() {
+  quadrantIds.forEach(id => {
+    const list = document.querySelector(`.card-list[data-quadrant="${id}"]`);
+    const count = list ? list.querySelectorAll('.card').length : 0;
+    const badge = document.querySelector(`[data-count="${id}"]`);
+    if (badge) badge.textContent = count;
+    const sumEl = document.getElementById(`sum-${id}`);
+    if (sumEl) sumEl.textContent = count;
+  });
+}
+
+// Clear all items
+function clearAll() {
+  quadrantIds.forEach(id => {
+    const list = document.querySelector(`.card-list[data-quadrant="${id}"]`);
+    if (list) list.innerHTML = '';
+  });
+  updateCounts();
+  resize();
+}
+
+// Initialize SortableJS on each quadrant
+function initSortables() {
+  quadrantIds.forEach(id => {
+    const list = document.querySelector(`.card-list[data-quadrant="${id}"]`);
+    if (!list) return;
+    sortables[id] = new Sortable(list, {
+      group: 'matrix',
+      animation: 200,
+      easing: 'cubic-bezier(0.25, 1, 0.5, 1)',
+      ghostClass: 'sortable-ghost',
+      chosenClass: 'sortable-chosen',
+      dragClass: 'sortable-drag',
+      fallbackOnBody: true,
+      swapThreshold: 0.65,
+      onEnd: function() {
+        updateCounts();
+        resize();
+      }
+    });
+  });
+}
+
+// Populate initial items
+function populateInitial() {
+  initialItems.forEach(item => addItemToQuadrant(item.text, item.quadrant));
+}
+
+// Add button handler
+document.getElementById('addBtn').addEventListener('click', function() {
+  const input = document.getElementById('newItem');
+  const text = input.value.trim();
+  if (!text) return;
+  // Default new items to Quick Wins
+  addItemToQuadrant(text, 'quick-wins');
+  input.value = '';
+  input.focus();
+});
+
+// Enter key to add
+document.getElementById('newItem').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') {
+    document.getElementById('addBtn').click();
+  }
+});
+
+// Reset button
+document.getElementById('resetBtn').addEventListener('click', function() {
+  clearAll();
+});
+
+// Preload button
+document.getElementById('preloadBtn').addEventListener('click', function() {
+  clearAll();
+  preloadedItems.forEach(item => addItemToQuadrant(item.text, item.quadrant));
+});
+
+// Resize notification
+function resize() {
+  requestAnimationFrame(function() {
+    const h = document.documentElement.scrollHeight;
+    window.parent.postMessage({ type: 'widget-resize', height: h }, '*');
+  });
+}
+
+// Init
+initSortables();
+populateInitial();
+updateCounts();
+
+// Signal ready
+window.parent.postMessage({ type: 'widget-ready' }, '*');
+setTimeout(resize, 100);
+
+// Watch for dynamic resize
+const observer = new MutationObserver(resize);
+observer.observe(document.body, { childList: true, subtree: true });
+</script>
+</body>
+</html>

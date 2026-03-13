@@ -4,6 +4,8 @@ AI isn't hitting every industry at the same speed or in the same way. Some secto
 
 In this lesson, we'll look at what's happening across six key NZ sectors, what's coming next, and what you can do about it right now.
 
+> **What you'll learn:** Identify how AI is being used right now across six key NZ industries | Spot emerging AI opportunities specific to your sector before competitors do | Apply practical "what to do now" actions tailored to agriculture, tourism, trades, professional services, retail, and healthcare | Recognise the common pattern across all industries: start with admin and operations, then expand
+
 ## Agriculture and Agritech
 
 If there's one sector where NZ punches above its weight in AI, it's agriculture. The AI Forum has said that "AI is becoming the new fertiliser" — and the numbers back that up.

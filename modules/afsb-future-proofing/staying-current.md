@@ -4,6 +4,8 @@ AI is moving fast. Really fast. New tools launch every week, capabilities improv
 
 The trick isn't to follow everything. It's to follow the right things, connect with the right people, and build a simple habit of staying informed. In New Zealand, we're lucky to have a strong network of organisations and resources specifically designed to help businesses like yours keep up.
 
+> **What you'll learn:** Identify the most valuable NZ-specific AI resources to follow (AI Forum NZ, MBIE, NZTech) | Build a personal AI radar system using a weekly-monthly-quarterly-annual rhythm | Stay aware of evolving cybersecurity risks as you adopt more AI tools | Connect with the NZ AI community through events, online groups, and peer conversations
+
 ## Your Go-To NZ Resources
 
 ### AI Forum NZ

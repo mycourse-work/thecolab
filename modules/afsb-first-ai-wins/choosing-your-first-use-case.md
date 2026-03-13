@@ -72,6 +72,11 @@ Here's what each quadrant means:
 
 > **Tip:** Your first AI project should always come from the Quick Wins quadrant. Get a win under your belt before tackling anything complex.
 
+Try the interactive matrix below — add your own AI use case ideas and drag them into the right quadrant:
+
+:::widget impact-effort-matrix
+:::
+
 ## How to Pick Your First Use Case
 
 Ask yourself these four questions:

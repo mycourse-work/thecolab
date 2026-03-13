@@ -4,6 +4,8 @@ You know AI can help your business. You've identified some quick wins. Now the q
 
 Good news — you don't need to invent this from scratch. There's a proven methodology that works for businesses of all sizes, and we've adapted it specifically for NZ small business. It's seven steps, and they're designed to keep you focused on outcomes, not shiny tools.
 
+> **What you'll learn:** Apply a proven 7-step methodology to implement AI in your business | Set specific, measurable business objectives before choosing any AI tool | Prioritise high-impact use cases using the Impact/Effort Matrix | Manage costs and expectations with realistic timeframes and limited initial licenses
+
 ## The 7 Steps at a Glance
 
 <div style="max-width: 750px; margin: 1.5em auto; font-family: sans-serif;">

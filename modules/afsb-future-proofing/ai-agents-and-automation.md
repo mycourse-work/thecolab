@@ -6,6 +6,8 @@ The next wave of AI is **agentic** — AI that doesn't just answer questions but
 
 You don't need this today. But understanding where things are heading will help you make smarter choices about the tools you invest in right now.
 
+> **What you'll learn:** Explain the difference between traditional AI assistants and autonomous AI agents | Describe how multi-agent systems work together like a virtual team | Identify the key protocols (MCP, A2A) that will let AI tools communicate with each other | Evaluate current AI tools based on whether they are building towards agentic capabilities
+
 ## What Are AI Agents?
 
 An AI agent is software that can take a goal, break it down into steps, and execute those steps independently — making decisions along the way. Instead of you telling it exactly what to do at every stage, you give it an objective and it figures out how to get there.

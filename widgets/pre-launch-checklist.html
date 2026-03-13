@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pre-Launch Checklist</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    color: #1e293b;
+    background: #fff;
+    padding: 24px;
+    line-height: 1.5;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    font-size: 0.875rem;
+    color: #64748b;
+    margin-bottom: 20px;
+  }
+
+  /* Progress bar */
+  .progress-section {
+    margin-bottom: 24px;
+  }
+  .progress-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 8px;
+  }
+  .progress-count {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #1e293b;
+  }
+  .progress-pct {
+    font-size: 0.8rem;
+    color: #64748b;
+    font-weight: 500;
+  }
+  .progress-track {
+    width: 100%;
+    height: 10px;
+    background: #e2e8f0;
+    border-radius: 99px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    width: 0%;
+    background: #22c55e;
+    border-radius: 99px;
+    transition: width 0.4s ease;
+  }
+
+  /* Category */
+  .category {
+    margin-bottom: 20px;
+  }
+  .category-header {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #64748b;
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  /* Checklist item */
+  .checklist-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    transition: background-color 0.25s ease;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  .checklist-item:hover {
+    background: #f8fafc;
+  }
+  .checklist-item.checked {
+    background: #f0fdf4;
+  }
+
+  /* Custom checkbox */
+  .checkbox-wrap {
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    position: relative;
+    margin-top: 1px;
+  }
+  .checkbox-wrap input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  .checkbox-box {
+    width: 22px;
+    height: 22px;
+    border: 2px solid #cbd5e1;
+    border-radius: 6px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+  }
+  .checklist-item:hover .checkbox-box {
+    border-color: #94a3b8;
+  }
+  .checklist-item.checked .checkbox-box {
+    background: #22c55e;
+    border-color: #22c55e;
+  }
+
+  /* Checkmark SVG */
+  .checkmark {
+    width: 14px;
+    height: 14px;
+    opacity: 0;
+    transform: scale(0.5);
+    transition: all 0.2s ease;
+  }
+  .checklist-item.checked .checkmark {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .item-text {
+    font-size: 0.9rem;
+    color: #334155;
+    line-height: 1.5;
+    padding-top: 1px;
+    transition: color 0.2s ease;
+  }
+  .checklist-item.checked .item-text {
+    color: #16a34a;
+  }
+
+  /* Reset button */
+  .footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8px;
+    padding-top: 16px;
+    border-top: 1px solid #e2e8f0;
+  }
+  .reset-btn {
+    padding: 6px 16px;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    background: #fff;
+    color: #64748b;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .reset-btn:hover {
+    border-color: #94a3b8;
+    color: #1e293b;
+  }
+
+  /* Completion message */
+  .completion {
+    margin-top: 20px;
+    padding: 20px 24px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #d1fae5, #a7f3d0);
+    text-align: center;
+    display: none;
+    position: relative;
+    overflow: hidden;
+  }
+  .completion.visible {
+    display: block;
+    animation: slideIn 0.4s ease;
+  }
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .completion-icon {
+    font-size: 2rem;
+    margin-bottom: 8px;
+    display: block;
+  }
+  .completion-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #047857;
+    margin-bottom: 4px;
+  }
+  .completion-desc {
+    font-size: 0.875rem;
+    color: #065f46;
+  }
+
+  /* Confetti pieces */
+  .confetti-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .confetti {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    top: -10px;
+    animation: confettiFall 2.5s ease-out forwards;
+  }
+  @keyframes confettiFall {
+    0% {
+      opacity: 1;
+      transform: translateY(0) rotate(0deg) scale(1);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(180px) rotate(720deg) scale(0.3);
+    }
+  }
+</style>
+</head>
+<body>
+
+<h2>AI Pre-Launch Checklist</h2>
+<p class="subtitle">Complete all 12 items before launching your AI pilot.</p>
+
+<div class="progress-section">
+  <div class="progress-header">
+    <span class="progress-count" id="progressCount">0 of 12 complete</span>
+    <span class="progress-pct" id="progressPct">0%</span>
+  </div>
+  <div class="progress-track">
+    <div class="progress-fill" id="progressFill"></div>
+  </div>
+</div>
+
+<div id="checklist"></div>
+<div class="completion" id="completion">
+  <div class="confetti-container" id="confettiContainer"></div>
+  <span class="completion-icon">&#127881;</span>
+  <div class="completion-title">You're ready to launch!</div>
+  <p class="completion-desc">All 12 items are checked. Your AI pilot is well-prepared for a smooth start.</p>
+</div>
+
+<div class="footer">
+  <button class="reset-btn" id="resetBtn">Reset checklist</button>
+</div>
+
+<script>
+var STORAGE_KEY = 'prelaunch-checklist-state';
+
+var categories = [
+  {
+    name: 'Planning',
+    items: [
+      { id: 'objective', text: 'Clear, specific business objective defined' },
+      { id: 'metrics', text: 'Success metrics identified and baseline measured' },
+      { id: 'tool', text: 'Tool selected (ideally with team input)' },
+      { id: 'scope', text: 'Pilot scope defined (team, timeframe, metrics)' }
+    ]
+  },
+  {
+    name: 'Compliance & Data',
+    items: [
+      { id: 'data-review', text: "Data reviewed \u2014 know what\u2019s shareable and what\u2019s confidential" },
+      { id: 'privacy', text: 'Privacy and compliance considerations addressed' },
+      { id: 'budget', text: 'Budget approved (including ongoing subscription costs)' }
+    ]
+  },
+  {
+    name: 'People & Process',
+    items: [
+      { id: 'team-informed', text: 'Team informed and concerns addressed' },
+      { id: 'champion', text: 'AI champion identified' },
+      { id: 'training', text: 'Training plan in place (even if informal)' },
+      { id: 'review-date', text: 'Review date set' },
+      { id: 'rollback', text: "Rollback plan \u2014 what happens if it doesn\u2019t work?" }
+    ]
+  }
+];
+
+var state = loadState();
+
+function loadState() {
+  try {
+    var saved = localStorage.getItem(STORAGE_KEY);
+    if (saved) return JSON.parse(saved);
+  } catch (e) {}
+  return {};
+}
+
+function saveState() {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  } catch (e) {}
+}
+
+function getAllItemIds() {
+  var ids = [];
+  categories.forEach(function(cat) {
+    cat.items.forEach(function(item) { ids.push(item.id); });
+  });
+  return ids;
+}
+
+function getCheckedCount() {
+  var count = 0;
+  getAllItemIds().forEach(function(id) {
+    if (state[id]) count++;
+  });
+  return count;
+}
+
+function render() {
+  var container = document.getElementById('checklist');
+  container.innerHTML = '';
+
+  categories.forEach(function(cat) {
+    var catDiv = document.createElement('div');
+    catDiv.className = 'category';
+
+    var header = document.createElement('div');
+    header.className = 'category-header';
+    header.textContent = cat.name;
+    catDiv.appendChild(header);
+
+    cat.items.forEach(function(item) {
+      var row = document.createElement('div');
+      row.className = 'checklist-item' + (state[item.id] ? ' checked' : '');
+      row.setAttribute('data-id', item.id);
+
+      row.innerHTML =
+        '<label class="checkbox-wrap">' +
+          '<input type="checkbox"' + (state[item.id] ? ' checked' : '') + '>' +
+          '<div class="checkbox-box">' +
+            '<svg class="checkmark" viewBox="0 0 14 14" fill="none">' +
+              '<path d="M2.5 7.5L5.5 10.5L11.5 3.5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>' +
+            '</svg>' +
+          '</div>' +
+        '</label>' +
+        '<span class="item-text">' + item.text + '</span>';
+
+      row.addEventListener('click', function(e) {
+        e.preventDefault();
+        toggleItem(item.id);
+      });
+
+      catDiv.appendChild(row);
+    });
+
+    container.appendChild(catDiv);
+  });
+
+  updateProgress();
+}
+
+function toggleItem(id) {
+  state[id] = !state[id];
+  saveState();
+
+  var row = document.querySelector('[data-id="' + id + '"]');
+  if (row) {
+    var cb = row.querySelector('input[type="checkbox"]');
+    if (state[id]) {
+      row.classList.add('checked');
+      cb.checked = true;
+    } else {
+      row.classList.remove('checked');
+      cb.checked = false;
+    }
+  }
+
+  updateProgress();
+  resize();
+}
+
+function updateProgress() {
+  var total = 12;
+  var checked = getCheckedCount();
+  var pct = Math.round((checked / total) * 100);
+
+  document.getElementById('progressCount').textContent = checked + ' of ' + total + ' complete';
+  document.getElementById('progressPct').textContent = pct + '%';
+  document.getElementById('progressFill').style.width = pct + '%';
+
+  var completion = document.getElementById('completion');
+  if (checked === total) {
+    if (!completion.classList.contains('visible')) {
+      completion.classList.add('visible');
+      spawnConfetti();
+    }
+  } else {
+    completion.classList.remove('visible');
+  }
+}
+
+function spawnConfetti() {
+  var container = document.getElementById('confettiContainer');
+  container.innerHTML = '';
+  var colors = ['#22c55e', '#16a34a', '#4ade80', '#86efac', '#fbbf24', '#f59e0b', '#3b82f6', '#8b5cf6', '#ec4899'];
+
+  for (var i = 0; i < 40; i++) {
+    var piece = document.createElement('div');
+    piece.className = 'confetti';
+    piece.style.left = (Math.random() * 100) + '%';
+    piece.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+    piece.style.animationDelay = (Math.random() * 0.8) + 's';
+    piece.style.animationDuration = (1.5 + Math.random() * 1.5) + 's';
+    piece.style.width = (5 + Math.random() * 6) + 'px';
+    piece.style.height = (5 + Math.random() * 6) + 'px';
+    piece.style.borderRadius = Math.random() > 0.5 ? '50%' : '2px';
+    container.appendChild(piece);
+  }
+}
+
+function resetAll() {
+  state = {};
+  saveState();
+  render();
+  resize();
+}
+
+document.getElementById('resetBtn').addEventListener('click', resetAll);
+
+function resize() {
+  requestAnimationFrame(function() {
+    var h = document.documentElement.scrollHeight;
+    window.parent.postMessage({ type: 'widget-resize', height: h }, '*');
+  });
+}
+
+// Init
+render();
+window.parent.postMessage({ type: 'widget-ready' }, '*');
+setTimeout(resize, 100);
+</script>
+</body>
+</html>
