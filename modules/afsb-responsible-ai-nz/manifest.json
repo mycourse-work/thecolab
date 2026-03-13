@@ -3,6 +3,7 @@
   "title": "Responsible AI and NZ Law",
   "description": "What you need to know about privacy, copyright, Te Tiriti, and keeping your business on the right side of the law when using AI.",
   "lessons": [
+    { "id": "intro", "title": "Module Overview", "type": "content", "markdownPath": "intro.md" },
     { "id": "privacy-act-and-ai", "title": "Privacy Act 2020 and AI", "type": "content", "markdownPath": "privacy-act-and-ai.md" },
     { "id": "fair-trading-copyright-ip", "title": "Fair Trading, Copyright, and IP", "type": "content", "markdownPath": "fair-trading-copyright-ip.md" },
     { "id": "te-tiriti-and-data-sovereignty", "title": "Te Tiriti, Māori Data Sovereignty, and AI", "type": "content", "markdownPath": "te-tiriti-and-data-sovereignty.md" },

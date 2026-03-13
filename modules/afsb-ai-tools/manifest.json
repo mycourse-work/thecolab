@@ -3,6 +3,7 @@
   "title": "AI Tools for NZ Small Business",
   "description": "A practical guide to the best AI tools available in New Zealand — from free options to affordable subscriptions that actually make a difference.",
   "lessons": [
+    { "id": "intro", "title": "Module Overview", "type": "content", "markdownPath": "intro.md" },
     { "id": "ai-assistants", "title": "AI Assistants: ChatGPT, Claude, Gemini, Copilot", "type": "content", "markdownPath": "ai-assistants.md" },
     { "id": "nz-business-tools", "title": "NZ Business Tools with AI Built In", "type": "content", "markdownPath": "nz-business-tools.md" },
     { "id": "marketing-and-content", "title": "Marketing and Content Creation", "type": "content", "markdownPath": "marketing-and-content.md" },

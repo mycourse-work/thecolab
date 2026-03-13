@@ -3,6 +3,7 @@
   "title": "Implementing AI in Your Business",
   "description": "A step-by-step guide to rolling out AI without wasting money or losing your team along the way.",
   "lessons": [
+    { "id": "intro", "title": "Module Overview", "type": "content", "markdownPath": "intro.md" },
     { "id": "seven-step-methodology", "title": "The 7-Step Implementation Methodology", "type": "content", "markdownPath": "seven-step-methodology.md" },
     { "id": "pilot-measure-scale", "title": "Pilot, Measure, Scale", "type": "content", "markdownPath": "pilot-measure-scale.md" },
     { "id": "change-management", "title": "Change Management for Small Teams", "type": "content", "markdownPath": "change-management.md" },

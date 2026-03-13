@@ -3,6 +3,7 @@
   "title": "Getting Started — Your First AI Wins",
   "description": "Roll up your sleeves — this is where you start using AI for real. Practical exercises for everyday business tasks.",
   "lessons": [
+    { "id": "intro", "title": "Module Overview", "type": "content", "markdownPath": "intro.md" },
     { "id": "choosing-your-first-use-case", "title": "Choosing Your First Use Case", "type": "content", "markdownPath": "choosing-your-first-use-case.md" },
     { "id": "prompt-engineering-essentials", "title": "Prompt Engineering Essentials", "type": "content", "markdownPath": "prompt-engineering-essentials.md" },
     { "id": "ai-for-everyday-admin", "title": "AI for Everyday Admin", "type": "content", "markdownPath": "ai-for-everyday-admin.md" },

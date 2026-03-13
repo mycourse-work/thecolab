@@ -3,6 +3,7 @@
   "title": "AI Governance for Small Business",
   "description": "Simple, practical governance that keeps your AI use safe and trustworthy — without drowning in paperwork.",
   "lessons": [
+    { "id": "intro", "title": "Module Overview", "type": "content", "markdownPath": "intro.md" },
     { "id": "why-governance-matters", "title": "Why Governance Matters (Even for Small Business)", "type": "content", "markdownPath": "why-governance-matters.md" },
     { "id": "ai-ready-pathway", "title": "The AI Ready Pathway", "type": "content", "markdownPath": "ai-ready-pathway.md" },
     { "id": "transparency-and-records", "title": "Transparency and Record-Keeping", "type": "content", "markdownPath": "transparency-and-records.md" },

@@ -3,6 +3,7 @@
   "title": "Future-Proofing Your Business",
   "description": "Where AI is heading, how to build an AI-capable team, and your personal action plan to get started.",
   "lessons": [
+    { "id": "intro", "title": "Module Overview", "type": "content", "markdownPath": "intro.md" },
     { "id": "ai-agents-and-automation", "title": "AI Agents and Autonomous Workflows", "type": "content", "markdownPath": "ai-agents-and-automation.md" },
     { "id": "building-ai-capable-team", "title": "Building an AI-Capable Team", "type": "content", "markdownPath": "building-ai-capable-team.md" },
     { "id": "industry-trends-nz", "title": "Industry Trends for NZ", "type": "content", "markdownPath": "industry-trends-nz.md" },
