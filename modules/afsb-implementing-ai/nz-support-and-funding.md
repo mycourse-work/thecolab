@@ -112,6 +112,7 @@ Whether you want formal training or prefer to learn at your own pace, there are 
 | **Spark AI Foundations** | $450 (free for Spark customers) | Practical AI training for business |
 | **AI Forum e-Learning** | Free | Two self-paced modules on AI fundamentals and responsible implementation |
 | **Business Mentors NZ** | Free | AI guide for small businesses, plus access to volunteer business mentors |
+| **The Co Lab** | Varies | Structured AI training programmes designed for NZ small businesses ([thecolab.ai](https://thecolab.ai)) |
 | **This course** | Included with your membership | You're already doing it |
 
 ### Informal Learning
@@ -158,3 +159,5 @@ Beyond that, bookmark the AI Forum's governance framework and e-learning modules
 [MBIE — R&D Tax Incentive](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/r-and-d-tax-incentive/)
 
 [Business.govt.nz — Funding Finder](https://funds.business.govt.nz/)
+
+[The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

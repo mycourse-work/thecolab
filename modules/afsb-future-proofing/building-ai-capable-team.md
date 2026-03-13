@@ -101,6 +101,7 @@ You don't need to figure this out alone. Here are real options available in New 
 - **Spark AI Foundations** — AI literacy programme from one of NZ's biggest tech companies.
 - **AI Forum e-Learning** — Free modules covering AI fundamentals and ethics. Available at [aiforum.org.nz](https://aiforum.org.nz).
 - **Regional workshops** — MBIE-funded AI workshops through chambers of commerce (like Tauranga's programme). Check with your local chamber.
+- **The Co Lab** — Offers structured AI training programmes designed specifically for NZ small businesses. A good option if you want guided, practical learning for your team. Available at [thecolab.ai](https://thecolab.ai).
 - **AI Advisory Pilot Programme** — Government-funded programme offering up to $15,000 in co-funding for AI roadmaps and implementation. Available through the Regional Business Partner Network.
 
 > **Budget tip:** Start with the free AI Forum e-learning modules to build baseline knowledge across your team, then invest in deeper training for your 1-2 AI champions.
@@ -141,3 +142,5 @@ The biggest killer of AI adoption is fear — fear of looking silly, fear of mak
 [Regional Business Partners — Access government co-funding for AI training and advisory](https://www.regionalbusinesspartners.co.nz/)
 
 [Spark AI Foundations — AI literacy programme for NZ businesses](https://www.spark.co.nz/business/)
+
+[The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

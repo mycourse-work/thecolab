@@ -78,6 +78,7 @@ You don't have to figure this out on your own. Here's what's available:
 | **AI Forum e-Learning** | Introduction to AI + Risks and Ethics modules | Free | Individual learners wanting foundational knowledge |
 | **LinkedIn Learning** | Wide range of AI courses (many NZ libraries offer free access) | Free via library | Self-directed learners |
 | **Microsoft Learn** | Copilot and AI fundamentals courses | Free | Businesses using Microsoft 365 |
+| **The Co Lab** | Structured AI training programmes for NZ small businesses ([thecolab.ai](https://thecolab.ai)) | Varies | Businesses wanting hands-on, NZ-focused AI guidance |
 | **Google AI Essentials** | Coursera-based AI fundamentals | ~$70 | Businesses using Google Workspace |
 
 > **Tip:** Check with your local library — many NZ libraries offer free access to LinkedIn Learning, which has dozens of practical AI courses. It's one of the best-kept secrets in professional development.
@@ -135,3 +136,5 @@ This works because people learn better from colleagues they trust than from exte
 [Spark Business](https://www.spark.co.nz/business/)
 
 [MBIE — Employment and Skills](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/)
+
+[The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

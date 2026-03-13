@@ -103,7 +103,7 @@ Getting started is one thing. Keeping the momentum going is another. Here's how:
 
 1. **Share wins regularly** — A quick update in your weekly meeting: "Here's what AI saved us this week"
 2. **Create a safe space to experiment** — Make it okay to try things that don't work. "I tried using AI for X and it was rubbish" is useful information, not a failure
-3. **Keep training informal** — A 10-minute "here's a cool trick I found" at the start of a meeting beats a formal training day
+3. **Keep training informal** — A 10-minute "here's a cool trick I found" at the start of a meeting beats a formal training day. If you want more structured support, organisations like [The Co Lab](https://thecolab.ai) run AI training programmes designed specifically for NZ small businesses.
 4. **Let it spread naturally** — Once one or two people are getting value, others will get curious. Don't force it
 5. **Revisit and adjust** — Check in monthly. What's working? What's not? What should we try next?
 
@@ -126,3 +126,5 @@ Getting started is one thing. Keeping the momentum going is another. Here's how:
 [AI Forum NZ — e-Learning and Resources](https://aiforum.org.nz/)
 
 [Business.govt.nz — Hiring and Managing Staff](https://www.business.govt.nz/hiring-and-managing/)
+
+[The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

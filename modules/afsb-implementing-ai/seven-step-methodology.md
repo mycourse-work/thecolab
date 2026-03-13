@@ -123,7 +123,7 @@ Practical ways to encourage adoption:
 
 **NZ example:** PwC NZ learned this the hard way. When they rolled out GenAI firm-wide, leadership buy-in and structured change management were essential. The firms that just bought licenses and sent a link got nowhere.
 
-> **Remember:** Only 24% of NZ workers have received any AI training. Investing even a small amount in upskilling puts you ahead of most businesses.
+> **Remember:** Only 24% of NZ workers have received any AI training. Investing even a small amount in upskilling puts you ahead of most businesses. Organisations like [The Co Lab](https://thecolab.ai) offer structured AI training programmes designed for NZ small businesses if you want guided support for your team.
 
 ## Step 7: Manage Costs and Expectations
 
@@ -160,3 +160,5 @@ The businesses that succeed with AI aren't the ones with the biggest budgets. Th
 [AI Forum NZ — Reports and Research](https://aiforum.org.nz/reports/)
 
 [Regional Business Partners Network](https://www.regionalbusinesspartners.co.nz/)
+
+[The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)

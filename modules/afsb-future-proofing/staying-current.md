@@ -33,6 +33,12 @@ The trick isn't to follow everything. It's to follow the right things, connect w
 
 **Why it matters:** Broader tech context helps you understand where AI fits into the wider digital transformation picture. They advocate for policy settings that support NZ businesses.
 
+### The Co Lab
+
+**What it is:** A NZ-based organisation that provides AI training and guidance tailored specifically for small businesses, available at [thecolab.ai](https://thecolab.ai).
+
+**Why it matters:** If you want structured, hands-on AI training rather than self-directed learning, The Co Lab offers programmes designed around the practical needs of NZ small businesses. Worth checking out if your team would benefit from guided support.
+
 ### NewZealand.AI
 
 **What it is:** A platform featuring NZ-specific AI case studies, adoption insights, and training resources.
@@ -130,3 +136,5 @@ This adds up to about 2-3 hours per month. That's a small investment for staying
 [Business.govt.nz — Government guide to AI for New Zealand businesses](https://www.business.govt.nz/how-to-grow/innovation/artificial-intelligence/)
 
 [NZTech — Advocacy and resources for New Zealand's technology sector](https://nztech.org.nz/)
+
+[The Co Lab — AI training and guidance for NZ small businesses](https://thecolab.ai)
