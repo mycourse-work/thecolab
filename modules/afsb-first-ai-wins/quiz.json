@@ -1,0 +1,96 @@
+{
+  "title": "First AI Wins Quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "text": "According to the Impact/Effort Matrix, which type of AI use case should you tackle first?",
+      "options": [
+        { "id": "a", "text": "Strategic Projects — they have the biggest long-term payoff", "correct": false },
+        { "id": "b", "text": "Quick Wins — high impact, low effort tasks that build momentum", "correct": true },
+        { "id": "c", "text": "Deferred — they're the most technically interesting", "correct": false },
+        { "id": "d", "text": "Self-Service — they're the easiest to set up", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What does the RTF framework stand for in prompt engineering?",
+      "options": [
+        { "id": "a", "text": "Review, Test, Finalise", "correct": false },
+        { "id": "b", "text": "Research, Target, Format", "correct": false },
+        { "id": "c", "text": "Role, Task, Format", "correct": true },
+        { "id": "d", "text": "Result, Tone, Frequency", "correct": false }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which of these prompts would give the BEST result for a NZ business?",
+      "options": [
+        { "id": "a", "text": "Write me a social media post.", "correct": false },
+        { "id": "b", "text": "Write a marketing post about my business for Facebook.", "correct": false },
+        { "id": "c", "text": "Act as a social media manager for a NZ plumbing company. Write a Facebook post promoting our winter heating check service. Under 150 words, friendly tone, include a call to action. NZ English.", "correct": true },
+        { "id": "d", "text": "I need help with social media. Can you generate some content?", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "text": "Which of the following are good characteristics of a FIRST AI use case? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "It's a task you do frequently (daily or weekly)", "correct": true },
+        { "id": "b", "text": "It requires building a custom AI model", "correct": false },
+        { "id": "c", "text": "It's low-risk if something goes wrong", "correct": true },
+        { "id": "d", "text": "It involves sensitive client financial data", "correct": false },
+        { "id": "e", "text": "It's something that currently takes you significant time", "correct": true }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is 'few-shot prompting'?",
+      "options": [
+        { "id": "a", "text": "Asking the AI the same question multiple times to get better answers", "correct": false },
+        { "id": "b", "text": "Giving the AI an example of the output you want before asking it to produce something new", "correct": true },
+        { "id": "c", "text": "Using short, minimal prompts to save time", "correct": false },
+        { "id": "d", "text": "Limiting the AI to only a few words in its response", "correct": false }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "MULTIPLE_RESPONSE",
+      "text": "Which of these are AI features available in Xero's JAX? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Smart transaction reconciliation that learns from your patterns", "correct": true },
+        { "id": "b", "text": "Automatic tax filing and compliance decisions", "correct": false },
+        { "id": "c", "text": "Receipt capture from photos with automatic data extraction", "correct": true },
+        { "id": "d", "text": "Cash flow projections up to 180 days ahead", "correct": true },
+        { "id": "e", "text": "Replacing your accountant for end-of-year tax returns", "correct": false }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "MULTIPLE_CHOICE",
+      "text": "A business owner asks AI to write marketing copy. What is the MOST important thing they should do before publishing it?",
+      "options": [
+        { "id": "a", "text": "Nothing — AI-generated content is always accurate and ready to publish", "correct": false },
+        { "id": "b", "text": "Post it immediately to save time, and fix any issues later", "correct": false },
+        { "id": "c", "text": "Review the content, verify any claims, add personal touches, and ensure it complies with the Fair Trading Act", "correct": true },
+        { "id": "d", "text": "Run it through a second AI tool to double-check it", "correct": false }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "MULTIPLE_CHOICE",
+      "text": "You use AI to analyse your monthly revenue data and it suggests a specific tax strategy. What should you do?",
+      "options": [
+        { "id": "a", "text": "Follow the suggestion immediately — AI is trained on financial regulations", "correct": false },
+        { "id": "b", "text": "Ignore the analysis entirely — AI can't handle financial data", "correct": false },
+        { "id": "c", "text": "Use the analysis to understand your trends, but verify the tax advice with your accountant before acting on it", "correct": true },
+        { "id": "d", "text": "Ask the AI to recalculate with more data to confirm the strategy", "correct": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "AI Governance Quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What percentage of NZ businesses report 'shadow AI' — staff using unapproved AI tools without oversight?",
+      "options": [
+        { "id": "a", "text": "22%", "correct": false },
+        { "id": "b", "text": "37%", "correct": false },
+        { "id": "c", "text": "52%", "correct": true },
+        { "id": "d", "text": "68%", "correct": false }
+      ],
+      "explanation": "52% of NZ businesses identify shadow AI as a problem. This is more than half, which is why governance — even lightweight governance — is so important."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "In the AI Forum NZ's 'AI Ready' pathway, what is the first practice a small business should establish?",
+      "options": [
+        { "id": "a", "text": "Build an AI system inventory", "correct": false },
+        { "id": "b", "text": "Establish governance ownership — name one person responsible", "correct": true },
+        { "id": "c", "text": "Conduct a full risk assessment", "correct": false },
+        { "id": "d", "text": "Engage external consultants", "correct": false }
+      ],
+      "explanation": "The first AI Ready practice is establishing governance ownership — naming one person who is responsible for AI governance decisions. For many small businesses, this is the owner or a senior manager."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following data types should NEVER be put into AI tools? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Passwords and access credentials", "correct": true },
+        { "id": "b", "text": "Published marketing content from your website", "correct": false },
+        { "id": "c", "text": "Health information about staff or customers", "correct": true },
+        { "id": "d", "text": "Bank account numbers and credit card details", "correct": true },
+        { "id": "e", "text": "General meeting notes with no personal information", "correct": false }
+      ],
+      "explanation": "Passwords, health information, and bank/credit card details are classified as 'Restricted' and should never be put into AI tools. Published marketing content is public, and general meeting notes without personal information are typically safe for approved business-tier tools."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Your team member wants to use a free AI chatbot to draft customer emails that include customer names and order details. What should you do?",
+      "options": [
+        { "id": "a", "text": "Allow it — AI chatbots are safe for all data", "correct": false },
+        { "id": "b", "text": "Ban all AI use for customer communications", "correct": false },
+        { "id": "c", "text": "Require a business-tier AI account and human review before sending", "correct": true },
+        { "id": "d", "text": "Allow it only for customers who have given written consent", "correct": false }
+      ],
+      "explanation": "Free-tier AI tools typically use your inputs for model training, making them inappropriate for customer data. The right approach is to use a business-tier account (which has data protection agreements) and require human review before sending customer communications."
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the recommended minimum record-keeping approach for AI governance in a small business?",
+      "options": [
+        { "id": "a", "text": "Purchase dedicated governance software", "correct": false },
+        { "id": "b", "text": "A spreadsheet with your AI register, incident log, and decision log", "correct": true },
+        { "id": "c", "text": "Keep no records — NZ has no mandatory AI record-keeping laws", "correct": false },
+        { "id": "d", "text": "Hire an external auditor to maintain records", "correct": false }
+      ],
+      "explanation": "A well-maintained spreadsheet covering your AI register, incident log, and key decision records is perfectly adequate for most small businesses. It's simple, accessible, and meets the spirit of the MBIE guidance."
+    },
+    {
+      "id": "q6",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "When evaluating a new AI vendor, which of the following are red flags in their terms of service? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Your data is used to train the AI model", "correct": true },
+        { "id": "b", "text": "The vendor offers a 14-day free trial", "correct": false },
+        { "id": "c", "text": "No guarantee that data is deleted when you close your account", "correct": true },
+        { "id": "d", "text": "The vendor can change terms at any time without notice", "correct": true },
+        { "id": "e", "text": "The vendor has a Service Level Agreement for uptime", "correct": false }
+      ],
+      "explanation": "Data being used for training, no deletion guarantees, and unilateral terms changes are all red flags. A free trial is standard practice (not a red flag), and having an SLA for uptime is a positive sign."
+    },
+    {
+      "id": "q7",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which AI-assisted activities require human oversight before the output reaches a customer?",
+      "options": [
+        { "id": "a", "text": "Only legal and financial outputs", "correct": false },
+        { "id": "b", "text": "All customer-facing content, financial calculations, legal matters, and decisions about people", "correct": true },
+        { "id": "c", "text": "Nothing — AI tools are accurate enough to send directly", "correct": false },
+        { "id": "d", "text": "Only outputs that contain personal data", "correct": false }
+      ],
+      "explanation": "Human oversight should be applied to all customer-facing content, financial calculations, legal/compliance matters, and any decisions affecting people (hiring, performance). Internal brainstorming and research can have lighter oversight."
+    },
+    {
+      "id": "q8",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A customer asks whether your business uses AI. What is the best approach?",
+      "options": [
+        { "id": "a", "text": "Avoid answering — there's no legal requirement to disclose AI use in NZ", "correct": false },
+        { "id": "b", "text": "Say no to avoid losing the customer", "correct": false },
+        { "id": "c", "text": "Be honest, explain how you use AI, and describe your human oversight process", "correct": true },
+        { "id": "d", "text": "Refer them to your legal team", "correct": false }
+      ],
+      "explanation": "Transparency builds trust. While NZ doesn't have a mandatory AI disclosure law, being honest about your AI use — and explaining your safeguards like human review — positions your business as trustworthy and professional. Customers generally appreciate honesty."
+    }
+  ]
+}

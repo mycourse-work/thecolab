@@ -1,0 +1,13 @@
+{
+  "id": "afsb-implementing-ai",
+  "title": "Implementing AI in Your Business",
+  "description": "A step-by-step guide to rolling out AI without wasting money or losing your team along the way.",
+  "lessons": [
+    { "id": "seven-step-methodology", "title": "The 7-Step Implementation Methodology", "type": "content", "markdownPath": "seven-step-methodology.md" },
+    { "id": "pilot-measure-scale", "title": "Pilot, Measure, Scale", "type": "content", "markdownPath": "pilot-measure-scale.md" },
+    { "id": "change-management", "title": "Change Management for Small Teams", "type": "content", "markdownPath": "change-management.md" },
+    { "id": "common-pitfalls", "title": "Common Pitfalls and How to Avoid Them", "type": "content", "markdownPath": "common-pitfalls.md" },
+    { "id": "nz-support-and-funding", "title": "NZ Support and Funding", "type": "content", "markdownPath": "nz-support-and-funding.md" },
+    { "id": "quiz", "title": "Implementation Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

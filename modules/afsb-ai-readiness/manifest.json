@@ -1,0 +1,13 @@
+{
+  "id": "afsb-ai-readiness",
+  "title": "Assessing Your AI Readiness",
+  "description": "Work out where your business stands, what you need to get sorted, and how to build a solid case for getting started with AI.",
+  "lessons": [
+    { "id": "readiness-framework", "title": "The 5-Dimension Readiness Framework", "type": "content", "markdownPath": "readiness-framework.md" },
+    { "id": "auditing-your-data", "title": "Auditing Your Data", "type": "content", "markdownPath": "auditing-your-data.md" },
+    { "id": "mapping-your-processes", "title": "Mapping Your Processes", "type": "content", "markdownPath": "mapping-your-processes.md" },
+    { "id": "skills-gap-analysis", "title": "Skills Gap Analysis", "type": "content", "markdownPath": "skills-gap-analysis.md" },
+    { "id": "building-your-business-case", "title": "Building Your Business Case", "type": "content", "markdownPath": "building-your-business-case.md" },
+    { "id": "quiz", "title": "AI Readiness Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

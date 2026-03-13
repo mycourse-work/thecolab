@@ -1,0 +1,128 @@
+{
+  "title": "AI Tools Quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You run a plumbing business and want to automate quoting and job scheduling. Which tool would be most relevant?",
+      "options": [
+        { "id": "a", "text": "Canva Pro", "correct": false },
+        { "id": "b", "text": "Tradify", "correct": true },
+        { "id": "c", "text": "Buffer", "correct": false },
+        { "id": "d", "text": "Jasper AI", "correct": false }
+      ],
+      "feedback": {
+        "correct": "That's right. Tradify is purpose-built for trades businesses — it handles quoting, job scheduling, invoicing, and timesheets with AI-assisted features.",
+        "incorrect": "Tradify is the best fit here. It's specifically built for trades businesses like plumbers, electricians, and builders, with AI-powered quoting and scheduling."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Your business already uses Google Workspace (Gmail, Docs, Sheets). Which AI assistant is the most cost-effective starting point?",
+      "options": [
+        { "id": "a", "text": "Microsoft Copilot", "correct": false },
+        { "id": "b", "text": "ChatGPT Plus", "correct": false },
+        { "id": "c", "text": "Gemini", "correct": true },
+        { "id": "d", "text": "Jasper AI", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Spot on. Gemini is built into Google Workspace and may already be included in your plan at $14/user/month — making it the most cost-effective option if you're already in the Google ecosystem.",
+        "incorrect": "Gemini is the best choice here. Since you're already on Google Workspace, Gemini integrates directly with your existing tools and may already be included in your subscription."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are AI features included in Xero at no extra charge? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Auto-categorisation of expenses", "correct": true },
+        { "id": "b", "text": "AI-generated marketing emails", "correct": false },
+        { "id": "c", "text": "Bank reconciliation suggestions", "correct": true },
+        { "id": "d", "text": "Cash flow forecasting", "correct": true },
+        { "id": "e", "text": "Automated social media posting", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Well done. Xero's JAX AI includes auto-categorisation, bank reconciliation suggestions, and cash flow forecasting — all included in your existing subscription.",
+        "incorrect": "Xero's JAX AI includes auto-categorisation of expenses, bank reconciliation suggestions, and cash flow forecasting. It doesn't handle marketing emails or social media — those are separate tools."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A Wellington hotel wants to handle after-hours booking enquiries without hiring night staff. Based on the NZ examples in this module, what approach has worked?",
+      "options": [
+        { "id": "a", "text": "Hiring a virtual assistant in a different time zone", "correct": false },
+        { "id": "b", "text": "Deploying an AI chatbot like the Bolton Hotel's 'Bea'", "correct": true },
+        { "id": "c", "text": "Setting up an auto-reply email", "correct": false },
+        { "id": "d", "text": "Redirecting all enquiries to a call centre", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Correct. The Bolton Hotel's chatbot Bea handles booking enquiries, room information, and local recommendations 24/7 without additional staffing costs.",
+        "incorrect": "The Bolton Hotel in Wellington deployed an AI chatbot called Bea that handles booking enquiries 24/7. It's a proven NZ example of AI solving the after-hours customer service problem."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What percentage of customer inquiries can AI chatbots like Tidio's Lyro handle without human involvement?",
+      "options": [
+        { "id": "a", "text": "Up to 25%", "correct": false },
+        { "id": "b", "text": "Up to 40%", "correct": false },
+        { "id": "c", "text": "Up to 64%", "correct": true },
+        { "id": "d", "text": "Up to 90%", "correct": false }
+      ],
+      "feedback": {
+        "correct": "That's right. Lyro AI can handle up to 64% of customer inquiries automatically — nearly two-thirds of your customer service workload, running 24/7.",
+        "incorrect": "Tidio's Lyro AI can handle up to 64% of customer inquiries without human involvement. That's a significant chunk of routine questions handled automatically."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "When should you keep a human in the loop rather than fully automating with AI? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Handling customer complaints", "correct": true },
+        { "id": "b", "text": "Processing receipts into accounting software", "correct": false },
+        { "id": "c", "text": "Making hiring decisions", "correct": true },
+        { "id": "d", "text": "Sending order confirmation emails", "correct": false },
+        { "id": "e", "text": "High-value sales conversations", "correct": true }
+      ],
+      "feedback": {
+        "correct": "Exactly. Customer complaints, hiring decisions, and high-value sales all require human judgment, empathy, and personal relationships. Receipt processing and order confirmations are ideal candidates for full automation.",
+        "incorrect": "Tasks requiring judgment, personal relationships, or where mistakes have serious consequences — like complaints, hiring, and high-value sales — should keep humans involved. Repetitive, rule-based tasks like receipt processing and order confirmations are safe to fully automate."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You're a sole trader and want to automate your tax calculations and GST payments. Which NZ tool is specifically designed for this?",
+      "options": [
+        { "id": "a", "text": "Xero", "correct": false },
+        { "id": "b", "text": "Hnry", "correct": true },
+        { "id": "c", "text": "Make.com", "correct": false },
+        { "id": "d", "text": "HubSpot", "correct": false }
+      ],
+      "feedback": {
+        "correct": "That's right. Hnry is specifically built for NZ sole traders, contractors, and freelancers. It automatically calculates and pays income tax, GST, ACC, and student loan with every payment you receive — at just 1% of income, capped at $1,500/year.",
+        "incorrect": "Hnry is the tool built specifically for this. It's designed for NZ sole traders and automatically handles income tax, GST, ACC, and student loan deductions at just 1% of income (capped at $1,500/year). Xero is great accounting software but doesn't automate tax payments the same way."
+      }
+    },
+    {
+      "id": "q8",
+      "type": "MULTIPLE_CHOICE",
+      "question": "According to the AI Forum of NZ, what is the average return on investment for AI tools in New Zealand businesses?",
+      "options": [
+        { "id": "a", "text": "$1.50 return for every $1 invested", "correct": false },
+        { "id": "b", "text": "$2.50 return for every $1 invested", "correct": false },
+        { "id": "c", "text": "$3.50 return for every $1 invested", "correct": true },
+        { "id": "d", "text": "$5.00 return for every $1 invested", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Correct. The AI Forum reports an average ROI of 3.7x — meaning $3.50 back for every $1 invested. Combined with the fact that 75% of organisations found setup costs under $5,000, AI is proving to be a solid investment for NZ businesses.",
+        "incorrect": "The AI Forum of NZ reports an average ROI of 3.7x, which works out to $3.50 return for every $1 invested. That's a strong return, especially given that 75% of organisations found their setup costs were under $5,000."
+      }
+    }
+  ]
+}

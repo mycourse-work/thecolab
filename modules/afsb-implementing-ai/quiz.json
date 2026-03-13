@@ -1,0 +1,287 @@
+{
+  "title": "Implementation Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Your business partner says \"We need to start using AI.\" What's the best first step?",
+      "questionHtml": "<p>Your business partner says \"We need to start using AI.\" What's the best first step?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Sign up for ChatGPT, Copilot, and Claude subscriptions immediately",
+          "textHtml": "<p>Sign up for ChatGPT, Copilot, and Claude subscriptions immediately</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Identify a specific business problem you want AI to solve, with measurable goals",
+          "textHtml": "<p>Identify a specific business problem you want AI to solve, with measurable goals</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Hire an AI consultant to build a custom solution",
+          "textHtml": "<p>Hire an AI consultant to build a custom solution</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Send the whole team on an AI training course",
+          "textHtml": "<p>Send the whole team on an AI training course</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Step 1 of the 7-Step Methodology is to start with clear business objectives. \"Reduce invoice processing time by 50%\" is an objective. \"Use AI\" is not. Tools, training, and consultants come after you've defined the problem.",
+      "feedbackHtml": "<p>Step 1 of the 7-Step Methodology is to start with clear business objectives. \"Reduce invoice processing time by 50%\" is an objective. \"Use AI\" is not. Tools, training, and consultants come after you've defined the problem.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "You're planning an AI pilot for your 8-person team. What's the recommended timeframe?",
+      "questionHtml": "<p>You're planning an AI pilot for your 8-person team. What's the recommended timeframe?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "1-2 weeks — move fast and decide quickly",
+          "textHtml": "<p>1-2 weeks — move fast and decide quickly</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "4-8 weeks — enough time to gather meaningful data",
+          "textHtml": "<p>4-8 weeks — enough time to gather meaningful data</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "6-12 months — thorough evaluation takes time",
+          "textHtml": "<p>6-12 months — thorough evaluation takes time</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "No set timeframe — just keep going until you see results",
+          "textHtml": "<p>No set timeframe — just keep going until you see results</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "A 4-8 week pilot is the sweet spot. Shorter than that and you won't have enough data to draw conclusions. Longer and you risk losing momentum. Always set a clear review date before you start.",
+      "feedbackHtml": "<p>A 4-8 week pilot is the sweet spot. Shorter than that and you won't have enough data to draw conclusions. Longer and you risk losing momentum. Always set a clear review date before you start.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which of the following are signs that your AI pilot is ready to scale?",
+      "questionHtml": "<p>Select ALL that apply: Which of the following are signs that your AI pilot is ready to scale?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Success metrics have been consistently positive for 3-4 weeks",
+          "textHtml": "<p>Success metrics have been consistently positive for 3-4 weeks</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "The vendor offers a 50% discount on annual licenses",
+          "textHtml": "<p>The vendor offers a 50% discount on annual licenses</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_c",
+          "text": "Team members are using the tool willingly and regularly",
+          "textHtml": "<p>Team members are using the tool willingly and regularly</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_d",
+          "text": "Other team members or departments are asking to try the tool",
+          "textHtml": "<p>Other team members or departments are asking to try the tool</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Ready-to-scale signals include consistent positive metrics, willing team adoption, and demand from others. A vendor discount is a sales tactic, not evidence that the tool is working for your business.",
+      "feedbackHtml": "<p>Ready-to-scale signals include consistent positive metrics, willing team adoption, and demand from others. A vendor discount is a sales tactic, not evidence that the tool is working for your business.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Your office manager is excited about AI, but two other team members are worried it will replace their jobs. What's the best approach?",
+      "questionHtml": "<p>Your office manager is excited about AI, but two other team members are worried it will replace their jobs. What's the best approach?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Tell them to get on board or get left behind",
+          "textHtml": "<p>Tell them to get on board or get left behind</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Delay the AI rollout until everyone is comfortable",
+          "textHtml": "<p>Delay the AI rollout until everyone is comfortable</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_c",
+          "text": "Acknowledge their concerns, explain that AI handles tedious tasks not roles, and start with a specific pain point they'd benefit from",
+          "textHtml": "<p>Acknowledge their concerns, explain that AI handles tedious tasks not roles, and start with a specific pain point they'd benefit from</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_d",
+          "text": "Implement AI quietly without telling the team",
+          "textHtml": "<p>Implement AI quietly without telling the team</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Good change management means addressing concerns honestly. 92% of NZ organisations using AI haven't replaced any workers. Frame AI around removing tedious tasks, not roles, and let the office manager be your AI champion to demonstrate value.",
+      "feedbackHtml": "<p>Good change management means addressing concerns honestly. 92% of NZ organisations using AI haven't replaced any workers. Frame AI around removing tedious tasks, not roles, and let the office manager be your AI champion to demonstrate value.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "A cafe owner invested in an AI-powered inventory system six months ago but has never reviewed or updated how they use it. What pitfall have they fallen into?",
+      "questionHtml": "<p>A cafe owner invested in an AI-powered inventory system six months ago but has never reviewed or updated how they use it. What pitfall have they fallen into?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "No clear objectives",
+          "textHtml": "<p>No clear objectives</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Overestimating AI capabilities",
+          "textHtml": "<p>Overestimating AI capabilities</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_c",
+          "text": "Ignoring scalability",
+          "textHtml": "<p>Ignoring scalability</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "Treating it as done — skipping continuous iteration",
+          "textHtml": "<p>Treating it as done — skipping continuous iteration</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "AI tools evolve rapidly and need regular review. Treating an implementation as \"done\" means missing new features, failing to optimise workflows, and potentially using outdated approaches. Schedule quarterly reviews to keep your AI implementations current.",
+      "feedbackHtml": "<p>AI tools evolve rapidly and need regular review. Treating an implementation as \"done\" means missing new features, failing to optimise workflows, and potentially using outdated approaches. Schedule quarterly reviews to keep your AI implementations current.</p>"
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which NZ support options provide free resources for businesses implementing AI?",
+      "questionHtml": "<p>Select ALL that apply: Which NZ support options provide free resources for businesses implementing AI?</p>",
+      "answers": [
+        {
+          "id": "q6_a",
+          "text": "AI Forum NZ Governance Framework",
+          "textHtml": "<p>AI Forum NZ Governance Framework</p>",
+          "correct": true
+        },
+        {
+          "id": "q6_b",
+          "text": "AI Forum e-Learning Modules",
+          "textHtml": "<p>AI Forum e-Learning Modules</p>",
+          "correct": true
+        },
+        {
+          "id": "q6_c",
+          "text": "Business Mentors NZ AI guide",
+          "textHtml": "<p>Business Mentors NZ AI guide</p>",
+          "correct": true
+        },
+        {
+          "id": "q6_d",
+          "text": "Spark AI Foundations course",
+          "textHtml": "<p>Spark AI Foundations course</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The AI Forum Governance Framework, AI Forum e-Learning Modules, and Business Mentors NZ AI guide are all free. Spark AI Foundations costs $450 (though it's free for Spark customers specifically).",
+      "feedbackHtml": "<p>The AI Forum Governance Framework, AI Forum e-Learning Modules, and Business Mentors NZ AI guide are all free. Spark AI Foundations costs $450 (though it's free for Spark customers specifically).</p>"
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "The AI Advisory Pilot Programme offers co-funding for NZ small businesses. What's the maximum amount available per business?",
+      "questionHtml": "<p>The AI Advisory Pilot Programme offers co-funding for NZ small businesses. What's the maximum amount available per business?</p>",
+      "answers": [
+        {
+          "id": "q7_a",
+          "text": "$5,000",
+          "textHtml": "<p>$5,000</p>",
+          "correct": false
+        },
+        {
+          "id": "q7_b",
+          "text": "$10,000",
+          "textHtml": "<p>$10,000</p>",
+          "correct": false
+        },
+        {
+          "id": "q7_c",
+          "text": "$15,000",
+          "textHtml": "<p>$15,000</p>",
+          "correct": true
+        },
+        {
+          "id": "q7_d",
+          "text": "$25,000",
+          "textHtml": "<p>$25,000</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The AI Advisory Pilot Programme offers up to $15,000 per business in co-funding (50% of eligible costs). This breaks down into $2,500 for an AI roadmap and $12,500 for implementation support, delivered through the Regional Business Partner Network.",
+      "feedbackHtml": "<p>The AI Advisory Pilot Programme offers up to $15,000 per business in co-funding (50% of eligible costs). This breaks down into $2,500 for an AI roadmap and $12,500 for implementation support, delivered through the Regional Business Partner Network.</p>"
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Your AI pilot to automate weekly reporting has been running for six weeks. The tool creates more work than it saves because team members spend significant time correcting the output. What should you do?",
+      "questionHtml": "<p>Your AI pilot to automate weekly reporting has been running for six weeks. The tool creates more work than it saves because team members spend significant time correcting the output. What should you do?</p>",
+      "answers": [
+        {
+          "id": "q8_a",
+          "text": "Keep going for another six weeks — AI takes time to learn",
+          "textHtml": "<p>Keep going for another six weeks — AI takes time to learn</p>",
+          "correct": false
+        },
+        {
+          "id": "q8_b",
+          "text": "Cancel the AI programme entirely — it clearly doesn't work for your business",
+          "textHtml": "<p>Cancel the AI programme entirely — it clearly doesn't work for your business</p>",
+          "correct": false
+        },
+        {
+          "id": "q8_c",
+          "text": "Pivot — try a different tool, a different use case, or invest more in prompt training",
+          "textHtml": "<p>Pivot — try a different tool, a different use case, or invest more in prompt training</p>",
+          "correct": true
+        },
+        {
+          "id": "q8_d",
+          "text": "Buy a more expensive enterprise AI platform",
+          "textHtml": "<p>Buy a more expensive enterprise AI platform</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "When a pilot isn't working after a reasonable timeframe, it's time to pivot — not abandon AI entirely or throw more money at it. You can adjust the tool (try a different one), adjust the use case (apply AI to a different task), or adjust the approach (better prompts or more training). Only 15-20% of AI projects succeed on the first attempt, so pivoting is a normal part of the process.",
+      "feedbackHtml": "<p>When a pilot isn't working after a reasonable timeframe, it's time to pivot — not abandon AI entirely or throw more money at it. You can adjust the tool (try a different one), adjust the use case (apply AI to a different task), or adjust the approach (better prompts or more training). Only 15-20% of AI projects succeed on the first attempt, so pivoting is a normal part of the process.</p>"
+    }
+  ]
+}

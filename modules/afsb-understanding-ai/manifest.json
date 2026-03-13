@@ -1,0 +1,13 @@
+{
+  "id": "afsb-understanding-ai",
+  "title": "Understanding AI for Your Business",
+  "description": "What AI actually is, why it matters for NZ businesses right now, and what other Kiwi businesses are already doing with it.",
+  "lessons": [
+    { "id": "what-is-ai", "title": "What Is AI and Why It Matters Now", "type": "content", "markdownPath": "what-is-ai.md" },
+    { "id": "types-of-ai", "title": "Types of AI You'll Actually Use", "type": "content", "markdownPath": "types-of-ai.md" },
+    { "id": "nz-ai-landscape", "title": "The NZ AI Landscape", "type": "content", "markdownPath": "nz-ai-landscape.md" },
+    { "id": "nz-success-stories", "title": "NZ Success Stories", "type": "content", "markdownPath": "nz-success-stories.md" },
+    { "id": "myths-and-reality", "title": "Myths, Risks, and Reality Checks", "type": "content", "markdownPath": "myths-and-reality.md" },
+    { "id": "quiz", "title": "Understanding AI Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "afsb-future-proofing",
+  "title": "Future-Proofing Your Business",
+  "description": "Where AI is heading, how to build an AI-capable team, and your personal action plan to get started.",
+  "lessons": [
+    { "id": "ai-agents-and-automation", "title": "AI Agents and Autonomous Workflows", "type": "content", "markdownPath": "ai-agents-and-automation.md" },
+    { "id": "building-ai-capable-team", "title": "Building an AI-Capable Team", "type": "content", "markdownPath": "building-ai-capable-team.md" },
+    { "id": "industry-trends-nz", "title": "Industry Trends for NZ", "type": "content", "markdownPath": "industry-trends-nz.md" },
+    { "id": "staying-current", "title": "Staying Current and Connected", "type": "content", "markdownPath": "staying-current.md" },
+    { "id": "your-ai-action-plan", "title": "Your AI Action Plan", "type": "content", "markdownPath": "your-ai-action-plan.md" },
+    { "id": "quiz", "title": "Future-Proofing Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

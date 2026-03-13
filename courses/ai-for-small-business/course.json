@@ -1,0 +1,18 @@
+{
+  "id": "ai-for-small-business",
+  "title": "AI For Small Business",
+  "description": "A practical guide for New Zealand small business owners to understand, evaluate, and start using AI tools in their day-to-day work. No technical background needed — just real-world advice, NZ case studies, and step-by-step guidance to help your business work smarter.",
+  "coverImage": "cover.png",
+  "estimatedDuration": "4-6 hours",
+  "welcomePath": "welcome.md",
+  "modules": [
+    "afsb-understanding-ai",
+    "afsb-ai-readiness",
+    "afsb-ai-tools",
+    "afsb-first-ai-wins",
+    "afsb-responsible-ai-nz",
+    "afsb-implementing-ai",
+    "afsb-ai-governance",
+    "afsb-future-proofing"
+  ]
+}

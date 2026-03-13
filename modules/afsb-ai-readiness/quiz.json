@@ -1,0 +1,129 @@
+{
+  "title": "AI Readiness Quiz",
+  "description": "Test your understanding of AI readiness assessment, data auditing, process mapping, skills analysis, and building a business case.",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "In the 5-Dimension Readiness Framework, which dimension carries the most weight?",
+      "options": [
+        { "id": "a", "text": "Budget Alignment (30%)", "correct": false },
+        { "id": "b", "text": "Team Capability (30%)", "correct": false },
+        { "id": "c", "text": "Data Maturity (30%)", "correct": true },
+        { "id": "d", "text": "Process Documentation (30%)", "correct": false }
+      ],
+      "feedback": {
+        "correct": "That's right. Data Maturity carries 30% of the readiness score because AI runs on data — if your data isn't in good shape, AI tools won't have much to work with.",
+        "incorrect": "Not quite. Data Maturity carries the highest weight at 30%. AI runs on data, so the quality and accessibility of your business data is the single biggest factor in your AI readiness."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You run a small landscaping business. Your customer details are in a notebook, your quotes are in Word documents on your laptop, and your invoicing is in Xero. Which data quality issue should you address first?",
+      "options": [
+        { "id": "a", "text": "Upgrade your internet speed", "correct": false },
+        { "id": "b", "text": "Move your customer details from the notebook into a digital system", "correct": true },
+        { "id": "c", "text": "Switch from Xero to a different accounting platform", "correct": false },
+        { "id": "d", "text": "Start collecting social media analytics", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Spot on. Customer data trapped in a notebook isn't accessible, searchable, or usable by any AI tool. Moving it into a digital system (even a simple spreadsheet or CRM) is the highest-impact first step.",
+        "incorrect": "The biggest issue here is customer data locked in a paper notebook. It's not accessible, searchable, or usable by AI. Digitising that information should come first."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are qualities of good data for AI purposes? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Accurate — the data is correct and up to date", "correct": true },
+        { "id": "b", "text": "Voluminous — you have as much data as possible", "correct": false },
+        { "id": "c", "text": "Complete — there are no significant gaps", "correct": true },
+        { "id": "d", "text": "Consistent — the same information is recorded the same way", "correct": true },
+        { "id": "e", "text": "Accessible — you can actually get to it when needed", "correct": true }
+      ],
+      "feedback": {
+        "correct": "That's right. The four qualities of good data are accurate, complete, consistent, and accessible. Data quality matters far more than data quantity.",
+        "incorrect": "The four qualities are Accurate, Complete, Consistent, and Accessible. Volume (having lots of data) isn't one of them — data quality matters much more than quantity for most small business AI use cases."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You've mapped your processes and found that responding to customer enquiries takes 10 minutes each and happens about 5 times per day. What's the approximate monthly time cost of this task?",
+      "options": [
+        { "id": "a", "text": "About 5 hours per month", "correct": false },
+        { "id": "b", "text": "About 10 hours per month", "correct": false },
+        { "id": "c", "text": "About 16-17 hours per month", "correct": true },
+        { "id": "d", "text": "About 25 hours per month", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Right. 10 minutes x 5 times/day = 50 minutes/day. Over roughly 22 working days, that's about 18 hours per month — a significant chunk of time that AI could help reduce.",
+        "incorrect": "Let's do the maths: 10 minutes x 5 per day = 50 minutes/day. Over about 22 working days per month, that's approximately 18 hours. The closest answer is 16-17 hours. This shows why process mapping matters — small tasks add up."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "According to the Impact/Effort matrix, which types of AI opportunities should you tackle first?",
+      "options": [
+        { "id": "a", "text": "Strategic Projects — high impact, high effort", "correct": false },
+        { "id": "b", "text": "Quick Wins — high impact, low effort", "correct": true },
+        { "id": "c", "text": "Self-Service — low impact, low effort", "correct": false },
+        { "id": "d", "text": "Deferred — low impact, high effort", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Exactly. Quick Wins give you the biggest return for the least effort. They build confidence and generate evidence for your business case before you tackle bigger projects.",
+        "incorrect": "Quick Wins (high impact, low effort) should always come first. They deliver noticeable results with minimal investment, which builds confidence and evidence for tackling bigger projects later."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "You're planning AI training for your small team of 6 people. Which approaches align with the 'Community of Multipliers' strategy? (Select all that apply)",
+      "options": [
+        { "id": "a", "text": "Send everyone to a full-day AI workshop at the same time", "correct": false },
+        { "id": "b", "text": "Identify 1-2 digitally confident team members as AI champions", "correct": true },
+        { "id": "c", "text": "Invest in proper training for your champions first", "correct": true },
+        { "id": "d", "text": "Have champions run regular show-and-tells to share what they've learned", "correct": true },
+        { "id": "e", "text": "Mandate that all staff must use AI tools immediately", "correct": false }
+      ],
+      "feedback": {
+        "correct": "That's the approach. Train a few enthusiastic people well, let them experiment, then have them share their knowledge with the rest of the team through regular show-and-tells.",
+        "incorrect": "The Community of Multipliers approach involves identifying 1-2 champions, investing in their training, and having them share knowledge through show-and-tells. It doesn't involve training everyone simultaneously or mandating AI use."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the average ROI that NZ businesses report from their AI investments?",
+      "options": [
+        { "id": "a", "text": "1.5x — $1.50 back for every $1 invested", "correct": false },
+        { "id": "b", "text": "2.0x — $2 back for every $1 invested", "correct": false },
+        { "id": "c", "text": "3.7x — $3.50 back for every $1 invested", "correct": true },
+        { "id": "d", "text": "10x — $10 back for every $1 invested", "correct": false }
+      ],
+      "feedback": {
+        "correct": "Correct. NZ businesses report an average AI ROI of 3.7x, meaning $3.50 returned for every $1 invested. And 75% of businesses got started for under $5,000.",
+        "incorrect": "The average NZ AI ROI is 3.7x — $3.50 returned for every $1 invested. Combined with the fact that 75% of businesses started for under $5,000, the financial case for AI is strong."
+      }
+    },
+    {
+      "id": "q8",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You scored 45/100 on the readiness framework and want to apply for government AI funding. Which programme specifically co-funds AI adoption for small businesses?",
+      "options": [
+        { "id": "a", "text": "The R&D Tax Incentive only", "correct": false },
+        { "id": "b", "text": "The AI Advisory Pilot Programme — co-funding up to $15,000", "correct": true },
+        { "id": "c", "text": "There is no government funding available for AI adoption", "correct": false },
+        { "id": "d", "text": "The Callaghan Innovation AI Grant — up to $100,000", "correct": false }
+      ],
+      "feedback": {
+        "correct": "That's right. The AI Advisory Pilot Programme offers co-funding up to 50% of eligible costs, capped at $15,000 per business — $2,500 for an AI roadmap plus $12,500 for implementation. It's delivered through the Regional Business Partner Network.",
+        "incorrect": "The AI Advisory Pilot Programme is the specific programme designed for SMEs. It co-funds up to 50% of eligible costs, capped at $15,000 per business, and is delivered through the Regional Business Partner Network."
+      }
+    }
+  ]
+}

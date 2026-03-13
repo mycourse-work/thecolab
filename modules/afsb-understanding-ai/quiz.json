@@ -1,0 +1,254 @@
+{
+  "title": "Understanding AI Quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Sarah runs a cafe in Auckland and wants to reduce how much food she throws away each day. Which type of AI would be most useful for predicting how many cabinet items to prepare each morning?",
+      "options": [
+        {
+          "id": "q1a",
+          "text": "Generative AI — it can create new recipes to use up leftovers",
+          "correct": false,
+          "feedback": "While generative AI could help with recipes, predicting demand requires analysing historical patterns. That's the job of predictive AI."
+        },
+        {
+          "id": "q1b",
+          "text": "Predictive AI — it analyses past sales patterns to forecast demand",
+          "correct": true,
+          "feedback": "Correct. Predictive AI analyses historical data — like past sales by day of week, weather, and events — to forecast how much stock to prepare. This is exactly what Foodstuffs uses with WhyWaste to achieve up to 90% waste reduction."
+        },
+        {
+          "id": "q1c",
+          "text": "Agentic AI — it can autonomously run the kitchen",
+          "correct": false,
+          "feedback": "Agentic AI takes autonomous actions, but the core need here is forecasting demand, which is a predictive AI task. An agentic system might place orders automatically, but prediction comes first."
+        },
+        {
+          "id": "q1d",
+          "text": "AI can't help with food waste — it's a physical problem",
+          "correct": false,
+          "feedback": "AI is excellent at reducing food waste through demand forecasting. Foodstuffs North Island achieved up to 90% food waste reduction using AI-powered inventory tracking."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What percentage of NZ organisations using AI have replaced workers as a result?",
+      "options": [
+        {
+          "id": "q2a",
+          "text": "About 50% — half have cut staff",
+          "correct": false,
+          "feedback": "This is a common fear but doesn't match reality. The actual number is much lower."
+        },
+        {
+          "id": "q2b",
+          "text": "About 25% — a quarter have made redundancies",
+          "correct": false,
+          "feedback": "Still too high. AI Forum research shows the real figure is much more reassuring for employees."
+        },
+        {
+          "id": "q2c",
+          "text": "About 8% — the vast majority have kept all staff",
+          "correct": true,
+          "feedback": "Correct. 92% of NZ organisations using AI have NOT replaced any workers. Instead, most redirect staff to higher-value tasks."
+        },
+        {
+          "id": "q2d",
+          "text": "0% — no NZ business has ever replaced staff due to AI",
+          "correct": false,
+          "feedback": "While the number is very low, it's not zero. About 8% of organisations have replaced some workers, but the vast majority (92%) have not."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "text": "Mike owns a plumbing business in Christchurch and wants to start using AI. Which of the following are good reasons to proceed? (Select all that apply)",
+      "options": [
+        {
+          "id": "q3a",
+          "text": "He spends 6 hours a week writing quotes and invoices manually",
+          "correct": true,
+          "feedback": "A clear, repetitive pain point that AI can help with — this is an ideal starting point."
+        },
+        {
+          "id": "q3b",
+          "text": "His competitor mentioned they're using AI",
+          "correct": false,
+          "feedback": "Adopting AI just because others are, without a clear business need, often leads to wasted money. Start with a specific problem to solve."
+        },
+        {
+          "id": "q3c",
+          "text": "He wants to improve his response time to customer inquiries",
+          "correct": true,
+          "feedback": "This is a specific, measurable problem that AI chatbots and automated responses can genuinely help with."
+        },
+        {
+          "id": "q3d",
+          "text": "He heard AI could add $76B to the NZ economy",
+          "correct": false,
+          "feedback": "While this stat is real, macro-economic projections aren't a reason for an individual business to adopt AI. You need a specific business problem the technology can solve."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What was the key lesson from Soul Machines entering receivership despite raising over $225M?",
+      "options": [
+        {
+          "id": "q4a",
+          "text": "AI technology doesn't actually work",
+          "correct": false,
+          "feedback": "Soul Machines' technology was genuinely world-leading. The problem was the business model, not the technology."
+        },
+        {
+          "id": "q4b",
+          "text": "Having great AI technology isn't enough — you need a viable business model",
+          "correct": true,
+          "feedback": "Correct. Soul Machines had impressive technology but couldn't build a sustainable business around it. For your business, this means always starting with the business case — will AI solve a real problem and deliver a clear return?"
+        },
+        {
+          "id": "q4c",
+          "text": "NZ businesses shouldn't try to compete globally with AI",
+          "correct": false,
+          "feedback": "Other NZ AI companies like Halter ($200M+ raised, global expansion) and Tracksuit ($42M raised, 400+ customers) show Kiwi companies can compete globally. The issue was Soul Machines' business model, not their ambition."
+        },
+        {
+          "id": "q4d",
+          "text": "AI requires too much investment for it to pay off",
+          "correct": false,
+          "feedback": "Soul Machines was a high-investment deep tech company. Most SME AI adoption costs under $5,000, and 75% of NZ organisations report setup costs in that range."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "text": "The NZ Government's AI Advisory Pilot Programme offers co-funding for SMEs. How much can a business receive?",
+      "options": [
+        {
+          "id": "q5a",
+          "text": "Up to $5,000 for an AI readiness assessment",
+          "correct": false,
+          "feedback": "The programme offers more than this. The AI roadmap component is $2,500, but implementation funding goes further."
+        },
+        {
+          "id": "q5b",
+          "text": "Up to $15,000 — covering an AI roadmap and implementation costs",
+          "correct": true,
+          "feedback": "Correct. The programme co-funds up to 50% of eligible costs, capped at $15,000 per business — $2,500 for an AI roadmap plus $12,500 for implementation. It's delivered through the Regional Business Partner Network."
+        },
+        {
+          "id": "q5c",
+          "text": "Up to $50,000 for full AI system development",
+          "correct": false,
+          "feedback": "The programme caps at $15,000 per business. For larger R&D projects, other funding like the R&D Tax Incentive or Callaghan Innovation grants may be relevant."
+        },
+        {
+          "id": "q5d",
+          "text": "There is no government funding available for SME AI adoption",
+          "correct": false,
+          "feedback": "There is! The AI Advisory Pilot Programme specifically targets SMEs with up to $15,000 in co-funding. Contact your local Regional Business Partner to apply."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "MULTIPLE_RESPONSE",
+      "text": "Which of the following are genuine risks of using AI in your business that you should actively manage? (Select all that apply)",
+      "options": [
+        {
+          "id": "q6a",
+          "text": "AI tools might process customer data overseas",
+          "correct": true,
+          "feedback": "Correct. Most AI tools process data on overseas servers, which raises Privacy Act considerations around cross-border data transfers."
+        },
+        {
+          "id": "q6b",
+          "text": "AI will become sentient and take over your business",
+          "correct": false,
+          "feedback": "Current AI has no consciousness, awareness, or goals of its own. It's sophisticated software, not a thinking entity."
+        },
+        {
+          "id": "q6c",
+          "text": "Staff might use unapproved AI tools without your knowledge (shadow AI)",
+          "correct": true,
+          "feedback": "Correct. 52% of NZ businesses identify shadow AI as a problem. Creating a clear AI policy helps manage this risk."
+        },
+        {
+          "id": "q6d",
+          "text": "AI might generate incorrect information that sounds convincing",
+          "correct": true,
+          "feedback": "Correct. AI 'hallucination' is a well-documented problem. AI can state made-up facts with complete confidence, so human review of outputs is essential."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Aroha runs a hair salon in Tauranga. She's considering AI but isn't sure where to start. Based on what NZ businesses typically spend on AI setup, what should she budget?",
+      "options": [
+        {
+          "id": "q7a",
+          "text": "At least $20,000 — AI requires significant upfront investment",
+          "correct": false,
+          "feedback": "This is much higher than what most NZ businesses actually spend. 75% of organisations report setup costs well below this."
+        },
+        {
+          "id": "q7b",
+          "text": "Under $5,000 — most NZ organisations got started for this amount or less",
+          "correct": true,
+          "feedback": "Correct. 75% of NZ organisations report AI setup costs under $5,000. Aroha could start with free AI tools and a practical productivity stack for $50-150/month, with an average return of $3.50 for every $1 invested."
+        },
+        {
+          "id": "q7c",
+          "text": "$50,000+ — she'd need custom AI development",
+          "correct": false,
+          "feedback": "Custom development is rarely needed for small businesses. Off-the-shelf tools like Timely (NZ-based booking/scheduling for salons) already have AI features built in."
+        },
+        {
+          "id": "q7d",
+          "text": "Nothing — all useful AI tools are free",
+          "correct": false,
+          "feedback": "While there are free tiers available, the most useful business features typically require paid plans. A starter stack runs $0-40/month, and a productivity stack $50-150/month."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Tom is drafting a legal contract for a client using AI. He asks ChatGPT to generate a standard services agreement and it produces a professional-looking document with legal references. What should he do next?",
+      "options": [
+        {
+          "id": "q8a",
+          "text": "Send it straight to the client — AI-generated legal documents are reliable",
+          "correct": false,
+          "feedback": "Never send AI-generated legal content without expert review. AI can hallucinate legal references, cite cases that don't exist, and miss important clauses specific to NZ law."
+        },
+        {
+          "id": "q8b",
+          "text": "Have a qualified lawyer review and verify the document before sending",
+          "correct": true,
+          "feedback": "Correct. AI is a powerful drafting tool — LawHawk achieves 75% time savings on document preparation — but legal documents must always be reviewed by a qualified professional. AI can hallucinate legal references and miss jurisdiction-specific requirements."
+        },
+        {
+          "id": "q8c",
+          "text": "Delete it and start from scratch — AI can't help with legal documents",
+          "correct": false,
+          "feedback": "AI can significantly speed up legal document preparation (LawHawk achieves 75% time savings), but the output must be reviewed by a qualified professional. It's a great starting point, not a finished product."
+        },
+        {
+          "id": "q8d",
+          "text": "Run it through a second AI tool to double-check it",
+          "correct": false,
+          "feedback": "Using a second AI to verify the first doesn't solve the core problem — both tools can hallucinate and miss issues. Legal documents need qualified human review, not just more AI."
+        }
+      ]
+    }
+  ]
+}

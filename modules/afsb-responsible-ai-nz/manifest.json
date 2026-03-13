@@ -1,0 +1,13 @@
+{
+  "id": "afsb-responsible-ai-nz",
+  "title": "Responsible AI and NZ Law",
+  "description": "What you need to know about privacy, copyright, Te Tiriti, and keeping your business on the right side of the law when using AI.",
+  "lessons": [
+    { "id": "privacy-act-and-ai", "title": "Privacy Act 2020 and AI", "type": "content", "markdownPath": "privacy-act-and-ai.md" },
+    { "id": "fair-trading-copyright-ip", "title": "Fair Trading, Copyright, and IP", "type": "content", "markdownPath": "fair-trading-copyright-ip.md" },
+    { "id": "te-tiriti-and-data-sovereignty", "title": "Te Tiriti, Māori Data Sovereignty, and AI", "type": "content", "markdownPath": "te-tiriti-and-data-sovereignty.md" },
+    { "id": "ai-workplace-policy", "title": "Creating Your AI Workplace Policy", "type": "content", "markdownPath": "ai-workplace-policy.md" },
+    { "id": "cyber-risk-and-insurance", "title": "Insurance, Cyber Risk, and Biometrics", "type": "content", "markdownPath": "cyber-risk-and-insurance.md" },
+    { "id": "quiz", "title": "Responsible AI Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

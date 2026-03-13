@@ -1,0 +1,13 @@
+{
+  "id": "afsb-ai-tools",
+  "title": "AI Tools for NZ Small Business",
+  "description": "A practical guide to the best AI tools available in New Zealand — from free options to affordable subscriptions that actually make a difference.",
+  "lessons": [
+    { "id": "ai-assistants", "title": "AI Assistants: ChatGPT, Claude, Gemini, Copilot", "type": "content", "markdownPath": "ai-assistants.md" },
+    { "id": "nz-business-tools", "title": "NZ Business Tools with AI Built In", "type": "content", "markdownPath": "nz-business-tools.md" },
+    { "id": "marketing-and-content", "title": "Marketing and Content Creation", "type": "content", "markdownPath": "marketing-and-content.md" },
+    { "id": "sales-and-customer-service", "title": "Sales, CRM, and Customer Service", "type": "content", "markdownPath": "sales-and-customer-service.md" },
+    { "id": "operations-and-automation", "title": "Operations and Automation", "type": "content", "markdownPath": "operations-and-automation.md" },
+    { "id": "quiz", "title": "AI Tools Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}
