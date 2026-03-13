@@ -11,31 +11,34 @@
       "questionHtml": "<p>What is the key difference between traditional AI tools and AI agents?</p>",
       "answers": [
         {
-          "id": "q1_a",
+          "id": "q1a",
           "text": "AI agents are more expensive to use",
           "textHtml": "<p>AI agents are more expensive to use</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "AI agents go beyond question-and-answer interactions. They can take a goal (like 'process overdue invoices'), break it into steps, and execute those steps independently — making decisions along the way."
         },
         {
-          "id": "q1_b",
+          "id": "q1b",
           "text": "AI agents can take a goal, break it into steps, and execute those steps independently",
           "textHtml": "<p>AI agents can take a goal, break it into steps, and execute those steps independently</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "AI agents go beyond question-and-answer interactions. They can take a goal (like 'process overdue invoices'), break it into steps, and execute those steps independently — making decisions along the way."
         },
         {
-          "id": "q1_c",
+          "id": "q1c",
           "text": "AI agents only work with large enterprises",
           "textHtml": "<p>AI agents only work with large enterprises</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "AI agents go beyond question-and-answer interactions. They can take a goal (like 'process overdue invoices'), break it into steps, and execute those steps independently — making decisions along the way."
         },
         {
-          "id": "q1_d",
+          "id": "q1d",
           "text": "AI agents require custom software development to use",
           "textHtml": "<p>AI agents require custom software development to use</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "AI agents go beyond question-and-answer interactions. They can take a goal (like 'process overdue invoices'), break it into steps, and execute those steps independently — making decisions along the way."
         }
       ],
-      "feedback": "AI agents go beyond question-and-answer interactions. They can take a goal (like 'process overdue invoices'), break it into steps, and execute those steps independently — making decisions along the way.",
       "feedbackHtml": "<p>AI agents go beyond question-and-answer interactions. They can take a goal (like 'process overdue invoices'), break it into steps, and execute those steps independently — making decisions along the way.</p>"
     },
     {
@@ -46,31 +49,34 @@
       "questionHtml": "<p>What is the recommended approach for building AI capability in a small business team?</p>",
       "answers": [
         {
-          "id": "q2_a",
+          "id": "q2a",
           "text": "Hire a full-time AI specialist",
           "textHtml": "<p>Hire a full-time AI specialist</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "The hybrid approach gives you instant expertise from a consultant, deep internal knowledge from training your champions, and sustainable capability through peer teaching — without the high cost of hiring or ongoing consultant dependency."
         },
         {
-          "id": "q2_b",
+          "id": "q2b",
           "text": "Outsource all AI work to consultants permanently",
           "textHtml": "<p>Outsource all AI work to consultants permanently</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "The hybrid approach gives you instant expertise from a consultant, deep internal knowledge from training your champions, and sustainable capability through peer teaching — without the high cost of hiring or ongoing consultant dependency."
         },
         {
-          "id": "q2_c",
+          "id": "q2c",
           "text": "A hybrid approach — train 1-2 champions, use a consultant for setup, then have champions train everyone else",
           "textHtml": "<p>A hybrid approach — train 1-2 champions, use a consultant for setup, then have champions train everyone else</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "The hybrid approach gives you instant expertise from a consultant, deep internal knowledge from training your champions, and sustainable capability through peer teaching — without the high cost of hiring or ongoing consultant dependency."
         },
         {
-          "id": "q2_d",
+          "id": "q2d",
           "text": "Wait until AI tools become easier to use before training anyone",
           "textHtml": "<p>Wait until AI tools become easier to use before training anyone</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "The hybrid approach gives you instant expertise from a consultant, deep internal knowledge from training your champions, and sustainable capability through peer teaching — without the high cost of hiring or ongoing consultant dependency."
         }
       ],
-      "feedback": "The hybrid approach gives you instant expertise from a consultant, deep internal knowledge from training your champions, and sustainable capability through peer teaching — without the high cost of hiring or ongoing consultant dependency.",
       "feedbackHtml": "<p>The hybrid approach gives you instant expertise from a consultant, deep internal knowledge from training your champions, and sustainable capability through peer teaching — without the high cost of hiring or ongoing consultant dependency.</p>"
     },
     {
@@ -81,31 +87,34 @@
       "questionHtml": "<p>Select ALL that apply: Which of the following are NZ-specific AI resources available to small businesses?</p>",
       "answers": [
         {
-          "id": "q3_a",
+          "id": "q3a",
           "text": "AI Forum NZ free governance framework and e-learning modules",
           "textHtml": "<p>AI Forum NZ free governance framework and e-learning modules</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "NZ offers several practical AI resources including the AI Forum's free tools, government co-funding programmes, and regional workshops. There is no mandatory government AI certification — NZ takes a voluntary, principles-based approach."
         },
         {
-          "id": "q3_b",
+          "id": "q3b",
           "text": "Government AI Advisory Pilot Programme with up to $15,000 co-funding",
           "textHtml": "<p>Government AI Advisory Pilot Programme with up to $15,000 co-funding</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "NZ offers several practical AI resources including the AI Forum's free tools, government co-funding programmes, and regional workshops. There is no mandatory government AI certification — NZ takes a voluntary, principles-based approach."
         },
         {
-          "id": "q3_c",
+          "id": "q3c",
           "text": "Mandatory government AI certification for all businesses",
           "textHtml": "<p>Mandatory government AI certification for all businesses</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "NZ offers several practical AI resources including the AI Forum's free tools, government co-funding programmes, and regional workshops. There is no mandatory government AI certification — NZ takes a voluntary, principles-based approach."
         },
         {
-          "id": "q3_d",
+          "id": "q3d",
           "text": "MBIE-funded AI workshops through regional chambers of commerce",
           "textHtml": "<p>MBIE-funded AI workshops through regional chambers of commerce</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "NZ offers several practical AI resources including the AI Forum's free tools, government co-funding programmes, and regional workshops. There is no mandatory government AI certification — NZ takes a voluntary, principles-based approach."
         }
       ],
-      "feedback": "NZ offers several practical AI resources including the AI Forum's free tools, government co-funding programmes, and regional workshops. There is no mandatory government AI certification — NZ takes a voluntary, principles-based approach.",
       "feedbackHtml": "<p>NZ offers several practical AI resources including the AI Forum's free tools, government co-funding programmes, and regional workshops. There is no mandatory government AI certification — NZ takes a voluntary, principles-based approach.</p>"
     },
     {
@@ -116,31 +125,34 @@
       "questionHtml": "<p>In the 90-day AI action plan, what should you focus on during the first 30 days?</p>",
       "answers": [
         {
-          "id": "q4_a",
+          "id": "q4a",
           "text": "Implement AI across all departments simultaneously",
           "textHtml": "<p>Implement AI across all departments simultaneously</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "The first 30 days are about building personal confidence with AI. Pick one tool, one task, and track your results. Starting small builds momentum and helps you understand how AI fits into your specific business."
         },
         {
-          "id": "q4_b",
+          "id": "q4b",
           "text": "Pick one AI tool, use it for one task, and track the results",
           "textHtml": "<p>Pick one AI tool, use it for one task, and track the results</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "The first 30 days are about building personal confidence with AI. Pick one tool, one task, and track your results. Starting small builds momentum and helps you understand how AI fits into your specific business."
         },
         {
-          "id": "q4_c",
+          "id": "q4c",
           "text": "Write a comprehensive AI strategy document",
           "textHtml": "<p>Write a comprehensive AI strategy document</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "The first 30 days are about building personal confidence with AI. Pick one tool, one task, and track your results. Starting small builds momentum and helps you understand how AI fits into your specific business."
         },
         {
-          "id": "q4_d",
+          "id": "q4d",
           "text": "Deploy AI agents for end-to-end automation",
           "textHtml": "<p>Deploy AI agents for end-to-end automation</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "The first 30 days are about building personal confidence with AI. Pick one tool, one task, and track your results. Starting small builds momentum and helps you understand how AI fits into your specific business."
         }
       ],
-      "feedback": "The first 30 days are about building personal confidence with AI. Pick one tool, one task, and track your results. Starting small builds momentum and helps you understand how AI fits into your specific business.",
       "feedbackHtml": "<p>The first 30 days are about building personal confidence with AI. Pick one tool, one task, and track your results. Starting small builds momentum and helps you understand how AI fits into your specific business.</p>"
     },
     {
@@ -151,31 +163,34 @@
       "questionHtml": "<p>Select ALL that apply: Which NZ industries are seeing significant AI adoption and innovation?</p>",
       "answers": [
         {
-          "id": "q5_a",
+          "id": "q5a",
           "text": "Agriculture — with companies like Halter and Robotics Plus",
           "textHtml": "<p>Agriculture — with companies like Halter and Robotics Plus</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "All four industries are seeing significant AI adoption in NZ. Agriculture leads with world-class companies, professional services see dramatic time savings, retail is using AI for inventory and waste reduction, and trades have NZ-built AI tools specifically designed for them."
         },
         {
-          "id": "q5_b",
+          "id": "q5b",
           "text": "Professional services — with tools like LawHawk achieving 75% time reduction",
           "textHtml": "<p>Professional services — with tools like LawHawk achieving 75% time reduction</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "All four industries are seeing significant AI adoption in NZ. Agriculture leads with world-class companies, professional services see dramatic time savings, retail is using AI for inventory and waste reduction, and trades have NZ-built AI tools specifically designed for them."
         },
         {
-          "id": "q5_c",
+          "id": "q5c",
           "text": "Retail — with Foodstuffs achieving up to 90% food waste reduction using AI",
           "textHtml": "<p>Retail — with Foodstuffs achieving up to 90% food waste reduction using AI</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "All four industries are seeing significant AI adoption in NZ. Agriculture leads with world-class companies, professional services see dramatic time savings, retail is using AI for inventory and waste reduction, and trades have NZ-built AI tools specifically designed for them."
         },
         {
-          "id": "q5_d",
+          "id": "q5d",
           "text": "Trades — with NZ-built tools like Tradify and Fergus adding AI features",
           "textHtml": "<p>Trades — with NZ-built tools like Tradify and Fergus adding AI features</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "All four industries are seeing significant AI adoption in NZ. Agriculture leads with world-class companies, professional services see dramatic time savings, retail is using AI for inventory and waste reduction, and trades have NZ-built AI tools specifically designed for them."
         }
       ],
-      "feedback": "All four industries are seeing significant AI adoption in NZ. Agriculture leads with world-class companies, professional services see dramatic time savings, retail is using AI for inventory and waste reduction, and trades have NZ-built AI tools specifically designed for them.",
       "feedbackHtml": "<p>All four industries are seeing significant AI adoption in NZ. Agriculture leads with world-class companies, professional services see dramatic time savings, retail is using AI for inventory and waste reduction, and trades have NZ-built AI tools specifically designed for them.</p>"
     },
     {
@@ -186,31 +201,34 @@
       "questionHtml": "<p>What does protocol standardisation (MCP and A2A) mean for small businesses?</p>",
       "answers": [
         {
-          "id": "q6_a",
+          "id": "q6a",
           "text": "Small businesses will need to build their own AI protocols",
           "textHtml": "<p>Small businesses will need to build their own AI protocols</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "Protocol standardisation (like Anthropic's MCP and Google's A2A) creates a common language so different AI tools can work together. This means your accounting AI will be able to talk to your inventory AI without you acting as the go-between."
         },
         {
-          "id": "q6_b",
+          "id": "q6b",
           "text": "Different AI tools will be able to communicate and work together seamlessly",
           "textHtml": "<p>Different AI tools will be able to communicate and work together seamlessly</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "Protocol standardisation (like Anthropic's MCP and Google's A2A) creates a common language so different AI tools can work together. This means your accounting AI will be able to talk to your inventory AI without you acting as the go-between."
         },
         {
-          "id": "q6_c",
+          "id": "q6c",
           "text": "Businesses will be locked into a single AI provider",
           "textHtml": "<p>Businesses will be locked into a single AI provider</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "Protocol standardisation (like Anthropic's MCP and Google's A2A) creates a common language so different AI tools can work together. This means your accounting AI will be able to talk to your inventory AI without you acting as the go-between."
         },
         {
-          "id": "q6_d",
+          "id": "q6d",
           "text": "All AI tools will become free to use",
           "textHtml": "<p>All AI tools will become free to use</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "Protocol standardisation (like Anthropic's MCP and Google's A2A) creates a common language so different AI tools can work together. This means your accounting AI will be able to talk to your inventory AI without you acting as the go-between."
         }
       ],
-      "feedback": "Protocol standardisation (like Anthropic's MCP and Google's A2A) creates a common language so different AI tools can work together. This means your accounting AI will be able to talk to your inventory AI without you acting as the go-between.",
       "feedbackHtml": "<p>Protocol standardisation (like Anthropic's MCP and Google's A2A) creates a common language so different AI tools can work together. This means your accounting AI will be able to talk to your inventory AI without you acting as the go-between.</p>"
     },
     {
@@ -221,31 +239,34 @@
       "questionHtml": "<p>What is the typical cost range for upskilling an employee in AI capabilities?</p>",
       "answers": [
         {
-          "id": "q7_a",
+          "id": "q7a",
           "text": "$100-500 per person",
           "textHtml": "<p>$100-500 per person</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "AI upskilling typically costs $1,200-3,000 per employee. This preserves your team's institutional knowledge and can lead to a 40% reduction in consulting dependence — making it excellent value for small businesses."
         },
         {
-          "id": "q7_b",
+          "id": "q7b",
           "text": "$1,200-3,000 per person",
           "textHtml": "<p>$1,200-3,000 per person</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "AI upskilling typically costs $1,200-3,000 per employee. This preserves your team's institutional knowledge and can lead to a 40% reduction in consulting dependence — making it excellent value for small businesses."
         },
         {
-          "id": "q7_c",
+          "id": "q7c",
           "text": "$10,000-20,000 per person",
           "textHtml": "<p>$10,000-20,000 per person</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "AI upskilling typically costs $1,200-3,000 per employee. This preserves your team's institutional knowledge and can lead to a 40% reduction in consulting dependence — making it excellent value for small businesses."
         },
         {
-          "id": "q7_d",
+          "id": "q7d",
           "text": "$50,000+ per person",
           "textHtml": "<p>$50,000+ per person</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "AI upskilling typically costs $1,200-3,000 per employee. This preserves your team's institutional knowledge and can lead to a 40% reduction in consulting dependence — making it excellent value for small businesses."
         }
       ],
-      "feedback": "AI upskilling typically costs $1,200-3,000 per employee. This preserves your team's institutional knowledge and can lead to a 40% reduction in consulting dependence — making it excellent value for small businesses.",
       "feedbackHtml": "<p>AI upskilling typically costs $1,200-3,000 per employee. This preserves your team's institutional knowledge and can lead to a 40% reduction in consulting dependence — making it excellent value for small businesses.</p>"
     },
     {
@@ -256,31 +277,34 @@
       "questionHtml": "<p>Select ALL that apply: Which traits do businesses that successfully adopt AI share?</p>",
       "answers": [
         {
-          "id": "q8_a",
+          "id": "q8a",
           "text": "They start small with one tool and one task",
           "textHtml": "<p>They start small with one tool and one task</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "Successful AI adopters share five traits: they start small, measure results, involve their team, stay within the law, and keep iterating. Trying to implement AI across all departments simultaneously is a common pitfall that leads to failure."
         },
         {
-          "id": "q8_b",
+          "id": "q8b",
           "text": "They measure results and track ROI",
           "textHtml": "<p>They measure results and track ROI</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "Successful AI adopters share five traits: they start small, measure results, involve their team, stay within the law, and keep iterating. Trying to implement AI across all departments simultaneously is a common pitfall that leads to failure."
         },
         {
-          "id": "q8_c",
+          "id": "q8c",
           "text": "They implement AI across all departments on day one",
           "textHtml": "<p>They implement AI across all departments on day one</p>",
-          "correct": false
+          "correct": false,
+          "feedback": "Successful AI adopters share five traits: they start small, measure results, involve their team, stay within the law, and keep iterating. Trying to implement AI across all departments simultaneously is a common pitfall that leads to failure."
         },
         {
-          "id": "q8_d",
+          "id": "q8d",
           "text": "They involve their team and stay within the law",
           "textHtml": "<p>They involve their team and stay within the law</p>",
-          "correct": true
+          "correct": true,
+          "feedback": "Successful AI adopters share five traits: they start small, measure results, involve their team, stay within the law, and keep iterating. Trying to implement AI across all departments simultaneously is a common pitfall that leads to failure."
         }
       ],
-      "feedback": "Successful AI adopters share five traits: they start small, measure results, involve their team, stay within the law, and keep iterating. Trying to implement AI across all departments simultaneously is a common pitfall that leads to failure.",
       "feedbackHtml": "<p>Successful AI adopters share five traits: they start small, measure results, involve their team, stay within the law, and keep iterating. Trying to implement AI across all departments simultaneously is a common pitfall that leads to failure.</p>"
     }
   ]

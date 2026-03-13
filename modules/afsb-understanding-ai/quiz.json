@@ -5,8 +5,8 @@
     {
       "id": "q1",
       "type": "MULTIPLE_CHOICE",
-      "text": "Sarah runs a cafe in Auckland and wants to reduce how much food she throws away each day. Which type of AI would be most useful for predicting how many cabinet items to prepare each morning?",
-      "options": [
+      "question": "Sarah runs a cafe in Auckland and wants to reduce how much food she throws away each day. Which type of AI would be most useful for predicting how many cabinet items to prepare each morning?",
+      "answers": [
         {
           "id": "q1a",
           "text": "Generative AI — it can create new recipes to use up leftovers",
@@ -36,8 +36,8 @@
     {
       "id": "q2",
       "type": "MULTIPLE_CHOICE",
-      "text": "What percentage of NZ organisations using AI have replaced workers as a result?",
-      "options": [
+      "question": "What percentage of NZ organisations using AI have replaced workers as a result?",
+      "answers": [
         {
           "id": "q2a",
           "text": "About 50% — half have cut staff",
@@ -67,8 +67,8 @@
     {
       "id": "q3",
       "type": "MULTIPLE_RESPONSE",
-      "text": "Mike owns a plumbing business in Christchurch and wants to start using AI. Which of the following are good reasons to proceed? (Select all that apply)",
-      "options": [
+      "question": "Mike owns a plumbing business in Christchurch and wants to start using AI. Which of the following are good reasons to proceed? (Select all that apply)",
+      "answers": [
         {
           "id": "q3a",
           "text": "He spends 6 hours a week writing quotes and invoices manually",
@@ -98,8 +98,8 @@
     {
       "id": "q4",
       "type": "MULTIPLE_CHOICE",
-      "text": "What was the key lesson from Soul Machines entering receivership despite raising over $225M?",
-      "options": [
+      "question": "What was the key lesson from Soul Machines entering receivership despite raising over $225M?",
+      "answers": [
         {
           "id": "q4a",
           "text": "AI technology doesn't actually work",
@@ -129,8 +129,8 @@
     {
       "id": "q5",
       "type": "MULTIPLE_CHOICE",
-      "text": "The NZ Government's AI Advisory Pilot Programme offers co-funding for SMEs. How much can a business receive?",
-      "options": [
+      "question": "The NZ Government's AI Advisory Pilot Programme offers co-funding for SMEs. How much can a business receive?",
+      "answers": [
         {
           "id": "q5a",
           "text": "Up to $5,000 for an AI readiness assessment",
@@ -160,8 +160,8 @@
     {
       "id": "q6",
       "type": "MULTIPLE_RESPONSE",
-      "text": "Which of the following are genuine risks of using AI in your business that you should actively manage? (Select all that apply)",
-      "options": [
+      "question": "Which of the following are genuine risks of using AI in your business that you should actively manage? (Select all that apply)",
+      "answers": [
         {
           "id": "q6a",
           "text": "AI tools might process customer data overseas",
@@ -191,8 +191,8 @@
     {
       "id": "q7",
       "type": "MULTIPLE_CHOICE",
-      "text": "Aroha runs a hair salon in Tauranga. She's considering AI but isn't sure where to start. Based on what NZ businesses typically spend on AI setup, what should she budget?",
-      "options": [
+      "question": "Aroha runs a hair salon in Tauranga. She's considering AI but isn't sure where to start. Based on what NZ businesses typically spend on AI setup, what should she budget?",
+      "answers": [
         {
           "id": "q7a",
           "text": "At least $20,000 — AI requires significant upfront investment",
@@ -222,8 +222,8 @@
     {
       "id": "q8",
       "type": "MULTIPLE_CHOICE",
-      "text": "Tom is drafting a legal contract for a client using AI. He asks ChatGPT to generate a standard services agreement and it produces a professional-looking document with legal references. What should he do next?",
-      "options": [
+      "question": "Tom is drafting a legal contract for a client using AI. He asks ChatGPT to generate a standard services agreement and it produces a professional-looking document with legal references. What should he do next?",
+      "answers": [
         {
           "id": "q8a",
           "text": "Send it straight to the client — AI-generated legal documents are reliable",
