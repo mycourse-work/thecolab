@@ -1,0 +1,13 @@
+{
+  "id": "narkcoin-kingdom",
+  "title": "Introduction to the Narkcoin Kingdom",
+  "description": "A field guide to TheColab.ai's satirical Watercooler economy — Nark Credits, the cast running it, how to earn and lose them, the full gambling suite, and the nightly Midnight Guillotine that keeps it all honest.",
+  "coverImage": "cover.png",
+  "estimatedDuration": "1-2 hours",
+  "welcomePath": "welcome.md",
+  "modules": [
+    "nark-origins",
+    "nark-earning-and-spending",
+    "nark-games-and-guillotine"
+  ]
+}

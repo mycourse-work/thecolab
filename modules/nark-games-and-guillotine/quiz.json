@@ -1,0 +1,62 @@
+{
+  "title": "Gambling, Games & the Midnight Guillotine Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which game carries a specific 'cursed' -250 outcome as one of its possible results?",
+      "answers": [
+        { "id": "q1a", "text": "/gamble", "correct": false, "feedback": "/gamble is the simple once-a-day game; the -250 trapdoor is specific to /scratch." },
+        { "id": "q1b", "text": "/scratch", "correct": true, "feedback": "Correct. The scratch card prize table is 0/+10/+25/+50/+100/+250/+500, plus one cursed -250 trapdoor outcome." },
+        { "id": "q1c", "text": "/holy-lottery", "correct": false, "feedback": "The Holy Lottery pays fixed prizes to places 1-5; it doesn't have a cursed negative outcome baked into its structure." },
+        { "id": "q1d", "text": "/horse-race", "correct": false, "feedback": "Horse racing pays out based on displayed odds on your bet, not a fixed prize table with a cursed trapdoor result." }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A member answers a /trivia question first, expecting to win, but instead gets fined 500 credits. What most likely happened?",
+      "answers": [
+        { "id": "q2a", "text": "They triggered the game's 10% 'boobytrap' chance instead of winning", "correct": true, "feedback": "Correct. /trivia has a built-in 10% chance that the first correct answer triggers a 500-credit fine instead of a win." },
+        { "id": "q2b", "text": "They answered too slowly and were fined for taking too long", "correct": false, "feedback": "Speed isn't penalised directly — the boobytrap chance is what can turn a correct, fast answer into a fine." },
+        { "id": "q2c", "text": "Someone else appealed their win to Karen and had it reversed", "correct": false, "feedback": "Appeals apply to a player's own losses, not to reversing someone else's trivia win." },
+        { "id": "q2d", "text": "The guillotine happened to fire at the same moment", "correct": false, "feedback": "The guillotine runs on its own nightly schedule at NZ midnight — it isn't tied to individual trivia rounds." }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of these are true about the Midnight Narkcoin Guillotine? (Select all that apply)",
+      "answers": [
+        { "id": "q3a", "text": "It runs automatically every night at NZ midnight, without requiring anyone to trigger it", "correct": true, "feedback": "Correct. It's a fully automatic, recurring event, not something a member or admin has to invoke." },
+        { "id": "q3b", "text": "It only affects the top three positive Nark Credit holders", "correct": true, "feedback": "Correct. Only the top three positive balances are clipped — everyone else is untouched by this specific mechanic." },
+        { "id": "q3c", "text": "It permanently bans the top holders from gambling for 24 hours", "correct": false, "feedback": "The guillotine clips 50% of the top three balances — it doesn't impose any gambling ban." },
+        { "id": "q3d", "text": "It exists to prevent any single member's balance from growing without limit", "correct": true, "feedback": "Correct. It's the mechanism that keeps the leaderboard competitive by capping runaway accumulation at the top." }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the significance of the Watercooler rule that members with more than 10 Nark Credits are immune from bot warnings and bans?",
+      "answers": [
+        { "id": "q4a", "text": "It's a permanent, unconditional exemption from all moderation everywhere in the community", "correct": false, "feedback": "It's narrower than that — it's Watercooler-only, and normal moderation still applies below the 10-credit threshold and in every other channel." },
+        { "id": "q4b", "text": "It's a satirical jab at how real wealth buys protection, deliberately undercut by the fact the guillotine prevents anyone staying rich for long", "correct": true, "feedback": "Correct. The joke only lands because the 'wealth' that buys protection is also the exact thing the nightly guillotine keeps knocking back down." },
+        { "id": "q4c", "text": "It only applies to Clawd's own wallet, not to community members", "correct": false, "feedback": "The immunity applies to community members holding more than 10 credits in Watercooler, not specifically to the bot's own balance." },
+        { "id": "q4d", "text": "It replaces the need for the Midnight Guillotine entirely", "correct": false, "feedback": "The two mechanics coexist — the guillotine still runs nightly regardless of who currently qualifies for the immunity threshold." }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each game or mechanic to its defining feature:",
+      "answers": [
+        { "id": "q5a", "text": "/horse-race", "matchText": "60-second betting window on 8 deterministic horses, live commentary every 5 seconds", "correct": true },
+        { "id": "q5b", "text": "/higher-lower", "matchText": "Woolworths price-guessing game with an asymmetric win/loss payout", "correct": true },
+        { "id": "q5c", "text": "narkstreetbets", "matchText": "Full paper-trading stock market simulator with margin and shorting", "correct": true },
+        { "id": "q5d", "text": "Midnight Narkcoin Guillotine", "matchText": "Nightly automatic clip of 50% from the top three positive balances", "correct": true }
+      ]
+    }
+  ]
+}

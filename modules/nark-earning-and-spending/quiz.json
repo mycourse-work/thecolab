@@ -1,0 +1,62 @@
+{
+  "title": "How Nark Credits Work Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which action earns the most credits per single occurrence, all else being equal?",
+      "answers": [
+        { "id": "q1a", "text": "Sending one ordinary message", "correct": false, "feedback": "A plain message earns a flat +1 via message karma — the smallest of the three." },
+        { "id": "q1b", "text": "Receiving one reaction on a message", "correct": false, "feedback": "A reaction earns +3, more than a message, but well below the top end of a well-evidenced nark." },
+        { "id": "q1c", "text": "Filing a nark with a named target, a concrete claim, and a real receipt", "correct": true, "feedback": "Correct. A fully evidenced nark can earn up to +25 credits — far more than a single message or reaction." },
+        { "id": "q1d", "text": "Filing a nark on yourself", "correct": false, "feedback": "Self-narks have no real basis and are treated as vibes-only — they get fined, not rewarded." }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of these narks would most likely be ruled 'vibes-only' and fined? (Select all that apply)",
+      "answers": [
+        { "id": "q2a", "text": "\"Someone in here always does this, everyone knows it\" with no named target", "correct": true, "feedback": "Correct. No named target and no concrete claim — classic vibes-only." },
+        { "id": "q2b", "text": "Narking a specific member by name for a real, quoted claim they made yesterday, with a screenshot", "correct": false, "feedback": "This nark satisfies all three requirements — named target, concrete claim, real receipt — so it would be rewarded, not fined." },
+        { "id": "q2c", "text": "Narking yourself for attention, with no offence actually on file", "correct": true, "feedback": "Correct. Self-narks with no real basis are explicitly called out as fine-worthy." },
+        { "id": "q2d", "text": "Reporting a colleague for being unusually good at their job", "correct": true, "feedback": "Correct. Being good at your job isn't an offence — this kind of nark gets fined for lacking a real basis." }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A member appeals a fine but Karen rules the appeal has no real argument attached. What's the most likely outcome?",
+      "answers": [
+        { "id": "q3a", "text": "The appeal is automatically upheld out of politeness", "correct": false, "feedback": "Karen's rulings depend on the quality of the appeal — an empty argument doesn't get automatic sympathy." },
+        { "id": "q3b", "text": "The appeal is denied, and may come with an extra 'court cost' fine", "correct": true, "feedback": "Correct. Appeals are judged by the same receipt-based standard as narks — a weak or empty appeal typically gets denied and can backfire with an extra fine." },
+        { "id": "q3c", "text": "The original fine is doubled automatically regardless of the appeal's content", "correct": false, "feedback": "Extra penalties are tied to a backfiring appeal, not applied automatically to every appeal regardless of content." },
+        { "id": "q3d", "text": "The case is forwarded to a community vote", "correct": false, "feedback": "There's no voting step in the appeals process — Karen alone decides the outcome." }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What triggers a public 'Nark Credit obituary' message in the channel?",
+      "answers": [
+        { "id": "q4a", "text": "Any credit loss at all, no matter how small", "correct": false, "feedback": "Small losses don't trigger an obituary — there's a specific threshold involved." },
+        { "id": "q4b", "text": "A single loss of 250 credits or more, from any source", "correct": true, "feedback": "Correct. Fines, bad bets, and the guillotine can all trigger the obituary once a single loss hits 250 or more." },
+        { "id": "q4c", "text": "Only losses caused specifically by a bad nark fine", "correct": false, "feedback": "The obituary isn't limited to nark fines — any sufficiently large loss, including bad bets, can trigger it." },
+        { "id": "q4d", "text": "Reaching a zero balance for the first time", "correct": false, "feedback": "The trigger is the size of a single loss (250+), not reaching a specific balance milestone." }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which best explains why message karma (+1) and reaction credits (+3) exist alongside the narking system?",
+      "answers": [
+        { "id": "q5a", "text": "They were an early prototype that was later fully replaced by narking", "correct": false, "feedback": "Both mechanics run side by side — passive earning wasn't replaced, it's still the largest source of ledger activity." },
+        { "id": "q5b", "text": "They ensure ordinary, active participation is rewarded, not just successful call-outs", "correct": true, "feedback": "Correct. Rewarding messages and reactions means the economy isn't purely a narking game — genuine participation matters too." },
+        { "id": "q5c", "text": "They exist only to help Clawd calculate fines more accurately", "correct": false, "feedback": "Message karma and reactions are independent earning streams, not inputs into how fines are calculated." },
+        { "id": "q5d", "text": "They're only awarded to community owners, not regular members", "correct": false, "feedback": "Message karma and reaction credits are earned by any active member, not restricted to owners." }
+      ]
+    }
+  ]
+}

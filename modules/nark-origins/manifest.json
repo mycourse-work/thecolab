@@ -1,0 +1,10 @@
+{
+  "id": "nark-origins",
+  "title": "Origins of the Narkcoin Kingdom",
+  "description": "What Nark Credits are, where they came from, and who runs the show in the Watercooler economy.",
+  "lessons": [
+    { "id": "welcome-to-the-watercooler-economy", "title": "Welcome to the Watercooler Economy", "type": "content", "markdownPath": "welcome-to-the-watercooler-economy.md" },
+    { "id": "meet-the-cast-of-clawd-and-karen", "title": "Meet the Cast: Clawd, Karen, and the Keen Narks", "type": "content", "markdownPath": "meet-the-cast-of-clawd-and-karen.md" },
+    { "id": "quiz", "title": "Origins of the Narkcoin Kingdom Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

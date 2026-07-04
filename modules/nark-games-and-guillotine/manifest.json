@@ -1,0 +1,10 @@
+{
+  "id": "nark-games-and-guillotine",
+  "title": "Gambling, Games & the Midnight Guillotine",
+  "description": "The full Watercooler casino, the recurring event that keeps balances in check, and the political quirks of the Narkcoin Kingdom.",
+  "lessons": [
+    { "id": "the-watercooler-casino", "title": "The Watercooler Casino", "type": "content", "markdownPath": "the-watercooler-casino.md" },
+    { "id": "the-midnight-guillotine-and-kingdom-politics", "title": "The Midnight Guillotine & Kingdom Politics", "type": "content", "markdownPath": "the-midnight-guillotine-and-kingdom-politics.md" },
+    { "id": "quiz", "title": "Gambling, Games & the Midnight Guillotine Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

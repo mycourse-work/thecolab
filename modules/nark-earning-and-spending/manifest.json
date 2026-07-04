@@ -1,0 +1,10 @@
+{
+  "id": "nark-earning-and-spending",
+  "title": "How Nark Credits Work",
+  "description": "The rules for earning credits through participation and narking, and how the fine and appeals system keeps the Kingdom honest.",
+  "lessons": [
+    { "id": "earning-your-first-credits", "title": "Earning Your First Credits", "type": "content", "markdownPath": "earning-your-first-credits.md" },
+    { "id": "the-art-of-the-nark", "title": "The Art of the Nark: Receipts vs Vibes", "type": "content", "markdownPath": "the-art-of-the-nark.md" },
+    { "id": "quiz", "title": "How Nark Credits Work Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

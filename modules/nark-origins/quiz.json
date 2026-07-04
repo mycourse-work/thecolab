@@ -1,0 +1,62 @@
+{
+  "title": "Origins of the Narkcoin Kingdom Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A new member asks whether narkcoin is a real cryptocurrency they can cash out. What's the accurate answer?",
+      "answers": [
+        { "id": "q1a", "text": "Yes, it's backed by a small reserve the community set aside", "correct": false, "feedback": "Narkcoin has no backing of any kind — it was explicitly built as the non-crypto, joke version of a coin." },
+        { "id": "q1b", "text": "No — it's a fictional, zero-value in-joke currency that only exists inside Watercooler", "correct": true, "feedback": "Correct. Narkcoin was created specifically because a real crypto scheme would violate community guidelines. It has no real-world value and can't be cashed out." },
+        { "id": "q1c", "text": "Yes, but only admins can redeem it for real money", "correct": false, "feedback": "There is no redemption mechanism for anyone, admins included. It's fictional by design." },
+        { "id": "q1d", "text": "It's real, but only tradeable outside the WhatsApp group", "correct": false, "feedback": "Narkcoin only exists within the bot's ledger inside Watercooler — there's nothing to trade elsewhere." }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is the entire narkcoin economy restricted to the Watercooler channel rather than the whole community?",
+      "answers": [
+        { "id": "q2a", "text": "Watercooler is the only channel the bot can access", "correct": false, "feedback": "Clawd operates across the whole community for moderation and assistance — the economy specifically is scoped to Watercooler by design." },
+        { "id": "q2b", "text": "It's a deliberate boundary so the joke economy never leaks into channels where people are doing serious professional work", "correct": true, "feedback": "Correct. Keeping narking, gambling, and the guillotine confined to Watercooler protects the serious channels (Business, Technical, Legal, etc.) from the bit." },
+        { "id": "q2c", "text": "Other channels voted to opt out of it", "correct": false, "feedback": "There's no vote involved — it's a structural design choice, not a preference members toggled off elsewhere." },
+        { "id": "q2d", "text": "It was originally in every channel but got shut down everywhere except Watercooler after complaints", "correct": false, "feedback": "It was designed to be Watercooler-only from the start, not rolled back after a wider rollout." }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of these are true about how Clawd rules on narks, fines, and appeals? (Select all that apply)",
+      "answers": [
+        { "id": "q3a", "text": "Rulings are made using AI judgement in the moment, not a fixed lookup table of offences and penalties", "correct": true, "feedback": "Correct. This is what gives the same kind of nark different outcomes depending on how it's argued." },
+        { "id": "q3b", "text": "Clawd is exempt from being narked or fined itself", "correct": false, "feedback": "The opposite is true — Clawd has its own wallet and is subject to the same narks, fines, and jokes as everyone else." },
+        { "id": "q3c", "text": "Clawd's replies carry a distinct, consistent comedic personality", "correct": true, "feedback": "Correct. Dry, self-aware, Kiwi-flavoured commentary is a core part of how rulings are delivered." },
+        { "id": "q3d", "text": "Every fine amount is fixed in advance for each type of offence", "correct": false, "feedback": "There's no fixed schedule — outcomes vary based on the AI's in-the-moment judgement of the specific case." }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A member loses an appeal to Karen and gets an extra fine on top for 'court costs.' Which outcome category does this describe?",
+      "answers": [
+        { "id": "q4a", "text": "Upheld", "correct": false, "feedback": "An upheld appeal reverses the original loss and refunds credits — the opposite of what happened here." },
+        { "id": "q4b", "text": "Partially upheld", "correct": false, "feedback": "Partially upheld means some credits are returned, not an additional fine on top of the original loss." },
+        { "id": "q4c", "text": "Denied, with the appeal backfiring", "correct": true, "feedback": "Correct. A backfiring appeal is denied and adds an extra penalty — Karen's harshest possible verdict." },
+        { "id": "q4d", "text": "Automatic escalation to a community vote", "correct": false, "feedback": "There's no voting mechanism in the appeals process — Karen alone rules on appeals." }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each character or concept to its role in the Narkcoin Kingdom:",
+      "answers": [
+        { "id": "q5a", "text": "The Colab Clawd", "matchText": "Treasury and referee — rules on narks, fines, and payouts", "correct": true },
+        { "id": "q5b", "text": "Karen", "matchText": "Chief Complaints Officer who presides over appeals", "correct": true },
+        { "id": "q5c", "text": "Persona Roulette", "matchText": "Hourly rotation of the bot's voice between straight Clawd and secret comedic personas", "correct": true },
+        { "id": "q5d", "text": "The Keen Narks", "matchText": "Nickname for the real community members who keep the economy running", "correct": true }
+      ]
+    }
+  ]
+}
