@@ -1,0 +1,16 @@
+{
+  "id": "claude-intro-nz",
+  "title": "Claude for NZ Work: Free Introduction",
+  "description": "A free, practical introduction to Claude for NZ office staff, owners and managers. Set up safely, write useful prompts, practise with Projects, files and Artifacts, and build a seven-day plan.",
+  "estimatedDuration": "80 minutes, plus a 2-minute welcome",
+  "welcomePath": "welcome.md",
+  "quizPassingThreshold": 80,
+  "quizMaxAttempts": 10,
+  "quizRevealMode": "immediate",
+  "modules": [
+    "claude-intro-nz-getting-set-up",
+    "claude-intro-nz-good-prompts",
+    "claude-intro-nz-features-for-work",
+    "claude-intro-nz-safe-use-and-next-steps"
+  ]
+}

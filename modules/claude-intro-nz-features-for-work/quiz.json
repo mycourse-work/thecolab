@@ -1,0 +1,141 @@
+{
+  "title": "Claude features for everyday work quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Where should a reusable office writing rule go in a practice Project?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Only in the Project name.",
+          "correct": false,
+          "feedback": "The Project name is not a substitute for instructions."
+        },
+        {
+          "id": "q1_b",
+          "text": "In Set project instructions.",
+          "correct": true,
+          "feedback": "Correct. Project instructions supply reusable guidance."
+        },
+        {
+          "id": "q1_c",
+          "text": "In a filename Claude never reads.",
+          "correct": false,
+          "feedback": "A filename is not a reliable place for the writing rule."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which feature is appropriate for an editable checklist beside your chat?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "An Artifact.",
+          "correct": true,
+          "feedback": "Correct. An Artifact is separate output you can revise."
+        },
+        {
+          "id": "q2_b",
+          "text": "A model improvement toggle.",
+          "correct": false,
+          "feedback": "The privacy toggle controls model improvement."
+        },
+        {
+          "id": "q2_c",
+          "text": "An account billing screen.",
+          "correct": false,
+          "feedback": "Billing does not hold the checklist output."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which file-reading habits are sound? Select all that apply.",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Compare the summary with the original file.",
+          "correct": true,
+          "feedback": "Correct. The source remains the evidence."
+        },
+        {
+          "id": "q3_b",
+          "text": "Assume every embedded image was understood.",
+          "correct": false,
+          "feedback": "Non-PDF text extraction may miss embedded images; inspect important figures yourself."
+        },
+        {
+          "id": "q3_c",
+          "text": "Keep exclusions and approval conditions.",
+          "correct": true,
+          "feedback": "Correct. Conditions can change the meaning of a summary."
+        },
+        {
+          "id": "q3_d",
+          "text": "Use a small invented practice file.",
+          "correct": true,
+          "feedback": "Correct. A small invented file suits the exercise."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MATCHING",
+      "question": "Match each feature with its main purpose in this course.",
+      "feedback": "Projects hold reusable context; files supply source material; Artifacts hold separate output.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Project",
+          "matchText": "Related work with reusable instructions and references",
+          "correct": true,
+          "feedback": "Use Project instructions and knowledge for repeat work."
+        },
+        {
+          "id": "q4_b",
+          "text": "Attached file",
+          "matchText": "Source material to read and check",
+          "correct": true,
+          "feedback": "Trace the answer back to the attached source."
+        },
+        {
+          "id": "q4_c",
+          "text": "Artifact",
+          "matchText": "Separate output beside a conversation that you can revise",
+          "correct": true,
+          "feedback": "Review the output before you reuse or share it."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Artifacts are unavailable in your approved account. What can you do for the checklist exercise?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Bypass the organisation’s controls.",
+          "correct": false,
+          "feedback": "Respect the organisation’s controls."
+        },
+        {
+          "id": "q5_b",
+          "text": "Ask for a chat draft and review it in your own notes.",
+          "correct": true,
+          "feedback": "Correct. The fallback still lets you practise drafting and review."
+        },
+        {
+          "id": "q5_c",
+          "text": "Upload private employee files to another account.",
+          "correct": false,
+          "feedback": "Private data must stay within approved processes."
+        }
+      ]
+    }
+  ]
+}

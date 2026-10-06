@@ -1,0 +1,137 @@
+{
+  "title": "Welcome and getting set up quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An office manager gets a polished appointment email from Claude. What should happen next?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Send it immediately.",
+          "correct": false,
+          "feedback": "The draft needs review before sending."
+        },
+        {
+          "id": "q1_b",
+          "text": "Check its facts and tone against the request.",
+          "correct": true,
+          "feedback": "Correct. Compare the facts and tone with the request before approval."
+        },
+        {
+          "id": "q1_c",
+          "text": "Assume good grammar means the facts are correct.",
+          "correct": false,
+          "feedback": "Good grammar does not prove accuracy."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A colleague has Pro on their work email. What does that tell you?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "It is an individual subscription; work-data approval still needs checking.",
+          "correct": true,
+          "feedback": "Correct. Pro is a personal plan, even on a work email address."
+        },
+        {
+          "id": "q2_b",
+          "text": "It is automatically a Team workspace.",
+          "correct": false,
+          "feedback": "A work email does not change the plan into Team."
+        },
+        {
+          "id": "q2_c",
+          "text": "Every work document is approved for upload.",
+          "correct": false,
+          "feedback": "The account does not grant approval to use every document."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "On a personal account, where is the model improvement setting checked?",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Projects > New Project",
+          "correct": false,
+          "feedback": "Projects is for related work and references."
+        },
+        {
+          "id": "q3_b",
+          "text": "Settings > Privacy",
+          "correct": true,
+          "feedback": "Correct. Open Privacy and check Help Improve our AI models."
+        },
+        {
+          "id": "q3_c",
+          "text": "Artifacts > Export",
+          "correct": false,
+          "feedback": "Artifact export does not control model improvement."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which statements are sound? Select all that apply.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Paid plans can still have usage limits.",
+          "correct": true,
+          "feedback": "Correct. More usage is not unlimited usage."
+        },
+        {
+          "id": "q4_b",
+          "text": "Team needs at least two members.",
+          "correct": true,
+          "feedback": "Correct. The official Team guide specifies at least two members."
+        },
+        {
+          "id": "q4_c",
+          "text": "Turning model improvement off makes any data safe to upload.",
+          "correct": false,
+          "feedback": "Privacy approval and data-handling checks are still required."
+        },
+        {
+          "id": "q4_d",
+          "text": "Use invented information for the course exercises.",
+          "correct": true,
+          "feedback": "Correct. Invented examples avoid using real private information."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A manager wants to paste employee medical details into an incognito chat. What should you say?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Incognito removes all privacy obligations.",
+          "correct": false,
+          "feedback": "The organisation still has privacy obligations."
+        },
+        {
+          "id": "q5_b",
+          "text": "Incognito is not approval; stop and follow the organisation’s data policy.",
+          "correct": true,
+          "feedback": "Correct. Use the policy and privacy assessment before any real personal information."
+        },
+        {
+          "id": "q5_c",
+          "text": "Incognito means no data is retained anywhere.",
+          "correct": false,
+          "feedback": "Incognito is retained by the provider under its retention rules."
+        }
+      ]
+    }
+  ]
+}

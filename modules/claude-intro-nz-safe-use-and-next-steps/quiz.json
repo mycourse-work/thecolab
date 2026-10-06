@@ -1,0 +1,137 @@
+{
+  "title": "Safe use in NZ and your next steps quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An HR note has no name but describes the only payroll officer in a small office. Is it safe to treat as anonymous?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Yes, removing a name always anonymises it.",
+          "correct": false,
+          "feedback": "People can be identified from combinations of details."
+        },
+        {
+          "id": "q1_b",
+          "text": "No, the remaining details may identify the person.",
+          "correct": true,
+          "feedback": "Correct. Use a fully invented practice situation instead."
+        },
+        {
+          "id": "q1_c",
+          "text": "Yes, if it is pasted into a paid plan.",
+          "correct": false,
+          "feedback": "A paid plan does not make identifiable data anonymous."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A draft cites a source for a business claim. What should you check?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Only whether the link looks official.",
+          "correct": false,
+          "feedback": "An official-looking link can be wrong or irrelevant."
+        },
+        {
+          "id": "q2_b",
+          "text": "Whether the source exists, is current, and supports that exact claim.",
+          "correct": true,
+          "feedback": "Correct. Open the source and verify the claim."
+        },
+        {
+          "id": "q2_c",
+          "text": "Whether a second AI repeats the claim.",
+          "correct": false,
+          "feedback": "Repeated AI output is not independent evidence."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "What belongs in a practical team AI policy? Select all that apply.",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "A named owner and incident process.",
+          "correct": true,
+          "feedback": "Correct. People need to know who owns the policy and handles mistakes."
+        },
+        {
+          "id": "q3_b",
+          "text": "Approved tools and data boundaries.",
+          "correct": true,
+          "feedback": "Correct. Staff need a usable boundary before entering information."
+        },
+        {
+          "id": "q3_c",
+          "text": "Permission to send unchecked outputs.",
+          "correct": false,
+          "feedback": "Outputs must be checked before use."
+        },
+        {
+          "id": "q3_d",
+          "text": "Human checks and approval rules.",
+          "correct": true,
+          "feedback": "Correct. Assign review and final approval to people."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A builder’s source says “proposed start, subject to approval”. The draft gives a guaranteed start. What should happen?",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Keep the guarantee to sound confident.",
+          "correct": false,
+          "feedback": "Confidence does not justify changing the commitment."
+        },
+        {
+          "id": "q4_b",
+          "text": "Restore the condition and have a person approve the corrected draft.",
+          "correct": true,
+          "feedback": "Correct. Preserve the meaning of the source and review the correction."
+        },
+        {
+          "id": "q4_c",
+          "text": "Remove the source so the draft reads better.",
+          "correct": false,
+          "feedback": "The source is needed to verify the draft."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does this course-completion certificate represent?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "An Anthropic professional certification.",
+          "correct": false,
+          "feedback": "This is independent training with no Anthropic certification."
+        },
+        {
+          "id": "q5_b",
+          "text": "TheColab course completion recorded by the platform.",
+          "correct": true,
+          "feedback": "Correct. It records completion of this TheColab course."
+        },
+        {
+          "id": "q5_c",
+          "text": "Permission to upload any business information.",
+          "correct": false,
+          "feedback": "Data approval remains a separate workplace responsibility."
+        }
+      ]
+    }
+  ]
+}

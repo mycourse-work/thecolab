@@ -1,0 +1,137 @@
+{
+  "title": "Your first good prompts quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which builder prompt is more useful?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Write something about a quote.",
+          "correct": false,
+          "feedback": "This leaves the purpose and facts unclear."
+        },
+        {
+          "id": "q1_b",
+          "text": "Draft a homeowner email: site visit complete, quote under review, under 100 words, no invented price or deadline.",
+          "correct": true,
+          "feedback": "Correct. It supplies facts, audience, format and boundaries."
+        },
+        {
+          "id": "q1_c",
+          "text": "Act as an expert and guess the missing price.",
+          "correct": false,
+          "feedback": "A role does not justify guessing prices."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "The meeting notes do not name an owner. What should the action table say?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Office manager, because that seems likely.",
+          "correct": false,
+          "feedback": "That invents a responsibility."
+        },
+        {
+          "id": "q2_b",
+          "text": "Not stated, with a question to confirm.",
+          "correct": true,
+          "feedback": "Correct. Separate a gap from a known fact."
+        },
+        {
+          "id": "q2_c",
+          "text": "Any plausible staff name.",
+          "correct": false,
+          "feedback": "A plausible name is still invented."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which details help a first prompt? Select all that apply.",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "The intended audience.",
+          "correct": true,
+          "feedback": "Correct. Audience helps shape the writing."
+        },
+        {
+          "id": "q3_b",
+          "text": "An invented example of the desired format.",
+          "correct": true,
+          "feedback": "Correct. A safe example can show the structure."
+        },
+        {
+          "id": "q3_c",
+          "text": "A password so Claude understands the task.",
+          "correct": false,
+          "feedback": "Passwords must stay out of prompts."
+        },
+        {
+          "id": "q3_d",
+          "text": "The source facts and what must not be added.",
+          "correct": true,
+          "feedback": "Correct. Facts and limits reduce unsupported assumptions."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Claude adds a Friday deadline that was not supplied. What is a useful follow-up?",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Make it better.",
+          "correct": false,
+          "feedback": "A specific correction is more useful."
+        },
+        {
+          "id": "q4_b",
+          "text": "Keep Friday because it sounds helpful.",
+          "correct": false,
+          "feedback": "Do not keep an invented commitment."
+        },
+        {
+          "id": "q4_c",
+          "text": "Remove Friday, preserve the supplied facts, and check for other added details.",
+          "correct": true,
+          "feedback": "Correct. State the error and the boundaries for the revision."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You ask Claude to act as a tax adviser. What changes?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Claude now has professional qualifications.",
+          "correct": false,
+          "feedback": "A prompt does not grant qualifications."
+        },
+        {
+          "id": "q5_b",
+          "text": "The requested perspective changes, but qualified review is still needed.",
+          "correct": true,
+          "feedback": "Correct. A role guides the output; it does not establish expertise or accuracy."
+        },
+        {
+          "id": "q5_c",
+          "text": "Every tax answer becomes accurate.",
+          "correct": false,
+          "feedback": "Accuracy still needs authoritative checks and qualified review."
+        }
+      ]
+    }
+  ]
+}
