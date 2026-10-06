@@ -1,0 +1,145 @@
+{
+  "title": "Copilot in your Microsoft 365 work quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "apps_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does broader work grounding through Microsoft Graph mean?",
+      "answers": [
+        {
+          "id": "apps_q1_a",
+          "text": "Copilot can use relevant work content the user already has permission to access.",
+          "correct": true,
+          "feedback": "Grounding does not grant new permissions."
+        },
+        {
+          "id": "apps_q1_b",
+          "text": "Copilot gives every employee access to every file.",
+          "correct": false,
+          "feedback": "Existing permissions still apply."
+        },
+        {
+          "id": "apps_q1_c",
+          "text": "Any grounded answer is guaranteed correct.",
+          "correct": false,
+          "feedback": "Sources can be old or the answer can be wrong."
+        }
+      ],
+      "feedback": "Grounding does not grant new permissions."
+    },
+    {
+      "id": "apps_q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is accurate about included Copilot Chat in a supported Outlook experience?",
+      "answers": [
+        {
+          "id": "apps_q2_a",
+          "text": "It can never use any work content.",
+          "correct": false,
+          "feedback": "Current supported Outlook experiences have bounded organisational grounding."
+        },
+        {
+          "id": "apps_q2_b",
+          "text": "It can use inbox, calendar and limited related data; the add-on reaches further.",
+          "correct": true,
+          "feedback": "The scope differs by experience and licence."
+        },
+        {
+          "id": "apps_q2_c",
+          "text": "It replaces the need to check replies.",
+          "correct": false,
+          "feedback": "Check current source facts, recipients and commitments."
+        }
+      ],
+      "feedback": "The scope differs by experience and licence."
+    },
+    {
+      "id": "apps_q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which checks help with the Word and Excel exercises? Select all that apply.",
+      "answers": [
+        {
+          "id": "apps_q3_a",
+          "text": "Check each Word checklist step against the supplied notes.",
+          "correct": true,
+          "feedback": "A useful draft preserves source responsibilities."
+        },
+        {
+          "id": "apps_q3_b",
+          "text": "Use a separate Excel practice file and check the source cells.",
+          "correct": true,
+          "feedback": "Keep live work safe and verify the numbers."
+        },
+        {
+          "id": "apps_q3_c",
+          "text": "Treat a tidy chart as proof that the data range is right.",
+          "correct": false,
+          "feedback": "Inspect the range and arithmetic."
+        },
+        {
+          "id": "apps_q3_d",
+          "text": "Choose Chat only for the Excel exercise if that mode is available.",
+          "correct": true,
+          "feedback": "It keeps the response in the pane instead of editing the workbook."
+        }
+      ],
+      "feedback": "A useful draft preserves source responsibilities. Keep live work safe and verify the numbers. It keeps the response in the pane instead of editing the workbook."
+    },
+    {
+      "id": "apps_q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "After a Teams meeting, what is needed to ask Copilot about what was spoken?",
+      "answers": [
+        {
+          "id": "apps_q4_a",
+          "text": "An available transcript, plus the supported licence and meeting setup.",
+          "correct": true,
+          "feedback": "Post-meeting questions about speech need an available transcript."
+        },
+        {
+          "id": "apps_q4_b",
+          "text": "Only an invitation, even if nothing was transcribed.",
+          "correct": false,
+          "feedback": "The invitation is not evidence of what was said."
+        },
+        {
+          "id": "apps_q4_c",
+          "text": "A personal training opt-out.",
+          "correct": false,
+          "feedback": "That is unrelated to Teams meeting grounding."
+        }
+      ],
+      "feedback": "Post-meeting questions about speech need an available transcript."
+    },
+    {
+      "id": "apps_q5",
+      "type": "MATCHING",
+      "question": "Match each work step to the right action.",
+      "answers": [
+        {
+          "id": "apps_q5_a",
+          "text": "Missing Copilot entitlement",
+          "matchText": "Ask IT to confirm the assignment and app access",
+          "correct": true,
+          "feedback": "Ask IT to confirm the assignment and app access"
+        },
+        {
+          "id": "apps_q5_b",
+          "text": "Excel says 10 more enquiries",
+          "matchText": "Check 30 minus 20 against the source cells",
+          "correct": true,
+          "feedback": "Check 30 minus 20 against the source cells"
+        },
+        {
+          "id": "apps_q5_c",
+          "text": "Meeting proposal looks like a decision",
+          "matchText": "Read the source and confirm the outcome",
+          "correct": true,
+          "feedback": "Read the source and confirm the outcome"
+        }
+      ],
+      "feedback": "Check entitlement, arithmetic and meaning. A button or a fluent answer is not enough."
+    }
+  ]
+}

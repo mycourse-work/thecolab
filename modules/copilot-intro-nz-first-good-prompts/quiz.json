@@ -1,0 +1,152 @@
+{
+  "title": "Your first good prompts quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "prompt_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which prompt gives the invented Hamilton office a useful brief?",
+      "answers": [
+        {
+          "id": "prompt_q1_a",
+          "text": "Write a great email.",
+          "correct": false,
+          "feedback": "This lacks facts, audience and output requirements."
+        },
+        {
+          "id": "prompt_q1_b",
+          "text": "Draft a reminder from these notes, in NZ English, under 100 words. Do not invent a deadline.",
+          "correct": true,
+          "feedback": "It gives a task, source and clear expectations."
+        },
+        {
+          "id": "prompt_q1_c",
+          "text": "Make up any missing details so it sounds complete.",
+          "correct": false,
+          "feedback": "Keep missing details visible for a person to confirm."
+        }
+      ],
+      "feedback": "It gives a task, source and clear expectations."
+    },
+    {
+      "id": "prompt_q2",
+      "type": "MATCHING",
+      "question": "Match the prompt ingredient to its example.",
+      "answers": [
+        {
+          "id": "prompt_q2_a",
+          "text": "Goal",
+          "matchText": "Draft a client reminder",
+          "correct": true,
+          "feedback": "Draft a client reminder"
+        },
+        {
+          "id": "prompt_q2_b",
+          "text": "Context",
+          "matchText": "Help a busy Hamilton office administrator",
+          "correct": true,
+          "feedback": "Help a busy Hamilton office administrator"
+        },
+        {
+          "id": "prompt_q2_c",
+          "text": "Source",
+          "matchText": "Use only the notes below",
+          "correct": true,
+          "feedback": "Use only the notes below"
+        },
+        {
+          "id": "prompt_q2_d",
+          "text": "Expectations",
+          "matchText": "Use NZ English and fewer than 100 words",
+          "correct": true,
+          "feedback": "Use NZ English and fewer than 100 words"
+        }
+      ],
+      "feedback": "A useful brief identifies the task, working context, source and output requirements."
+    },
+    {
+      "id": "prompt_q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "The builder notes say timing will be agreed after acceptance. What should the draft say?",
+      "answers": [
+        {
+          "id": "prompt_q3_a",
+          "text": "Work will start next Monday.",
+          "correct": false,
+          "feedback": "No start date was supplied."
+        },
+        {
+          "id": "prompt_q3_b",
+          "text": "Timing will be agreed after acceptance.",
+          "correct": true,
+          "feedback": "This preserves the approved source."
+        },
+        {
+          "id": "prompt_q3_c",
+          "text": "The client must pay a deposit today.",
+          "correct": false,
+          "feedback": "No payment term was supplied."
+        }
+      ],
+      "feedback": "This preserves the approved source."
+    },
+    {
+      "id": "prompt_q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "How can you improve a first draft safely? Select all that apply.",
+      "answers": [
+        {
+          "id": "prompt_q4_a",
+          "text": "Ask for one specific change in length or tone.",
+          "correct": true,
+          "feedback": "A focused follow-up is easy to compare."
+        },
+        {
+          "id": "prompt_q4_b",
+          "text": "Check that the original facts remain.",
+          "correct": true,
+          "feedback": "A rewrite can change meaning or add details."
+        },
+        {
+          "id": "prompt_q4_c",
+          "text": "Use Copilot as the only checker of its own answer.",
+          "correct": false,
+          "feedback": "Check against the source yourself."
+        },
+        {
+          "id": "prompt_q4_d",
+          "text": "Supply an approved or invented example of your preferred style.",
+          "correct": true,
+          "feedback": "An example can clarify what you want."
+        }
+      ],
+      "feedback": "A focused follow-up is easy to compare. A rewrite can change meaning or add details. An example can clarify what you want."
+    },
+    {
+      "id": "prompt_q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "The Wellington notes say a buddy programme was discussed, not approved. What belongs in the summary?",
+      "answers": [
+        {
+          "id": "prompt_q5_a",
+          "text": "The buddy programme was approved.",
+          "correct": false,
+          "feedback": "Discussion is not a decision."
+        },
+        {
+          "id": "prompt_q5_b",
+          "text": "The buddy programme was proposed; approval remains open.",
+          "correct": true,
+          "feedback": "The summary must preserve that distinction."
+        },
+        {
+          "id": "prompt_q5_c",
+          "text": "The manager will launch it tomorrow.",
+          "correct": false,
+          "feedback": "Neither an owner nor a date was agreed."
+        }
+      ],
+      "feedback": "The summary must preserve that distinction."
+    }
+  ]
+}

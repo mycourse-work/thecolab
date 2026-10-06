@@ -1,0 +1,50 @@
+{
+  "id": "copilot-intro-nz-copilot-in-your-work",
+  "title": "Copilot in your Microsoft 365 work",
+  "description": "Understand work grounding and try a safe task in Word, Excel, Outlook or Teams.",
+  "estimatedDuration": "22 minutes",
+  "lessons": [
+    {
+      "id": "intro",
+      "title": "Use the source inside your apps (video)",
+      "type": "content",
+      "markdownPath": "intro.md"
+    },
+    {
+      "id": "work-grounding-and-admin",
+      "title": "Work data, permissions and your administrator",
+      "type": "content",
+      "markdownPath": "work-grounding-and-admin.md"
+    },
+    {
+      "id": "word-first-draft",
+      "title": "Word: make a first draft",
+      "type": "content",
+      "markdownPath": "word-first-draft.md"
+    },
+    {
+      "id": "excel-check-the-cells",
+      "title": "Excel: ask, then check the cells",
+      "type": "content",
+      "markdownPath": "excel-check-the-cells.md"
+    },
+    {
+      "id": "outlook-catch-up",
+      "title": "Outlook: catch up and draft",
+      "type": "content",
+      "markdownPath": "outlook-catch-up.md"
+    },
+    {
+      "id": "teams-actions-and-recap",
+      "title": "Teams: check decisions and actions",
+      "type": "content",
+      "markdownPath": "teams-actions-and-recap.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Copilot in your Microsoft 365 work quiz",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

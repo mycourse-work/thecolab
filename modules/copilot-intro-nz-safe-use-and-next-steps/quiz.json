@@ -1,0 +1,145 @@
+{
+  "title": "Safe use at work in NZ and next steps quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "safe_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An invented HR practice task currently contains a real staff complaint. What should you do?",
+      "answers": [
+        {
+          "id": "safe_q1_a",
+          "text": "Remove just the name and paste the rest.",
+          "correct": false,
+          "feedback": "Other details may still identify a person."
+        },
+        {
+          "id": "safe_q1_b",
+          "text": "Replace it with an invented scenario; ask the privacy lead before any real use.",
+          "correct": true,
+          "feedback": "The course uses invented data, and real use needs an approved assessment."
+        },
+        {
+          "id": "safe_q1_c",
+          "text": "Paste it into a personal account with training off.",
+          "correct": false,
+          "feedback": "Training settings do not approve that use of personal information."
+        }
+      ],
+      "feedback": "The course uses invented data, and real use needs an approved assessment."
+    },
+    {
+      "id": "safe_q2",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "What should a reviewer check before sharing an AI-assisted output? Select all that apply.",
+      "answers": [
+        {
+          "id": "safe_q2_a",
+          "text": "Facts, figures and source dates.",
+          "correct": true,
+          "feedback": "Verify against reliable current sources."
+        },
+        {
+          "id": "safe_q2_b",
+          "text": "Whether proposals were changed into decisions.",
+          "correct": true,
+          "feedback": "Check meaning as well as wording."
+        },
+        {
+          "id": "safe_q2_c",
+          "text": "Whether the audience may see the information.",
+          "correct": true,
+          "feedback": "Sharing permissions still matter."
+        },
+        {
+          "id": "safe_q2_d",
+          "text": "Only whether the result sounds professional.",
+          "correct": false,
+          "feedback": "A professional tone does not prove accuracy."
+        }
+      ],
+      "feedback": "Verify against reliable current sources. Check meaning as well as wording. Sharing permissions still matter."
+    },
+    {
+      "id": "safe_q3",
+      "type": "MATCHING",
+      "question": "Match each policy field to its purpose.",
+      "answers": [
+        {
+          "id": "safe_q3_a",
+          "text": "Approved service and account",
+          "matchText": "Tells staff where permitted work may happen",
+          "correct": true,
+          "feedback": "Tells staff where permitted work may happen"
+        },
+        {
+          "id": "safe_q3_b",
+          "text": "Responsible reviewer",
+          "matchText": "Owns the final work before sharing",
+          "correct": true,
+          "feedback": "Owns the final work before sharing"
+        },
+        {
+          "id": "safe_q3_c",
+          "text": "Incident contact",
+          "matchText": "Receives a prompt report when something goes wrong",
+          "correct": true,
+          "feedback": "Receives a prompt report when something goes wrong"
+        }
+      ],
+      "feedback": "A useful policy names the approved service, data rule, reviewer and incident route."
+    },
+    {
+      "id": "safe_q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the status of the policy starter you filled in?",
+      "answers": [
+        {
+          "id": "safe_q4_a",
+          "text": "A draft that needs manager and privacy review.",
+          "correct": true,
+          "feedback": "The starter must be adapted and approved."
+        },
+        {
+          "id": "safe_q4_b",
+          "text": "An automatic guarantee of Privacy Act compliance.",
+          "correct": false,
+          "feedback": "A template cannot guarantee compliance."
+        },
+        {
+          "id": "safe_q4_c",
+          "text": "An official Microsoft policy for your business.",
+          "correct": false,
+          "feedback": "This is independent TheColab training."
+        }
+      ],
+      "feedback": "The starter must be adapted and approved."
+    },
+    {
+      "id": "safe_q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is a useful next step after this free course?",
+      "answers": [
+        {
+          "id": "safe_q5_a",
+          "text": "Buy every licence and course before trying a task.",
+          "correct": false,
+          "feedback": "Choose based on a specific need."
+        },
+        {
+          "id": "safe_q5_b",
+          "text": "Practise small approved tasks for seven days, then choose training for a clear gap.",
+          "correct": true,
+          "feedback": "A practice plan helps you identify what to learn next."
+        },
+        {
+          "id": "safe_q5_c",
+          "text": "Promise a fixed productivity gain from one AI draft.",
+          "correct": false,
+          "feedback": "Judge actual quality and effort without invented savings claims."
+        }
+      ],
+      "feedback": "A practice plan helps you identify what to learn next."
+    }
+  ]
+}

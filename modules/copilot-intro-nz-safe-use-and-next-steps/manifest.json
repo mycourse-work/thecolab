@@ -1,0 +1,44 @@
+{
+  "id": "copilot-intro-nz-safe-use-and-next-steps",
+  "title": "Safe use at work in NZ and next steps",
+  "description": "Protect information, verify answers, draft a team rule and make a seven-day practice plan.",
+  "estimatedDuration": "23 minutes",
+  "lessons": [
+    {
+      "id": "intro",
+      "title": "Keep the responsibility with your team (video)",
+      "type": "content",
+      "markdownPath": "intro.md"
+    },
+    {
+      "id": "privacy-and-information",
+      "title": "Privacy and what to keep out",
+      "type": "content",
+      "markdownPath": "privacy-and-information.md"
+    },
+    {
+      "id": "check-before-sharing",
+      "title": "Check answers before you share",
+      "type": "content",
+      "markdownPath": "check-before-sharing.md"
+    },
+    {
+      "id": "team-policy-starter",
+      "title": "A simple team AI policy starter",
+      "type": "content",
+      "markdownPath": "team-policy-starter.md"
+    },
+    {
+      "id": "seven-days-and-next-course",
+      "title": "Your next seven days",
+      "type": "content",
+      "markdownPath": "seven-days-and-next-course.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Safe use at work in NZ and next steps quiz",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

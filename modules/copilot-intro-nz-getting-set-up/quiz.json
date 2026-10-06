@@ -1,0 +1,145 @@
+{
+  "title": "Welcome and getting set up quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "setup_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which task is a useful first practice for the invented Hamilton office?",
+      "answers": [
+        {
+          "id": "setup_q1_a",
+          "text": "Draft a reminder from the supplied notes, then check it.",
+          "correct": true,
+          "feedback": "The source is small and the result can be checked."
+        },
+        {
+          "id": "setup_q1_b",
+          "text": "Decide a real employee complaint using AI alone.",
+          "correct": false,
+          "feedback": "A decision about a person needs accountable human judgement."
+        },
+        {
+          "id": "setup_q1_c",
+          "text": "Upload client records before checking the team rule.",
+          "correct": false,
+          "feedback": "Confirm the service and allowed data first."
+        }
+      ],
+      "feedback": "The source is small and the result can be checked."
+    },
+    {
+      "id": "setup_q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A colleague sees Microsoft 365 Copilot (Basic) in Word. What can you conclude?",
+      "answers": [
+        {
+          "id": "setup_q2_a",
+          "text": "They must have the paid Copilot add-on.",
+          "correct": false,
+          "feedback": "Basic can mean standard in-app access without the add-on."
+        },
+        {
+          "id": "setup_q2_b",
+          "text": "They have standard in-app access; confirm features and settings.",
+          "correct": true,
+          "feedback": "Read the label and confirm availability with IT."
+        },
+        {
+          "id": "setup_q2_c",
+          "text": "They can use every feature without limits.",
+          "correct": false,
+          "feedback": "Standard access can depend on capacity and tenant configuration."
+        }
+      ],
+      "feedback": "Read the label and confirm availability with IT."
+    },
+    {
+      "id": "setup_q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Before using Copilot for work, which checks should you make? Select all that apply.",
+      "answers": [
+        {
+          "id": "setup_q3_a",
+          "text": "Check the approved work account.",
+          "correct": true,
+          "feedback": "The selected account affects protection and access."
+        },
+        {
+          "id": "setup_q3_b",
+          "text": "Confirm enterprise protection and the team data rule.",
+          "correct": true,
+          "feedback": "Protection and permission to use data are separate checks."
+        },
+        {
+          "id": "setup_q3_c",
+          "text": "Assume a personal training opt-out permits all work records.",
+          "correct": false,
+          "feedback": "A personal setting is not employer approval."
+        },
+        {
+          "id": "setup_q3_d",
+          "text": "Ask IT about web-search settings for your task.",
+          "correct": true,
+          "feedback": "Generated search terms can go to Bing."
+        }
+      ],
+      "feedback": "The selected account affects protection and access. Protection and permission to use data are separate checks. Generated search terms can go to Bing."
+    },
+    {
+      "id": "setup_q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "With enterprise data protection, which statement is accurate?",
+      "answers": [
+        {
+          "id": "setup_q4_a",
+          "text": "Work prompts and responses are not used to train foundation models, but may be retained.",
+          "correct": true,
+          "feedback": "Training protection and retention are different."
+        },
+        {
+          "id": "setup_q4_b",
+          "text": "Every chat is deleted immediately.",
+          "correct": false,
+          "feedback": "Work interactions can be logged and retained."
+        },
+        {
+          "id": "setup_q4_c",
+          "text": "You can enter secrets because a shield is visible.",
+          "correct": false,
+          "feedback": "A protection indicator does not replace your data rule."
+        }
+      ],
+      "feedback": "Training protection and retention are different."
+    },
+    {
+      "id": "setup_q5",
+      "type": "MATCHING",
+      "question": "Match each option to its meaning.",
+      "answers": [
+        {
+          "id": "setup_q5_a",
+          "text": "Copilot Chat with an eligible work account",
+          "matchText": "Included at no extra cost",
+          "correct": true,
+          "feedback": "Included at no extra cost"
+        },
+        {
+          "id": "setup_q5_b",
+          "text": "Microsoft 365 Copilot Business",
+          "matchText": "Paid add-on for eligible plans, up to 300 users",
+          "correct": true,
+          "feedback": "Paid add-on for eligible plans, up to 300 users"
+        },
+        {
+          "id": "setup_q5_c",
+          "text": "Personal Copilot training controls",
+          "matchText": "Controls for the personal account experience",
+          "correct": true,
+          "feedback": "Controls for the personal account experience"
+        }
+      ],
+      "feedback": "Use the work account for approved work. Check the add-on entitlement and do not confuse personal settings with work approval."
+    }
+  ]
+}
