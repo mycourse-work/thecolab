@@ -1,0 +1,160 @@
+{
+  "title": "Module 3: check your understanding",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "The practice data totals NZD 37000 quoted and NZD 29000 accepted. What does about 78.4% describe?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "The share of customers who accepted a quote.",
+          "correct": false,
+          "feedback": "There are no customer or quote counts. This is a ratio of values."
+        },
+        {
+          "id": "q1_b",
+          "text": "The profit margin after all business costs.",
+          "correct": false,
+          "feedback": "The data contains no costs or profit figures."
+        },
+        {
+          "id": "q1_c",
+          "text": "Accepted value divided by quoted value across the three months.",
+          "correct": true,
+          "feedback": "29000 / 37000 is about 78.4%. This is a value ratio, not a job-win count."
+        },
+        {
+          "id": "q1_d",
+          "text": "The next month’s expected acceptance rate.",
+          "correct": false,
+          "feedback": "The small historical dataset does not establish a reliable forecast."
+        }
+      ],
+      "feedback": "29000 / 37000 is about 78.4%. This is a value ratio, not a job-win count."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A Free learner hits an upload limit during the CSV exercise. What should they do?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Paste the fictional rows as text or check the sums manually.",
+          "correct": true,
+          "feedback": "The alternative practises the same review skill without an upload."
+        },
+        {
+          "id": "q2_b",
+          "text": "Upgrade immediately to complete this free course.",
+          "correct": false,
+          "feedback": "A paid plan is not needed for the core practice. Use the supplied alternative."
+        },
+        {
+          "id": "q2_c",
+          "text": "Upload a real client spreadsheet instead.",
+          "correct": false,
+          "feedback": "Changing the data does not resolve the limit and introduces information risk."
+        },
+        {
+          "id": "q2_d",
+          "text": "Treat the failed upload as proof that the figures are wrong.",
+          "correct": false,
+          "feedback": "A tool-access limit says nothing about the arithmetic in the data."
+        }
+      ],
+      "feedback": "The alternative practises the same review skill without an upload."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which description of current project file limits matches the lesson?",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Every plan allows the same number of files.",
+          "correct": false,
+          "feedback": "Current per-project limits differ by plan."
+        },
+        {
+          "id": "q3_b",
+          "text": "Free allows 5 files per project, and upload allowances are separate.",
+          "correct": true,
+          "feedback": "Project capacity and the upload rate limit are different constraints."
+        },
+        {
+          "id": "q3_c",
+          "text": "A project’s file capacity guarantees unlimited daily uploads.",
+          "correct": false,
+          "feedback": "You can have space in a project and still reach an upload allowance."
+        },
+        {
+          "id": "q3_d",
+          "text": "Only Enterprise can create a project.",
+          "correct": false,
+          "feedback": "Projects are available more broadly, subject to plan and workspace availability."
+        }
+      ],
+      "feedback": "Project capacity and the upload rate limit are different constraints."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select all suitable actions before connecting a work app.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Check that your organisation approves the connection.",
+          "correct": true,
+          "feedback": "Installation and workplace approval are separate."
+        },
+        {
+          "id": "q4_b",
+          "text": "Review requested permissions and the connected account.",
+          "correct": true,
+          "feedback": "Permissions and account choice determine what the app can access."
+        },
+        {
+          "id": "q4_c",
+          "text": "Assume every supported action will always ask for approval.",
+          "correct": false,
+          "feedback": "Approval behaviour depends on the app, settings, and workspace rules."
+        },
+        {
+          "id": "q4_d",
+          "text": "Check important results against the original source file.",
+          "correct": true,
+          "feedback": "Connected information can still be summarised inaccurately."
+        }
+      ],
+      "feedback": "Installation and workplace approval are separate. Permissions and account choice determine what the app can access. Connected information can still be summarised inaccurately."
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each feature with a suitable beginner use.",
+      "feedback": "Use the feature that fits your task. Availability can differ; a text alternative still lets you practise review.",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Project",
+          "matchText": "Keep related chats, files, and instructions together",
+          "correct": true
+        },
+        {
+          "id": "q5_b",
+          "text": "Canvas",
+          "matchText": "Revise a document alongside the conversation",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Data analysis",
+          "matchText": "Inspect supplied data and check calculations",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

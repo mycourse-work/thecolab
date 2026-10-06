@@ -1,0 +1,160 @@
+{
+  "title": "Module 4: check your understanding",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A colleague removes a person’s name but keeps their rare job title, exact date, and incident details. Is the text safe for course practice?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Yes, removing the name makes all data anonymous.",
+          "correct": false,
+          "feedback": "Other details can still identify a person."
+        },
+        {
+          "id": "q1_b",
+          "text": "Yes, if Improve the model for everyone is off.",
+          "correct": false,
+          "feedback": "Training settings do not remove identifiability or approval requirements."
+        },
+        {
+          "id": "q1_c",
+          "text": "Not necessarily. Replace it with a fully fictional scenario.",
+          "correct": true,
+          "feedback": "Indirect identifiers can identify someone. Use invented practice material."
+        },
+        {
+          "id": "q1_d",
+          "text": "Yes, if the output will stay inside the business.",
+          "correct": false,
+          "feedback": "The input is still shared with the tool. Intended output use does not settle privacy risks."
+        }
+      ],
+      "feedback": "Indirect identifiers can identify someone. Use invented practice material."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "ChatGPT cites a page for a New Zealand employment claim. What should the reviewer do?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Accept it because it has a link.",
+          "correct": false,
+          "feedback": "A citation can be wrong or fail to support the claim."
+        },
+        {
+          "id": "q2_b",
+          "text": "Open the source, check the exact claim and date, and use the responsible qualified reviewer.",
+          "correct": true,
+          "feedback": "Verify evidence and keep professional decisions with the responsible person."
+        },
+        {
+          "id": "q2_c",
+          "text": "Ask ChatGPT to certify its own answer.",
+          "correct": false,
+          "feedback": "The model’s assurance is not independent evidence."
+        },
+        {
+          "id": "q2_d",
+          "text": "Check only whether the wording is easy to read.",
+          "correct": false,
+          "feedback": "Readable wording is useful, but facts and consequences also need review."
+        }
+      ],
+      "feedback": "Verify evidence and keep professional decisions with the responsible person."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Sensitive information was entered into an unapproved chat. What is the useful first response?",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Delete the chat and assume the matter is resolved.",
+          "correct": false,
+          "feedback": "Deletion alone does not assess or resolve an incident."
+        },
+        {
+          "id": "q3_b",
+          "text": "Keep using the chat to work out what to say.",
+          "correct": false,
+          "feedback": "Stop the workflow to avoid further exposure."
+        },
+        {
+          "id": "q3_c",
+          "text": "Put the full details into another public AI tool for advice.",
+          "correct": false,
+          "feedback": "That could expose the information again."
+        },
+        {
+          "id": "q3_d",
+          "text": "Stop the workflow and report through the organisation’s privacy or incident process.",
+          "correct": true,
+          "feedback": "Tell the responsible manager or privacy officer promptly and follow the incident process."
+        }
+      ],
+      "feedback": "Tell the responsible manager or privacy officer promptly and follow the incident process."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select all elements that belong in the team policy starter.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "The approved tool, workspace, and allowed data.",
+          "correct": true,
+          "feedback": "Staff need a clear account and information boundary."
+        },
+        {
+          "id": "q4_b",
+          "text": "Who checks and approves relevant outputs.",
+          "correct": true,
+          "feedback": "A named reviewer keeps accountability clear."
+        },
+        {
+          "id": "q4_c",
+          "text": "Permission for ChatGPT to make final staff or financial decisions.",
+          "correct": false,
+          "feedback": "Professional and people decisions must follow existing responsible review processes."
+        },
+        {
+          "id": "q4_d",
+          "text": "An incident contact and a policy review date.",
+          "correct": true,
+          "feedback": "Staff need a route to report problems, and rules need review as tools change."
+        }
+      ],
+      "feedback": "Staff need a clear account and information boundary. A named reviewer keeps accountability clear. Staff need a route to report problems, and rules need review as tools change."
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each review with what it checks.",
+      "feedback": "Use all three checks. An accurate draft can still require approval because of how it will be used.",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Source review",
+          "matchText": "The output matches the original material",
+          "correct": true
+        },
+        {
+          "id": "q5_b",
+          "text": "Fact review",
+          "matchText": "Amounts, dates, units, and claims are verified",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Impact review",
+          "matchText": "The right person approves the intended use",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "chatgpt-intro-nz-safe-use-and-next-steps",
+  "title": "Safe use in New Zealand and next steps",
+  "description": "Protect information, check answers, draft a team policy, and plan your next week.",
+  "estimatedDuration": "21 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Video: Keep people responsible",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "privacy-in-nz",
+      "title": "Protect personal and confidential information",
+      "type": "content",
+      "markdownPath": "privacy-in-nz.md"
+    },
+    {
+      "id": "check-the-answer",
+      "title": "Check facts, sources, and consequences",
+      "type": "content",
+      "markdownPath": "check-the-answer.md"
+    },
+    {
+      "id": "team-policy-starter",
+      "title": "Write a simple team AI policy starter",
+      "type": "content",
+      "markdownPath": "team-policy-starter.md"
+    },
+    {
+      "id": "seven-day-plan",
+      "title": "Practise for seven days and choose your next step",
+      "type": "content",
+      "markdownPath": "seven-day-plan.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Module 4: check your understanding",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

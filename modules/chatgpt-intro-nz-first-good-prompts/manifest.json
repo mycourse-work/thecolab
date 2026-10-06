@@ -1,0 +1,44 @@
+{
+  "id": "chatgpt-intro-nz-first-good-prompts",
+  "title": "Your first good prompts",
+  "description": "Give useful context, draft office documents, and improve answers through follow-up prompts.",
+  "estimatedDuration": "23 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Video: Give ChatGPT a clear brief",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "prompt-pattern",
+      "title": "Build a prompt with useful context",
+      "type": "content",
+      "markdownPath": "prompt-pattern.md"
+    },
+    {
+      "id": "emails-and-quotes",
+      "title": "Draft an email and a quote cover note",
+      "type": "content",
+      "markdownPath": "emails-and-quotes.md"
+    },
+    {
+      "id": "summaries-and-meeting-notes",
+      "title": "Turn notes into a summary and actions",
+      "type": "content",
+      "markdownPath": "summaries-and-meeting-notes.md"
+    },
+    {
+      "id": "iterate-and-check",
+      "title": "Improve one thing at a time",
+      "type": "content",
+      "markdownPath": "iterate-and-check.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Module 2: check your understanding",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}
