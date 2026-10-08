@@ -2,10 +2,10 @@
   "id": "copilot-intro-nz-copilot-in-your-work",
   "title": "Copilot in your Microsoft 365 work",
   "description": "Understand work grounding and try a safe task in Word, Excel, Outlook or Teams.",
-  "estimatedDuration": "22 minutes",
+  "estimatedDuration": "23 minutes",
   "lessons": [
     {
-      "id": "intro",
+      "id": "video",
       "title": "Use the source inside your apps (video)",
       "type": "content",
       "markdownPath": "intro.md"

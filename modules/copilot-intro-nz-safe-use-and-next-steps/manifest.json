@@ -2,10 +2,10 @@
   "id": "copilot-intro-nz-safe-use-and-next-steps",
   "title": "Safe use at work in NZ and next steps",
   "description": "Protect information, verify answers, draft a team rule and make a seven-day practice plan.",
-  "estimatedDuration": "23 minutes",
+  "estimatedDuration": "24 minutes",
   "lessons": [
     {
-      "id": "intro",
+      "id": "video",
       "title": "Keep the responsibility with your team (video)",
       "type": "content",
       "markdownPath": "intro.md"

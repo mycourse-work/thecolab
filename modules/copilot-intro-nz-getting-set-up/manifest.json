@@ -2,10 +2,10 @@
   "id": "copilot-intro-nz-getting-set-up",
   "title": "Welcome and getting set up",
   "description": "Choose a suitable task, recognise your Copilot account and licence, and check privacy controls.",
-  "estimatedDuration": "17 minutes",
+  "estimatedDuration": "18 minutes",
   "lessons": [
     {
-      "id": "intro",
+      "id": "video",
       "title": "Start with the right Copilot (video)",
       "type": "content",
       "markdownPath": "intro.md"

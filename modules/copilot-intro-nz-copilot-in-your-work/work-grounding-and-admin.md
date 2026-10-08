@@ -30,8 +30,6 @@ Write an IT request: “I want to practise ___ using ___. My label is ___. Pleas
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Data, privacy and security for Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy)
 - [Overview of Microsoft Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
 - [Set up Microsoft Copilot and assign licences](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-setup)

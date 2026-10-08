@@ -1,6 +1,6 @@
 # Your next seven days
 
-**Allow 5 minutes now.** Plan seven small practices. The later practice is optional and sits outside the course's 84 minutes.
+**Allow 5 minutes now.** Plan seven small practices. The later practice is optional and sits outside the course's 88 minutes.
 
 ## Five minutes a day
 
@@ -18,7 +18,7 @@ Record the task, source and correction needed. Judge the quality of the final wo
 
 ## Choose further learning when you need it
 
-You can keep practising for free. When you want more structure, browse [all Copilot courses](https://copilottraining.co.nz/courses/). TheColab's online courses start from **NZ$199 + GST**; ask about availability for your topic through the course catalogue. The linked role courses below currently describe facilitated training, including half-day in-person workshops.
+Explore [more courses and workshops](https://copilottraining.co.nz/courses/) when they fit your work.
 
 - [Microsoft Copilot foundations](https://copilottraining.co.nz/courses/copilot-foundations-workshop/): guided practice across the apps in a half-day workshop.
 - [Copilot for Outlook, Teams and admin](https://copilottraining.co.nz/courses/copilot-for-outlook-teams-admin/): focus on inboxes and meeting follow-ups.

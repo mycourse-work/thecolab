@@ -1,6 +1,6 @@
 # Start with the right Copilot
 
-**Video: about 2 minutes. Module: 17 minutes including practice and quiz.**
+**Video: about 3 minutes. Module: 18 minutes including practice and quiz.**
 
 <video controls playsinline preload="metadata" aria-label="Module 1: Start with the right Copilot" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/copilot-intro-nz-module-1.mp4" type="video/mp4">

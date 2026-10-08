@@ -5,9 +5,9 @@
 ## Source notes
 
 ```text
-Office welcome meeting, 6 October 2026.
+Office welcome meeting, last week.
 The team agreed to trial a revised induction checklist.
-The coordinator will draft the checklist by 13 October 2026.
+The coordinator will draft the checklist by Tuesday next week.
 The office manager will review the draft.
 No review date was agreed.
 The idea of a buddy programme was discussed, not approved.
@@ -42,8 +42,6 @@ Run the prompt. Match each decision and action to a line in the notes. Ask: “W
 
 
 ## Sources
-
-Checked 7 October 2026.
 
 - [Write a great prompt in Microsoft Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/write-a-great-prompt-in-microsoft-365-copilot)
 - [NZ Digital Government: misinformation and hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations)

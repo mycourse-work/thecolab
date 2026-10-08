@@ -31,7 +31,5 @@ Write one task as a sentence: “I want a draft of ___, based on ___, which I wi
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Overview of Microsoft Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
 - [NZ Digital Government: misinformation and hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations)

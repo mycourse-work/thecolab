@@ -9,24 +9,24 @@
       "answers": [
         {
           "id": "prompt_q1_a",
-          "text": "Write a great email.",
+          "text": "Ask for a client email, letting Copilot supply a likely due date.",
           "correct": false,
-          "feedback": "This lacks facts, audience and output requirements."
+          "feedback": "This misses a required boundary or check. Use supplied notes; set tone, length and limits."
         },
         {
           "id": "prompt_q1_b",
-          "text": "Draft a reminder from these notes, in NZ English, under 100 words. Do not invent a deadline.",
-          "correct": true,
-          "feedback": "It gives a task, source and clear expectations."
+          "text": "Describe a typical reminder, without providing the office’s source notes.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. Use supplied notes; set tone, length and limits."
         },
         {
           "id": "prompt_q1_c",
-          "text": "Make up any missing details so it sounds complete.",
-          "correct": false,
-          "feedback": "Keep missing details visible for a person to confirm."
+          "text": "Use supplied notes; set tone, length and limits.",
+          "correct": true,
+          "feedback": "Correct. Use supplied notes; set tone, length and limits."
         }
       ],
-      "feedback": "It gives a task, source and clear expectations."
+      "feedback": "Correct. Use supplied notes; set tone, length and limits."
     },
     {
       "id": "prompt_q2",
@@ -71,24 +71,24 @@
       "answers": [
         {
           "id": "prompt_q3_a",
-          "text": "Work will start next Monday.",
-          "correct": false,
-          "feedback": "No start date was supplied."
+          "text": "Timing will be agreed after acceptance.",
+          "correct": true,
+          "feedback": "Correct. Timing will be agreed after acceptance."
         },
         {
           "id": "prompt_q3_b",
-          "text": "Timing will be agreed after acceptance.",
-          "correct": true,
-          "feedback": "This preserves the approved source."
+          "text": "Work should start next Monday, subject to the customer changing it.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. Timing will be agreed after acceptance."
         },
         {
           "id": "prompt_q3_c",
-          "text": "The client must pay a deposit today.",
+          "text": "Acceptance confirms the start date, even though none has been supplied.",
           "correct": false,
-          "feedback": "No payment term was supplied."
+          "feedback": "This misses a required boundary or check. Timing will be agreed after acceptance."
         }
       ],
-      "feedback": "This preserves the approved source."
+      "feedback": "Correct. Timing will be agreed after acceptance."
     },
     {
       "id": "prompt_q4",
@@ -103,15 +103,15 @@
         },
         {
           "id": "prompt_q4_b",
-          "text": "Check that the original facts remain.",
-          "correct": true,
-          "feedback": "A rewrite can change meaning or add details."
+          "text": "Ask Copilot to confirm accuracy instead of checking the source.",
+          "correct": false,
+          "feedback": "Account approval, source comparison and human review remain necessary."
         },
         {
           "id": "prompt_q4_c",
-          "text": "Use Copilot as the only checker of its own answer.",
-          "correct": false,
-          "feedback": "Check against the source yourself."
+          "text": "Check that the original facts remain.",
+          "correct": true,
+          "feedback": "A rewrite can change meaning or add details."
         },
         {
           "id": "prompt_q4_d",
@@ -129,24 +129,24 @@
       "answers": [
         {
           "id": "prompt_q5_a",
-          "text": "The buddy programme was approved.",
+          "text": "Approved in principle, because it was discussed by the team.",
           "correct": false,
-          "feedback": "Discussion is not a decision."
+          "feedback": "This misses a required boundary or check. Proposed; approval remains open."
         },
         {
           "id": "prompt_q5_b",
-          "text": "The buddy programme was proposed; approval remains open.",
-          "correct": true,
-          "feedback": "The summary must preserve that distinction."
+          "text": "Ready to launch after the summary is circulated to everyone.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. Proposed; approval remains open."
         },
         {
           "id": "prompt_q5_c",
-          "text": "The manager will launch it tomorrow.",
-          "correct": false,
-          "feedback": "Neither an owner nor a date was agreed."
+          "text": "Proposed; approval remains open.",
+          "correct": true,
+          "feedback": "Correct. Proposed; approval remains open."
         }
       ],
-      "feedback": "The summary must preserve that distinction."
+      "feedback": "Correct. Proposed; approval remains open."
     }
   ]
 }

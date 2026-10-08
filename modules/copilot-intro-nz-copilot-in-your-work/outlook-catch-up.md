@@ -24,13 +24,11 @@ Compare the summary with the thread. Check the latest message, not just the firs
 
 ## Try it: 1 minute
 
-**Chat route:** use the invented Wellington notes from module 2. Add this invented update: “The coordinator's deadline is now 14 October 2026.” Ask for a follow-up draft that uses the updated date. Confirm that the old date is gone.
+**Chat route:** use the invented Wellington notes from module 2. Add this invented update: “The coordinator's deadline is now Wednesday next week.” Ask for a follow-up draft that uses the updated date. Confirm that the old date is gone.
 
 **Done when:** your draft reflects the current source and stays unsent.
 
 
 ## Sources
-
-Checked 7 October 2026.
 
 - [Chat with Copilot in Outlook](https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook)

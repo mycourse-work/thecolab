@@ -34,7 +34,5 @@ Create a draft and ask for shorter checklist items. Compare the responsibilities
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Draft and add content with Copilot in Word](https://support.microsoft.com/en-gb/word/copilot/draft-and-add-content-with-copilot-in-word)
 - [Set up Microsoft Copilot and assign licences](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-setup)

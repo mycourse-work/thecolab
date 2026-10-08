@@ -2,10 +2,10 @@
   "id": "copilot-intro-nz-first-good-prompts",
   "title": "Your first good prompts",
   "description": "Turn a vague request into a useful draft, then check and improve it.",
-  "estimatedDuration": "22 minutes",
+  "estimatedDuration": "23 minutes",
   "lessons": [
     {
-      "id": "intro",
+      "id": "video",
       "title": "Turn a vague prompt into a useful draft (video)",
       "type": "content",
       "markdownPath": "intro.md"

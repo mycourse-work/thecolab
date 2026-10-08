@@ -36,6 +36,4 @@ Write a brief for your task from module 1. Include all four ingredients. Add one
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Write a great prompt in Microsoft Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/write-a-great-prompt-in-microsoft-365-copilot)

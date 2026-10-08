@@ -16,9 +16,9 @@ When a source is missing or a claim matters, stop and find reliable evidence. Do
 
 ## Try it: 2 minutes
 
-These invented source notes say: “Trial the checklist. Draft due 13 October. Review date not agreed. Buddy programme discussed.”
+These invented source notes say: “Trial the checklist. Draft due Tuesday next week. Review date not agreed. Buddy programme discussed.”
 
-A flawed illustrative summary says: “The team approved the checklist and buddy programme. The manager will complete the review on 14 October.”
+A flawed illustrative summary says: “The team approved the checklist and buddy programme. The manager will complete the review on Wednesday next week.”
 
 Find two unsupported claims. Then rewrite the summary with a separate open question.
 
@@ -28,8 +28,6 @@ Find two unsupported claims. Then rewrite the summary with a separate open quest
 
 
 ## Sources
-
-Checked 7 October 2026.
 
 - [NZ Digital Government: misinformation and hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations)
 - [NZ Digital Government: accountability and responsibility](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/accountability-responsibility)

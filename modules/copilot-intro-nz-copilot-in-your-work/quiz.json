@@ -9,24 +9,24 @@
       "answers": [
         {
           "id": "apps_q1_a",
-          "text": "Copilot can use relevant work content the user already has permission to access.",
-          "correct": true,
-          "feedback": "Grounding does not grant new permissions."
+          "text": "It gives you access to related files even without existing permission.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. It uses work content within your permissions."
         },
         {
           "id": "apps_q1_b",
-          "text": "Copilot gives every employee access to every file.",
-          "correct": false,
-          "feedback": "Existing permissions still apply."
+          "text": "It uses work content within your permissions.",
+          "correct": true,
+          "feedback": "Correct. It uses work content within your permissions."
         },
         {
           "id": "apps_q1_c",
-          "text": "Any grounded answer is guaranteed correct.",
+          "text": "It guarantees accuracy when an answer comes from a work document.",
           "correct": false,
-          "feedback": "Sources can be old or the answer can be wrong."
+          "feedback": "This misses a required boundary or check. It uses work content within your permissions."
         }
       ],
-      "feedback": "Grounding does not grant new permissions."
+      "feedback": "Correct. It uses work content within your permissions."
     },
     {
       "id": "apps_q2",
@@ -35,24 +35,24 @@
       "answers": [
         {
           "id": "apps_q2_a",
-          "text": "It can never use any work content.",
+          "text": "It uses only the currently open email and never any other inbox data.",
           "correct": false,
-          "feedback": "Current supported Outlook experiences have bounded organisational grounding."
+          "feedback": "This misses a required boundary or check. Bounded inbox and related data; paid access reaches further."
         },
         {
           "id": "apps_q2_b",
-          "text": "It can use inbox, calendar and limited related data; the add-on reaches further.",
-          "correct": true,
-          "feedback": "The scope differs by experience and licence."
+          "text": "It supplies the same broad organisational grounding as every paid licence.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. Bounded inbox and related data; paid access reaches further."
         },
         {
           "id": "apps_q2_c",
-          "text": "It replaces the need to check replies.",
-          "correct": false,
-          "feedback": "Check current source facts, recipients and commitments."
+          "text": "Bounded inbox and related data; paid access reaches further.",
+          "correct": true,
+          "feedback": "Correct. Bounded inbox and related data; paid access reaches further."
         }
       ],
-      "feedback": "The scope differs by experience and licence."
+      "feedback": "Correct. Bounded inbox and related data; paid access reaches further."
     },
     {
       "id": "apps_q3",
@@ -73,9 +73,9 @@
         },
         {
           "id": "apps_q3_c",
-          "text": "Treat a tidy chart as proof that the data range is right.",
+          "text": "Accept the chart’s labels without comparing the selected data range.",
           "correct": false,
-          "feedback": "Inspect the range and arithmetic."
+          "feedback": "Account approval, source comparison and human review remain necessary."
         },
         {
           "id": "apps_q3_d",
@@ -93,24 +93,24 @@
       "answers": [
         {
           "id": "apps_q4_a",
-          "text": "An available transcript, plus the supported licence and meeting setup.",
+          "text": "A transcript and supported licence/settings.",
           "correct": true,
-          "feedback": "Post-meeting questions about speech need an available transcript."
+          "feedback": "Correct. A transcript and supported licence/settings."
         },
         {
           "id": "apps_q4_b",
-          "text": "Only an invitation, even if nothing was transcribed.",
+          "text": "A meeting invitation and licence, without any source of spoken content.",
           "correct": false,
-          "feedback": "The invitation is not evidence of what was said."
+          "feedback": "This misses a required boundary or check. A transcript and supported licence/settings."
         },
         {
           "id": "apps_q4_c",
-          "text": "A personal training opt-out.",
+          "text": "A saved recording, even when no transcript or supported setup exists.",
           "correct": false,
-          "feedback": "That is unrelated to Teams meeting grounding."
+          "feedback": "This misses a required boundary or check. A transcript and supported licence/settings."
         }
       ],
-      "feedback": "Post-meeting questions about speech need an available transcript."
+      "feedback": "Correct. A transcript and supported licence/settings."
     },
     {
       "id": "apps_q5",

@@ -2,7 +2,7 @@
 
 Make a useful draft. Check it. Keep control of the work.
 
-This free course is for New Zealand office staff, owners and managers. Allow **84 minutes**, including short exercises and four quizzes. You need no technical background.
+This free course is for New Zealand office staff, owners and managers. Allow **88 minutes**, including short exercises and four quizzes. You need no technical background.
 
 ## What you will leave with
 
@@ -27,4 +27,4 @@ Mark each lesson complete and pass all four quizzes. The course pass mark is 80%
 
 TheColab provides this training independently. We are not affiliated with, endorsed by or sponsored by Microsoft. Microsoft, Microsoft 365 and Copilot are trademarks of the Microsoft group of companies.
 
-Product sources were checked on 7 October 2026. Microsoft is changing some product names to Microsoft Copilot and Microsoft Copilot Chat. You may still see Microsoft 365 Copilot on licences and screens.
+Use Microsoft 365 Copilot as the work-product name in this course. Microsoft’s documentation and app labels may use shorter names. Check your account’s actual licence and settings.

@@ -9,24 +9,24 @@
       "answers": [
         {
           "id": "setup_q1_a",
-          "text": "Draft a reminder from the supplied notes, then check it.",
-          "correct": true,
-          "feedback": "The source is small and the result can be checked."
+          "text": "Summarise a real complaint before confirming your team’s data rules.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. Draft and check an invented reminder."
         },
         {
           "id": "setup_q1_b",
-          "text": "Decide a real employee complaint using AI alone.",
-          "correct": false,
-          "feedback": "A decision about a person needs accountable human judgement."
+          "text": "Draft and check an invented reminder.",
+          "correct": true,
+          "feedback": "Correct. Draft and check an invented reminder."
         },
         {
           "id": "setup_q1_c",
-          "text": "Upload client records before checking the team rule.",
+          "text": "Test file upload with customer records before checking their sensitivity.",
           "correct": false,
-          "feedback": "Confirm the service and allowed data first."
+          "feedback": "This misses a required boundary or check. Draft and check an invented reminder."
         }
       ],
-      "feedback": "The source is small and the result can be checked."
+      "feedback": "Correct. Draft and check an invented reminder."
     },
     {
       "id": "setup_q2",
@@ -35,24 +35,24 @@
       "answers": [
         {
           "id": "setup_q2_a",
-          "text": "They must have the paid Copilot add-on.",
+          "text": "A paid add-on assignment, because the button is visible in Word.",
           "correct": false,
-          "feedback": "Basic can mean standard in-app access without the add-on."
+          "feedback": "This misses a required boundary or check. Standard app access; confirm the settings."
         },
         {
           "id": "setup_q2_b",
-          "text": "They have standard in-app access; confirm features and settings.",
-          "correct": true,
-          "feedback": "Read the label and confirm availability with IT."
+          "text": "The full paid experience, because Basic describes the base subscription.",
+          "correct": false,
+          "feedback": "This misses a required boundary or check. Standard app access; confirm the settings."
         },
         {
           "id": "setup_q2_c",
-          "text": "They can use every feature without limits.",
-          "correct": false,
-          "feedback": "Standard access can depend on capacity and tenant configuration."
+          "text": "Standard app access; confirm the settings.",
+          "correct": true,
+          "feedback": "Correct. Standard app access; confirm the settings."
         }
       ],
-      "feedback": "Read the label and confirm availability with IT."
+      "feedback": "Correct. Standard app access; confirm the settings."
     },
     {
       "id": "setup_q3",
@@ -61,21 +61,21 @@
       "answers": [
         {
           "id": "setup_q3_a",
+          "text": "Use a personal opt-out as workplace permission for client records.",
+          "correct": false,
+          "feedback": "Account approval, source comparison and human review remain necessary."
+        },
+        {
+          "id": "setup_q3_b",
           "text": "Check the approved work account.",
           "correct": true,
           "feedback": "The selected account affects protection and access."
         },
         {
-          "id": "setup_q3_b",
+          "id": "setup_q3_c",
           "text": "Confirm enterprise protection and the team data rule.",
           "correct": true,
           "feedback": "Protection and permission to use data are separate checks."
-        },
-        {
-          "id": "setup_q3_c",
-          "text": "Assume a personal training opt-out permits all work records.",
-          "correct": false,
-          "feedback": "A personal setting is not employer approval."
         },
         {
           "id": "setup_q3_d",
@@ -93,24 +93,24 @@
       "answers": [
         {
           "id": "setup_q4_a",
-          "text": "Work prompts and responses are not used to train foundation models, but may be retained.",
+          "text": "No foundation-model training; retention may apply.",
           "correct": true,
-          "feedback": "Training protection and retention are different."
+          "feedback": "Correct. No foundation-model training; retention may apply."
         },
         {
           "id": "setup_q4_b",
-          "text": "Every chat is deleted immediately.",
+          "text": "No retention of any work prompt once the response has appeared.",
           "correct": false,
-          "feedback": "Work interactions can be logged and retained."
+          "feedback": "This misses a required boundary or check. No foundation-model training; retention may apply."
         },
         {
           "id": "setup_q4_c",
-          "text": "You can enter secrets because a shield is visible.",
+          "text": "Training is optional, so all confidential uploads are automatically approved.",
           "correct": false,
-          "feedback": "A protection indicator does not replace your data rule."
+          "feedback": "This misses a required boundary or check. No foundation-model training; retention may apply."
         }
       ],
-      "feedback": "Training protection and retention are different."
+      "feedback": "Correct. No foundation-model training; retention may apply."
     },
     {
       "id": "setup_q5",

@@ -32,8 +32,6 @@ Pick one planned task. List its information types. Replace the real records with
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Privacy Commissioner: AI and the privacy principles](https://privacy.org.nz/resources-and-learning/a-z-topics/ai/)
 - [Privacy Commissioner: generative AI guidance](https://privacy.org.nz/resources-and-learning/a-z-topics/ai/generative-artificial-intelligence/)
 - [Privacy Commissioner: AI and the Privacy Act 2020](https://privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf)

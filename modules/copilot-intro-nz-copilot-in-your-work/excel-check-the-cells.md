@@ -10,23 +10,23 @@ Enter this invented Hamilton office activity data. The figures are counts, not m
 
 | Month | Enquiries | Completed jobs |
 | --- | ---: | ---: |
-| July | 20 | 12 |
-| August | 25 | 15 |
-| September | 30 | 18 |
+| Month 1 | 20 | 12 |
+| Month 2 | 25 | 15 |
+| Month 3 | 30 | 18 |
 
 Select **Copilot in the lower-right corner** of Excel. Current Windows, Mac and web experiences have edit, chat and plan modes. Choose **Chat only** for this question, so the response stays in the pane. Edit mode can change the workbook directly.
 
 ## Ask a precise question
 
 ```text
-Using only this table, compare July and September enquiries.
+Using only this table, compare Month 1 and Month 3 enquiries.
 Show the values and the difference.
 Do not forecast future demand or edit the workbook.
 ```
 
 ## Try it: 2 minutes
 
-Check the answer yourself: 30 minus 20 is **10** more enquiries. If you ask for percentage change, the increase is **50%** of July's 20. A higher count does not prove why demand changed.
+Check the answer yourself: 30 minus 20 is **10** more enquiries. If you ask for percentage change, the increase is **50%** of Month 1's 20. A higher count does not prove why demand changed.
 
 Check each figure against the correct column. An attractive chart is not proof that the range is right.
 
@@ -36,8 +36,6 @@ Check each figure against the correct column. An attractive chart is not proof t
 
 
 ## Sources
-
-Checked 7 October 2026.
 
 - [Copilot in Excel: file and licence prerequisites](https://support.microsoft.com/en-us/accessibility/copilot/copilot-with-excel-tutorial-for-screen-reader-users)
 - [Copilot in Excel tips](https://support.microsoft.com/en-us/excel/copilot/copilot-in-excel-tips)

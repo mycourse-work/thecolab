@@ -50,7 +50,5 @@ Fill in the placeholders. Add a rule about who checks client-facing drafts. Mark
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Privacy Commissioner: generative AI guidance](https://privacy.org.nz/resources-and-learning/a-z-topics/ai/generative-artificial-intelligence/)
 - [NZ Digital Government: AI governance](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/governance)

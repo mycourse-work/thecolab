@@ -1,6 +1,6 @@
 # Use the source inside your apps
 
-**Video: about 2 minutes. Module: 22 minutes including practice and quiz.**
+**Video: about 3 minutes. Module: 23 minutes including practice and quiz.**
 
 <video controls playsinline preload="metadata" aria-label="Module 3: Use the source inside your apps" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/copilot-intro-nz-module-3.mp4" type="video/mp4">

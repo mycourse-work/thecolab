@@ -16,7 +16,7 @@ If you cannot confirm the account or protection, stop at the invented examples a
 
 With enterprise data protection, work prompts and responses are not used to train foundation models. You do not need to find a consumer training switch to gain this protection. Work interactions can be logged and retained for audit. “Not used for training” does not mean “not stored”.
 
-For separate personal practice on **copilot.com**, open your profile icon, select your profile name, then **Privacy**. Turn off **Training on conversation activity** and **Training on voice conversations** if you do not want that activity used for training. These controls cover the personal Copilot experience. They do not make it your employer's approved service.
+For separate personal practice, **check Settings for training controls** and read the [current personal Copilot privacy guidance](https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls). Controls vary by app version and account. The current page describes Settings for personalisation and other privacy choices; it does not establish one training-toggle path for every account. If you cannot find a training control, check Microsoft’s current help rather than using the older profile-menu steps. Personal privacy choices do not turn a personal account into your employer’s approved work service.
 
 Ask your administrator to review **Allow web search in Copilot**. Web search can send generated search terms to Bing, which has separate handling rules. If your work task does not need the public web, agree whether that setting should be off for your group. Do not change organisation-wide controls yourself.
 
@@ -36,8 +36,6 @@ Use this checklist. If you lack access, fill it in as questions for IT.
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Manage Microsoft Copilot Chat](https://learn.microsoft.com/en-us/copilot/manage)
 - [Copilot Chat privacy and protections](https://learn.microsoft.com/en-us/copilot/privacy-and-protections)
-- [Personal Copilot privacy controls](https://support.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-privacy-controls)
+- [Personal Copilot privacy controls](https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls)

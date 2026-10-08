@@ -29,8 +29,6 @@ Read the source passages. A speaker can propose a date without the team acceptin
 
 ## Sources
 
-Checked 7 October 2026.
-
 - [Recap a Teams meeting](https://support.microsoft.com/en-us/teams/meetings-events/recap-a-teams-meeting)
 - [Catch up on meetings with Copilot in Teams](https://support.microsoft.com/en-us/teams/copilot/catch-up-on-meetings-with-microsoft-365-copilot-in-teams)
 - [NZ Digital Government: accountability and responsibility](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/accountability-responsibility)

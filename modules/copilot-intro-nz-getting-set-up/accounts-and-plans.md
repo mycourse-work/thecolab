@@ -10,7 +10,7 @@
 | Microsoft 365 Personal, Family, Premium or Pro | Individual subscriptions with Copilot features and usage limits. They do not establish your employer's work account or permissions. |
 | Copilot Chat with an eligible work account | Included at no extra cost. Business Basic, Business Standard and Business Premium are among the eligible Microsoft 365 plans. |
 | Microsoft 365 Copilot Business | A paid add-on for eligible subscriptions, for up to 300 users. It gives broader work grounding and priority access. |
-| Microsoft Copilot for enterprise | Available with qualifying plans such as Microsoft 365 E3 or E5. Microsoft 365 E7 includes Copilot. Your administrator checks the exact entitlement. |
+| Microsoft 365 Copilot | Available with qualifying plans such as Microsoft 365 E3 or E5. Microsoft 365 E7 includes Copilot. Your administrator checks the exact entitlement. |
 
 Microsoft's NZ sales pages still use **Microsoft 365 Copilot Business**. Learn documentation now also uses **Microsoft Copilot Business**. Confirm the product name and eligibility when you buy. Ask your administrator about the base plan, the Copilot licence, and whether Teams is included. A Copilot purchase does not supply every underlying app licence.
 
@@ -30,8 +30,6 @@ Record your work account, Microsoft 365 base plan and Copilot label. If you cann
 
 
 ## Sources
-
-Checked 7 October 2026.
 
 - [Free Copilot and Copilot in Microsoft 365](https://support.microsoft.com/en-us/microsoft-365-copilot/what-s-the-difference-between-microsoft-copilot-free-and-copilot-in-microsoft-365)
 - [Microsoft NZ individual plans](https://www.microsoft.com/en-nz/microsoft-365-copilot/pricing/individuals)

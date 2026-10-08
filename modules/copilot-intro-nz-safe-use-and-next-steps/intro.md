@@ -1,6 +1,6 @@
 # Keep the responsibility with your team
 
-**Video: about 2 minutes. Module: 23 minutes including practice and quiz.**
+**Video: about 3 minutes. Module: 24 minutes including practice and quiz.**
 
 <video controls playsinline preload="metadata" aria-label="Module 4: Keep the responsibility with your team" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/copilot-intro-nz-module-4.mp4" type="video/mp4">

@@ -16,9 +16,9 @@ Copy this prompt into an approved Chat session, or mark its ingredients on paper
 Help an office administrator at an invented Hamilton accountancy.
 Draft an email to a client requesting missing documents.
 Use only these facts:
-- We need the bank statement for September 2026.
+- We need the bank statement for last month.
 - Please send it through our existing secure portal.
-- Our requested date is 12 October 2026.
+- Our requested date is the end of next week.
 Use NZ English. Be calm and helpful.
 Include a subject line. Keep the email under 100 words.
 Use [client] and [sender] as placeholders.
@@ -29,11 +29,11 @@ Do not invent a portal link, fee or legal deadline.
 
 **Illustrative draft written for this exercise; your result will vary.**
 
-Subject: September bank statement
+Subject: Last month’s bank statement
 
 Hi [client],
 
-Could you please send your September 2026 bank statement through our existing secure portal by 12 October 2026? Let us know if you need help with the portal.
+Could you please send your bank statement for last month through our existing secure portal by the end of next week? Let us know if you need help with the portal.
 
 Thanks, [sender]
 
@@ -47,7 +47,5 @@ Run the prompt. Then ask: “Keep the facts and placeholders. Make it warmer wit
 
 
 ## Sources
-
-Checked 7 October 2026.
 
 - [Write a great prompt in Microsoft Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/write-a-great-prompt-in-microsoft-365-copilot)

@@ -9,24 +9,24 @@
       "answers": [
         {
           "id": "safe_q1_a",
-          "text": "Remove just the name and paste the rest.",
+          "text": "Remove the name and assume the remaining complaint is sufficiently anonymous.",
           "correct": false,
-          "feedback": "Other details may still identify a person."
+          "feedback": "This misses a required boundary or check. Use an invented scenario; ask the privacy lead."
         },
         {
           "id": "safe_q1_b",
-          "text": "Replace it with an invented scenario; ask the privacy lead before any real use.",
+          "text": "Use an invented scenario; ask the privacy lead.",
           "correct": true,
-          "feedback": "The course uses invented data, and real use needs an approved assessment."
+          "feedback": "Correct. Use an invented scenario; ask the privacy lead."
         },
         {
           "id": "safe_q1_c",
-          "text": "Paste it into a personal account with training off.",
+          "text": "Use a personal opt-out and assume the workplace complaint is then approved.",
           "correct": false,
-          "feedback": "Training settings do not approve that use of personal information."
+          "feedback": "This misses a required boundary or check. Use an invented scenario; ask the privacy lead."
         }
       ],
-      "feedback": "The course uses invented data, and real use needs an approved assessment."
+      "feedback": "Correct. Use an invented scenario; ask the privacy lead."
     },
     {
       "id": "safe_q2",
@@ -53,9 +53,9 @@
         },
         {
           "id": "safe_q2_d",
-          "text": "Only whether the result sounds professional.",
+          "text": "Check the wording only when the output includes an uncertainty flag.",
           "correct": false,
-          "feedback": "A professional tone does not prove accuracy."
+          "feedback": "Account approval, source comparison and human review remain necessary."
         }
       ],
       "feedback": "Verify against reliable current sources. Check meaning as well as wording. Sharing permissions still matter."
@@ -96,24 +96,24 @@
       "answers": [
         {
           "id": "safe_q4_a",
-          "text": "A draft that needs manager and privacy review.",
+          "text": "A draft requiring manager and privacy review.",
           "correct": true,
-          "feedback": "The starter must be adapted and approved."
+          "feedback": "Correct. A draft requiring manager and privacy review."
         },
         {
           "id": "safe_q4_b",
-          "text": "An automatic guarantee of Privacy Act compliance.",
+          "text": "A workplace policy effective as soon as its required fields are filled.",
           "correct": false,
-          "feedback": "A template cannot guarantee compliance."
+          "feedback": "This misses a required boundary or check. A draft requiring manager and privacy review."
         },
         {
           "id": "safe_q4_c",
-          "text": "An official Microsoft policy for your business.",
+          "text": "A completed privacy assessment that approves all future Copilot tasks.",
           "correct": false,
-          "feedback": "This is independent TheColab training."
+          "feedback": "This misses a required boundary or check. A draft requiring manager and privacy review."
         }
       ],
-      "feedback": "The starter must be adapted and approved."
+      "feedback": "Correct. A draft requiring manager and privacy review."
     },
     {
       "id": "safe_q5",
@@ -122,24 +122,24 @@
       "answers": [
         {
           "id": "safe_q5_a",
-          "text": "Buy every licence and course before trying a task.",
+          "text": "Buy the add-on before trying any prompt, even with invented material.",
           "correct": false,
-          "feedback": "Choose based on a specific need."
+          "feedback": "This misses a required boundary or check. Practise approved tasks; choose training for a gap."
         },
         {
           "id": "safe_q5_b",
-          "text": "Practise small approved tasks for seven days, then choose training for a clear gap.",
+          "text": "Practise approved tasks; choose training for a gap.",
           "correct": true,
-          "feedback": "A practice plan helps you identify what to learn next."
+          "feedback": "Correct. Practise approved tasks; choose training for a gap."
         },
         {
           "id": "safe_q5_c",
-          "text": "Promise a fixed productivity gain from one AI draft.",
+          "text": "Connect all work files immediately to maximise context for future practice.",
           "correct": false,
-          "feedback": "Judge actual quality and effort without invented savings claims."
+          "feedback": "This misses a required boundary or check. Practise approved tasks; choose training for a gap."
         }
       ],
-      "feedback": "A practice plan helps you identify what to learn next."
+      "feedback": "Correct. Practise approved tasks; choose training for a gap."
     }
   ]
 }
