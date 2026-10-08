@@ -15,7 +15,7 @@ Use a direct, friendly tone. Keep the subject line.
 Do not add a price or a delivery date.
 ```
 
-If a response says, “Your quote will arrive on Friday,” correct it: “Friday was not in my notes. Remove the deadline and check for other added facts.”
+If a response says, "Your quote will arrive on Friday," correct it: "Friday was not in my notes. Remove the deadline and check for other added facts."
 
 ## Use a review loop
 
@@ -32,4 +32,4 @@ Keep useful instructions in your own prompt library. Save the task, the safe inp
 
 ## Try it: two edits
 
-Revise your practice email for length, then for tone. Compare the final result with the original facts. A good revision changes the writing while preserving the meaning.
+Revise your practice email for length, then for tone. Compare the final result with the original facts. Check that neither edit adds a date or price.

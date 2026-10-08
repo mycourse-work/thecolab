@@ -26,7 +26,6 @@ Free and paid plans can have usage limits. Paying does not guarantee unlimited u
 
 Write your plan name and whether it is a personal account or an organisation workspace. Ask your manager which account your team approves before using real work data.
 
-
 ## Sources
 
 [Plans](https://claude.com/pricing). [Team](https://support.claude.com/en/articles/9267247-get-started-with-the-team-plan). [Usage](https://support.claude.com/en/articles/9797557-usage-limit-best-practices).

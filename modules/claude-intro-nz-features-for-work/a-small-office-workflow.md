@@ -14,7 +14,7 @@ Use each feature for a clear purpose. A Project holds reusable instructions and 
 | Check | Trace every required step back to the notes. |
 | Finish | Have the office manager approve the final document. |
 
-Keep a record of the source version and reviewer in your approved system. A useful output should be easy for another person to check.
+Keep a record of the source version and reviewer in your approved system. Give the reviewer the source alongside the draft.
 
 ## Where to go next
 
@@ -24,8 +24,7 @@ Claude Code supports coding work. Claude Cowork covers tasks that can use files 
 
 Choose the feature you would use for each item: a recurring writing rule, a source document, and a reusable checklist. Explain your choices to a colleague or write them in your notes.
 
-You are ready for the quiz when you can say what each feature contributes and where a person checks the result.
-
+Before the quiz, explain how you would check the checklist against its source.
 
 ## Sources
 

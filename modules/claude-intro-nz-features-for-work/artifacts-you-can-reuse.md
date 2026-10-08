@@ -21,14 +21,13 @@ Do not include personal details or employment advice.
 Keep it a draft for the office manager to review.
 ```
 
-Check the checklist. Ask Claude to move first-week items into a separate section and replace any invented staff name with “[owner]”. Find the result again in the **Artifacts** sidebar tab.
+Check the checklist. Ask Claude to move first-week items into a separate section and replace any invented staff name with "[owner]". Find the result again in the **Artifacts** sidebar tab.
 
 ## Review before reuse or sharing
 
 Compare the final checklist with your organisation's process. Keep the exercise private. Before sharing a real Artifact, inspect its contents, who can open the link, and your account's sharing controls.
 
 If the capability is unavailable, ask for the checklist in the chat and copy the reviewed text into your own notes. You can still practise the same task.
-
 
 ## Sources
 

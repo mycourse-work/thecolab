@@ -19,9 +19,9 @@ A role helps describe the kind of output you want. It does not give Claude profe
 
 ## Before and after
 
-**Before:** “Write something about a quote.”
+Before: "Write something about a quote."
 
-**After:**
+After:
 
 ```text
 Act as an office administrator drafting for manager review.
@@ -34,6 +34,6 @@ Do not invent a price, due date or guarantee.
 
 ## Try it: make one improvement
 
-Run the “before” prompt, then the “after” prompt in a fresh chat. Spend two minutes comparing them. Which result made fewer assumptions? Keep the instruction that caused the improvement.
+Run the "before" prompt, then the "after" prompt in a fresh chat. Spend two minutes comparing them. Which result made fewer assumptions? Keep the instruction that caused the improvement.
 
 You can also ask Claude to list missing information before it drafts. Answer with invented facts for practice.

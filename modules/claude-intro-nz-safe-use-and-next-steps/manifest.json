@@ -2,11 +2,11 @@
   "id": "claude-intro-nz-safe-use-and-next-steps",
   "title": "Safe use in NZ and your next steps",
   "description": "Protect information, check answers, draft team rules, and build a seven-day practice habit.",
-  "estimatedDuration": "23 minutes",
+  "estimatedDuration": "23 minutes 2 seconds",
   "lessons": [
     {
       "id": "video",
-      "title": "Keep the human checks — video",
+      "title": "Keep the human checks video",
       "type": "content",
       "markdownPath": "video.md"
     },

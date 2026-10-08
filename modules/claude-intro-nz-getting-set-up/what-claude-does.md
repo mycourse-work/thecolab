@@ -8,7 +8,7 @@ Claude is Anthropic's AI assistant. You describe a task in a chat. Claude produc
 
 Useful first tasks include a draft email, a shorter version of a document, or a checklist from notes. Choose work where you can judge the answer yourself.
 
-**Illustrative example:** An invented Hamilton accountancy needs a plain-language reminder about documents for an appointment. The office manager gives Claude made-up details, reviews the draft, and adds the real details in the firm's approved system.
+Illustrative example: An invented Hamilton accountancy needs a plain-language reminder about documents for an appointment. The office manager gives Claude made-up details, reviews the draft, and adds the real details in the firm's approved system.
 
 Claude can produce a polished answer that contains wrong details. A fluent response is not evidence. Check dates, amounts, names and claims before anyone acts on them. Keep a qualified person responsible for legal, tax, health or employment decisions.
 
@@ -19,7 +19,6 @@ Claude can produce a polished answer that contains wrong details. A fluent respo
 Write down one routine task. Ask: Can I use invented or public information? Can I check the result? Who approves the final version?
 
 If any answer is unclear, practise with the examples supplied here.
-
 
 ## Sources
 

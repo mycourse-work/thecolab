@@ -25,7 +25,7 @@ Include a short source excerpt beside each item.
 Keep "subject to client approval". Do not infer a price.
 ```
 
-Check each row against the original file. “Tuesday next week” alone loses an important condition. A price is missing and must stay missing.
+Check each row against the original file. "Tuesday next week" alone loses an important condition. A price is missing and must stay missing.
 
 ## Know the limits
 
@@ -34,7 +34,6 @@ Project files have a 30 MB limit per file. Other upload limits depend on the rou
 Claude reads PDF visuals only in PDFs of 100 pages or fewer. For longer supported PDFs, it reads text. Non-PDF documents use text extraction, so embedded images may be missed. Uploading a file does not prove that every part was understood.
 
 If a figure matters, inspect it yourself. Ask about one section at a time and use the PDF viewer's page numbers when you ask for evidence.
-
 
 ## Sources
 

@@ -17,9 +17,9 @@ Do not add deadlines, fees, tax advice or extra document requests.
 
 Look for the two requested items. Check that Claude kept the placeholder and did not invent a deadline. Read the tone aloud. Would you be comfortable sending it after review?
 
-If the result needs work, send a follow-up: “Make the email more direct. Keep both requested items. Keep the date placeholder.”
+If the result needs work, send a follow-up: "Make the email more direct. Keep both requested items. Keep the date placeholder."
 
-Save a reviewed practice draft in your own notes. A useful draft still needs a person to check it.
+Save the reviewed practice draft in your own notes.
 
 ## Ready for the quiz
 

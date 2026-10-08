@@ -6,7 +6,7 @@ Show Claude the style or structure you want. Use a made-up example, or text your
 
 ## Turn rough notes into actions
 
-**Illustrative example:** An invented Wellington HR team wants meeting actions. These notes contain no employee information.
+Illustrative example: An invented Wellington HR team wants meeting actions. These notes contain no employee information.
 
 ```text
 Convert the notes below into a table.
@@ -31,10 +31,10 @@ No owner was chosen for the notice.
 | Draft induction checklist | Office manager | Not stated | When is the draft needed? |
 | Prepare kitchen first-aid notice | Not stated | the end of next week | Who owns this action? |
 
-The table separates known facts from gaps. That is more useful than a neat table with invented dates.
+The table keeps the missing owner and deadline visible.
 
 ## Try it: test the gaps
 
-Spend five minutes running the prompt and comparing every cell with the notes. Ask Claude to correct any extra facts. The expected table above is your check, not a claim that every run will be identical.
+Spend five minutes running the prompt and comparing every cell with the notes. Ask Claude to correct any extra facts. Use the expected table to check the result. Claude may word its answer differently.
 
 > **Tip:** Labels such as `<notes>` help show where source material starts and ends. They do not guarantee that an untrusted document is safe. Read what you upload and review what Claude produces.

@@ -1,4 +1,4 @@
-# Welcome to Claude for NZ Work
+# Welcome to Claude for NZ work
 
 Start with one small task you can check. This free course helps NZ office staff, owners and managers use Claude for practical drafting and document work.
 
@@ -9,7 +9,7 @@ Start with one small task you can check. This free course helps NZ office staff,
 3. Use Projects, files and Artifacts for repeat work.
 4. Protect information, check answers and make a seven-day plan.
 
-Allow about 84 minutes, plus this two-minute welcome. Each of the four modules starts with a short video, then has four short text lessons and a five-question quiz. The text summary also lets you learn when a video is unavailable. Work at your own pace. Each exercise takes no more than five minutes.
+Allow about 84 minutes 13 seconds, plus this two-minute welcome. Each of the four modules starts with a short video, then has four short text lessons and a five-question quiz. The text summary also lets you learn when a video is unavailable. Work at your own pace. Allow up to five minutes for each exercise.
 
 ## What you need
 

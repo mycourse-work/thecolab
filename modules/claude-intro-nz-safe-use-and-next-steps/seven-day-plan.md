@@ -18,7 +18,7 @@ Choose one task you can check. Spend five minutes a day practising with invented
 
 ## Choose support when you need it
 
-Keep practising for free if that meets your needs. When you want more structure, [browse Claude Training NZ's courses](https://claudetraining.co.nz/courses/). Explore more courses and workshops when they fit your work.
+Keep practising for free if that meets your needs. For guided practice, [browse Claude Training NZ's courses and workshops](https://claudetraining.co.nz/courses/).
 
 For guided team practice, explore the [Claude foundations half-day workshop](https://claudetraining.co.nz/courses/claude-foundations-workshop/), available in person or remotely. For deeper work, see [Claude for everyday work](https://claudetraining.co.nz/courses/claude-practical-day/), [finance teams](https://claudetraining.co.nz/courses/claude-for-finance-teams/), or [HR and people teams](https://claudetraining.co.nz/courses/claude-for-hr-and-people-teams/). Choose the course that matches the work you do.
 
@@ -26,4 +26,4 @@ For guided team practice, explore the [Claude foundations half-day workshop](htt
 
 Complete each lesson and pass all four quizzes. The pass mark is 80%: four out of five questions in each quiz. The platform has a course-completion certificate for this tenant. Use **Get Your Certificate** when it becomes available after your recorded completion. Your progress must be associated with an account.
 
-This is a TheColab course-completion certificate. It is not an Anthropic certification. Take your seven-day plan into your next week of work.
+This is a TheColab course-completion certificate. It is not an Anthropic certification. Use your seven-day plan to choose next week's practice tasks.

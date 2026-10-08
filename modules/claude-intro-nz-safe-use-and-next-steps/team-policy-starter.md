@@ -9,7 +9,7 @@ NZ Digital Government provides an AI policy template for agencies. It is a usefu
 ## Copy and adapt this starter
 
 ```text
-Team AI rules — draft for approval
+Team AI rules: draft for approval
 Owner: [role]. Review date: [date].
 Approved tool and workspace: [tool, plan, workspace].
 
@@ -30,8 +30,7 @@ We report a data mistake promptly to [role] using [process].
 
 In your notes, replace the owner, approved workspace and incident-process placeholders with proposed roles. Do not paste staff details into Claude. Check who can approve the policy, and add one example of an allowed task.
 
-If you cannot identify an owner, make that your first follow-up action. Clear responsibility matters more than a long document.
-
+If you cannot identify an owner, ask your manager who should approve the rules.
 
 ## Sources
 

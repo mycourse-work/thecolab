@@ -11,19 +11,19 @@
           "id": "q1_a",
           "text": "In the Project description.",
           "correct": false,
-          "feedback": "This misses the required check. In Set project instructions."
-        },
-        {
-          "id": "q1_b",
-          "text": "In an earlier chat, assuming it always supplies later context.",
-          "correct": false,
-          "feedback": "This misses the required check. In Set project instructions."
+          "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
         },
         {
           "id": "q1_c",
           "text": "In Set project instructions.",
           "correct": true,
-          "feedback": "Correct. In Set project instructions."
+          "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
+        },
+        {
+          "id": "q1_b",
+          "text": "In an earlier chat, assuming it always supplies later context.",
+          "correct": false,
+          "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
         }
       ]
     },
@@ -33,22 +33,22 @@
       "question": "Which feature is appropriate for an editable checklist beside your chat?",
       "answers": [
         {
-          "id": "q2_a",
-          "text": "A Project instruction.",
-          "correct": false,
-          "feedback": "This misses the required check. An Artifact."
-        },
-        {
           "id": "q2_b",
           "text": "An Artifact.",
           "correct": true,
-          "feedback": "Correct. An Artifact."
+          "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
+        },
+        {
+          "id": "q2_a",
+          "text": "A Project instruction.",
+          "correct": false,
+          "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
         },
         {
           "id": "q2_c",
           "text": "An attached reference file.",
           "correct": false,
-          "feedback": "This misses the required check. An Artifact."
+          "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
         }
       ]
     },
@@ -73,7 +73,7 @@
           "id": "q3_c",
           "text": "Treat a successful upload as proof that all content was read.",
           "correct": false,
-          "feedback": "Source facts, workplace permission and human checks must remain explicit."
+          "feedback": "A successful upload does not show that every part was read. Compare the summary with the original."
         },
         {
           "id": "q3_d",
@@ -121,19 +121,19 @@
           "id": "q5_a",
           "text": "Wait for Artifact access.",
           "correct": false,
-          "feedback": "This misses the required check. Use a chat draft and review it."
+          "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
+        },
+        {
+          "id": "q5_c",
+          "text": "Use a colleague's workspace.",
+          "correct": false,
+          "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
         },
         {
           "id": "q5_b",
           "text": "Use a chat draft and review it.",
           "correct": true,
-          "feedback": "Correct. Use a chat draft and review it."
-        },
-        {
-          "id": "q5_c",
-          "text": "Use a colleague’s workspace.",
-          "correct": false,
-          "feedback": "This misses the required check. Use a chat draft and review it."
+          "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
         }
       ]
     }

@@ -10,7 +10,7 @@ The Privacy Commissioner expects organisations to assess privacy impacts before 
 
 Do not paste passwords, access tokens, client tax records, bank details, employee health or performance records, confidential contracts, or commercially sensitive quotes. Use the invented examples in this course.
 
-**Illustrative example:** Removing a name from a note about “the only payroll officer in our three-person Hamilton office” may still identify that person. Replace the whole situation with a made-up one.
+Illustrative example: Removing a name from a note about "the only payroll officer in our three-person Hamilton office" may still identify that person. Replace the whole situation with a made-up one.
 
 ## Make the input decision first
 
@@ -27,7 +27,6 @@ flowchart TD
 List the types of information in a task you do often. Do not copy the actual information. Mark which types could identify a person or expose business secrets. Create a fully invented practice version.
 
 If real information is needed later, ask your privacy officer or policy owner to assess the use first, including storage and overseas handling. Follow the employer's incident process if private information is entered by mistake.
-
 
 ## Sources
 

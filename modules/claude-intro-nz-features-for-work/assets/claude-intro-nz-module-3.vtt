@@ -1,0 +1,240 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:05.790
+An invented Wellington HR team wants a
+new starter checklist they can reuse,
+
+2
+00:00:05.840 --> 00:00:08.350
+written the same way every time.
+
+3
+00:00:08.400 --> 00:00:10.910
+Three Claude features help with that job.
+
+4
+00:00:11.360 --> 00:00:15.310
+A Project holds reusable
+instructions and reference material.
+
+5
+00:00:15.440 --> 00:00:17.710
+A file supplies evidence.
+
+6
+00:00:17.760 --> 00:00:20.150
+An Artifact gives you separate output,
+
+7
+00:00:20.200 --> 00:00:22.590
+to revise beside the conversation.
+
+8
+00:00:23.040 --> 00:00:26.110
+Start with the job, not every button.
+
+9
+00:00:26.160 --> 00:00:28.070
+Keep your notes beside the draft,
+
+10
+00:00:28.120 --> 00:00:32.270
+so every step can be traced back
+to something you actually supplied.
+
+11
+00:00:33.520 --> 00:00:35.470
+First, the Project.
+
+12
+00:00:35.520 --> 00:00:38.350
+Open Projects, then New Project.
+
+13
+00:00:38.480 --> 00:00:41.070
+Call it Practice office emails.
+
+14
+00:00:41.120 --> 00:00:43.950
+Free accounts can create
+up to five Projects.
+
+15
+00:00:44.000 --> 00:00:45.630
+Keep this one private.
+
+16
+00:00:46.080 --> 00:00:48.470
+Choose Set project instructions,
+
+17
+00:00:48.520 --> 00:00:50.590
+and add a few short rules.
+
+18
+00:00:50.640 --> 00:00:52.430
+Use New Zealand English.
+
+19
+00:00:52.480 --> 00:00:54.750
+Use only the supplied facts.
+
+20
+00:00:54.800 --> 00:00:57.070
+Flag missing dates and owners.
+
+21
+00:00:57.120 --> 00:01:00.430
+Keep everything as a draft
+for a person to review.
+
+22
+00:01:00.880 --> 00:01:06.190
+One detail. The Project's name and
+description aren't context Claude can read.
+
+23
+00:01:06.400 --> 00:01:08.550
+Put the rules you need
+in the instructions,
+
+24
+00:01:08.600 --> 00:01:11.550
+and the reference facts in
+the Project's knowledge.
+
+25
+00:01:12.000 --> 00:01:17.030
+On Team and Enterprise plans, Projects
+can be shared inside the organisation.
+
+26
+00:01:17.080 --> 00:01:21.150
+So check who can see a Project
+before you add anything to it.
+
+27
+00:01:22.600 --> 00:01:26.870
+Next, evidence. In a chat,
+choose the plus button,
+
+28
+00:01:26.920 --> 00:01:29.270
+then Add files or photos.
+
+29
+00:01:29.320 --> 00:01:32.150
+Attach the tiny practice
+file from the lesson:
+
+30
+00:01:32.200 --> 00:01:34.550
+invented notes for a painting job.
+
+31
+00:01:35.000 --> 00:01:37.390
+Ask for the scope, the exclusions,
+
+32
+00:01:37.440 --> 00:01:40.150
+the proposed start, and anything missing.
+
+33
+00:01:40.360 --> 00:01:43.190
+Then compare every line with the file.
+
+34
+00:01:43.640 --> 00:01:46.830
+The notes say the start is
+subject to client approval,
+
+35
+00:01:46.880 --> 00:01:49.190
+and the price is not yet confirmed.
+
+36
+00:01:49.240 --> 00:01:51.910
+So the summary must keep
+the approval condition,
+
+37
+00:01:51.960 --> 00:01:54.310
+and must not invent a price.
+
+38
+00:01:55.760 --> 00:02:00.910
+Now, the output. Ask for a simple
+checklist Artifact for the new starter.
+
+39
+00:02:01.120 --> 00:02:05.470
+Artifacts need Cloud code execution
+and file creation turned on,
+
+40
+00:02:05.520 --> 00:02:07.550
+in Settings, Capabilities.
+
+41
+00:02:07.760 --> 00:02:10.430
+Your organisation may manage that setting.
+
+42
+00:02:10.880 --> 00:02:13.310
+Chat Artifacts work on every plan,
+
+43
+00:02:13.360 --> 00:02:18.750
+Free included. The Design, Slides and
+Docs templates are only on paid plans,
+
+44
+00:02:18.800 --> 00:02:20.510
+and you won't need them here.
+
+45
+00:02:20.960 --> 00:02:24.910
+If it isn't available, ask for
+the checklist in the chat instead.
+
+46
+00:02:25.120 --> 00:02:29.710
+Then ask for one revision, and replace
+any invented staff name with an owner
+
+47
+00:02:29.760 --> 00:02:34.750
+placeholder. A checklist that invents
+who's responsible isn't finished.
+
+48
+00:02:36.000 --> 00:02:38.990
+That's the pattern: prepare, ask,
+
+49
+00:02:39.040 --> 00:02:42.950
+check, approve. Finish
+with a short handover note:
+
+50
+00:02:43.000 --> 00:02:45.230
+which source you used, what you checked,
+
+51
+00:02:45.280 --> 00:02:47.230
+and what's still uncertain.
+
+52
+00:02:47.680 --> 00:02:51.870
+Claude Code and other advanced
+tools are topics for later training.
+
+53
+00:02:52.000 --> 00:02:55.150
+For now, complete one small office task.
+
+54
+00:02:55.280 --> 00:02:59.150
+The useful result is the one you
+can trace back to its source.

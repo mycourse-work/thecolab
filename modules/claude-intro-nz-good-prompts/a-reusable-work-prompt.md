@@ -25,4 +25,4 @@ A requested excerpt helps you trace a point. It is still your job to check the e
 
 Before saving a prompt, confirm that it specifies a task, an audience, an output shape, boundaries and a way to check the result.
 
-You now have a repeatable method: supply facts, ask clearly, revise, and approve. In the next module, you will put that method into Claude Projects, files and Artifacts.
+In the next module, use this prompt structure with Claude Projects, files and Artifacts.

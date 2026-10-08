@@ -1,0 +1,237 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:05.550
+An invented Christchurch builder needs
+to update a homeowner about their quote.
+
+2
+00:00:05.600 --> 00:00:09.310
+The first prompt says: write
+something about a quote.
+
+3
+00:00:09.960 --> 00:00:12.550
+That gives Claude very
+little to work with,
+
+4
+00:00:12.600 --> 00:00:15.470
+so the draft can fill
+the gaps with guesses.
+
+5
+00:00:15.520 --> 00:00:17.750
+A start date. A price.
+
+6
+00:00:17.800 --> 00:00:19.430
+Neither came from you.
+
+7
+00:00:20.080 --> 00:00:22.230
+A useful prompt carries the facts,
+
+8
+00:00:22.280 --> 00:00:24.430
+and describes the finished draft.
+
+9
+00:00:24.640 --> 00:00:27.870
+Write your source notes
+first, then the instruction.
+
+10
+00:00:28.000 --> 00:00:31.390
+Keep them separate, so you
+can see which parts are facts.
+
+11
+00:00:33.040 --> 00:00:35.630
+Claude's own help pages say the same:
+
+12
+00:00:35.680 --> 00:00:38.470
+be specific, avoid vague requests,
+
+13
+00:00:38.520 --> 00:00:40.830
+and include relevant context.
+
+14
+00:00:42.280 --> 00:00:46.070
+Start with the task: draft
+an email to the homeowner.
+
+15
+00:00:46.280 --> 00:00:49.270
+Add the context: the
+site visit is complete,
+
+16
+00:00:49.320 --> 00:00:51.590
+and the quote is still under review.
+
+17
+00:00:52.240 --> 00:00:55.150
+Give a role: an office administrator,
+
+18
+00:00:55.200 --> 00:00:57.470
+drafting for the manager to review.
+
+19
+00:00:57.520 --> 00:00:59.470
+A role guides the writing.
+
+20
+00:00:59.520 --> 00:01:02.510
+It doesn't give Claude
+professional qualifications.
+
+21
+00:01:03.160 --> 00:01:06.190
+Then describe the output: a subject line,
+
+22
+00:01:06.240 --> 00:01:08.190
+and a body under a hundred words,
+
+23
+00:01:08.240 --> 00:01:11.110
+in New Zealand English,
+with a friendly tone.
+
+24
+00:01:11.760 --> 00:01:16.270
+Name the audience as well: a homeowner
+who isn't in the building trade,
+
+25
+00:01:16.320 --> 00:01:18.830
+so plain words beat jargon.
+
+26
+00:01:19.480 --> 00:01:22.830
+Now the boundary. Do not invent a price,
+
+27
+00:01:22.880 --> 00:01:25.190
+a due date, or a guarantee.
+
+28
+00:01:25.240 --> 00:01:27.990
+That one line protects the business.
+
+29
+00:01:29.640 --> 00:01:34.630
+Examples help too. One invented
+sentence can show your office's tone.
+
+30
+00:01:34.760 --> 00:01:37.750
+For a table, give one made-up example row,
+
+31
+00:01:37.800 --> 00:01:39.750
+so Claude copies the structure.
+
+32
+00:01:39.960 --> 00:01:43.190
+Don't use real customer
+emails as examples.
+
+33
+00:01:43.840 --> 00:01:46.190
+Then read the draft against the facts,
+
+34
+00:01:46.240 --> 00:01:48.030
+sentence by sentence.
+
+35
+00:01:48.240 --> 00:01:50.350
+Underline every claim you could check,
+
+36
+00:01:50.400 --> 00:01:52.910
+and compare each one with your notes.
+
+37
+00:01:53.560 --> 00:01:57.750
+Say the draft promises: your
+quote will arrive on Friday.
+
+38
+00:01:58.040 --> 00:02:00.070
+Friday wasn't in your notes.
+
+39
+00:02:00.120 --> 00:02:02.790
+If a claim has no source, remove it,
+
+40
+00:02:02.840 --> 00:02:06.150
+or mark it as a question
+for the person responsible.
+
+41
+00:02:06.800 --> 00:02:09.790
+When you ask for a change, be specific.
+
+42
+00:02:09.840 --> 00:02:11.630
+Not, make it better.
+
+43
+00:02:11.760 --> 00:02:14.750
+Instead: shorten the body to sixty words,
+
+44
+00:02:14.800 --> 00:02:17.790
+keep the facts, and
+remove the added deadline.
+
+45
+00:02:19.240 --> 00:02:22.230
+Changes to style can also change meaning,
+
+46
+00:02:22.280 --> 00:02:24.790
+so check again after every revision.
+
+47
+00:02:24.920 --> 00:02:28.150
+A tidy answer still needs a human review.
+
+48
+00:02:28.800 --> 00:02:31.550
+When a prompt works, keep the pattern.
+
+49
+00:02:31.760 --> 00:02:33.790
+Leave empty spaces for the task,
+
+50
+00:02:33.840 --> 00:02:38.590
+audience, source and limits, and fill
+them with approved facts next time.
+
+51
+00:02:38.880 --> 00:02:42.270
+Never save private information
+in your prompt library.
+
+52
+00:02:43.520 --> 00:02:46.670
+A saved prompt is a starting
+point for judgement,
+
+53
+00:02:46.720 --> 00:02:48.990
+not permission to skip the check.
+
+54
+00:02:49.040 --> 00:02:52.270
+Try the before-and-after
+exercise in the next lesson.

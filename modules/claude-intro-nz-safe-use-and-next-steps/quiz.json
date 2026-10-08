@@ -11,19 +11,19 @@
           "id": "q1_a",
           "text": "Yes, after removing the name.",
           "correct": false,
-          "feedback": "This misses the required check. No; other details may identify the person."
-        },
-        {
-          "id": "q1_b",
-          "text": "No; other details may identify the person.",
-          "correct": true,
-          "feedback": "Correct. No; other details may identify the person."
+          "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
         },
         {
           "id": "q1_c",
           "text": "Yes, if the note stays inside a paid workspace for work.",
           "correct": false,
-          "feedback": "This misses the required check. No; other details may identify the person."
+          "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
+        },
+        {
+          "id": "q1_b",
+          "text": "No; other details may identify the person.",
+          "correct": true,
+          "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
         }
       ]
     },
@@ -36,19 +36,19 @@
           "id": "q2_a",
           "text": "Accept an official domain.",
           "correct": false,
-          "feedback": "This misses the required check. Check that the source supports the claim."
+          "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
         },
         {
           "id": "q2_b",
           "text": "Check that the source supports the claim.",
           "correct": true,
-          "feedback": "Correct. Check that the source supports the claim."
+          "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
         },
         {
           "id": "q2_c",
           "text": "Check that another chatbot repeats the claim with the same link.",
           "correct": false,
-          "feedback": "This misses the required check. Check that the source supports the claim."
+          "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
         }
       ]
     },
@@ -79,32 +79,32 @@
           "id": "q3_d",
           "text": "Reviewer approval only when the assistant flags uncertainty.",
           "correct": false,
-          "feedback": "Source facts, workplace permission and human checks must remain explicit."
+          "feedback": "AI can sound certain and still be wrong. Set human review rules for the task, regardless of its confidence."
         }
       ]
     },
     {
       "id": "q4",
       "type": "MULTIPLE_CHOICE",
-      "question": "A builder’s source says “proposed start, subject to approval”. The draft gives a guaranteed start. What should happen?",
+      "question": "A builder's source says \"proposed start, subject to approval\". The draft gives a guaranteed start. What should happen?",
       "answers": [
-        {
-          "id": "q4_a",
-          "text": "Omit conditions for clarity.",
-          "correct": false,
-          "feedback": "This misses the required check. Restore the condition and obtain human approval."
-        },
         {
           "id": "q4_b",
           "text": "Restore the condition and obtain human approval.",
           "correct": true,
-          "feedback": "Correct. Restore the condition and obtain human approval."
+          "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
+        },
+        {
+          "id": "q4_a",
+          "text": "Omit conditions for clarity.",
+          "correct": false,
+          "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
         },
         {
           "id": "q4_c",
           "text": "Mark the draft confidential instead of correcting the start promise.",
           "correct": false,
-          "feedback": "This misses the required check. Restore the condition and obtain human approval."
+          "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
         }
       ]
     },
@@ -114,22 +114,22 @@
       "question": "What does this course-completion certificate represent?",
       "answers": [
         {
-          "id": "q5_a",
-          "text": "TheColab course completion.",
-          "correct": true,
-          "feedback": "Correct. TheColab course completion."
-        },
-        {
           "id": "q5_b",
           "text": "Vendor certification.",
           "correct": false,
-          "feedback": "This misses the required check. TheColab course completion."
+          "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
+        },
+        {
+          "id": "q5_a",
+          "text": "TheColab course completion.",
+          "correct": true,
+          "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
         },
         {
           "id": "q5_c",
           "text": "Work-data approval.",
           "correct": false,
-          "feedback": "This misses the required check. TheColab course completion."
+          "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
         }
       ]
     }

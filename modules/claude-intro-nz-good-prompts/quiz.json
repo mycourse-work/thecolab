@@ -11,19 +11,19 @@
           "id": "q1_a",
           "text": "Use supplied quote facts; set the audience and limits.",
           "correct": true,
-          "feedback": "Correct. Use supplied quote facts; set the audience and limits."
+          "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
         },
         {
           "id": "q1_b",
           "text": "Infer missing quote details.",
           "correct": false,
-          "feedback": "This misses the required check. Use supplied quote facts; set the audience and limits."
+          "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
         },
         {
           "id": "q1_c",
           "text": "Describe the customer, asking Claude to estimate a likely deadline.",
           "correct": false,
-          "feedback": "This misses the required check. Use supplied quote facts; set the audience and limits."
+          "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
         }
       ]
     },
@@ -36,19 +36,19 @@
           "id": "q2_a",
           "text": "Assign the meeting organiser.",
           "correct": false,
-          "feedback": "This misses the required check. Not stated; ask who owns it."
+          "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
         },
         {
           "id": "q2_b",
           "text": "Choose the department manager.",
           "correct": false,
-          "feedback": "This misses the required check. Not stated; ask who owns it."
+          "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
         },
         {
           "id": "q2_c",
           "text": "Not stated; ask who owns it.",
           "correct": true,
-          "feedback": "Correct. Not stated; ask who owns it."
+          "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
         }
       ]
     },
@@ -67,7 +67,7 @@
           "id": "q3_b",
           "text": "A likely deadline inferred from similar previous tasks.",
           "correct": false,
-          "feedback": "Source facts, workplace permission and human checks must remain explicit."
+          "feedback": "A deadline inferred from other tasks is not a source fact. Mark the date as missing."
         },
         {
           "id": "q3_c",
@@ -89,22 +89,22 @@
       "question": "Claude adds a Friday deadline that was not supplied. What is a useful follow-up?",
       "answers": [
         {
-          "id": "q4_a",
-          "text": "Remove Friday and check the supplied facts.",
-          "correct": true,
-          "feedback": "Correct. Remove Friday and check the supplied facts."
-        },
-        {
           "id": "q4_b",
           "text": "Keep Friday as provisional.",
           "correct": false,
-          "feedback": "This misses the required check. Remove Friday and check the supplied facts."
+          "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
+        },
+        {
+          "id": "q4_a",
+          "text": "Remove Friday and check the supplied facts.",
+          "correct": true,
+          "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
         },
         {
           "id": "q4_c",
           "text": "Change Friday to next week without checking the source notes.",
           "correct": false,
-          "feedback": "This misses the required check. Remove Friday and check the supplied facts."
+          "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
         }
       ]
     },
@@ -117,19 +117,19 @@
           "id": "q5_a",
           "text": "It guides wording; qualified review remains necessary.",
           "correct": true,
-          "feedback": "Correct. It guides wording; qualified review remains necessary."
+          "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
         },
         {
           "id": "q5_b",
           "text": "Routine advice needs no review.",
           "correct": false,
-          "feedback": "This misses the required check. It guides wording; qualified review remains necessary."
+          "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
         },
         {
           "id": "q5_c",
           "text": "It supplies professional authority when the answer includes citations.",
           "correct": false,
-          "feedback": "This misses the required check. It guides wording; qualified review remains necessary."
+          "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
         }
       ]
     }

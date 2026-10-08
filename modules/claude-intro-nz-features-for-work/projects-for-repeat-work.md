@@ -7,7 +7,7 @@ A Project groups related chats, instructions and reference material. Free accoun
 ## Set up a practice Project
 
 1. Open **Projects** in the sidebar, or visit [claude.ai/projects](https://claude.ai/projects).
-2. Select **+ New Project**. Name it “Practice office emails”.
+2. Select **+ New Project**. Name it "Practice office emails".
 3. Select **Set project instructions**, add the text below, then save.
 
 ```text
@@ -26,7 +26,6 @@ Start a chat inside the Project. Ask for a reminder using the invented Hamilton 
 > **Important:** Project instructions and knowledge provide reusable context. Do not assume every earlier chat becomes a source for every new chat. Put required facts in the knowledge area or the current prompt.
 
 Check visibility before adding material. Keep this practice Project private. An organisation's sharing options are not a reason to upload confidential material without approval.
-
 
 ## Sources
 
