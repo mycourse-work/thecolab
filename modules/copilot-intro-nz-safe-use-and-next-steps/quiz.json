@@ -26,7 +26,7 @@
           "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
         }
       ],
-      "feedback": "Correct. Use an invented scenario; ask the privacy lead."
+      "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
     },
     {
       "id": "safe_q2",
@@ -87,7 +87,7 @@
           "feedback": "Receives a prompt report when something goes wrong"
         }
       ],
-      "feedback": "A useful policy names the approved service, data rule, reviewer and incident route."
+      "feedback": "Approved service and account: Tells staff where permitted work may happen; Responsible reviewer: Owns the final work before sharing; Incident contact: Receives a prompt report when something goes wrong."
     },
     {
       "id": "safe_q4",
@@ -113,12 +113,12 @@
           "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
         }
       ],
-      "feedback": "Correct. A draft requiring manager and privacy review."
+      "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
     },
     {
       "id": "safe_q5",
       "type": "MULTIPLE_CHOICE",
-      "question": "What is a useful next step after this free course?",
+      "question": "What is a practical next step after this free course?",
       "answers": [
         {
           "id": "safe_q5_a",
@@ -139,7 +139,7 @@
           "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
         }
       ],
-      "feedback": "Correct. Practise approved tasks; choose training for a gap."
+      "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
     }
   ]
 }

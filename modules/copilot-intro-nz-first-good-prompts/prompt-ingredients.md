@@ -1,6 +1,6 @@
 # Give Copilot a clear brief
 
-Allow 4 minutes. A prompt is the instruction you give Copilot. A useful brief says what to do and what to use.
+Allow 4 minutes. A prompt is the instruction you give Copilot. A clear brief says what to do and what to use.
 
 Microsoft's prompt guidance uses four ingredients: goal, context, source and expectations. Add a role or an example when it helps the task. A role can guide tone; it does not give Copilot professional authority.
 
@@ -29,7 +29,7 @@ After the first answer, ask for a specific change: "Keep the facts. Cut this to 
 
 ## Try it: 2 minutes
 
-Write a brief for your task from module 1. Include all four ingredients. Add one example sentence or a useful role. Work on paper if you have no approved account.
+Write a brief for your task from module 1. Include all four ingredients. Add one example sentence or a relevant role. Work on paper if you have no approved account.
 
 Done when: someone else can tell which source and output you want.
 

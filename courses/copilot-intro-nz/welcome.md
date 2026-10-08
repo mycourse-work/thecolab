@@ -2,7 +2,7 @@
 
 Practise drafting from supplied notes, then check the result.
 
-This free course is for New Zealand office staff, owners and managers. Allow 87 minutes 49 seconds, including short exercises and four quizzes. You need no technical background.
+This free course is for New Zealand office staff, owners and managers. Allow 88 minutes, including short exercises and four quizzes. You need no technical background.
 
 ## What you will make
 

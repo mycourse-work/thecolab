@@ -22,7 +22,7 @@ A flawed illustrative summary says: "The team approved the checklist and buddy p
 
 Find two unsupported claims. Then rewrite the summary with a separate open question.
 
-Check: the buddy programme was not approved. No review date was agreed. A useful open question is, "When will the manager review the draft?"
+Check: the buddy programme was not approved. No review date was agreed. An open question to ask is, "When will the manager review the draft?"
 
 Done when: you can correct the meaning using the source, without asking AI to grade itself.
 

@@ -1,6 +1,6 @@
 # Keep the responsibility with your team
 
-Video length: 2 minutes 57 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/copilot-intro-nz/@modules/copilot-intro-nz-safe-use-and-next-steps/assets/copilot-intro-nz-module-4-poster.jpg" playsinline preload="metadata" aria-label="Module 4: Keep the responsibility with your team" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/copilot-intro-nz-module-4.mp4" type="video/mp4">

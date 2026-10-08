@@ -26,7 +26,7 @@
           "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
         }
       ],
-      "feedback": "Correct. It uses work content within your permissions."
+      "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
     },
     {
       "id": "apps_q2",
@@ -52,7 +52,7 @@
           "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
         }
       ],
-      "feedback": "Correct. Bounded inbox and related data; paid access reaches further."
+      "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
     },
     {
       "id": "apps_q3",
@@ -110,7 +110,7 @@
           "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
         }
       ],
-      "feedback": "Correct. A transcript and supported licence/settings."
+      "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
     },
     {
       "id": "apps_q5",
@@ -139,7 +139,7 @@
           "feedback": "Read the source and confirm the outcome"
         }
       ],
-      "feedback": "Check entitlement, arithmetic and meaning. A button or a fluent answer is not enough."
+      "feedback": "Missing Copilot entitlement: Ask IT to confirm the assignment and app access; Excel says 10 more enquiries: Check 30 minus 20 against the source cells; Meeting proposal looks like a decision: Read the source and confirm the outcome."
     }
   ]
 }

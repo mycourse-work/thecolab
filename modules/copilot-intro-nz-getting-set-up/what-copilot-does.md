@@ -4,7 +4,7 @@ Allow 3 minutes. Choose one small task you will practise today.
 
 Copilot responds to instructions in ordinary language. It can help you draft and rewrite text, summarise information and work with a supplied file. It can still produce a confident answer that is wrong.
 
-## Pick a useful first task
+## Pick a practical first task
 
 Imagine an invented Hamilton accountancy office. Its administrator needs a reminder about a document deadline. Copilot can suggest wording from approved notes. A person must confirm the deadline, recipients and tone.
 

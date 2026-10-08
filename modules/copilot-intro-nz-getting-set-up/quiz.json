@@ -5,7 +5,7 @@
     {
       "id": "setup_q1",
       "type": "MULTIPLE_CHOICE",
-      "question": "Which task is a useful first practice for the invented Hamilton office?",
+      "question": "Which task is a suitable first practice for the invented Hamilton office?",
       "answers": [
         {
           "id": "setup_q1_a",
@@ -26,7 +26,7 @@
           "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
         }
       ],
-      "feedback": "Correct. Draft and check an invented reminder."
+      "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
     },
     {
       "id": "setup_q2",
@@ -52,7 +52,7 @@
           "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
         }
       ],
-      "feedback": "Correct. Standard app access; confirm the settings."
+      "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
     },
     {
       "id": "setup_q3",
@@ -110,7 +110,7 @@
           "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
         }
       ],
-      "feedback": "Correct. No foundation-model training; retention may apply."
+      "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
     },
     {
       "id": "setup_q5",
@@ -139,7 +139,7 @@
           "feedback": "Controls for the personal account experience"
         }
       ],
-      "feedback": "Use the work account for approved work. Check the add-on entitlement and do not confuse personal settings with work approval."
+      "feedback": "Copilot Chat with an eligible work account: Included at no extra cost; Microsoft 365 Copilot Business: Paid add-on for eligible plans, up to 300 users; Personal Copilot training controls: Controls for the personal account experience."
     }
   ]
 }

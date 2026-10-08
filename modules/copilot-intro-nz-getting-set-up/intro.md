@@ -1,6 +1,6 @@
 # Start with the right Copilot
 
-Video length: 3 minutes 4 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/copilot-intro-nz/@modules/copilot-intro-nz-getting-set-up/assets/copilot-intro-nz-module-1-poster.jpg" playsinline preload="metadata" aria-label="Module 1: Start with the right Copilot" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/copilot-intro-nz-module-1.mp4" type="video/mp4">

@@ -1,6 +1,6 @@
 # Use the source inside your apps
 
-Video length: 2 minutes 56 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/copilot-intro-nz/@modules/copilot-intro-nz-copilot-in-your-work/assets/copilot-intro-nz-module-3-poster.jpg" playsinline preload="metadata" aria-label="Module 3: Use the source inside your apps" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/copilot-intro-nz-module-3.mp4" type="video/mp4">

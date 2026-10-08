@@ -1,6 +1,6 @@
 # Your next seven days
 
-Allow 5 minutes now. Plan seven small practices. The later practice is optional and sits outside the course's estimated 87 minutes 49 seconds.
+Allow 5 minutes now. Plan seven small practices. The later practice is optional and sits outside the course's estimated 88 minutes.
 
 ## Five minutes a day
 
@@ -12,7 +12,7 @@ Allow 5 minutes now. Plan seven small practices. The later practice is optional 
 | 4 | Make a Word checklist, or use the Chat route. | Each step has a source. |
 | 5 | Ask about the invented Excel table. | You check the cells and arithmetic. |
 | 6 | Summarise invented meeting notes. | Proposals stay separate from decisions. |
-| 7 | Save one useful prompt and discuss your draft team rule. | A named person owns review. |
+| 7 | Save one prompt that worked and discuss your draft team rule. | A named person owns review. |
 
 Record the task, source and correction needed. Judge the quality of the final work as well as the time spent. Do not promise a percentage saving from this small trial.
 

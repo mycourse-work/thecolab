@@ -1,4 +1,4 @@
-# Write a useful office email
+# Write a clear office email
 
 Allow 4 minutes. This Hamilton accountancy example is invented.
 
@@ -25,7 +25,7 @@ Use [client] and [sender] as placeholders.
 Do not invent a portal link, fee or legal deadline.
 ```
 
-## What a useful result could look like
+## What the result could look like
 
 Illustrative draft for this exercise. Your result may vary.
 

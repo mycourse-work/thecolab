@@ -5,7 +5,7 @@
     {
       "id": "prompt_q1",
       "type": "MULTIPLE_CHOICE",
-      "question": "Which prompt gives the invented Hamilton office a useful brief?",
+      "question": "Which prompt gives the invented Hamilton office a clear brief?",
       "answers": [
         {
           "id": "prompt_q1_a",
@@ -26,7 +26,7 @@
           "feedback": "Supply the office notes, tone and output limits. A typical reminder or inferred deadline can add facts the office never supplied."
         }
       ],
-      "feedback": "Correct. Use supplied notes; set tone, length and limits."
+      "feedback": "Supply the office notes, tone and output limits. A typical reminder or inferred deadline can add facts the office never supplied."
     },
     {
       "id": "prompt_q2",
@@ -62,7 +62,7 @@
           "feedback": "Use NZ English and fewer than 100 words"
         }
       ],
-      "feedback": "A useful brief identifies the task, working context, source and output requirements."
+      "feedback": "Goal: Draft a client reminder; Context: Help a busy Hamilton office administrator; Source: Use only the notes below; Expectations: Use NZ English and fewer than 100 words."
     },
     {
       "id": "prompt_q3",
@@ -88,7 +88,7 @@
           "feedback": "The notes leave timing to be agreed after acceptance. The draft must preserve that condition."
         }
       ],
-      "feedback": "Correct. Timing will be agreed after acceptance."
+      "feedback": "The notes leave timing to be agreed after acceptance. The draft must preserve that condition."
     },
     {
       "id": "prompt_q4",
@@ -146,7 +146,7 @@
           "feedback": "Discussion does not establish approval. Keep the buddy programme as a proposal and ask for confirmation."
         }
       ],
-      "feedback": "Correct. Proposed; approval remains open."
+      "feedback": "Discussion does not establish approval. Keep the buddy programme as a proposal and ask for confirmation."
     }
   ]
 }
