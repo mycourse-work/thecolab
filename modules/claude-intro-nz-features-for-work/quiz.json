@@ -25,7 +25,8 @@
           "correct": false,
           "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
         }
-      ]
+      ],
+      "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
     },
     {
       "id": "q2",
@@ -50,7 +51,8 @@
           "correct": false,
           "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
         }
-      ]
+      ],
+      "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
     },
     {
       "id": "q3",
@@ -81,13 +83,14 @@
           "correct": true,
           "feedback": "Correct. A small invented file suits the exercise."
         }
-      ]
+      ],
+      "feedback": "The source remains the evidence. Conditions can change the meaning of a summary. A small invented file suits the exercise."
     },
     {
       "id": "q4",
       "type": "MATCHING",
       "question": "Match each feature with its main purpose in this course.",
-      "feedback": "Projects hold reusable context; files supply source material; Artifacts hold separate output.",
+      "feedback": "Project: Related work with reusable instructions and references. Use Project instructions and knowledge for repeat work. Attached file: Source material to read and check. Trace the answer back to the attached source. Artifact: Separate output beside a conversation that you can revise. Review the output before you reuse or share it.",
       "answers": [
         {
           "id": "q4_a",
@@ -135,7 +138,8 @@
           "correct": true,
           "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
         }
-      ]
+      ],
+      "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
     }
   ]
 }

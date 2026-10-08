@@ -1,6 +1,6 @@
 # Give Claude the information it needs
 
-Video length: 2 minutes 59 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/claude-intro-nz/@modules/claude-intro-nz-good-prompts/assets/claude-intro-nz-module-2-poster.jpg" playsinline preload="metadata" aria-label="Module 2: Your first good prompts" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/claude-intro-nz-module-2.mp4" type="video/mp4">

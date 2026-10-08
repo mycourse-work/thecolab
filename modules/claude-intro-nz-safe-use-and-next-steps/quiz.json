@@ -25,7 +25,8 @@
           "correct": true,
           "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
         }
-      ]
+      ],
+      "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
     },
     {
       "id": "q2",
@@ -50,7 +51,8 @@
           "correct": false,
           "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
         }
-      ]
+      ],
+      "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
     },
     {
       "id": "q3",
@@ -81,7 +83,8 @@
           "correct": false,
           "feedback": "AI can sound certain and still be wrong. Set human review rules for the task, regardless of its confidence."
         }
-      ]
+      ],
+      "feedback": "People need to know who owns the policy and handles mistakes. Staff need a usable boundary before entering information. Assign review and final approval to people."
     },
     {
       "id": "q4",
@@ -106,7 +109,8 @@
           "correct": false,
           "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
         }
-      ]
+      ],
+      "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
     },
     {
       "id": "q5",
@@ -131,7 +135,8 @@
           "correct": false,
           "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
         }
-      ]
+      ],
+      "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
     }
   ]
 }

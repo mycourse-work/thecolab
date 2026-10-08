@@ -1,6 +1,6 @@
 # Start with Claude safely
 
-Video length: 3 minutes 5 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/claude-intro-nz/@modules/claude-intro-nz-getting-set-up/assets/claude-intro-nz-module-1-poster.jpg" playsinline preload="metadata" aria-label="Module 1: Welcome and getting set up" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/claude-intro-nz-module-1.mp4" type="video/mp4">

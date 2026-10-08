@@ -25,7 +25,8 @@
           "correct": false,
           "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
         }
-      ]
+      ],
+      "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
     },
     {
       "id": "q2",
@@ -50,7 +51,8 @@
           "correct": true,
           "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
         }
-      ]
+      ],
+      "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
     },
     {
       "id": "q3",
@@ -81,7 +83,8 @@
           "correct": true,
           "feedback": "Correct. Facts and limits reduce unsupported assumptions."
         }
-      ]
+      ],
+      "feedback": "Audience helps shape the writing. A safe example can show the structure. Facts and limits reduce unsupported assumptions."
     },
     {
       "id": "q4",
@@ -106,7 +109,8 @@
           "correct": false,
           "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
         }
-      ]
+      ],
+      "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
     },
     {
       "id": "q5",
@@ -131,7 +135,8 @@
           "correct": false,
           "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
         }
-      ]
+      ],
+      "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
     }
   ]
 }

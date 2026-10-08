@@ -1,6 +1,6 @@
 # Use Projects, files and Artifacts
 
-Video length: 3 minutes 6 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/claude-intro-nz/@modules/claude-intro-nz-features-for-work/assets/claude-intro-nz-module-3-poster.jpg" playsinline preload="metadata" aria-label="Module 3: Claude features for everyday work" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/claude-intro-nz-module-3.mp4" type="video/mp4">

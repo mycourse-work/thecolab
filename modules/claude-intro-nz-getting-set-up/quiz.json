@@ -25,7 +25,8 @@
           "correct": true,
           "feedback": "A polished email can still contain wrong details. Compare its facts with the notes and review its tone before approval."
         }
-      ]
+      ],
+      "feedback": "A polished email can still contain wrong details. Compare its facts with the notes and review its tone before approval."
     },
     {
       "id": "q2",
@@ -50,7 +51,8 @@
           "correct": false,
           "feedback": "Pro is a personal plan. A work email does not provide Team controls or permission to upload work data."
         }
-      ]
+      ],
+      "feedback": "Pro is a personal plan. A work email does not provide Team controls or permission to upload work data."
     },
     {
       "id": "q3",
@@ -75,7 +77,8 @@
           "correct": false,
           "feedback": "For a personal account, open Settings > Privacy and find Help Improve our AI models."
         }
-      ]
+      ],
+      "feedback": "For a personal account, open Settings > Privacy and find Help Improve our AI models."
     },
     {
       "id": "q4",
@@ -106,7 +109,8 @@
           "correct": true,
           "feedback": "Correct. Invented examples avoid using real private information."
         }
-      ]
+      ],
+      "feedback": "More usage is not unlimited usage. The official Team guide specifies at least two members. Invented examples avoid using real private information."
     },
     {
       "id": "q5",
@@ -131,7 +135,8 @@
           "correct": true,
           "feedback": "Incognito chats are still processed and retained. Follow the workplace data policy before entering personal information."
         }
-      ]
+      ],
+      "feedback": "Incognito chats are still processed and retained. Follow the workplace data policy before entering personal information."
     }
   ]
 }

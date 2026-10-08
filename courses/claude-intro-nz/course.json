@@ -3,7 +3,7 @@
   "title": "Claude for NZ work: a free introduction",
   "coverImage": "cover.png",
   "description": "A free, practical introduction to Claude for NZ office staff, owners and managers. Set up safely, write useful prompts, practise with Projects, files and Artifacts, and build a seven-day plan.",
-  "estimatedDuration": "84 minutes 13 seconds, plus a 2-minute welcome",
+  "estimatedDuration": "84 minutes, plus a 2-minute welcome",
   "welcomePath": "welcome.md",
   "quizPassingThreshold": 80,
   "quizMaxAttempts": 10,
