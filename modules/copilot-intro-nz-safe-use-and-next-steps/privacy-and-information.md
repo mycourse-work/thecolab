@@ -2,7 +2,7 @@
 
 Allow 4 minutes. The Privacy Act 2020 applies when your organisation uses personal information with AI. A vendor's protection does not remove your organisation's responsibilities.
 
-The Privacy Commissioner recommends assessing privacy impacts before using AI and keeping that assessment up to date. Their generative AI guidance also calls for leadership approval, a necessary and proportionate use, transparency, and checks on accuracy and privacy risks.
+The Privacy Commissioner recommends a privacy impact assessment before using AI and keeping it up to date. Their generative AI guidance also calls for leadership approval, a necessary and proportionate use, transparency, and checks on accuracy and privacy risks.
 
 ## Use a clear data rule
 
