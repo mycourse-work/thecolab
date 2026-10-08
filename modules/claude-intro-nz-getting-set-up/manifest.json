@@ -2,11 +2,11 @@
   "id": "claude-intro-nz-getting-set-up",
   "title": "Welcome and getting set up",
   "description": "Choose an account, understand the limits, and check your privacy settings.",
-  "estimatedDuration": "18 minutes",
+  "estimatedDuration": "19 minutes",
   "lessons": [
     {
       "id": "video",
-      "title": "Start with Claude safely \u2014 video",
+      "title": "Start with Claude safely — video",
       "type": "content",
       "markdownPath": "video.md"
     },

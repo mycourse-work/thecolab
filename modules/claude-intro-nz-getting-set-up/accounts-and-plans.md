@@ -29,4 +29,4 @@ Write your plan name and whether it is a personal account or an organisation wor
 
 ## Sources
 
-Checked 7 October 2026. [Plans](https://claude.com/pricing). [Team](https://support.claude.com/en/articles/9267247-get-started-with-the-team-plan). [Usage](https://support.claude.com/en/articles/9797557-usage-limit-best-practices).
+[Plans](https://claude.com/pricing). [Team](https://support.claude.com/en/articles/9267247-get-started-with-the-team-plan). [Usage](https://support.claude.com/en/articles/9797557-usage-limit-best-practices).

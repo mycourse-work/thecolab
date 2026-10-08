@@ -18,7 +18,7 @@ Choose one task you can check. Spend five minutes a day practising with invented
 
 ## Choose support when you need it
 
-Keep practising for free if that meets your needs. When you want more structure, [browse Claude Training NZ's courses](https://claudetraining.co.nz/courses/). Online courses start at **NZ$199 + GST**. Check the current options with TheColab.
+Keep practising for free if that meets your needs. When you want more structure, [browse Claude Training NZ's courses](https://claudetraining.co.nz/courses/). Explore more courses and workshops when they fit your work.
 
 For guided team practice, explore the [Claude foundations half-day workshop](https://claudetraining.co.nz/courses/claude-foundations-workshop/), available in person or remotely. For deeper work, see [Claude for everyday work](https://claudetraining.co.nz/courses/claude-practical-day/), [finance teams](https://claudetraining.co.nz/courses/claude-for-finance-teams/), or [HR and people teams](https://claudetraining.co.nz/courses/claude-for-hr-and-people-teams/). Choose the course that matches the work you do.
 

@@ -2,11 +2,11 @@
   "id": "claude-intro-nz-good-prompts",
   "title": "Your first good prompts",
   "description": "Give Claude useful context, examples and limits; then improve the result.",
-  "estimatedDuration": "19 minutes",
+  "estimatedDuration": "20 minutes",
   "lessons": [
     {
       "id": "video",
-      "title": "Give Claude the information it needs \u2014 video",
+      "title": "Give Claude the information it needs — video",
       "type": "content",
       "markdownPath": "video.md"
     },

@@ -1,6 +1,6 @@
 # Start with Claude safely
 
-Allow 2 minutes for this overview and its summary.
+Allow 3 minutes for this overview and its summary.
 
 <video controls playsinline preload="metadata" aria-label="Module 1: Welcome and getting set up" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/claude-intro-nz-module-1.mp4" type="video/mp4">

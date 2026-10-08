@@ -2,11 +2,11 @@
   "id": "claude-intro-nz-features-for-work",
   "title": "Claude features for everyday work",
   "description": "Use Projects, files and Artifacts for a small repeatable workflow.",
-  "estimatedDuration": "21 minutes",
+  "estimatedDuration": "22 minutes",
   "lessons": [
     {
       "id": "video",
-      "title": "Use Projects, files and Artifacts \u2014 video",
+      "title": "Use Projects, files and Artifacts — video",
       "type": "content",
       "markdownPath": "video.md"
     },

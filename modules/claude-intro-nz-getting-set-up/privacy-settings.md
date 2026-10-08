@@ -31,4 +31,4 @@ Next, write a list of three things you will keep out of practice chats: for exam
 
 ## Sources
 
-Checked 7 October 2026. [Settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings). [Consumer](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training). [Business](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training). [Incognito](https://support.claude.com/en/articles/12260368-use-incognito-chats).
+[Settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings). [Consumer](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training). [Business](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training). [Incognito](https://support.claude.com/en/articles/12260368-use-incognito-chats).

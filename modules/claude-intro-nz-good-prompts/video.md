@@ -1,6 +1,6 @@
 # Give Claude the information it needs
 
-Allow 2 minutes for this overview and its summary.
+Allow 3 minutes for this overview and its summary.
 
 <video controls playsinline preload="metadata" aria-label="Module 2: Your first good prompts" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/claude-intro-nz-module-2.mp4" type="video/mp4">

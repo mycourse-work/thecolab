@@ -35,4 +35,4 @@ If you cannot identify an owner, make that your first follow-up action. Clear re
 
 ## Sources
 
-Checked 7 October 2026. [Policy](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/public-service-ai-toolkit/use-of-artificial-intelligence-policy-template). [Digital](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai).
+[Policy](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/public-service-ai-toolkit/use-of-artificial-intelligence-policy-template). [Digital](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai).

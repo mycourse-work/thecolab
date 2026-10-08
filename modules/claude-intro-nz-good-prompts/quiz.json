@@ -9,21 +9,21 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Write something about a quote.",
-          "correct": false,
-          "feedback": "This leaves the purpose and facts unclear."
+          "text": "Use supplied quote facts; set the audience and limits.",
+          "correct": true,
+          "feedback": "Correct. Use supplied quote facts; set the audience and limits."
         },
         {
           "id": "q1_b",
-          "text": "Draft a homeowner email: site visit complete, quote under review, under 100 words, no invented price or deadline.",
-          "correct": true,
-          "feedback": "Correct. It supplies facts, audience, format and boundaries."
+          "text": "Ask for a friendly quote email, letting Claude fill missing details.",
+          "correct": false,
+          "feedback": "This misses the required check. Use supplied quote facts; set the audience and limits."
         },
         {
           "id": "q1_c",
-          "text": "Act as an expert and guess the missing price.",
+          "text": "Describe the customer, asking Claude to estimate a likely deadline.",
           "correct": false,
-          "feedback": "A role does not justify guessing prices."
+          "feedback": "This misses the required check. Use supplied quote facts; set the audience and limits."
         }
       ]
     },
@@ -34,21 +34,21 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "Office manager, because that seems likely.",
+          "text": "The meeting organiser, because they normally manage action lists.",
           "correct": false,
-          "feedback": "That invents a responsibility."
+          "feedback": "This misses the required check. Not stated; ask who owns it."
         },
         {
           "id": "q2_b",
-          "text": "Not stated, with a question to confirm.",
-          "correct": true,
-          "feedback": "Correct. Separate a gap from a known fact."
+          "text": "The department manager, unless someone objects after the summary.",
+          "correct": false,
+          "feedback": "This misses the required check. Not stated; ask who owns it."
         },
         {
           "id": "q2_c",
-          "text": "Any plausible staff name.",
-          "correct": false,
-          "feedback": "A plausible name is still invented."
+          "text": "Not stated; ask who owns it.",
+          "correct": true,
+          "feedback": "Correct. Not stated; ask who owns it."
         }
       ]
     },
@@ -65,15 +65,15 @@
         },
         {
           "id": "q3_b",
-          "text": "An invented example of the desired format.",
-          "correct": true,
-          "feedback": "Correct. A safe example can show the structure."
+          "text": "A likely deadline inferred from similar previous tasks.",
+          "correct": false,
+          "feedback": "Source facts, workplace permission and human checks must remain explicit."
         },
         {
           "id": "q3_c",
-          "text": "A password so Claude understands the task.",
-          "correct": false,
-          "feedback": "Passwords must stay out of prompts."
+          "text": "An invented example of the desired format.",
+          "correct": true,
+          "feedback": "Correct. A safe example can show the structure."
         },
         {
           "id": "q3_d",
@@ -90,21 +90,21 @@
       "answers": [
         {
           "id": "q4_a",
-          "text": "Make it better.",
-          "correct": false,
-          "feedback": "A specific correction is more useful."
+          "text": "Remove Friday and check the supplied facts.",
+          "correct": true,
+          "feedback": "Correct. Remove Friday and check the supplied facts."
         },
         {
           "id": "q4_b",
-          "text": "Keep Friday because it sounds helpful.",
+          "text": "Keep Friday provisionally, then ask the recipient to correct it.",
           "correct": false,
-          "feedback": "Do not keep an invented commitment."
+          "feedback": "This misses the required check. Remove Friday and check the supplied facts."
         },
         {
           "id": "q4_c",
-          "text": "Remove Friday, preserve the supplied facts, and check for other added details.",
-          "correct": true,
-          "feedback": "Correct. State the error and the boundaries for the revision."
+          "text": "Change Friday to next week without checking the source notes.",
+          "correct": false,
+          "feedback": "This misses the required check. Remove Friday and check the supplied facts."
         }
       ]
     },
@@ -115,21 +115,21 @@
       "answers": [
         {
           "id": "q5_a",
-          "text": "Claude now has professional qualifications.",
-          "correct": false,
-          "feedback": "A prompt does not grant qualifications."
+          "text": "It guides wording; qualified review remains necessary.",
+          "correct": true,
+          "feedback": "Correct. It guides wording; qualified review remains necessary."
         },
         {
           "id": "q5_b",
-          "text": "The requested perspective changes, but qualified review is still needed.",
-          "correct": true,
-          "feedback": "Correct. A role guides the output; it does not establish expertise or accuracy."
+          "text": "It makes professional review optional for routine tax questions.",
+          "correct": false,
+          "feedback": "This misses the required check. It guides wording; qualified review remains necessary."
         },
         {
           "id": "q5_c",
-          "text": "Every tax answer becomes accurate.",
+          "text": "It supplies professional authority when the answer includes citations.",
           "correct": false,
-          "feedback": "Accuracy still needs authoritative checks and qualified review."
+          "feedback": "This misses the required check. It guides wording; qualified review remains necessary."
         }
       ]
     }

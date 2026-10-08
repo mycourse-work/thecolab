@@ -9,21 +9,21 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Send it immediately.",
+          "text": "Review the spelling, then treat the details as ready.",
           "correct": false,
-          "feedback": "The draft needs review before sending."
+          "feedback": "This misses the required check. Check the facts and tone before approval."
         },
         {
           "id": "q1_b",
-          "text": "Check its facts and tone against the request.",
-          "correct": true,
-          "feedback": "Correct. Compare the facts and tone with the request before approval."
+          "text": "Confirm the layout, then send without checking the source.",
+          "correct": false,
+          "feedback": "This misses the required check. Check the facts and tone before approval."
         },
         {
           "id": "q1_c",
-          "text": "Assume good grammar means the facts are correct.",
-          "correct": false,
-          "feedback": "Good grammar does not prove accuracy."
+          "text": "Check the facts and tone before approval.",
+          "correct": true,
+          "feedback": "Correct. Check the facts and tone before approval."
         }
       ]
     },
@@ -34,21 +34,21 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "It is an individual subscription; work-data approval still needs checking.",
-          "correct": true,
-          "feedback": "Correct. Pro is a personal plan, even on a work email address."
+          "text": "A work email means this Pro account has Team controls.",
+          "correct": false,
+          "feedback": "This misses the required check. Pro is individual; check work-data approval."
         },
         {
           "id": "q2_b",
-          "text": "It is automatically a Team workspace.",
+          "text": "The paid subscription supplies workplace upload permission automatically.",
           "correct": false,
-          "feedback": "A work email does not change the plan into Team."
+          "feedback": "This misses the required check. Pro is individual; check work-data approval."
         },
         {
           "id": "q2_c",
-          "text": "Every work document is approved for upload.",
-          "correct": false,
-          "feedback": "The account does not grant approval to use every document."
+          "text": "Pro is individual; check work-data approval.",
+          "correct": true,
+          "feedback": "Correct. Pro is individual; check work-data approval."
         }
       ]
     },
@@ -59,21 +59,21 @@
       "answers": [
         {
           "id": "q3_a",
-          "text": "Projects > New Project",
-          "correct": false,
-          "feedback": "Projects is for related work and references."
+          "text": "Settings > Privacy",
+          "correct": true,
+          "feedback": "Correct. Settings > Privacy"
         },
         {
           "id": "q3_b",
-          "text": "Settings > Privacy",
-          "correct": true,
-          "feedback": "Correct. Open Privacy and check Help Improve our AI models."
+          "text": "Settings > Capabilities",
+          "correct": false,
+          "feedback": "This misses the required check. Settings > Privacy"
         },
         {
           "id": "q3_c",
-          "text": "Artifacts > Export",
+          "text": "Settings > Account settings",
           "correct": false,
-          "feedback": "Artifact export does not control model improvement."
+          "feedback": "This misses the required check. Settings > Privacy"
         }
       ]
     },
@@ -84,21 +84,21 @@
       "answers": [
         {
           "id": "q4_a",
+          "text": "A personal work email gives Pro the organisation’s Team controls.",
+          "correct": false,
+          "feedback": "Source facts, workplace permission and human checks must remain explicit."
+        },
+        {
+          "id": "q4_b",
           "text": "Paid plans can still have usage limits.",
           "correct": true,
           "feedback": "Correct. More usage is not unlimited usage."
         },
         {
-          "id": "q4_b",
+          "id": "q4_c",
           "text": "Team needs at least two members.",
           "correct": true,
           "feedback": "Correct. The official Team guide specifies at least two members."
-        },
-        {
-          "id": "q4_c",
-          "text": "Turning model improvement off makes any data safe to upload.",
-          "correct": false,
-          "feedback": "Privacy approval and data-handling checks are still required."
         },
         {
           "id": "q4_d",
@@ -115,21 +115,21 @@
       "answers": [
         {
           "id": "q5_a",
-          "text": "Incognito removes all privacy obligations.",
+          "text": "Remove names, then use incognito without further workplace approval.",
           "correct": false,
-          "feedback": "The organisation still has privacy obligations."
+          "feedback": "This misses the required check. Stop and follow the workplace data policy."
         },
         {
           "id": "q5_b",
-          "text": "Incognito is not approval; stop and follow the organisation’s data policy.",
-          "correct": true,
-          "feedback": "Correct. Use the policy and privacy assessment before any real personal information."
+          "text": "Ask the manager to approve the upload without checking policy.",
+          "correct": false,
+          "feedback": "This misses the required check. Stop and follow the workplace data policy."
         },
         {
           "id": "q5_c",
-          "text": "Incognito means no data is retained anywhere.",
-          "correct": false,
-          "feedback": "Incognito is retained by the provider under its retention rules."
+          "text": "Stop and follow the workplace data policy.",
+          "correct": true,
+          "feedback": "Correct. Stop and follow the workplace data policy."
         }
       ]
     }

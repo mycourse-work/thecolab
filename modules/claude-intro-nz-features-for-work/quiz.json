@@ -9,21 +9,21 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Only in the Project name.",
+          "text": "In the Project description as the main source of instructions.",
           "correct": false,
-          "feedback": "The Project name is not a substitute for instructions."
+          "feedback": "This misses the required check. In Set project instructions."
         },
         {
           "id": "q1_b",
-          "text": "In Set project instructions.",
-          "correct": true,
-          "feedback": "Correct. Project instructions supply reusable guidance."
+          "text": "In an earlier chat, assuming it always supplies later context.",
+          "correct": false,
+          "feedback": "This misses the required check. In Set project instructions."
         },
         {
           "id": "q1_c",
-          "text": "In a filename Claude never reads.",
-          "correct": false,
-          "feedback": "A filename is not a reliable place for the writing rule."
+          "text": "In Set project instructions.",
+          "correct": true,
+          "feedback": "Correct. In Set project instructions."
         }
       ]
     },
@@ -34,21 +34,21 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "An Artifact.",
-          "correct": true,
-          "feedback": "Correct. An Artifact is separate output you can revise."
+          "text": "A Project instruction.",
+          "correct": false,
+          "feedback": "This misses the required check. An Artifact."
         },
         {
           "id": "q2_b",
-          "text": "A model improvement toggle.",
-          "correct": false,
-          "feedback": "The privacy toggle controls model improvement."
+          "text": "An Artifact.",
+          "correct": true,
+          "feedback": "Correct. An Artifact."
         },
         {
           "id": "q2_c",
-          "text": "An account billing screen.",
+          "text": "An attached reference file.",
           "correct": false,
-          "feedback": "Billing does not hold the checklist output."
+          "feedback": "This misses the required check. An Artifact."
         }
       ]
     },
@@ -65,15 +65,15 @@
         },
         {
           "id": "q3_b",
-          "text": "Assume every embedded image was understood.",
-          "correct": false,
-          "feedback": "Non-PDF text extraction may miss embedded images; inspect important figures yourself."
-        },
-        {
-          "id": "q3_c",
           "text": "Keep exclusions and approval conditions.",
           "correct": true,
           "feedback": "Correct. Conditions can change the meaning of a summary."
+        },
+        {
+          "id": "q3_c",
+          "text": "Treat a successful upload as proof that all content was read.",
+          "correct": false,
+          "feedback": "Source facts, workplace permission and human checks must remain explicit."
         },
         {
           "id": "q3_d",
@@ -119,21 +119,21 @@
       "answers": [
         {
           "id": "q5_a",
-          "text": "Bypass the organisation’s controls.",
+          "text": "Wait for Artifact access before trying any part of the exercise.",
           "correct": false,
-          "feedback": "Respect the organisation’s controls."
+          "feedback": "This misses the required check. Use a chat draft and review it."
         },
         {
           "id": "q5_b",
-          "text": "Ask for a chat draft and review it in your own notes.",
+          "text": "Use a chat draft and review it.",
           "correct": true,
-          "feedback": "Correct. The fallback still lets you practise drafting and review."
+          "feedback": "Correct. Use a chat draft and review it."
         },
         {
           "id": "q5_c",
-          "text": "Upload private employee files to another account.",
+          "text": "Use a colleague’s workspace without checking its access policy first.",
           "correct": false,
-          "feedback": "Private data must stay within approved processes."
+          "feedback": "This misses the required check. Use a chat draft and review it."
         }
       ]
     }

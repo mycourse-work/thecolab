@@ -31,4 +31,4 @@ If real information is needed later, ask your privacy officer or policy owner to
 
 ## Sources
 
-Checked 7 October 2026. [Privacy](https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf).
+[Privacy](https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf).

@@ -12,7 +12,7 @@ Spend five minutes on this exercise. Save the text below as `practice-quote-note
 Practice job: paint one office room.
 Included: prepare walls and apply two coats of paint.
 Excluded: ceiling, doors and repairs to damaged plaster.
-Proposed start: 20 October 2026, subject to client approval.
+Proposed start: Tuesday next week, subject to client approval.
 Price: not yet confirmed.
 ```
 
@@ -25,7 +25,7 @@ Include a short source excerpt beside each item.
 Keep "subject to client approval". Do not infer a price.
 ```
 
-Check each row against the original file. “20 October” alone loses an important condition. A price is missing and must stay missing.
+Check each row against the original file. “Tuesday next week” alone loses an important condition. A price is missing and must stay missing.
 
 ## Know the limits
 
@@ -38,4 +38,4 @@ If a figure matters, inspect it yourself. Ask about one section at a time and us
 
 ## Sources
 
-Checked 7 October 2026. [Files](https://support.claude.com/en/articles/8241126-upload-files-to-claude).
+[Files](https://support.claude.com/en/articles/8241126-upload-files-to-claude).

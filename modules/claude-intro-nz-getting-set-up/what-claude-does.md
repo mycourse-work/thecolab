@@ -23,4 +23,4 @@ If any answer is unclear, practise with the examples supplied here.
 
 ## Sources
 
-Checked 7 October 2026. [Plans](https://claude.com/pricing). [Hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations).
+[Plans](https://claude.com/pricing). [Hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations).

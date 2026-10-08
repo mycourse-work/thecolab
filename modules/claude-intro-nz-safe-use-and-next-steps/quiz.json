@@ -9,21 +9,21 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Yes, removing a name always anonymises it.",
+          "text": "Yes, if the name is removed and no identifier is obvious.",
           "correct": false,
-          "feedback": "People can be identified from combinations of details."
+          "feedback": "This misses the required check. No; other details may identify the person."
         },
         {
           "id": "q1_b",
-          "text": "No, the remaining details may identify the person.",
+          "text": "No; other details may identify the person.",
           "correct": true,
-          "feedback": "Correct. Use a fully invented practice situation instead."
+          "feedback": "Correct. No; other details may identify the person."
         },
         {
           "id": "q1_c",
-          "text": "Yes, if it is pasted into a paid plan.",
+          "text": "Yes, if the note stays inside a paid workspace for work.",
           "correct": false,
-          "feedback": "A paid plan does not make identifiable data anonymous."
+          "feedback": "This misses the required check. No; other details may identify the person."
         }
       ]
     },
@@ -34,21 +34,21 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "Only whether the link looks official.",
+          "text": "Check that the website is official and accept the summary wording.",
           "correct": false,
-          "feedback": "An official-looking link can be wrong or irrelevant."
+          "feedback": "This misses the required check. Check that the source supports the claim."
         },
         {
           "id": "q2_b",
-          "text": "Whether the source exists, is current, and supports that exact claim.",
+          "text": "Check that the source supports the claim.",
           "correct": true,
-          "feedback": "Correct. Open the source and verify the claim."
+          "feedback": "Correct. Check that the source supports the claim."
         },
         {
           "id": "q2_c",
-          "text": "Whether a second AI repeats the claim.",
+          "text": "Check that another chatbot repeats the claim with the same link.",
           "correct": false,
-          "feedback": "Repeated AI output is not independent evidence."
+          "feedback": "This misses the required check. Check that the source supports the claim."
         }
       ]
     },
@@ -71,15 +71,15 @@
         },
         {
           "id": "q3_c",
-          "text": "Permission to send unchecked outputs.",
-          "correct": false,
-          "feedback": "Outputs must be checked before use."
-        },
-        {
-          "id": "q3_d",
           "text": "Human checks and approval rules.",
           "correct": true,
           "feedback": "Correct. Assign review and final approval to people."
+        },
+        {
+          "id": "q3_d",
+          "text": "Reviewer approval only when the assistant flags uncertainty.",
+          "correct": false,
+          "feedback": "Source facts, workplace permission and human checks must remain explicit."
         }
       ]
     },
@@ -90,21 +90,21 @@
       "answers": [
         {
           "id": "q4_a",
-          "text": "Keep the guarantee to sound confident.",
+          "text": "Keep the start date and omit the condition for simpler wording.",
           "correct": false,
-          "feedback": "Confidence does not justify changing the commitment."
+          "feedback": "This misses the required check. Restore the condition and obtain human approval."
         },
         {
           "id": "q4_b",
-          "text": "Restore the condition and have a person approve the corrected draft.",
+          "text": "Restore the condition and obtain human approval.",
           "correct": true,
-          "feedback": "Correct. Preserve the meaning of the source and review the correction."
+          "feedback": "Correct. Restore the condition and obtain human approval."
         },
         {
           "id": "q4_c",
-          "text": "Remove the source so the draft reads better.",
+          "text": "Mark the draft confidential instead of correcting the start promise.",
           "correct": false,
-          "feedback": "The source is needed to verify the draft."
+          "feedback": "This misses the required check. Restore the condition and obtain human approval."
         }
       ]
     },
@@ -115,21 +115,21 @@
       "answers": [
         {
           "id": "q5_a",
-          "text": "An Anthropic professional certification.",
-          "correct": false,
-          "feedback": "This is independent training with no Anthropic certification."
+          "text": "TheColab course completion.",
+          "correct": true,
+          "feedback": "Correct. TheColab course completion."
         },
         {
           "id": "q5_b",
-          "text": "TheColab course completion recorded by the platform.",
-          "correct": true,
-          "feedback": "Correct. It records completion of this TheColab course."
+          "text": "An Anthropic endorsed training qualification.",
+          "correct": false,
+          "feedback": "This misses the required check. TheColab course completion."
         },
         {
           "id": "q5_c",
-          "text": "Permission to upload any business information.",
+          "text": "Independent approval to use confidential workplace data.",
           "correct": false,
-          "feedback": "Data approval remains a separate workplace responsibility."
+          "feedback": "This misses the required check. TheColab course completion."
         }
       ]
     }

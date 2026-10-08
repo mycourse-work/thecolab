@@ -32,4 +32,4 @@ If the capability is unavailable, ask for the checklist in the chat and copy the
 
 ## Sources
 
-Checked 7 October 2026. [Artifacts](https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them). [Sharing](https://support.claude.com/en/articles/9547008-share-artifacts).
+[Artifacts](https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them). [Sharing](https://support.claude.com/en/articles/9547008-share-artifacts).

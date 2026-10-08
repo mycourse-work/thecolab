@@ -29,4 +29,4 @@ You are ready for the quiz when you can say what each feature contributes and wh
 
 ## Sources
 
-Checked 7 October 2026. [Project Overview](https://support.claude.com/en/articles/9517075-what-are-projects). [Code](https://code.claude.com/docs/en/overview). [Cowork](https://support.claude.com/en/articles/13455879-use-claude-cowork-on-team-and-enterprise-plans).
+[Project Overview](https://support.claude.com/en/articles/9517075-what-are-projects). [Code](https://code.claude.com/docs/en/overview). [Cowork](https://support.claude.com/en/articles/13455879-use-claude-cowork-on-team-and-enterprise-plans).

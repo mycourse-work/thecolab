@@ -17,9 +17,9 @@ Asking Claude “Are you sure?” is not independent verification. For a quote, 
 
 ## Try it: find the error
 
-An invented builder's source says: “Start proposed for 20 October, subject to approval. Ceiling excluded. Price not confirmed.”
+An invented builder's source says: “Start proposed for Tuesday next week, subject to approval. Ceiling excluded. Price not confirmed.”
 
-The draft says: “We will start on 20 October and paint the whole room for the agreed price.”
+The draft says: “We will start on Tuesday next week and paint the whole room for the agreed price.”
 
 Identify three problems before you read the answer below.
 
@@ -30,4 +30,4 @@ Identify three problems before you read the answer below.
 
 ## Sources
 
-Checked 7 October 2026. [Hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations).
+[Hallucinations](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations).
