@@ -32,6 +32,4 @@ A shared project exposes its content to its members. Before sharing real work, r
 
 ## Official sources
 
-Checked 7 October 2026.
-
 - [Projects, settings, sharing, and plan limits](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)

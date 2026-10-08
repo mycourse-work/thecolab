@@ -39,6 +39,4 @@ If something sensitive has already been entered, stop that workflow and tell the
 
 ## Official sources
 
-Checked 7 October 2026.
-
 - [Privacy Commissioner: AI and the privacy principles](https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf)

@@ -35,8 +35,6 @@ For legal, tax, financial, health, or employment decisions, use the responsible 
 
 ## Official sources
 
-Checked 7 October 2026.
-
 - [ChatGPT accuracy limitations](https://help.openai.com/en/articles/8313428-does-chatgpt-tell-the-truth)
 - [NZ Digital government: checking outputs](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/misinformation-hallucinations)
 - [NZ Digital government: human oversight](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/accountability-responsibility)

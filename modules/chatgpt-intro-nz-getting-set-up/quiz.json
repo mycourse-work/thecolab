@@ -9,30 +9,30 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Ask it to choose the client’s tax treatment.",
-          "correct": false,
-          "feedback": "Tax treatment needs the responsible qualified person and authoritative information."
+          "text": "Draft and check an invented reminder.",
+          "correct": true,
+          "feedback": "Correct. Draft and check an invented reminder."
         },
         {
           "id": "q1_b",
-          "text": "Supply fictional appointment facts and review its email draft.",
-          "correct": true,
-          "feedback": "This is a small drafting task where you can compare the answer with supplied facts."
+          "text": "Add a likely appointment time.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Draft and check an invented reminder."
         },
         {
           "id": "q1_c",
-          "text": "Paste a complete real client file for background.",
+          "text": "Upload a real client file before checking workplace data permission.",
           "correct": false,
-          "feedback": "Use the course’s fictional material. A full client file exposes unnecessary information."
+          "feedback": "This misses a required check or boundary. Draft and check an invented reminder."
         },
         {
           "id": "q1_d",
-          "text": "Accept any dates that make the email look complete.",
+          "text": "Add a likely appointment time to make the reminder look complete.",
           "correct": false,
-          "feedback": "A complete-looking draft can contain invented dates. Keep unknown details visible."
+          "feedback": "This misses a required check or boundary. Draft and check an invented reminder."
         }
       ],
-      "feedback": "This is a small drafting task where you can compare the answer with supplied facts."
+      "feedback": "Correct. Draft and check an invented reminder."
     },
     {
       "id": "q2",
@@ -41,30 +41,30 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "All old chats and saved memories are deleted.",
+          "text": "Old chats disappear automatically.",
           "correct": false,
-          "feedback": "The training setting does not delete stored chats or separate memories."
+          "feedback": "This misses a required check or boundary. New chats stay in history; feedback may enable training."
         },
         {
           "id": "q2_b",
-          "text": "Any client file is now approved for uploading.",
+          "text": "The opt-out supplies workplace permission to upload confidential client records immediately.",
           "correct": false,
-          "feedback": "Your organisation must still approve data use. An opt-out is not permission."
+          "feedback": "This misses a required check or boundary. New chats stay in history; feedback may enable training."
         },
         {
           "id": "q2_c",
-          "text": "New conversations are not used to train models, but can remain in history.",
+          "text": "New chats stay in history; feedback may enable training.",
           "correct": true,
-          "feedback": "The setting changes model improvement for new conversations; history is separate."
+          "feedback": "Correct. New chats stay in history; feedback may enable training."
         },
         {
           "id": "q2_d",
-          "text": "The account has become a managed Business workspace.",
+          "text": "A personal opt-out gives the account the same controls as Business.",
           "correct": false,
-          "feedback": "A personal setting does not change the account’s plan or create a workspace."
+          "feedback": "This misses a required check or boundary. New chats stay in history; feedback may enable training."
         }
       ],
-      "feedback": "The setting changes model improvement for new conversations; history is separate."
+      "feedback": "Correct. New chats stay in history; feedback may enable training."
     },
     {
       "id": "q3",
@@ -73,30 +73,30 @@
       "answers": [
         {
           "id": "q3_a",
-          "text": "Plus automatically provides the same organisation controls as Enterprise.",
+          "text": "Work email creates Business.",
           "correct": false,
-          "feedback": "Plus is an individual plan. Enterprise is an organisation offering with more advanced controls."
+          "feedback": "This misses a required check or boundary. Business is a team workspace requiring two seats."
         },
         {
           "id": "q3_b",
-          "text": "ChatGPT Business is the current name for ChatGPT Team and requires at least two seats.",
-          "correct": true,
-          "feedback": "The Team plan was renamed Business. Current Business setup needs two Standard or Premium seats in total."
+          "text": "Plus supplies Enterprise controls.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Business is a team workspace requiring two seats."
         },
         {
           "id": "q3_c",
-          "text": "Using a personal plan at work turns it into Business.",
+          "text": "Business needs no workspace.",
           "correct": false,
-          "feedback": "Work use alone does not change the plan. Confirm the actual account and workspace."
+          "feedback": "This misses a required check or boundary. Business is a team workspace requiring two seats."
         },
         {
           "id": "q3_d",
-          "text": "Free access guarantees unlimited file uploads.",
-          "correct": false,
-          "feedback": "Free uploads have limits. Use the text alternatives when needed."
+          "text": "Business is a team workspace requiring two seats.",
+          "correct": true,
+          "feedback": "Correct. Business is a team workspace requiring two seats."
         }
       ],
-      "feedback": "The Team plan was renamed Business. Current Business setup needs two Standard or Premium seats in total."
+      "feedback": "Correct. Business is a team workspace requiring two seats."
     },
     {
       "id": "q4",
@@ -105,21 +105,21 @@
       "answers": [
         {
           "id": "q4_a",
+          "text": "Treat Temporary chat as approval for confidential workplace records.",
+          "correct": false,
+          "feedback": "Permission, source facts and human review must remain explicit."
+        },
+        {
+          "id": "q4_b",
           "text": "Confirm the account or workspace your employer approves.",
           "correct": true,
           "feedback": "Start with the approved account and information rules."
         },
         {
-          "id": "q4_b",
+          "id": "q4_c",
           "text": "Review both model-improvement and memory controls.",
           "correct": true,
           "feedback": "Training and memory controls have different purposes."
-        },
-        {
-          "id": "q4_c",
-          "text": "Use Temporary chat as permission to paste confidential records.",
-          "correct": false,
-          "feedback": "Temporary chat does not override your employer’s rules or privacy duties."
         },
         {
           "id": "q4_d",

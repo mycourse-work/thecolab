@@ -44,7 +44,5 @@ The Privacy Commissioner recommends privacy assessment before AI use. Digital.go
 
 ## Official sources
 
-Checked 7 October 2026.
-
 - [Privacy Commissioner: assessment and safe handling](https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf)
 - [NZ Digital government: accountability](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai/genai-foundations/accountability-responsibility)

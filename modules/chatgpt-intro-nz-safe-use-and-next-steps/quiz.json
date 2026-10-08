@@ -9,30 +9,30 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Yes, removing the name makes all data anonymous.",
+          "text": "Removing the name makes the remaining details sufficiently anonymous for practice.",
           "correct": false,
-          "feedback": "Other details can still identify a person."
+          "feedback": "This misses a required check or boundary. Use a fully fictional scenario."
         },
         {
           "id": "q1_b",
-          "text": "Yes, if Improve the model for everyone is off.",
+          "text": "Turning off model improvement approves those remaining details for workplace upload.",
           "correct": false,
-          "feedback": "Training settings do not remove identifiability or approval requirements."
+          "feedback": "This misses a required check or boundary. Use a fully fictional scenario."
         },
         {
           "id": "q1_c",
-          "text": "Not necessarily. Replace it with a fully fictional scenario.",
-          "correct": true,
-          "feedback": "Indirect identifiers can identify someone. Use invented practice material."
+          "text": "Keeping the output internal removes the need to assess the identifying details.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Use a fully fictional scenario."
         },
         {
           "id": "q1_d",
-          "text": "Yes, if the output will stay inside the business.",
-          "correct": false,
-          "feedback": "The input is still shared with the tool. Intended output use does not settle privacy risks."
+          "text": "Use a fully fictional scenario.",
+          "correct": true,
+          "feedback": "Correct. Use a fully fictional scenario."
         }
       ],
-      "feedback": "Indirect identifiers can identify someone. Use invented practice material."
+      "feedback": "Correct. Use a fully fictional scenario."
     },
     {
       "id": "q2",
@@ -41,30 +41,30 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "Accept it because it has a link.",
-          "correct": false,
-          "feedback": "A citation can be wrong or fail to support the claim."
+          "text": "Check the source; use qualified review.",
+          "correct": true,
+          "feedback": "Correct. Check the source; use qualified review."
         },
         {
           "id": "q2_b",
-          "text": "Open the source, check the exact claim and date, and use the responsible qualified reviewer.",
-          "correct": true,
-          "feedback": "Verify evidence and keep professional decisions with the responsible person."
+          "text": "Check the wording only.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Check the source; use qualified review."
         },
         {
           "id": "q2_c",
-          "text": "Ask ChatGPT to certify its own answer.",
+          "text": "Ask ChatGPT to confirm the claim instead of opening its cited source.",
           "correct": false,
-          "feedback": "The model’s assurance is not independent evidence."
+          "feedback": "This misses a required check or boundary. Check the source; use qualified review."
         },
         {
           "id": "q2_d",
-          "text": "Check only whether the wording is easy to read.",
+          "text": "Check the wording and spelling before treating the employment advice as approved.",
           "correct": false,
-          "feedback": "Readable wording is useful, but facts and consequences also need review."
+          "feedback": "This misses a required check or boundary. Check the source; use qualified review."
         }
       ],
-      "feedback": "Verify evidence and keep professional decisions with the responsible person."
+      "feedback": "Correct. Check the source; use qualified review."
     },
     {
       "id": "q3",
@@ -73,30 +73,30 @@
       "answers": [
         {
           "id": "q3_a",
-          "text": "Delete the chat and assume the matter is resolved.",
+          "text": "Delete and assume resolution.",
           "correct": false,
-          "feedback": "Deletion alone does not assess or resolve an incident."
+          "feedback": "This misses a required check or boundary. Stop and use the workplace incident process."
         },
         {
           "id": "q3_b",
-          "text": "Keep using the chat to work out what to say.",
+          "text": "Continue in the unapproved chat.",
           "correct": false,
-          "feedback": "Stop the workflow to avoid further exposure."
+          "feedback": "This misses a required check or boundary. Stop and use the workplace incident process."
         },
         {
           "id": "q3_c",
-          "text": "Put the full details into another public AI tool for advice.",
-          "correct": false,
-          "feedback": "That could expose the information again."
+          "text": "Stop and use the workplace incident process.",
+          "correct": true,
+          "feedback": "Correct. Stop and use the workplace incident process."
         },
         {
           "id": "q3_d",
-          "text": "Stop the workflow and report through the organisation’s privacy or incident process.",
-          "correct": true,
-          "feedback": "Tell the responsible manager or privacy officer promptly and follow the incident process."
+          "text": "Ask a colleague; skip reporting.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Stop and use the workplace incident process."
         }
       ],
-      "feedback": "Tell the responsible manager or privacy officer promptly and follow the incident process."
+      "feedback": "Correct. Stop and use the workplace incident process."
     },
     {
       "id": "q4",
@@ -117,15 +117,15 @@
         },
         {
           "id": "q4_c",
-          "text": "Permission for ChatGPT to make final staff or financial decisions.",
-          "correct": false,
-          "feedback": "Professional and people decisions must follow existing responsible review processes."
-        },
-        {
-          "id": "q4_d",
           "text": "An incident contact and a policy review date.",
           "correct": true,
           "feedback": "Staff need a route to report problems, and rules need review as tools change."
+        },
+        {
+          "id": "q4_d",
+          "text": "Require human review only when ChatGPT states it is uncertain.",
+          "correct": false,
+          "feedback": "Permission, source facts and human review must remain explicit."
         }
       ],
       "feedback": "Staff need a clear account and information boundary. A named reviewer keeps accountability clear. Staff need a route to report problems, and rules need review as tools change."

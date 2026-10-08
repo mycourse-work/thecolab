@@ -1,8 +1,8 @@
 {
   "id": "chatgpt-intro-nz-features-for-work",
   "title": "ChatGPT features for work",
-  "description": "Use projects, files, data analysis, canvas, memory, and approved connected apps.",
-  "estimatedDuration": "20 minutes",
+  "description": "Use projects, files, data analysis, writing blocks, memory, and approved connected apps.",
+  "estimatedDuration": "21 minutes",
   "lessons": [
     {
       "id": "video",
@@ -23,10 +23,10 @@
       "markdownPath": "files-and-data.md"
     },
     {
-      "id": "canvas",
-      "title": "Revise a draft with canvas",
+      "id": "writing-blocks",
+      "title": "Revise a draft with writing blocks or in chat",
       "type": "content",
-      "markdownPath": "canvas.md"
+      "markdownPath": "writing-blocks.md"
     },
     {
       "id": "memory-and-connected-apps",

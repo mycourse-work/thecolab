@@ -31,8 +31,6 @@ Complete this course’s core exercises with Free or your existing approved acco
 
 ## Official sources
 
-Checked 7 October 2026.
-
 - [Current plans](https://chatgpt.com/pricing/)
 - [Business seats and the Team rename](https://help.openai.com/en/articles/8792828-chatgpt-business-overview)
 - [Business data commitments](https://openai.com/enterprise-privacy/)

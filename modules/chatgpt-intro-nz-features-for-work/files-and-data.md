@@ -10,9 +10,9 @@ Copy this **invented** data into a plain text file called `practice-jobs.csv`. A
 
 ```csv
 month,quoted_nzd,accepted_nzd
-July,12000,9000
-August,15000,12000
-September,10000,8000
+Month 1,12000,9000
+Month 2,15000,12000
+Month 3,10000,8000
 ```
 
 Use the attachment control beside the prompt to upload the CSV when available. If you cannot upload, paste the three rows as text instead.
@@ -49,8 +49,6 @@ Free has limited uploads and data-analysis access. If you reach a limit, use the
 For a real work file, first check approval, hidden sheets, comments, and personal or confidential details. A successful upload does not prove that the file was safe to share or fully analysed.
 
 ## Official sources
-
-Checked 7 October 2026.
 
 - [Data analysis, supported files, and limitations](https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt)
 - [Free-plan feature access](https://chatgpt.com/pricing/)

@@ -9,30 +9,30 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Write a perfect quote email.",
-          "correct": false,
-          "feedback": "This gives no source facts, audience, or limits."
+          "text": "Supply visit facts; set the audience and limits.",
+          "correct": true,
+          "feedback": "Correct. Supply visit facts; set the audience and limits."
         },
         {
           "id": "q1_b",
-          "text": "Act as an expert and decide the price.",
+          "text": "Infer the missing scope.",
           "correct": false,
-          "feedback": "A role does not supply missing commercial facts or authority."
+          "feedback": "This misses a required check or boundary. Supply visit facts; set the audience and limits."
         },
         {
           "id": "q1_c",
-          "text": "Make it professional and fill in any gaps.",
+          "text": "Request a professional tone without supplying the builder’s actual source notes.",
           "correct": false,
-          "feedback": "Filling gaps can invent prices, dates, or promises."
+          "feedback": "This misses a required check or boundary. Supply visit facts; set the audience and limits."
         },
         {
           "id": "q1_d",
-          "text": "Draft a short homeowner email using supplied site-visit facts; flag missing prices and dates.",
-          "correct": true,
-          "feedback": "The task, audience, source boundary, and output limits make this brief useful."
+          "text": "Give the customer’s role and ask for a likely price and deadline.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Supply visit facts; set the audience and limits."
         }
       ],
-      "feedback": "The task, audience, source boundary, and output limits make this brief useful."
+      "feedback": "Correct. Supply visit facts; set the audience and limits."
     },
     {
       "id": "q2",
@@ -41,30 +41,30 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "Friday, because teams usually need a deadline.",
+          "text": "A provisional Friday.",
           "correct": false,
-          "feedback": "That is a guess. It changes the meeting record."
+          "feedback": "This misses a required check or boundary. Not agreed; request confirmation."
         },
         {
           "id": "q2_b",
-          "text": "Not agreed, with a clear request for confirmation.",
+          "text": "Not agreed; request confirmation.",
           "correct": true,
-          "feedback": "Keep uncertainty visible rather than inventing a deadline."
+          "feedback": "Correct. Not agreed; request confirmation."
         },
         {
           "id": "q2_c",
-          "text": "The date ChatGPT thinks is realistic.",
+          "text": "A realistic deadline inferred by ChatGPT from similar meeting actions.",
           "correct": false,
-          "feedback": "A plausible date is not a source fact."
+          "feedback": "This misses a required check or boundary. Not agreed; request confirmation."
         },
         {
           "id": "q2_d",
-          "text": "No action row, so the summary looks tidy.",
+          "text": "Omit the action entirely so readers cannot see the missing date.",
           "correct": false,
-          "feedback": "Do not omit the action to hide the missing information."
+          "feedback": "This misses a required check or boundary. Not agreed; request confirmation."
         }
       ],
-      "feedback": "Keep uncertainty visible rather than inventing a deadline."
+      "feedback": "Correct. Not agreed; request confirmation."
     },
     {
       "id": "q3",
@@ -73,30 +73,30 @@
       "answers": [
         {
           "id": "q3_a",
-          "text": "Ask for warmer language and ignore the date.",
+          "text": "Keep the date provisionally.",
           "correct": false,
-          "feedback": "Tone changes do not resolve the unsupported promise."
+          "feedback": "This misses a required check or boundary. Remove the unsupported date and check again."
         },
         {
           "id": "q3_b",
-          "text": "Send it because it reads clearly.",
+          "text": "Label the email as a draft and keep the unsupported start date.",
           "correct": false,
-          "feedback": "Clarity does not make the added commitment true."
+          "feedback": "This misses a required check or boundary. Remove the unsupported date and check again."
         },
         {
           "id": "q3_c",
-          "text": "Ask to remove the unsupported date, then compare the revision with the source.",
-          "correct": true,
-          "feedback": "Make a specific correction and review the revised answer for new errors."
+          "text": "Ask ChatGPT to confirm the date without comparing the supplied source.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Remove the unsupported date and check again."
         },
         {
           "id": "q3_d",
-          "text": "Assume the role instruction made the date accurate.",
-          "correct": false,
-          "feedback": "A role instruction does not create missing evidence."
+          "text": "Remove the unsupported date and check again.",
+          "correct": true,
+          "feedback": "Correct. Remove the unsupported date and check again."
         }
       ],
-      "feedback": "Make a specific correction and review the revised answer for new errors."
+      "feedback": "Correct. Remove the unsupported date and check again."
     },
     {
       "id": "q4",
@@ -111,15 +111,15 @@
         },
         {
           "id": "q4_b",
-          "text": "The supplied facts and unresolved details.",
-          "correct": true,
-          "feedback": "These create a boundary and make gaps visible."
+          "text": "Ask for expert wording instead of supplying missing source facts.",
+          "correct": false,
+          "feedback": "Permission, source facts and human review must remain explicit."
         },
         {
           "id": "q4_c",
-          "text": "A claim that the answer must be right because ChatGPT is an expert.",
-          "correct": false,
-          "feedback": "An instruction cannot guarantee accuracy. You still check the result."
+          "text": "The supplied facts and unresolved details.",
+          "correct": true,
+          "feedback": "These create a boundary and make gaps visible."
         },
         {
           "id": "q4_d",

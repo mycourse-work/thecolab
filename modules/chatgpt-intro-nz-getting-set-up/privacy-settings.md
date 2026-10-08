@@ -10,7 +10,7 @@ A training setting, a memory setting, and your business’s data rules do differ
 
 On a signed-in personal web account, open the account menu. Select **Settings > Data controls > Improve the model for everyone**. Turn it off and select **Done** if shown.
 
-With that setting off, new conversations are not used to train OpenAI models. They can still stay in your history. Business and Enterprise have different workspace protections and admin controls.
+With that setting off, new conversations are not used to train OpenAI models. They can still stay in your history. **Feedback exception:** If you select thumbs up or thumbs down on a response, the conversation associated with that feedback may still be used for model training, even after you opt out. Avoid submitting feedback on conversations containing information your workplace has not approved for that use. Business and Enterprise have different workspace protections and admin controls.
 
 ### 2. Memory
 
@@ -38,8 +38,6 @@ If a control is missing, use the official help page or ask your administrator. D
 
 ## Official sources
 
-Checked 7 October 2026.
-
-- [Data controls](https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt)
+- [Data controls](https://help.openai.com/en/articles/7730893-data-controls-faq)
 - [Memory controls and deletion](https://help.openai.com/en/articles/8590148-memory-in-chatgpt)
 - [Temporary chat and retention](https://help.openai.com/en/articles/8914046-temporary-chat-in-chatgpt)

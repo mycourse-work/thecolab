@@ -9,30 +9,30 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "The share of customers who accepted a quote.",
+          "text": "The customers’ acceptance rate.",
           "correct": false,
-          "feedback": "There are no customer or quote counts. This is a ratio of values."
+          "feedback": "This misses a required check or boundary. Accepted value divided by quoted value."
         },
         {
           "id": "q1_b",
-          "text": "The profit margin after all business costs.",
-          "correct": false,
-          "feedback": "The data contains no costs or profit figures."
+          "text": "Accepted value divided by quoted value.",
+          "correct": true,
+          "feedback": "Correct. Accepted value divided by quoted value."
         },
         {
           "id": "q1_c",
-          "text": "Accepted value divided by quoted value across the three months.",
-          "correct": true,
-          "feedback": "29000 / 37000 is about 78.4%. This is a value ratio, not a job-win count."
+          "text": "The business profit margin.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Accepted value divided by quoted value."
         },
         {
           "id": "q1_d",
-          "text": "The next month’s expected acceptance rate.",
+          "text": "Next month’s acceptance forecast.",
           "correct": false,
-          "feedback": "The small historical dataset does not establish a reliable forecast."
+          "feedback": "This misses a required check or boundary. Accepted value divided by quoted value."
         }
       ],
-      "feedback": "29000 / 37000 is about 78.4%. This is a value ratio, not a job-win count."
+      "feedback": "Correct. Accepted value divided by quoted value."
     },
     {
       "id": "q2",
@@ -41,30 +41,30 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "Paste the fictional rows as text or check the sums manually.",
-          "correct": true,
-          "feedback": "The alternative practises the same review skill without an upload."
+          "text": "Upgrade before continuing.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Paste invented rows or check manually."
         },
         {
           "id": "q2_b",
-          "text": "Upgrade immediately to complete this free course.",
-          "correct": false,
-          "feedback": "A paid plan is not needed for the core practice. Use the supplied alternative."
+          "text": "Paste invented rows or check manually.",
+          "correct": true,
+          "feedback": "Correct. Paste invented rows or check manually."
         },
         {
           "id": "q2_c",
-          "text": "Upload a real client spreadsheet instead.",
+          "text": "Retry with a real client file to check whether its format works.",
           "correct": false,
-          "feedback": "Changing the data does not resolve the limit and introduces information risk."
+          "feedback": "This misses a required check or boundary. Paste invented rows or check manually."
         },
         {
           "id": "q2_d",
-          "text": "Treat the failed upload as proof that the figures are wrong.",
+          "text": "Skip the source checks because the failed upload prevents further practice.",
           "correct": false,
-          "feedback": "A tool-access limit says nothing about the arithmetic in the data."
+          "feedback": "This misses a required check or boundary. Paste invented rows or check manually."
         }
       ],
-      "feedback": "The alternative practises the same review skill without an upload."
+      "feedback": "Correct. Paste invented rows or check manually."
     },
     {
       "id": "q3",
@@ -73,30 +73,30 @@
       "answers": [
         {
           "id": "q3_a",
-          "text": "Every plan allows the same number of files.",
+          "text": "Enterprise access is required.",
           "correct": false,
-          "feedback": "Current per-project limits differ by plan."
+          "feedback": "This misses a required check or boundary. Free: 5 project files; upload quotas are separate."
         },
         {
           "id": "q3_b",
-          "text": "Free allows 5 files per project, and upload allowances are separate.",
-          "correct": true,
-          "feedback": "Project capacity and the upload rate limit are different constraints."
+          "text": "Project capacity removes the daily upload limit for files in that project.",
+          "correct": false,
+          "feedback": "This misses a required check or boundary. Free: 5 project files; upload quotas are separate."
         },
         {
           "id": "q3_c",
-          "text": "A project’s file capacity guarantees unlimited daily uploads.",
-          "correct": false,
-          "feedback": "You can have space in a project and still reach an upload allowance."
+          "text": "Free: 5 project files; upload quotas are separate.",
+          "correct": true,
+          "feedback": "Correct. Free: 5 project files; upload quotas are separate."
         },
         {
           "id": "q3_d",
-          "text": "Only Enterprise can create a project.",
+          "text": "Projects require an Enterprise workspace even for small invented practice examples.",
           "correct": false,
-          "feedback": "Projects are available more broadly, subject to plan and workspace availability."
+          "feedback": "This misses a required check or boundary. Free: 5 project files; upload quotas are separate."
         }
       ],
-      "feedback": "Project capacity and the upload rate limit are different constraints."
+      "feedback": "Correct. Free: 5 project files; upload quotas are separate."
     },
     {
       "id": "q4",
@@ -117,9 +117,9 @@
         },
         {
           "id": "q4_c",
-          "text": "Assume every supported action will always ask for approval.",
+          "text": "Assume every app action asks for approval, regardless of settings.",
           "correct": false,
-          "feedback": "Approval behaviour depends on the app, settings, and workspace rules."
+          "feedback": "Permission, source facts and human review must remain explicit."
         },
         {
           "id": "q4_d",
@@ -144,8 +144,8 @@
         },
         {
           "id": "q5_b",
-          "text": "Canvas",
-          "matchText": "Revise a document alongside the conversation",
+          "text": "Writing blocks / revise in chat",
+          "matchText": "Revise supplied draft text in the conversation",
           "correct": true
         },
         {

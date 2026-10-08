@@ -31,7 +31,5 @@ A useful starting goal is: “I want a clearer first draft that I can review.”
 
 ## Official sources
 
-Checked 7 October 2026.
-
 - [ChatGPT capabilities](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
 - [Accuracy and limitations](https://help.openai.com/en/articles/8313428-does-chatgpt-tell-the-truth)

@@ -27,7 +27,7 @@ Flag if you cannot confirm which version is current.
 Do not edit, share, or send any files or messages.
 ```
 
-Open the original document and check it. If you have no approved connection, use the fictional procedure from the canvas lesson. This course does not require connecting a business account.
+Open the original document and check it. If you have no approved connection, use the fictional procedure from the writing-blocks lesson. This course does not require connecting a business account.
 
 ## Four-minute checkpoint
 
@@ -36,8 +36,6 @@ Write down one preference that could be appropriate for memory. Name one source 
 > **Important:** Changing an app permission is not the same as removing its access. Disconnect an app, or ask your administrator to disable it, when access is no longer appropriate.
 
 ## Official sources
-
-Checked 7 October 2026.
 
 - [Memory settings and sources](https://help.openai.com/en/articles/8590148-memory-in-chatgpt)
 - [Connected apps, setup, and permissions](https://help.openai.com/en/articles/11487775-connected-apps-in-chatgpt)
