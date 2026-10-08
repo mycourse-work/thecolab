@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Review the spelling, then treat the details as ready.",
+          "text": "Check spelling, then send.",
           "correct": false,
           "feedback": "This misses the required check. Check the facts and tone before approval."
         },
@@ -34,13 +34,13 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "A work email means this Pro account has Team controls.",
+          "text": "Work email creates Team controls.",
           "correct": false,
           "feedback": "This misses the required check. Pro is individual; check work-data approval."
         },
         {
           "id": "q2_b",
-          "text": "The paid subscription supplies workplace upload permission automatically.",
+          "text": "Paid plans approve work uploads.",
           "correct": false,
           "feedback": "This misses the required check. Pro is individual; check work-data approval."
         },
@@ -115,7 +115,7 @@
       "answers": [
         {
           "id": "q5_a",
-          "text": "Remove names, then use incognito without further workplace approval.",
+          "text": "Remove names; incognito is sufficient.",
           "correct": false,
           "feedback": "This misses the required check. Stop and follow the workplace data policy."
         },

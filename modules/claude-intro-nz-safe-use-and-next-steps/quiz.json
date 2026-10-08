@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "Yes, if the name is removed and no identifier is obvious.",
+          "text": "Yes, after removing the name.",
           "correct": false,
           "feedback": "This misses the required check. No; other details may identify the person."
         },
@@ -34,7 +34,7 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "Check that the website is official and accept the summary wording.",
+          "text": "Accept an official domain.",
           "correct": false,
           "feedback": "This misses the required check. Check that the source supports the claim."
         },
@@ -90,7 +90,7 @@
       "answers": [
         {
           "id": "q4_a",
-          "text": "Keep the start date and omit the condition for simpler wording.",
+          "text": "Omit conditions for clarity.",
           "correct": false,
           "feedback": "This misses the required check. Restore the condition and obtain human approval."
         },
@@ -121,13 +121,13 @@
         },
         {
           "id": "q5_b",
-          "text": "An Anthropic endorsed training qualification.",
+          "text": "Vendor certification.",
           "correct": false,
           "feedback": "This misses the required check. TheColab course completion."
         },
         {
           "id": "q5_c",
-          "text": "Independent approval to use confidential workplace data.",
+          "text": "Work-data approval.",
           "correct": false,
           "feedback": "This misses the required check. TheColab course completion."
         }

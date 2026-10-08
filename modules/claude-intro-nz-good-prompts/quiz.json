@@ -15,7 +15,7 @@
         },
         {
           "id": "q1_b",
-          "text": "Ask for a friendly quote email, letting Claude fill missing details.",
+          "text": "Infer missing quote details.",
           "correct": false,
           "feedback": "This misses the required check. Use supplied quote facts; set the audience and limits."
         },
@@ -34,13 +34,13 @@
       "answers": [
         {
           "id": "q2_a",
-          "text": "The meeting organiser, because they normally manage action lists.",
+          "text": "Assign the meeting organiser.",
           "correct": false,
           "feedback": "This misses the required check. Not stated; ask who owns it."
         },
         {
           "id": "q2_b",
-          "text": "The department manager, unless someone objects after the summary.",
+          "text": "Choose the department manager.",
           "correct": false,
           "feedback": "This misses the required check. Not stated; ask who owns it."
         },
@@ -96,7 +96,7 @@
         },
         {
           "id": "q4_b",
-          "text": "Keep Friday provisionally, then ask the recipient to correct it.",
+          "text": "Keep Friday as provisional.",
           "correct": false,
           "feedback": "This misses the required check. Remove Friday and check the supplied facts."
         },
@@ -121,7 +121,7 @@
         },
         {
           "id": "q5_b",
-          "text": "It makes professional review optional for routine tax questions.",
+          "text": "Routine advice needs no review.",
           "correct": false,
           "feedback": "This misses the required check. It guides wording; qualified review remains necessary."
         },

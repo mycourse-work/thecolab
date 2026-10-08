@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "In the Project description as the main source of instructions.",
+          "text": "In the Project description.",
           "correct": false,
           "feedback": "This misses the required check. In Set project instructions."
         },
@@ -119,7 +119,7 @@
       "answers": [
         {
           "id": "q5_a",
-          "text": "Wait for Artifact access before trying any part of the exercise.",
+          "text": "Wait for Artifact access.",
           "correct": false,
           "feedback": "This misses the required check. Use a chat draft and review it."
         },
@@ -131,7 +131,7 @@
         },
         {
           "id": "q5_c",
-          "text": "Use a colleague’s workspace without checking its access policy first.",
+          "text": "Use a colleague’s workspace.",
           "correct": false,
           "feedback": "This misses the required check. Use a chat draft and review it."
         }
