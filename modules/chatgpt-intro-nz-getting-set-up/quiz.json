@@ -1,0 +1,163 @@
+{
+  "title": "Module 1: check your understanding",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A fictional accountancy wants a clearer appointment reminder. What is a suitable first use of ChatGPT?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Draft and check an invented reminder.",
+          "correct": true,
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
+        },
+        {
+          "id": "q1_b",
+          "text": "Add a likely appointment time.",
+          "correct": false,
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
+        },
+        {
+          "id": "q1_c",
+          "text": "Upload a real client file before checking workplace data permission.",
+          "correct": false,
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
+        },
+        {
+          "id": "q1_d",
+          "text": "Use the real reminder after removing the client's name.",
+          "correct": false,
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
+        }
+      ],
+      "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Your personal account has Improve the model for everyone turned off. What should you expect?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Old chats disappear automatically.",
+          "correct": false,
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
+        },
+        {
+          "id": "q2_b",
+          "text": "The opt-out supplies workplace permission to upload confidential client records immediately.",
+          "correct": false,
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
+        },
+        {
+          "id": "q2_c",
+          "text": "New chats stay in history; feedback may enable training.",
+          "correct": true,
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
+        },
+        {
+          "id": "q2_d",
+          "text": "A personal opt-out gives the account the same controls as Business.",
+          "correct": false,
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
+        }
+      ],
+      "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which plan distinction should a manager understand before buying?",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Work email creates Business.",
+          "correct": false,
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
+        },
+        {
+          "id": "q3_b",
+          "text": "Plus supplies Enterprise controls.",
+          "correct": false,
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
+        },
+        {
+          "id": "q3_c",
+          "text": "Business needs no workspace.",
+          "correct": false,
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
+        },
+        {
+          "id": "q3_d",
+          "text": "Business is a team workspace requiring two seats.",
+          "correct": true,
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
+        }
+      ],
+      "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select all suitable setup actions for this course.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Treat Temporary chat as approval for confidential workplace records.",
+          "correct": false,
+          "feedback": "Temporary chat does not provide permission to enter confidential workplace records."
+        },
+        {
+          "id": "q4_b",
+          "text": "Confirm the account or workspace your employer approves.",
+          "correct": true,
+          "feedback": "Start with the approved account and information rules."
+        },
+        {
+          "id": "q4_c",
+          "text": "Review both model-improvement and memory controls.",
+          "correct": true,
+          "feedback": "Training and memory controls have different purposes."
+        },
+        {
+          "id": "q4_d",
+          "text": "Use fictional practice data even after changing settings.",
+          "correct": true,
+          "feedback": "Fictional material keeps the beginner exercise away from real personal or confidential data."
+        }
+      ],
+      "feedback": "Start with the approved account and information rules. Training and memory controls have different purposes. Fictional material keeps the beginner exercise away from real personal or confidential data."
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each control or account type with its purpose.",
+      "feedback": "Improve the model for everyone: Controls whether eligible new conversations help train models; Memory controls: Manage information used to personalise answers; Business workspace: Provides a managed environment for a team.",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Improve the model for everyone",
+          "matchText": "Controls whether eligible new conversations help train models",
+          "correct": true,
+          "feedback": "Controls whether eligible new conversations help train models."
+        },
+        {
+          "id": "q5_b",
+          "text": "Memory controls",
+          "matchText": "Manage information used to personalise answers",
+          "correct": true,
+          "feedback": "Manage information used to personalise answers."
+        },
+        {
+          "id": "q5_c",
+          "text": "Business workspace",
+          "matchText": "Provides a managed environment for a team",
+          "correct": true,
+          "feedback": "Provides a managed environment for a team."
+        }
+      ]
+    }
+  ]
+}

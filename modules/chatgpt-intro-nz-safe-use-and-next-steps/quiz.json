@@ -1,0 +1,163 @@
+{
+  "title": "Module 4: check your understanding",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A colleague removes a person's name but keeps their rare job title, exact date, and incident details. Is the text safe for course practice?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Removing the name makes the remaining details sufficiently anonymous for practice.",
+          "correct": false,
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
+        },
+        {
+          "id": "q1_b",
+          "text": "Turning off model improvement approves those remaining details for workplace upload.",
+          "correct": false,
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
+        },
+        {
+          "id": "q1_d",
+          "text": "Use a fully fictional scenario.",
+          "correct": true,
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
+        },
+        {
+          "id": "q1_c",
+          "text": "Keeping the output internal removes the need to assess the identifying details.",
+          "correct": false,
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
+        }
+      ],
+      "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "ChatGPT cites a page for a New Zealand employment claim. What should the reviewer do?",
+      "answers": [
+        {
+          "id": "q2_b",
+          "text": "Accept the citation because it links to an official domain.",
+          "correct": false,
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
+        },
+        {
+          "id": "q2_c",
+          "text": "Ask ChatGPT to confirm the claim instead of opening its cited source.",
+          "correct": false,
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
+        },
+        {
+          "id": "q2_d",
+          "text": "Check the wording and spelling before treating the employment advice as approved.",
+          "correct": false,
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
+        },
+        {
+          "id": "q2_a",
+          "text": "Check the source; use qualified review.",
+          "correct": true,
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
+        }
+      ],
+      "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Sensitive information was entered into an unapproved chat. What is the useful first response?",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Delete and assume resolution.",
+          "correct": false,
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
+        },
+        {
+          "id": "q3_c",
+          "text": "Stop and use the workplace incident process.",
+          "correct": true,
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
+        },
+        {
+          "id": "q3_b",
+          "text": "Continue in the unapproved chat.",
+          "correct": false,
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
+        },
+        {
+          "id": "q3_d",
+          "text": "Ask a colleague; skip reporting.",
+          "correct": false,
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
+        }
+      ],
+      "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select all elements that belong in the team policy starter.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "The approved tool, workspace, and allowed data.",
+          "correct": true,
+          "feedback": "Staff need a clear account and information boundary."
+        },
+        {
+          "id": "q4_b",
+          "text": "Who checks and approves relevant outputs.",
+          "correct": true,
+          "feedback": "A named reviewer keeps accountability clear."
+        },
+        {
+          "id": "q4_c",
+          "text": "An incident contact and a policy review date.",
+          "correct": true,
+          "feedback": "Staff need a route to report problems, and rules need review as tools change."
+        },
+        {
+          "id": "q4_d",
+          "text": "Require human review only when ChatGPT states it is uncertain.",
+          "correct": false,
+          "feedback": "Review rules must apply even when ChatGPT sounds certain. It can be confidently wrong."
+        }
+      ],
+      "feedback": "Staff need a clear account and information boundary. A named reviewer keeps accountability clear. Staff need a route to report problems, and rules need review as tools change."
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each review with what it checks.",
+      "feedback": "Source review: The output matches the original material; Fact review: Amounts, dates, units, and claims are verified; Impact review: The right person approves the intended use.",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Source review",
+          "matchText": "The output matches the original material",
+          "correct": true,
+          "feedback": "The output matches the original material."
+        },
+        {
+          "id": "q5_b",
+          "text": "Fact review",
+          "matchText": "Amounts, dates, units, and claims are verified",
+          "correct": true,
+          "feedback": "Amounts, dates, units, and claims are verified."
+        },
+        {
+          "id": "q5_c",
+          "text": "Impact review",
+          "matchText": "The right person approves the intended use",
+          "correct": true,
+          "feedback": "The right person approves the intended use."
+        }
+      ]
+    }
+  ]
+}

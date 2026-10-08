@@ -1,0 +1,44 @@
+{
+  "id": "chatgpt-intro-nz-getting-set-up",
+  "title": "Welcome and getting set up",
+  "description": "Choose a suitable account, review privacy settings, and start with a safe task.",
+  "estimatedDuration": "20 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Video: Start with a safe task",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "what-chatgpt-is",
+      "title": "What ChatGPT can help you do",
+      "type": "content",
+      "markdownPath": "what-chatgpt-is.md"
+    },
+    {
+      "id": "accounts-and-plans",
+      "title": "Choose an account and understand the plans",
+      "type": "content",
+      "markdownPath": "accounts-and-plans.md"
+    },
+    {
+      "id": "privacy-settings",
+      "title": "Check training and memory settings",
+      "type": "content",
+      "markdownPath": "privacy-settings.md"
+    },
+    {
+      "id": "first-safe-chat",
+      "title": "Send your first safe prompt",
+      "type": "content",
+      "markdownPath": "first-safe-chat.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Module 1: check your understanding",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

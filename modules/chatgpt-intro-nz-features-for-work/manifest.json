@@ -1,0 +1,44 @@
+{
+  "id": "chatgpt-intro-nz-features-for-work",
+  "title": "ChatGPT features for work",
+  "description": "Use projects, files, data analysis, writing blocks, memory, and approved connected apps.",
+  "estimatedDuration": "21 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Video: Use the right work feature",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "projects",
+      "title": "Keep related work in a project",
+      "type": "content",
+      "markdownPath": "projects.md"
+    },
+    {
+      "id": "files-and-data",
+      "title": "Upload a practice file and check the numbers",
+      "type": "content",
+      "markdownPath": "files-and-data.md"
+    },
+    {
+      "id": "writing-blocks",
+      "title": "Revise a draft with writing blocks or in chat",
+      "type": "content",
+      "markdownPath": "writing-blocks.md"
+    },
+    {
+      "id": "memory-and-connected-apps",
+      "title": "Understand memory and connected apps",
+      "type": "content",
+      "markdownPath": "memory-and-connected-apps.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Module 3: check your understanding",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

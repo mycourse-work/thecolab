@@ -1,0 +1,163 @@
+{
+  "title": "Module 2: check your understanding",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which prompt gives the fictional builder the clearest brief?",
+      "answers": [
+        {
+          "id": "q1_b",
+          "text": "Infer the missing scope.",
+          "correct": false,
+          "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
+        },
+        {
+          "id": "q1_a",
+          "text": "Supply visit facts; set the audience and limits.",
+          "correct": true,
+          "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
+        },
+        {
+          "id": "q1_c",
+          "text": "Request a professional tone without supplying the builder's actual source notes.",
+          "correct": false,
+          "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
+        },
+        {
+          "id": "q1_d",
+          "text": "Give the customer's role and ask for a likely price and deadline.",
+          "correct": false,
+          "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
+        }
+      ],
+      "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "The HR notes say no deadline was agreed. What should the action table show?",
+      "answers": [
+        {
+          "id": "q2_b",
+          "text": "Not agreed; request confirmation.",
+          "correct": true,
+          "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
+        },
+        {
+          "id": "q2_a",
+          "text": "A provisional Friday.",
+          "correct": false,
+          "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
+        },
+        {
+          "id": "q2_c",
+          "text": "A realistic deadline inferred by ChatGPT from similar meeting actions.",
+          "correct": false,
+          "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
+        },
+        {
+          "id": "q2_d",
+          "text": "Omit the action entirely so readers cannot see the missing date.",
+          "correct": false,
+          "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
+        }
+      ],
+      "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An email draft adds a start-date promise. What is the useful next step?",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Keep the date provisionally.",
+          "correct": false,
+          "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
+        },
+        {
+          "id": "q3_b",
+          "text": "Label the email as a draft and keep the unsupported start date.",
+          "correct": false,
+          "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
+        },
+        {
+          "id": "q3_d",
+          "text": "Remove the unsupported date and check again.",
+          "correct": true,
+          "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
+        },
+        {
+          "id": "q3_c",
+          "text": "Ask ChatGPT to confirm the date without comparing the supplied source.",
+          "correct": false,
+          "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
+        }
+      ],
+      "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select all prompt details that help with a work draft.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "The intended reader and what they need to do.",
+          "correct": true,
+          "feedback": "Audience and purpose guide a useful draft."
+        },
+        {
+          "id": "q4_b",
+          "text": "Ask for expert wording instead of supplying missing source facts.",
+          "correct": false,
+          "feedback": "Expert wording cannot replace missing facts. Supply the source or mark the gap."
+        },
+        {
+          "id": "q4_c",
+          "text": "The supplied facts and unresolved details.",
+          "correct": true,
+          "feedback": "These create a boundary and make gaps visible."
+        },
+        {
+          "id": "q4_d",
+          "text": "A specific format, tone, or word limit.",
+          "correct": true,
+          "feedback": "Output requirements make the result easier to review and use."
+        }
+      ],
+      "feedback": "Audience and purpose guide a useful draft. Supplied facts and unresolved details create a boundary and make gaps visible. Output requirements make the result easier to review and use."
+    },
+    {
+      "id": "q5",
+      "type": "MATCHING",
+      "question": "Match each prompt part with the example.",
+      "feedback": "Context: This is a fictional deck-repair enquiry; Source fact: A site visit is needed before scope is confirmed; Output limit: Use a subject line and fewer than 120 words.",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Context",
+          "matchText": "This is a fictional deck-repair enquiry",
+          "correct": true,
+          "feedback": "This is a fictional deck-repair enquiry."
+        },
+        {
+          "id": "q5_b",
+          "text": "Source fact",
+          "matchText": "A site visit is needed before scope is confirmed",
+          "correct": true,
+          "feedback": "A site visit is needed before scope is confirmed."
+        },
+        {
+          "id": "q5_c",
+          "text": "Output limit",
+          "matchText": "Use a subject line and fewer than 120 words",
+          "correct": true,
+          "feedback": "Use a subject line and fewer than 120 words."
+        }
+      ]
+    }
+  ]
+}
