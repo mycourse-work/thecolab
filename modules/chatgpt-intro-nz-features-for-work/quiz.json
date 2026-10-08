@@ -32,7 +32,7 @@
           "feedback": "29000 divided by 37000 is about 78.4%. The data measures values, not job counts, profit or future demand."
         }
       ],
-      "feedback": "Correct. Accepted value divided by quoted value."
+      "feedback": "29000 divided by 37000 is about 78.4%. The data measures values, not job counts, profit or future demand."
     },
     {
       "id": "q2",
@@ -64,7 +64,7 @@
           "feedback": "Paste the invented rows or check the sums manually. You can complete the exercise without buying a plan or using real client data."
         }
       ],
-      "feedback": "Correct. Paste invented rows or check manually."
+      "feedback": "Paste the invented rows or check the sums manually. You can complete the exercise without buying a plan or using real client data."
     },
     {
       "id": "q3",
@@ -96,7 +96,7 @@
           "feedback": "Free allows five files per project. Project capacity and upload quotas are separate limits."
         }
       ],
-      "feedback": "Correct. Free: 5 project files; upload quotas are separate."
+      "feedback": "Free allows five files per project. Project capacity and upload quotas are separate limits."
     },
     {
       "id": "q4",
@@ -134,7 +134,7 @@
       "id": "q5",
       "type": "MATCHING",
       "question": "Match each feature with a suitable beginner use.",
-      "feedback": "Use the feature that fits your task. Availability can differ; a text alternative still lets you practise review.",
+      "feedback": "Project: Keep related chats, files, and instructions together; Writing blocks / revise in chat: Revise supplied draft text in the conversation; Data analysis: Inspect supplied data and check calculations.",
       "answers": [
         {
           "id": "q5_a",

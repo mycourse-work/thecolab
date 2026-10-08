@@ -32,7 +32,7 @@
           "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
         }
       ],
-      "feedback": "Correct. Use a fully fictional scenario."
+      "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
     },
     {
       "id": "q2",
@@ -64,7 +64,7 @@
           "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
         }
       ],
-      "feedback": "Correct. Check the source; use qualified review."
+      "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
     },
     {
       "id": "q3",
@@ -96,7 +96,7 @@
           "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
         }
       ],
-      "feedback": "Correct. Stop and use the workplace incident process."
+      "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
     },
     {
       "id": "q4",
@@ -134,7 +134,7 @@
       "id": "q5",
       "type": "MATCHING",
       "question": "Match each review with what it checks.",
-      "feedback": "Use all three checks. An accurate draft can still require approval because of how it will be used.",
+      "feedback": "Source review: The output matches the original material; Fact review: Amounts, dates, units, and claims are verified; Impact review: The right person approves the intended use.",
       "answers": [
         {
           "id": "q5_a",

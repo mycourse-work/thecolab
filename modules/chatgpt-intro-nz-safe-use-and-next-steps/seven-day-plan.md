@@ -4,7 +4,7 @@ Allow 3 minutes, including any practice below.
 
 ## Build a small habit
 
-After this course, spend five minutes a day on safe material. These practice days are additional to the course's estimated 87 minutes 9 seconds.
+After this course, spend five minutes a day on safe material. These practice days are additional to the course's estimated 87 minutes.
 
 | Day | Practice | Check |
 | --- | --- | --- |

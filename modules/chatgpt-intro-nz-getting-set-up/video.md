@@ -1,6 +1,6 @@
 # Start with a safe task
 
-Video length: 3 minutes 2 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/chatgpt-intro-nz/@modules/chatgpt-intro-nz-getting-set-up/assets/chatgpt-intro-nz-module-1-poster.jpg" playsinline preload="metadata" aria-label="Module 1: Welcome and getting set up" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/chatgpt-intro-nz-module-1.mp4" type="video/mp4">

@@ -1,6 +1,6 @@
 # Keep people responsible
 
-Video length: 3 minutes 5 seconds. Read the summary below before continuing.
+Allow 3 minutes for the video. Read the summary below before continuing.
 
 <video controls poster="/api/content/chatgpt-intro-nz/@modules/chatgpt-intro-nz-safe-use-and-next-steps/assets/chatgpt-intro-nz-module-4-poster.jpg" playsinline preload="metadata" aria-label="Module 4: Safe use in New Zealand and next steps" style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem auto; display: block;">
   <source src="./assets/chatgpt-intro-nz-module-4.mp4" type="video/mp4">

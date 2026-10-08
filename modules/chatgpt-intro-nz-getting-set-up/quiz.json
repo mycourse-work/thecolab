@@ -32,7 +32,7 @@
           "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
         }
       ],
-      "feedback": "Correct. Draft and check an invented reminder."
+      "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
     },
     {
       "id": "q2",
@@ -64,7 +64,7 @@
           "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
         }
       ],
-      "feedback": "Correct. New chats stay in history; feedback may enable training."
+      "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
     },
     {
       "id": "q3",
@@ -96,7 +96,7 @@
           "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
         }
       ],
-      "feedback": "Correct. Business is a team workspace requiring two seats."
+      "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
     },
     {
       "id": "q4",
@@ -134,7 +134,7 @@
       "id": "q5",
       "type": "MATCHING",
       "question": "Match each control or account type with its purpose.",
-      "feedback": "Training, personalization, and workspace administration are separate. Review each for your intended use.",
+      "feedback": "Improve the model for everyone: Controls whether eligible new conversations help train models; Memory controls: Manage information used to personalise answers; Business workspace: Provides a managed environment for a team.",
       "answers": [
         {
           "id": "q5_a",

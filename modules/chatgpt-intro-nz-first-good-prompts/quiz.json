@@ -32,7 +32,7 @@
           "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
         }
       ],
-      "feedback": "Correct. Supply visit facts; set the audience and limits."
+      "feedback": "The builder needs a draft based on supplied visit facts. Set its audience and limits so missing details stay visible."
     },
     {
       "id": "q2",
@@ -64,7 +64,7 @@
           "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
         }
       ],
-      "feedback": "Correct. Not agreed; request confirmation."
+      "feedback": "No deadline was agreed. Mark it as not agreed and ask for confirmation instead of inventing a date."
     },
     {
       "id": "q3",
@@ -96,7 +96,7 @@
           "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
         }
       ],
-      "feedback": "Correct. Remove the unsupported date and check again."
+      "feedback": "An unsupported start date creates a commitment. Remove it and check the revised email against the source."
     },
     {
       "id": "q4",
@@ -134,7 +134,7 @@
       "id": "q5",
       "type": "MATCHING",
       "question": "Match each prompt part with the example.",
-      "feedback": "Context explains the situation. Source facts are the evidence to preserve. Output limits describe the result you want.",
+      "feedback": "Context: This is a fictional deck-repair enquiry; Source fact: A site visit is needed before scope is confirmed; Output limit: Use a subject line and fewer than 120 words.",
       "answers": [
         {
           "id": "q5_a",
