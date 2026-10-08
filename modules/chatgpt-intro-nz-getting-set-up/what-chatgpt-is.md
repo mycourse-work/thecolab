@@ -1,6 +1,6 @@
 # What ChatGPT can help you do
 
-**Allow 3 minutes, including any practice below.**
+Allow 3 minutes, including any practice below.
 
 ## Start with a small task
 
@@ -19,7 +19,7 @@ Use it to make a first version of work you understand. For example, our fictiona
 
 ChatGPT can invent facts, references, or dates. This is often called a **hallucination**. A fluent answer can still be wrong. It can also miss context or simplify a difficult question too far.
 
-> **Warning:** A role prompt such as “act as an accountant” does not make ChatGPT a qualified adviser. Keep professional decisions with the responsible person.
+> **Warning:** A role prompt such as "act as an accountant" does not make ChatGPT a qualified adviser. Keep professional decisions with the responsible person.
 
 For current information, ask it to use search when available. Open the original sources yourself. A citation gives you something to check; it does not prove the claim.
 
@@ -27,7 +27,7 @@ For current information, ask it to use search when available. Open the original 
 
 Write down one task where you already know what a good answer looks like. Choose a fictional email or a public document for practice. State how you will check the result.
 
-A useful starting goal is: “I want a clearer first draft that I can review.” Avoid a goal such as: “I want ChatGPT to decide what our business should do.”
+Write a goal such as: "I want a clearer draft that I can review against my notes." Keep business decisions with the responsible person.
 
 ## Official sources
 

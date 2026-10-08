@@ -1,10 +1,10 @@
 # Understand memory and connected apps
 
-**Allow 4 minutes, including any practice below.**
+Allow 4 minutes, including any practice below.
 
 ## Choose memory deliberately
 
-Memory can use relevant preferences or details across conversations when enabled. It does not retain every detail. Use it only under your organisation’s rules. A harmless style preference is a safer learning example than a client detail.
+Memory can use relevant preferences or details across conversations when enabled. It does not retain every detail. Use it only under your organisation's rules. A harmless style preference is a safer learning example than a client detail.
 
 Review **Settings > Personalization > Memory**. Controls vary by account. Ask what ChatGPT remembers, then check the settings yourself. Removing source chats and separately stored memories may both be needed.
 
@@ -12,9 +12,9 @@ Review **Settings > Personalization > Memory**. Controls vary by account. Ask wh
 
 Connected apps, previously often called connectors, can bring information from services such as Google Drive into a chat. Apps may sit inside plugins. Access depends on your plan, region, account permissions, and workspace settings.
 
-Current help describes **Settings > Plugins** for setup. Very old mobile versions may show **Apps**. Installation does not replace account authorisation or your employer’s approval.
+Current help describes **Settings > Plugins** for setup. Very old mobile versions may show **Apps**. Installation does not replace account authorisation or your employer's approval.
 
-An app uses the connected account’s available access. Some apps can also change information. Read the permission request and the provider’s terms before connecting anything. Use a setting that asks for review when available. Do not assume every action will always prompt.
+An app uses the connected account's available access. Some apps can also change information. Read the permission request and the provider's terms before connecting anything. Use a setting that asks for review when available. Do not assume every action will always prompt.
 
 ## Preview a useful work task
 

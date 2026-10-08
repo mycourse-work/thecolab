@@ -1,6 +1,6 @@
 # Revise a draft with writing blocks or in chat
 
-**Allow 3 minutes, including the practice below.**
+Allow 3 minutes, including the practice below.
 
 ## Keep revisions close to the source
 
@@ -26,7 +26,7 @@ Do not add a security policy. Keep this as a draft for review.
 
 ## Make one change, then check again
 
-If a writing block appears and supports editing, edit one sentence or ask ChatGPT to revise the relevant text. For example: “Shorten the opening; keep all instructions.” Check the whole draft afterwards.
+If a writing block appears and supports editing, edit one sentence or ask ChatGPT to revise the relevant text. For example: "Shorten the opening; keep all instructions." Check the whole draft afterwards.
 
 If those controls are unavailable, ask for the same revision in chat. Compare the response with the original notes. The exercise works without a separate editing control.
 
@@ -36,7 +36,7 @@ A useful revision preserves checking the label, using the shelf, notifying the r
 
 A clear draft still needs the reception owner's review. Once approved, store it in your organisation's normal document system with an owner and review date.
 
-**Try it:** Make one sentence clearer. Check that all five original instructions survive. Keep the exercise fictional.
+Try it: Make one sentence clearer. Check that all five original instructions survive. Keep the exercise fictional.
 
 ## Official source
 

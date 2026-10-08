@@ -1,16 +1,16 @@
 # Check training and memory settings
 
-**Allow 5 minutes, including any practice below.**
+Allow 5 minutes, including any practice below.
 
 ## Review three separate controls
 
-A training setting, a memory setting, and your business’s data rules do different jobs. Review all three.
+A training setting, a memory setting, and your business's data rules do different jobs. Review all three.
 
 ### 1. Model improvement
 
 On a signed-in personal web account, open the account menu. Select **Settings > Data controls > Improve the model for everyone**. Turn it off and select **Done** if shown.
 
-With that setting off, new conversations are not used to train OpenAI models. They can still stay in your history. **Feedback exception:** If you select thumbs up or thumbs down on a response, the conversation associated with that feedback may still be used for model training, even after you opt out. Avoid submitting feedback on conversations containing information your workplace has not approved for that use. Business and Enterprise have different workspace protections and admin controls.
+With that setting off, new conversations are not used to train OpenAI models. They can still stay in your history. If you select thumbs up or thumbs down on a response, the conversation associated with that feedback may still be used for model training, even after you opt out. Avoid submitting feedback on conversations containing information your workplace has not approved for that use. Business and Enterprise have different workspace protections and admin controls.
 
 ### 2. Memory
 
@@ -22,7 +22,7 @@ Turning memory off does not delete old chats. Deleting a chat alone may leave a 
 
 For a practice conversation you do not want in your history, start a new chat and select **Temporary**. If offered, choose **Unpersonalized** before sending the first message.
 
-While it stays temporary, the chat is not used for model improvement and does not create or update memories. OpenAI may keep a copy for up to 30 days for safety. Saving it converts it to a regular chat with your account’s settings.
+While it stays temporary, the chat is not used for model improvement and does not create or update memories. OpenAI may keep a copy for up to 30 days for safety. Saving it converts it to a regular chat with your account's settings.
 
 > **Important:** These settings do not give permission to upload confidential or personal information. Use only fictional or approved public material in this course.
 

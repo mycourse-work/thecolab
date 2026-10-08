@@ -1,10 +1,10 @@
 # Practise for seven days and choose your next step
 
-**Allow 3 minutes, including any practice below.**
+Allow 3 minutes, including any practice below.
 
 ## Build a small habit
 
-After this course, spend five minutes a day on safe material. These practice days are additional to the course’s 87 minutes.
+After this course, spend five minutes a day on safe material. These practice days are additional to the course's estimated 87 minutes 9 seconds.
 
 | Day | Practice | Check |
 | --- | --- | --- |
@@ -35,4 +35,4 @@ See [workshop options](https://chatgpttraining.co.nz/workshops/) for in-person t
 
 Complete the final quiz. Check that you have completed all lessons and passed each quiz at 80% or more. The platform can then make your TheColab completion certificate available.
 
-Choose one safe task for next week, one source to check, and one person who will review the result. That is your next useful step.
+Choose one safe task for next week, one source to check, and one person who will review the result.

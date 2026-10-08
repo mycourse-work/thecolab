@@ -1,6 +1,6 @@
 # Build a prompt with useful context
 
-**Allow 4 minutes, including any practice below.**
+Allow 4 minutes, including any practice below.
 
 ## Use five parts
 
@@ -18,11 +18,11 @@ A role helps set perspective and tone. It does not supply missing facts or profe
 
 ## Compare before and after
 
-**Before:** “Write a good quote email.”
+Before: "Write a good quote email."
 
 That leaves the audience, scope, and promises unclear.
 
-**After:**
+After:
 
 ```text
 Act as an office administrator for a fictional Christchurch builder.
@@ -39,11 +39,11 @@ Do not invent a price, date, warranty, or scope of work.
 When tone matters, include a sentence you like:
 
 ```text
-Match this tone: “Thanks for getting in touch. We can help you
-work through the next step.” Do not copy extra facts into the email.
+Match this tone: "Thanks for getting in touch. We can help you
+work through the next step." Do not copy extra facts into the email.
 ```
 
-This gives a clearer target than “make it professional”.
+This gives a clearer target than "make it professional".
 
 ```mermaid
 flowchart LR
@@ -53,4 +53,4 @@ flowchart LR
     D --> E[Ask for one change]
 ```
 
-**Try it:** Write one prompt with these five parts. Use supplied fictional facts. Circle any detail ChatGPT would have to guess, then add that detail or ask it to flag it as unknown.
+Try it: Write one prompt with these five parts. Use supplied fictional facts. Circle any detail ChatGPT would have to guess, then add that detail or ask it to flag it as unknown.

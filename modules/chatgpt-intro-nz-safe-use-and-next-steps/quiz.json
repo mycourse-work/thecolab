@@ -5,31 +5,31 @@
     {
       "id": "q1",
       "type": "MULTIPLE_CHOICE",
-      "question": "A colleague removes a person’s name but keeps their rare job title, exact date, and incident details. Is the text safe for course practice?",
+      "question": "A colleague removes a person's name but keeps their rare job title, exact date, and incident details. Is the text safe for course practice?",
       "answers": [
         {
           "id": "q1_a",
           "text": "Removing the name makes the remaining details sufficiently anonymous for practice.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Use a fully fictional scenario."
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
         },
         {
           "id": "q1_b",
           "text": "Turning off model improvement approves those remaining details for workplace upload.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Use a fully fictional scenario."
-        },
-        {
-          "id": "q1_c",
-          "text": "Keeping the output internal removes the need to assess the identifying details.",
-          "correct": false,
-          "feedback": "This misses a required check or boundary. Use a fully fictional scenario."
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
         },
         {
           "id": "q1_d",
           "text": "Use a fully fictional scenario.",
           "correct": true,
-          "feedback": "Correct. Use a fully fictional scenario."
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
+        },
+        {
+          "id": "q1_c",
+          "text": "Keeping the output internal removes the need to assess the identifying details.",
+          "correct": false,
+          "feedback": "The remaining details may identify the person. Use a fully fictional scenario for course practice."
         }
       ],
       "feedback": "Correct. Use a fully fictional scenario."
@@ -40,28 +40,28 @@
       "question": "ChatGPT cites a page for a New Zealand employment claim. What should the reviewer do?",
       "answers": [
         {
-          "id": "q2_a",
-          "text": "Check the source; use qualified review.",
-          "correct": true,
-          "feedback": "Correct. Check the source; use qualified review."
-        },
-        {
           "id": "q2_b",
-          "text": "Check the wording only.",
+          "text": "Accept the citation because it links to an official domain.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Check the source; use qualified review."
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
         },
         {
           "id": "q2_c",
           "text": "Ask ChatGPT to confirm the claim instead of opening its cited source.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Check the source; use qualified review."
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
         },
         {
           "id": "q2_d",
           "text": "Check the wording and spelling before treating the employment advice as approved.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Check the source; use qualified review."
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
+        },
+        {
+          "id": "q2_a",
+          "text": "Check the source; use qualified review.",
+          "correct": true,
+          "feedback": "Open the cited source and check that it supports the NZ claim. Employment decisions need the responsible qualified reviewer."
         }
       ],
       "feedback": "Correct. Check the source; use qualified review."
@@ -75,25 +75,25 @@
           "id": "q3_a",
           "text": "Delete and assume resolution.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Stop and use the workplace incident process."
-        },
-        {
-          "id": "q3_b",
-          "text": "Continue in the unapproved chat.",
-          "correct": false,
-          "feedback": "This misses a required check or boundary. Stop and use the workplace incident process."
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
         },
         {
           "id": "q3_c",
           "text": "Stop and use the workplace incident process.",
           "correct": true,
-          "feedback": "Correct. Stop and use the workplace incident process."
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
+        },
+        {
+          "id": "q3_b",
+          "text": "Continue in the unapproved chat.",
+          "correct": false,
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
         },
         {
           "id": "q3_d",
           "text": "Ask a colleague; skip reporting.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Stop and use the workplace incident process."
+          "feedback": "Stop the workflow and follow the workplace incident process. Deleting the chat does not establish that the incident is resolved."
         }
       ],
       "feedback": "Correct. Stop and use the workplace incident process."
@@ -125,7 +125,7 @@
           "id": "q4_d",
           "text": "Require human review only when ChatGPT states it is uncertain.",
           "correct": false,
-          "feedback": "Permission, source facts and human review must remain explicit."
+          "feedback": "Review rules must apply even when ChatGPT sounds certain. It can be confidently wrong."
         }
       ],
       "feedback": "Staff need a clear account and information boundary. A named reviewer keeps accountability clear. Staff need a route to report problems, and rules need review as tools change."
@@ -140,19 +140,22 @@
           "id": "q5_a",
           "text": "Source review",
           "matchText": "The output matches the original material",
-          "correct": true
+          "correct": true,
+          "feedback": "The output matches the original material."
         },
         {
           "id": "q5_b",
           "text": "Fact review",
           "matchText": "Amounts, dates, units, and claims are verified",
-          "correct": true
+          "correct": true,
+          "feedback": "Amounts, dates, units, and claims are verified."
         },
         {
           "id": "q5_c",
           "text": "Impact review",
           "matchText": "The right person approves the intended use",
-          "correct": true
+          "correct": true,
+          "feedback": "The right person approves the intended use."
         }
       ]
     }

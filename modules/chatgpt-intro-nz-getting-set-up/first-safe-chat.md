@@ -1,6 +1,6 @@
 # Send your first safe prompt
 
-**Allow 3 minutes, including any practice below.**
+Allow 3 minutes, including any practice below.
 
 ## Try a fictional message
 
@@ -19,7 +19,7 @@ Read the answer before asking for another version. A suitable draft is:
 
 > Reception is closed for a staff meeting from 10 am to 11 am. Please leave a message. We will respond after reception reopens.
 
-This example is an illustrative target, not a claim about what ChatGPT will return.
+This is an illustrative draft. Your result may differ.
 
 ## Check three things
 

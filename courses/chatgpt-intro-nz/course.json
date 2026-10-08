@@ -1,9 +1,9 @@
 {
   "id": "chatgpt-intro-nz",
-  "title": "ChatGPT at Work: A Free Introduction for NZ Businesses",
+  "title": "ChatGPT at work: a free introduction for NZ businesses",
   "coverImage": "cover.png",
   "description": "A free, practical introduction for New Zealand office staff, owners, and managers. Learn to prompt ChatGPT, use work features, protect information, and check results. Independent training by TheColab. No paid ChatGPT plan required for the core exercises.",
-  "estimatedDuration": "87 minutes",
+  "estimatedDuration": "87 minutes 9 seconds",
   "welcomePath": "welcome.md",
   "quizPassingThreshold": 80,
   "quizRevealMode": "immediate",

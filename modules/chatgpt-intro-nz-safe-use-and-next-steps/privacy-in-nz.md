@@ -1,16 +1,16 @@
 # Protect personal and confidential information
 
-**Allow 4 minutes, including any practice below.**
+Allow 4 minutes, including any practice below.
 
 ## Apply New Zealand privacy rules
 
 The **Privacy Act 2020** applies when organisations collect, use, or share personal information. Information can identify someone even when you remove their name.
 
-The Privacy Commissioner’s AI guidance expects organisations to assess privacy risks before using AI. Involve your privacy officer or responsible manager. A privacy impact assessment helps you decide which uses and data are suitable.
+The Privacy Commissioner's AI guidance expects organisations to assess privacy risks before using AI. Involve your privacy officer or responsible manager. A privacy impact assessment helps you decide which uses and data are suitable.
 
 Check the purpose, transparency, security, accuracy, retention, and any overseas handling. A paid plan or a training opt-out does not remove these duties.
 
-## Use this course’s cautious rule
+## Use this course's cautious rule
 
 Never paste passwords, access tokens, or authentication codes. Do not use real client files, staff records, health details, bank details, identity documents, or confidential contracts in course exercises.
 
@@ -33,9 +33,9 @@ flowchart TD
     D --> E[Check output before use]
 ```
 
-If something sensitive has already been entered, stop that workflow and tell the responsible manager or privacy officer promptly. Follow your organisation’s incident process. Do not assume deleting the chat resolves the incident.
+If something sensitive has already been entered, stop that workflow and tell the responsible manager or privacy officer promptly. Follow your organisation's incident process. Do not assume deleting the chat resolves the incident.
 
-**Checkpoint:** Choose a real task without copying its data. Write a fictional replacement you could safely use to practise the task.
+Checkpoint: Choose a real task without copying its data. Write a fictional replacement you could safely use to practise the task.
 
 ## Official sources
 

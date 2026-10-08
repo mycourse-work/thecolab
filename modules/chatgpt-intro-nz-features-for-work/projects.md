@@ -1,12 +1,12 @@
 # Keep related work in a project
 
-**Allow 3 minutes, including any practice below.**
+Allow 3 minutes, including any practice below.
 
 ## Use a project for recurring work
 
 Projects group related chats, files, and instructions. Our fictional Christchurch builder could use a practice project for site-visit messages.
 
-On the web, select **New project** in the sidebar and name it “Builder practice”. Open the project’s **••• > Project settings** to add instructions such as:
+On the web, select **New project** in the sidebar and name it "Builder practice". Open the project's **••• > Project settings** to add instructions such as:
 
 ```text
 Use plain NZ English. Keep emails under 120 words.
@@ -28,7 +28,7 @@ If available and approved for your account, project-only memory limits context t
 
 A shared project exposes its content to its members. Before sharing real work, review **Share** and who can access the project. Keep this practice project private.
 
-**Try it:** Create the project if available. Add the instruction block. Ask for a site-visit email with no price or date supplied. Check that the answer flags those gaps. You can do the same review in a regular chat.
+Try it: Create the project if available. Add the instruction block. Ask for a site-visit email with no price or date supplied. Check that the answer flags those gaps. You can do the same review in a regular chat.
 
 ## Official sources
 

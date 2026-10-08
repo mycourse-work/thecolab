@@ -9,27 +9,27 @@
       "answers": [
         {
           "id": "q1_a",
-          "text": "The customers’ acceptance rate.",
+          "text": "The customers' acceptance rate.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Accepted value divided by quoted value."
-        },
-        {
-          "id": "q1_b",
-          "text": "Accepted value divided by quoted value.",
-          "correct": true,
-          "feedback": "Correct. Accepted value divided by quoted value."
+          "feedback": "29000 divided by 37000 is about 78.4%. The data measures values, not job counts, profit or future demand."
         },
         {
           "id": "q1_c",
           "text": "The business profit margin.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Accepted value divided by quoted value."
+          "feedback": "29000 divided by 37000 is about 78.4%. The data measures values, not job counts, profit or future demand."
         },
         {
           "id": "q1_d",
-          "text": "Next month’s acceptance forecast.",
+          "text": "Next month's acceptance forecast.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Accepted value divided by quoted value."
+          "feedback": "29000 divided by 37000 is about 78.4%. The data measures values, not job counts, profit or future demand."
+        },
+        {
+          "id": "q1_b",
+          "text": "Accepted value divided by quoted value.",
+          "correct": true,
+          "feedback": "29000 divided by 37000 is about 78.4%. The data measures values, not job counts, profit or future demand."
         }
       ],
       "feedback": "Correct. Accepted value divided by quoted value."
@@ -43,25 +43,25 @@
           "id": "q2_a",
           "text": "Upgrade before continuing.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Paste invented rows or check manually."
+          "feedback": "Paste the invented rows or check the sums manually. You can complete the exercise without buying a plan or using real client data."
         },
         {
           "id": "q2_b",
           "text": "Paste invented rows or check manually.",
           "correct": true,
-          "feedback": "Correct. Paste invented rows or check manually."
+          "feedback": "Paste the invented rows or check the sums manually. You can complete the exercise without buying a plan or using real client data."
         },
         {
           "id": "q2_c",
           "text": "Retry with a real client file to check whether its format works.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Paste invented rows or check manually."
+          "feedback": "Paste the invented rows or check the sums manually. You can complete the exercise without buying a plan or using real client data."
         },
         {
           "id": "q2_d",
           "text": "Skip the source checks because the failed upload prevents further practice.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Paste invented rows or check manually."
+          "feedback": "Paste the invented rows or check the sums manually. You can complete the exercise without buying a plan or using real client data."
         }
       ],
       "feedback": "Correct. Paste invented rows or check manually."
@@ -72,28 +72,28 @@
       "question": "Which description of current project file limits matches the lesson?",
       "answers": [
         {
+          "id": "q3_c",
+          "text": "Free: 5 project files; upload quotas are separate.",
+          "correct": true,
+          "feedback": "Free allows five files per project. Project capacity and upload quotas are separate limits."
+        },
+        {
           "id": "q3_a",
-          "text": "Enterprise access is required.",
+          "text": "Files in a project do not count towards upload quotas.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Free: 5 project files; upload quotas are separate."
+          "feedback": "Free allows five files per project. Project capacity and upload quotas are separate limits."
         },
         {
           "id": "q3_b",
           "text": "Project capacity removes the daily upload limit for files in that project.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Free: 5 project files; upload quotas are separate."
-        },
-        {
-          "id": "q3_c",
-          "text": "Free: 5 project files; upload quotas are separate.",
-          "correct": true,
-          "feedback": "Correct. Free: 5 project files; upload quotas are separate."
+          "feedback": "Free allows five files per project. Project capacity and upload quotas are separate limits."
         },
         {
           "id": "q3_d",
           "text": "Projects require an Enterprise workspace even for small invented practice examples.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Free: 5 project files; upload quotas are separate."
+          "feedback": "Free allows five files per project. Project capacity and upload quotas are separate limits."
         }
       ],
       "feedback": "Correct. Free: 5 project files; upload quotas are separate."
@@ -119,7 +119,7 @@
           "id": "q4_c",
           "text": "Assume every app action asks for approval, regardless of settings.",
           "correct": false,
-          "feedback": "Permission, source facts and human review must remain explicit."
+          "feedback": "Some app actions can change information. Review permissions and do not assume every action asks for approval."
         },
         {
           "id": "q4_d",
@@ -140,19 +140,22 @@
           "id": "q5_a",
           "text": "Project",
           "matchText": "Keep related chats, files, and instructions together",
-          "correct": true
+          "correct": true,
+          "feedback": "Keep related chats, files, and instructions together."
         },
         {
           "id": "q5_b",
           "text": "Writing blocks / revise in chat",
           "matchText": "Revise supplied draft text in the conversation",
-          "correct": true
+          "correct": true,
+          "feedback": "Revise supplied draft text in the conversation."
         },
         {
           "id": "q5_c",
           "text": "Data analysis",
           "matchText": "Inspect supplied data and check calculations",
-          "correct": true
+          "correct": true,
+          "feedback": "Inspect supplied data and check calculations."
         }
       ]
     }

@@ -1,14 +1,14 @@
 # Draft an email and a quote cover note
 
-**Allow 5 minutes, including any practice below.**
+Allow 5 minutes, including any practice below.
 
 ## Keep the promise with the business
 
 Our fictional Hamilton accountancy wants a client to bring records to an appointment. We use placeholder names and invented facts.
 
-**Weak prompt:** “Write a reminder email for our client.”
+Weak prompt: "Write a reminder email for our client."
 
-**Better prompt:**
+Better prompt:
 
 ```text
 Draft an appointment reminder for a fictional Hamilton accountancy.
@@ -17,17 +17,17 @@ Ask the client to bring bank statements and their expense list.
 We have not agreed which period the records must cover.
 Write warmly in NZ English. Use a subject line and under 100 words.
 Do not give tax advice or invent a records period.
-Put unresolved details in a separate “Check before sending” list.
+Put unresolved details in a separate "Check before sending" list.
 ```
 
-A useful draft might end with a check such as “Confirm the records period.” That is better than silently making one up.
+A useful draft might end with a check such as "Confirm the records period." That is better than silently making one up.
 
 ## Five-minute exercise
 
 1. Run the reminder prompt with fictional facts.
 2. Check every requested record against the prompt.
-3. Ask: “Make the request easier to scan. Keep the check list separate.”
-4. Now adapt the prompt to the Christchurch builder’s site-visit email from the previous lesson.
+3. Ask: "Make the request easier to scan. Keep the check list separate."
+4. Now adapt the prompt to the Christchurch builder's site-visit email from the previous lesson.
 5. Compare the two drafts. Mark any promise that needs a human to approve it.
 
 A suitable builder cover note might say:

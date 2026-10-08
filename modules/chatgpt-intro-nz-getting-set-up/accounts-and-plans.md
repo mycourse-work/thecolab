@@ -1,12 +1,12 @@
 # Choose an account and understand the plans
 
-**Allow 3 minutes, including any practice below.**
+Allow 3 minutes, including any practice below.
 
 ## Use an approved account
 
-Go to [ChatGPT](https://chatgpt.com/) and use the sign-up or sign-in option. Follow your employer’s account rules. If you have been invited to a work workspace, use that invitation and check which workspace you are in before starting.
+Go to [ChatGPT](https://chatgpt.com/) and use the sign-up or sign-in option. Follow your employer's account rules. If you have been invited to a work workspace, use that invitation and check which workspace you are in before starting.
 
-Do not share one person’s login across the team. Ask your manager which account and workspace to use.
+Do not share one person's login across the team. Ask your manager which account and workspace to use.
 
 ## Know the plan names
 
@@ -25,9 +25,9 @@ OpenAI does not train on Business or Enterprise workspace data by default. Your 
 
 ## Make a practical choice
 
-Complete this course’s core exercises with Free or your existing approved account. If you hit a limit, pause or use the text alternative. Read the current plan page before buying anything. This course does not quote subscription prices or fixed message allowances.
+Complete this course's core exercises with Free or your existing approved account. If you hit a limit, pause or use the text alternative. Read the current plan page before buying anything.
 
-**Checkpoint:** Name your account type and, if applicable, your work workspace. If you cannot tell, ask your administrator before using work information.
+Checkpoint: Name your account type and, if applicable, your work workspace. If you cannot tell, ask your administrator before using work information.
 
 ## Official sources
 

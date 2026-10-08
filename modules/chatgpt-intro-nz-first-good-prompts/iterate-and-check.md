@@ -1,6 +1,6 @@
 # Improve one thing at a time
 
-**Allow 4 minutes, including any practice below.**
+Allow 4 minutes, including any practice below.
 
 ## Use a short follow-up
 
@@ -18,7 +18,7 @@ You do not need to write a perfect prompt on the first attempt. Read the answer,
 
 An edit can introduce a new error. Compare the revised answer with the original source, not just with the previous answer.
 
-For the builder’s email, this follow-up is clear:
+For the builder's email, this follow-up is clear:
 
 ```text
 Make the email warmer. Keep the request for two visit times.
@@ -40,6 +40,6 @@ What I checked:
 What still needs a person to confirm:
 ```
 
-**Try it:** Take one draft from this module. Make one change. Check that its facts survived. Save the useful prompt and your review note in your approved notes.
+Try it: Take one draft from this module. Make one change. Check that its facts survived. Save the useful prompt and your review note in your approved notes.
 
-Your goal is a repeatable routine: supply safe facts, ask clearly, revise, and check. In the next module, you will use ChatGPT’s work features to support that routine.
+In the next module, use ChatGPT's work features with this prompt and review routine.

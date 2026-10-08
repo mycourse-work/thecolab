@@ -1,13 +1,13 @@
 # Write a simple team AI policy starter
 
-**Allow 5 minutes, including any practice below.**
+Allow 5 minutes, including any practice below.
 
 ## Start with rules staff can use
 
 This is a **starter for discussion**, not a complete policy or legal assurance. Ask your manager and privacy officer to adapt it before staff use it with real work.
 
 ```text
-TEAM AI USE — DRAFT FOR REVIEW
+Team AI use: draft for review
 Owner: [responsible manager]
 Approved tool and workspace: [name and account type]
 Approved tasks: [for example, drafts from public or fictional material]
@@ -38,7 +38,7 @@ Under a cautious beginner policy, the notice may be suitable. The medical note i
 
 ## Make the next action clear
 
-A rule such as “use AI responsibly” gives staff too little help. Name the approved account, allowed task, information boundary, and reviewer. Include a clear internal route for reporting a mistake.
+A rule such as "use AI responsibly" gives staff too little help. Name the approved account, allowed task, information boundary, and reviewer. Include a clear internal route for reporting a mistake.
 
 The Privacy Commissioner recommends privacy assessment before AI use. Digital.govt.nz also stresses accountability and human oversight. Use those sources when your organisation reviews the starter. Do not treat filling in this template as completion of a privacy impact assessment.
 

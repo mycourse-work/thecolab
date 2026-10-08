@@ -1,6 +1,6 @@
 # Upload a practice file and check the numbers
 
-**Allow 5 minutes, including any practice below.**
+Allow 5 minutes, including any practice below.
 
 ## Prepare a small, clear file
 
@@ -38,7 +38,7 @@ Check the answer yourself:
 | Accepted total | 9000 + 12000 + 8000 = 29000 |
 | Accepted value / quoted value | 29000 / 37000 = about 78.4% |
 
-This is a ratio of **values**, not a count of jobs won. The data does not explain why a quote was accepted or show profitability.
+This measures accepted value as a share of quoted value. It does not measure the number of jobs won. The data does not explain why a quote was accepted or show profitability.
 
 If ChatGPT runs code, ask it to show the method and assumptions. You can also request a simple chart when available. Check the labels and totals against the original rows.
 

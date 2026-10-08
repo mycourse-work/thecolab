@@ -11,25 +11,25 @@
           "id": "q1_a",
           "text": "Draft and check an invented reminder.",
           "correct": true,
-          "feedback": "Correct. Draft and check an invented reminder."
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
         },
         {
           "id": "q1_b",
           "text": "Add a likely appointment time.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Draft and check an invented reminder."
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
         },
         {
           "id": "q1_c",
           "text": "Upload a real client file before checking workplace data permission.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Draft and check an invented reminder."
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
         },
         {
           "id": "q1_d",
-          "text": "Add a likely appointment time to make the reminder look complete.",
+          "text": "Use the real reminder after removing the client's name.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Draft and check an invented reminder."
+          "feedback": "Use invented facts for a small draft you can check. Do not fill gaps or upload real client records without approval."
         }
       ],
       "feedback": "Correct. Draft and check an invented reminder."
@@ -43,25 +43,25 @@
           "id": "q2_a",
           "text": "Old chats disappear automatically.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. New chats stay in history; feedback may enable training."
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
         },
         {
           "id": "q2_b",
           "text": "The opt-out supplies workplace permission to upload confidential client records immediately.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. New chats stay in history; feedback may enable training."
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
         },
         {
           "id": "q2_c",
           "text": "New chats stay in history; feedback may enable training.",
           "correct": true,
-          "feedback": "Correct. New chats stay in history; feedback may enable training."
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
         },
         {
           "id": "q2_d",
           "text": "A personal opt-out gives the account the same controls as Business.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. New chats stay in history; feedback may enable training."
+          "feedback": "The opt-out applies to new conversations and leaves history in place. Feedback may allow the associated conversation to be used for training."
         }
       ],
       "feedback": "Correct. New chats stay in history; feedback may enable training."
@@ -75,25 +75,25 @@
           "id": "q3_a",
           "text": "Work email creates Business.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Business is a team workspace requiring two seats."
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
         },
         {
           "id": "q3_b",
           "text": "Plus supplies Enterprise controls.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Business is a team workspace requiring two seats."
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
         },
         {
           "id": "q3_c",
           "text": "Business needs no workspace.",
           "correct": false,
-          "feedback": "This misses a required check or boundary. Business is a team workspace requiring two seats."
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
         },
         {
           "id": "q3_d",
           "text": "Business is a team workspace requiring two seats.",
           "correct": true,
-          "feedback": "Correct. Business is a team workspace requiring two seats."
+          "feedback": "Business is a managed team workspace requiring at least two Standard or Premium seats. A work email or personal plan does not create that workspace."
         }
       ],
       "feedback": "Correct. Business is a team workspace requiring two seats."
@@ -107,7 +107,7 @@
           "id": "q4_a",
           "text": "Treat Temporary chat as approval for confidential workplace records.",
           "correct": false,
-          "feedback": "Permission, source facts and human review must remain explicit."
+          "feedback": "Temporary chat does not provide permission to enter confidential workplace records."
         },
         {
           "id": "q4_b",
@@ -140,19 +140,22 @@
           "id": "q5_a",
           "text": "Improve the model for everyone",
           "matchText": "Controls whether eligible new conversations help train models",
-          "correct": true
+          "correct": true,
+          "feedback": "Controls whether eligible new conversations help train models."
         },
         {
           "id": "q5_b",
           "text": "Memory controls",
           "matchText": "Manage information used to personalise answers",
-          "correct": true
+          "correct": true,
+          "feedback": "Manage information used to personalise answers."
         },
         {
           "id": "q5_c",
           "text": "Business workspace",
           "matchText": "Provides a managed environment for a team",
-          "correct": true
+          "correct": true,
+          "feedback": "Provides a managed environment for a team."
         }
       ]
     }

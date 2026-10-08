@@ -1,6 +1,6 @@
 # ChatGPT at work: start here
 
-This free course gives you a practical way to start using ChatGPT in a New Zealand business. Allow about **87 minutes**, including exercises and four short quizzes. You can pause between modules.
+This free course gives you a practical way to start using ChatGPT in a New Zealand business. Allow about 87 minutes 9 seconds, including exercises and four short quizzes. You can pause between modules.
 
 **TheColab provides independent training. We are not affiliated with or endorsed by OpenAI. ChatGPT and OpenAI are trademarks of their respective owners.**
 
@@ -21,15 +21,15 @@ Every business scenario is invented for learning. The Hamilton accountancy, Chri
 
 | Module | Time, including practice and quiz |
 | --- | --- |
-| Welcome and getting set up | 20 minutes |
-| Your first good prompts | 24 minutes |
-| ChatGPT features for work | 21 minutes |
-| Safe use in New Zealand and next steps | 22 minutes |
+| Welcome and getting set up | 20 minutes 2 seconds |
+| Your first good prompts | 23 minutes 59 seconds |
+| ChatGPT features for work | 21 minutes 3 seconds |
+| Safe use in New Zealand and next steps | 22 minutes 5 seconds |
 
-Each module starts with a three-minute video overview. Four short text lessons follow. Then complete a five-question quiz. Read the text summary below a video if you cannot play it.
+Each module starts with a video overview of about three minutes. Four short text lessons follow. Then complete a five-question quiz. Read the text summary below a video if you cannot play it.
 
 ## Completion
 
 Complete every lesson and pass all four quizzes with **80% or more**. You can review the feedback and try again. The platform supports a TheColab course completion certificate. This records course completion; it is not an OpenAI certification or a professional qualification.
 
-Product guidance was checked on **the agreed day next week**. Features, menus, and limits can change. Use the official links in each relevant lesson when your screen differs.
+Features, menus and limits can change. Use the official links in each relevant lesson when your screen differs.
