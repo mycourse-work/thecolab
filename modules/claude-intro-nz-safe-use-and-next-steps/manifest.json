@@ -1,0 +1,44 @@
+{
+  "id": "claude-intro-nz-safe-use-and-next-steps",
+  "title": "Safe use in NZ and your next steps",
+  "description": "Protect information, check answers, draft team rules, and build a seven-day practice habit.",
+  "estimatedDuration": "23 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Keep the human checks video",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "privacy-at-work",
+      "title": "Protect information before it enters Claude",
+      "type": "content",
+      "markdownPath": "privacy-at-work.md"
+    },
+    {
+      "id": "checking-answers",
+      "title": "Check answers against evidence",
+      "type": "content",
+      "markdownPath": "checking-answers.md"
+    },
+    {
+      "id": "team-policy-starter",
+      "title": "Draft a simple team AI policy",
+      "type": "content",
+      "markdownPath": "team-policy-starter.md"
+    },
+    {
+      "id": "seven-day-plan",
+      "title": "Your seven-day plan and further training",
+      "type": "content",
+      "markdownPath": "seven-day-plan.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Safe use in NZ and your next steps quiz",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

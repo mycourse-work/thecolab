@@ -1,0 +1,44 @@
+{
+  "id": "claude-intro-nz-features-for-work",
+  "title": "Claude features for everyday work",
+  "description": "Use Projects, files and Artifacts for a small repeatable workflow.",
+  "estimatedDuration": "22 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Use Projects, files and Artifacts video",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "projects-for-repeat-work",
+      "title": "Create a Project for repeat work",
+      "type": "content",
+      "markdownPath": "projects-for-repeat-work.md"
+    },
+    {
+      "id": "files-and-source-checks",
+      "title": "Ask useful questions of a file",
+      "type": "content",
+      "markdownPath": "files-and-source-checks.md"
+    },
+    {
+      "id": "artifacts-you-can-reuse",
+      "title": "Make and revise a simple Artifact",
+      "type": "content",
+      "markdownPath": "artifacts-you-can-reuse.md"
+    },
+    {
+      "id": "a-small-office-workflow",
+      "title": "Bring the features into one office workflow",
+      "type": "content",
+      "markdownPath": "a-small-office-workflow.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Claude features for everyday work quiz",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

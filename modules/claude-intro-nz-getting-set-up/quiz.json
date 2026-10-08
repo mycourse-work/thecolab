@@ -1,0 +1,142 @@
+{
+  "title": "Welcome and getting set up quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An office manager gets a polished appointment email from Claude. What should happen next?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Check spelling, then send.",
+          "correct": false,
+          "feedback": "A polished email can still contain wrong details. Compare its facts with the notes and review its tone before approval."
+        },
+        {
+          "id": "q1_b",
+          "text": "Confirm the layout, then send without checking the source.",
+          "correct": false,
+          "feedback": "A polished email can still contain wrong details. Compare its facts with the notes and review its tone before approval."
+        },
+        {
+          "id": "q1_c",
+          "text": "Check the facts and tone before approval.",
+          "correct": true,
+          "feedback": "A polished email can still contain wrong details. Compare its facts with the notes and review its tone before approval."
+        }
+      ],
+      "feedback": "A polished email can still contain wrong details. Compare its facts with the notes and review its tone before approval."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A colleague has Pro on their work email. What does that tell you?",
+      "answers": [
+        {
+          "id": "q2_c",
+          "text": "Pro is individual; check work-data approval.",
+          "correct": true,
+          "feedback": "Pro is a personal plan. A work email does not provide Team controls or permission to upload work data."
+        },
+        {
+          "id": "q2_a",
+          "text": "Work email creates Team controls.",
+          "correct": false,
+          "feedback": "Pro is a personal plan. A work email does not provide Team controls or permission to upload work data."
+        },
+        {
+          "id": "q2_b",
+          "text": "Paid plans approve work uploads.",
+          "correct": false,
+          "feedback": "Pro is a personal plan. A work email does not provide Team controls or permission to upload work data."
+        }
+      ],
+      "feedback": "Pro is a personal plan. A work email does not provide Team controls or permission to upload work data."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_CHOICE",
+      "question": "On a personal account, where is the model improvement setting checked?",
+      "answers": [
+        {
+          "id": "q3_b",
+          "text": "Settings > Capabilities",
+          "correct": false,
+          "feedback": "For a personal account, open Settings > Privacy and find Help Improve our AI models."
+        },
+        {
+          "id": "q3_a",
+          "text": "Settings > Privacy",
+          "correct": true,
+          "feedback": "For a personal account, open Settings > Privacy and find Help Improve our AI models."
+        },
+        {
+          "id": "q3_c",
+          "text": "Settings > Account settings",
+          "correct": false,
+          "feedback": "For a personal account, open Settings > Privacy and find Help Improve our AI models."
+        }
+      ],
+      "feedback": "For a personal account, open Settings > Privacy and find Help Improve our AI models."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which statements are sound? Select all that apply.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "A personal work email gives Pro the organisation's Team controls.",
+          "correct": false,
+          "feedback": "A work email does not turn a personal Pro subscription into a Team workspace."
+        },
+        {
+          "id": "q4_b",
+          "text": "Paid plans can still have usage limits.",
+          "correct": true,
+          "feedback": "Correct. More usage is not unlimited usage."
+        },
+        {
+          "id": "q4_c",
+          "text": "Team needs at least two members.",
+          "correct": true,
+          "feedback": "Correct. The official Team guide specifies at least two members."
+        },
+        {
+          "id": "q4_d",
+          "text": "Use invented information for the course exercises.",
+          "correct": true,
+          "feedback": "Correct. Invented examples avoid using real private information."
+        }
+      ],
+      "feedback": "More usage is not unlimited usage. The official Team guide specifies at least two members. Invented examples avoid using real private information."
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A manager wants to paste employee medical details into an incognito chat. What should you say?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Remove names; incognito is sufficient.",
+          "correct": false,
+          "feedback": "Incognito chats are still processed and retained. Follow the workplace data policy before entering personal information."
+        },
+        {
+          "id": "q5_b",
+          "text": "Ask the manager to approve the upload without checking policy.",
+          "correct": false,
+          "feedback": "Incognito chats are still processed and retained. Follow the workplace data policy before entering personal information."
+        },
+        {
+          "id": "q5_c",
+          "text": "Stop and follow the workplace data policy.",
+          "correct": true,
+          "feedback": "Incognito chats are still processed and retained. Follow the workplace data policy before entering personal information."
+        }
+      ],
+      "feedback": "Incognito chats are still processed and retained. Follow the workplace data policy before entering personal information."
+    }
+  ]
+}

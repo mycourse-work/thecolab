@@ -1,0 +1,44 @@
+{
+  "id": "claude-intro-nz-good-prompts",
+  "title": "Your first good prompts",
+  "description": "Give Claude useful context, examples and limits; then improve the result.",
+  "estimatedDuration": "20 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Give Claude the information it needs video",
+      "type": "content",
+      "markdownPath": "video.md"
+    },
+    {
+      "id": "a-clear-prompt",
+      "title": "Build a prompt with useful context",
+      "type": "content",
+      "markdownPath": "a-clear-prompt.md"
+    },
+    {
+      "id": "examples-and-boundaries",
+      "title": "Use examples and clear boundaries",
+      "type": "content",
+      "markdownPath": "examples-and-boundaries.md"
+    },
+    {
+      "id": "iterate-and-review",
+      "title": "Improve a draft one step at a time",
+      "type": "content",
+      "markdownPath": "iterate-and-review.md"
+    },
+    {
+      "id": "a-reusable-work-prompt",
+      "title": "Save a prompt for repeat work",
+      "type": "content",
+      "markdownPath": "a-reusable-work-prompt.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Your first good prompts quiz",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

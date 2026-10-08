@@ -1,0 +1,142 @@
+{
+  "title": "Safe use in NZ and your next steps quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An HR note has no name but describes the only payroll officer in a small office. Is it safe to treat as anonymous?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Yes, after removing the name.",
+          "correct": false,
+          "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
+        },
+        {
+          "id": "q1_c",
+          "text": "Yes, if the note stays inside a paid workspace for work.",
+          "correct": false,
+          "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
+        },
+        {
+          "id": "q1_b",
+          "text": "No; other details may identify the person.",
+          "correct": true,
+          "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
+        }
+      ],
+      "feedback": "A role and office description may identify a person even after their name is removed. Use an invented scenario."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A draft cites a source for a business claim. What should you check?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Accept an official domain.",
+          "correct": false,
+          "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
+        },
+        {
+          "id": "q2_b",
+          "text": "Check that the source supports the claim.",
+          "correct": true,
+          "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
+        },
+        {
+          "id": "q2_c",
+          "text": "Check that another chatbot repeats the claim with the same link.",
+          "correct": false,
+          "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
+        }
+      ],
+      "feedback": "Open the source and check that it supports this claim. An official domain or a repeated AI answer is not enough."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "What belongs in a practical team AI policy? Select all that apply.",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "A named owner and incident process.",
+          "correct": true,
+          "feedback": "Correct. People need to know who owns the policy and handles mistakes."
+        },
+        {
+          "id": "q3_b",
+          "text": "Approved tools and data boundaries.",
+          "correct": true,
+          "feedback": "Correct. Staff need a usable boundary before entering information."
+        },
+        {
+          "id": "q3_c",
+          "text": "Human checks and approval rules.",
+          "correct": true,
+          "feedback": "Correct. Assign review and final approval to people."
+        },
+        {
+          "id": "q3_d",
+          "text": "Reviewer approval only when the assistant flags uncertainty.",
+          "correct": false,
+          "feedback": "AI can sound certain and still be wrong. Set human review rules for the task, regardless of its confidence."
+        }
+      ],
+      "feedback": "People need to know who owns the policy and handles mistakes. Staff need a usable boundary before entering information. Assign review and final approval to people."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A builder's source says \"proposed start, subject to approval\". The draft gives a guaranteed start. What should happen?",
+      "answers": [
+        {
+          "id": "q4_b",
+          "text": "Restore the condition and obtain human approval.",
+          "correct": true,
+          "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
+        },
+        {
+          "id": "q4_a",
+          "text": "Omit conditions for clarity.",
+          "correct": false,
+          "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
+        },
+        {
+          "id": "q4_c",
+          "text": "Mark the draft confidential instead of correcting the start promise.",
+          "correct": false,
+          "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
+        }
+      ],
+      "feedback": "The source makes the start conditional on approval. Restore that condition and have the responsible person approve the draft."
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does this course-completion certificate represent?",
+      "answers": [
+        {
+          "id": "q5_b",
+          "text": "Vendor certification.",
+          "correct": false,
+          "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
+        },
+        {
+          "id": "q5_a",
+          "text": "TheColab course completion.",
+          "correct": true,
+          "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
+        },
+        {
+          "id": "q5_c",
+          "text": "Work-data approval.",
+          "correct": false,
+          "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
+        }
+      ],
+      "feedback": "The certificate records TheColab course completion. It does not certify vendor expertise or approve work-data use."
+    }
+  ]
+}

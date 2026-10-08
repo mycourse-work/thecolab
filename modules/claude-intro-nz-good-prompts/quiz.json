@@ -1,0 +1,142 @@
+{
+  "title": "Your first good prompts quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which builder prompt is more useful?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Use supplied quote facts; set the audience and limits.",
+          "correct": true,
+          "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
+        },
+        {
+          "id": "q1_b",
+          "text": "Infer missing quote details.",
+          "correct": false,
+          "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
+        },
+        {
+          "id": "q1_c",
+          "text": "Describe the customer, asking Claude to estimate a likely deadline.",
+          "correct": false,
+          "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
+        }
+      ],
+      "feedback": "Supplied facts, an audience and clear limits give Claude a brief it can follow without filling gaps."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "The meeting notes do not name an owner. What should the action table say?",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Assign the meeting organiser.",
+          "correct": false,
+          "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
+        },
+        {
+          "id": "q2_b",
+          "text": "Choose the department manager.",
+          "correct": false,
+          "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
+        },
+        {
+          "id": "q2_c",
+          "text": "Not stated; ask who owns it.",
+          "correct": true,
+          "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
+        }
+      ],
+      "feedback": "The notes do not assign an owner. Keep the gap visible and ask who will take the action."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which details help a first prompt? Select all that apply.",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "The intended audience.",
+          "correct": true,
+          "feedback": "Correct. Audience helps shape the writing."
+        },
+        {
+          "id": "q3_b",
+          "text": "A likely deadline inferred from similar previous tasks.",
+          "correct": false,
+          "feedback": "A deadline inferred from other tasks is not a source fact. Mark the date as missing."
+        },
+        {
+          "id": "q3_c",
+          "text": "An invented example of the desired format.",
+          "correct": true,
+          "feedback": "Correct. A safe example can show the structure."
+        },
+        {
+          "id": "q3_d",
+          "text": "The source facts and what must not be added.",
+          "correct": true,
+          "feedback": "Correct. Facts and limits reduce unsupported assumptions."
+        }
+      ],
+      "feedback": "Audience helps shape the writing. A safe example can show the structure. Facts and limits reduce unsupported assumptions."
+    },
+    {
+      "id": "q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Claude adds a Friday deadline that was not supplied. What is a useful follow-up?",
+      "answers": [
+        {
+          "id": "q4_b",
+          "text": "Keep Friday as provisional.",
+          "correct": false,
+          "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
+        },
+        {
+          "id": "q4_a",
+          "text": "Remove Friday and check the supplied facts.",
+          "correct": true,
+          "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
+        },
+        {
+          "id": "q4_c",
+          "text": "Change Friday to next week without checking the source notes.",
+          "correct": false,
+          "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
+        }
+      ],
+      "feedback": "Friday was not supplied. Remove that deadline and compare the revised draft with the original notes."
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "You ask Claude to act as a tax adviser. What changes?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "It guides wording; qualified review remains necessary.",
+          "correct": true,
+          "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
+        },
+        {
+          "id": "q5_b",
+          "text": "Routine advice needs no review.",
+          "correct": false,
+          "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
+        },
+        {
+          "id": "q5_c",
+          "text": "It supplies professional authority when the answer includes citations.",
+          "correct": false,
+          "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
+        }
+      ],
+      "feedback": "A role prompt guides the response. It does not give Claude professional qualifications."
+    }
+  ]
+}

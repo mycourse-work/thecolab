@@ -1,0 +1,145 @@
+{
+  "title": "Claude features for everyday work quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Where should a reusable office writing rule go in a practice Project?",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "In the Project description.",
+          "correct": false,
+          "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
+        },
+        {
+          "id": "q1_c",
+          "text": "In Set project instructions.",
+          "correct": true,
+          "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
+        },
+        {
+          "id": "q1_b",
+          "text": "In an earlier chat, assuming it always supplies later context.",
+          "correct": false,
+          "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
+        }
+      ],
+      "feedback": "Use Set project instructions for reusable writing rules. The Project name and description are not instructions Claude can read."
+    },
+    {
+      "id": "q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which feature is appropriate for an editable checklist beside your chat?",
+      "answers": [
+        {
+          "id": "q2_b",
+          "text": "An Artifact.",
+          "correct": true,
+          "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
+        },
+        {
+          "id": "q2_a",
+          "text": "A Project instruction.",
+          "correct": false,
+          "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
+        },
+        {
+          "id": "q2_c",
+          "text": "An attached reference file.",
+          "correct": false,
+          "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
+        }
+      ],
+      "feedback": "An Artifact holds separate output beside the conversation. Project instructions guide the work; an attached file supplies evidence."
+    },
+    {
+      "id": "q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which file-reading habits are sound? Select all that apply.",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Compare the summary with the original file.",
+          "correct": true,
+          "feedback": "Correct. The source remains the evidence."
+        },
+        {
+          "id": "q3_b",
+          "text": "Keep exclusions and approval conditions.",
+          "correct": true,
+          "feedback": "Correct. Conditions can change the meaning of a summary."
+        },
+        {
+          "id": "q3_c",
+          "text": "Treat a successful upload as proof that all content was read.",
+          "correct": false,
+          "feedback": "A successful upload does not show that every part was read. Compare the summary with the original."
+        },
+        {
+          "id": "q3_d",
+          "text": "Use a small invented practice file.",
+          "correct": true,
+          "feedback": "Correct. A small invented file suits the exercise."
+        }
+      ],
+      "feedback": "The source remains the evidence. Conditions can change the meaning of a summary. A small invented file suits the exercise."
+    },
+    {
+      "id": "q4",
+      "type": "MATCHING",
+      "question": "Match each feature with its main purpose in this course.",
+      "feedback": "Project: Related work with reusable instructions and references. Use Project instructions and knowledge for repeat work. Attached file: Source material to read and check. Trace the answer back to the attached source. Artifact: Separate output beside a conversation that you can revise. Review the output before you reuse or share it.",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Project",
+          "matchText": "Related work with reusable instructions and references",
+          "correct": true,
+          "feedback": "Use Project instructions and knowledge for repeat work."
+        },
+        {
+          "id": "q4_b",
+          "text": "Attached file",
+          "matchText": "Source material to read and check",
+          "correct": true,
+          "feedback": "Trace the answer back to the attached source."
+        },
+        {
+          "id": "q4_c",
+          "text": "Artifact",
+          "matchText": "Separate output beside a conversation that you can revise",
+          "correct": true,
+          "feedback": "Review the output before you reuse or share it."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Artifacts are unavailable in your approved account. What can you do for the checklist exercise?",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Wait for Artifact access.",
+          "correct": false,
+          "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
+        },
+        {
+          "id": "q5_c",
+          "text": "Use a colleague's workspace.",
+          "correct": false,
+          "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
+        },
+        {
+          "id": "q5_b",
+          "text": "Use a chat draft and review it.",
+          "correct": true,
+          "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
+        }
+      ],
+      "feedback": "The exercise also works with a chat draft. Review it against the supplied instructions in your approved account."
+    }
+  ]
+}
