@@ -1,0 +1,44 @@
+{
+  "id": "copilot-intro-nz-first-good-prompts",
+  "title": "Your first good prompts",
+  "description": "Turn a vague request into a clear draft, then check and improve it.",
+  "estimatedDuration": "23 minutes",
+  "lessons": [
+    {
+      "id": "video",
+      "title": "Turn a vague prompt into a clear draft (video)",
+      "type": "content",
+      "markdownPath": "intro.md"
+    },
+    {
+      "id": "prompt-ingredients",
+      "title": "Give Copilot a clear brief",
+      "type": "content",
+      "markdownPath": "prompt-ingredients.md"
+    },
+    {
+      "id": "email-before-and-after",
+      "title": "Write a clear office email",
+      "type": "content",
+      "markdownPath": "email-before-and-after.md"
+    },
+    {
+      "id": "quote-without-inventing",
+      "title": "Draft a quote cover note",
+      "type": "content",
+      "markdownPath": "quote-without-inventing.md"
+    },
+    {
+      "id": "summary-and-follow-up",
+      "title": "Turn notes into a checked summary",
+      "type": "content",
+      "markdownPath": "summary-and-follow-up.md"
+    },
+    {
+      "id": "quiz",
+      "title": "Your first good prompts quiz",
+      "type": "quiz",
+      "quizPath": "quiz.json"
+    }
+  ]
+}

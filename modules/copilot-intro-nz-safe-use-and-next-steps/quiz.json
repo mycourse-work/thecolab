@@ -1,0 +1,145 @@
+{
+  "title": "Safe use at work in NZ and next steps quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "safe_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "An invented HR practice task currently contains a real staff complaint. What should you do?",
+      "answers": [
+        {
+          "id": "safe_q1_a",
+          "text": "Remove the name only.",
+          "correct": false,
+          "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
+        },
+        {
+          "id": "safe_q1_b",
+          "text": "Use an invented scenario; ask the privacy lead.",
+          "correct": true,
+          "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
+        },
+        {
+          "id": "safe_q1_c",
+          "text": "Use a personal opt-out and assume the workplace complaint is then approved.",
+          "correct": false,
+          "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
+        }
+      ],
+      "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
+    },
+    {
+      "id": "safe_q2",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "What should a reviewer check before sharing an AI-assisted output? Select all that apply.",
+      "answers": [
+        {
+          "id": "safe_q2_a",
+          "text": "Facts, figures and source dates.",
+          "correct": true,
+          "feedback": "Verify against reliable current sources."
+        },
+        {
+          "id": "safe_q2_b",
+          "text": "Whether proposals were changed into decisions.",
+          "correct": true,
+          "feedback": "Check meaning as well as wording."
+        },
+        {
+          "id": "safe_q2_c",
+          "text": "Whether the audience may see the information.",
+          "correct": true,
+          "feedback": "Sharing permissions still matter."
+        },
+        {
+          "id": "safe_q2_d",
+          "text": "Check the wording only when the output includes an uncertainty flag.",
+          "correct": false,
+          "feedback": "A confident output can still change a fact or decision. Review it even when no uncertainty is flagged."
+        }
+      ],
+      "feedback": "Verify against reliable current sources. Check meaning as well as wording. Sharing permissions still matter."
+    },
+    {
+      "id": "safe_q3",
+      "type": "MATCHING",
+      "question": "Match each policy field to its purpose.",
+      "answers": [
+        {
+          "id": "safe_q3_a",
+          "text": "Approved service and account",
+          "matchText": "Tells staff where permitted work may happen",
+          "correct": true,
+          "feedback": "Tells staff where permitted work may happen"
+        },
+        {
+          "id": "safe_q3_b",
+          "text": "Responsible reviewer",
+          "matchText": "Owns the final work before sharing",
+          "correct": true,
+          "feedback": "Owns the final work before sharing"
+        },
+        {
+          "id": "safe_q3_c",
+          "text": "Incident contact",
+          "matchText": "Receives a prompt report when something goes wrong",
+          "correct": true,
+          "feedback": "Receives a prompt report when something goes wrong"
+        }
+      ],
+      "feedback": "Approved service and account: Tells staff where permitted work may happen; Responsible reviewer: Owns the final work before sharing; Incident contact: Receives a prompt report when something goes wrong."
+    },
+    {
+      "id": "safe_q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the status of the policy starter you filled in?",
+      "answers": [
+        {
+          "id": "safe_q4_a",
+          "text": "A draft requiring manager and privacy review.",
+          "correct": true,
+          "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
+        },
+        {
+          "id": "safe_q4_b",
+          "text": "A completed privacy assessment.",
+          "correct": false,
+          "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
+        },
+        {
+          "id": "safe_q4_c",
+          "text": "An immediately effective policy.",
+          "correct": false,
+          "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
+        }
+      ],
+      "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
+    },
+    {
+      "id": "safe_q5",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is a practical next step after this free course?",
+      "answers": [
+        {
+          "id": "safe_q5_a",
+          "text": "Buy the add-on before trying any prompt, even with invented material.",
+          "correct": false,
+          "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
+        },
+        {
+          "id": "safe_q5_c",
+          "text": "Connect all work files immediately to maximise context for future practice.",
+          "correct": false,
+          "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
+        },
+        {
+          "id": "safe_q5_b",
+          "text": "Practise approved tasks; choose training for a gap.",
+          "correct": true,
+          "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
+        }
+      ],
+      "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
+    }
+  ]
+}

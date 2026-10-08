@@ -1,0 +1,145 @@
+{
+  "title": "Welcome and getting set up quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "setup_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which task is a suitable first practice for the invented Hamilton office?",
+      "answers": [
+        {
+          "id": "setup_q1_a",
+          "text": "Summarise an unapproved complaint.",
+          "correct": false,
+          "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
+        },
+        {
+          "id": "setup_q1_b",
+          "text": "Draft and check an invented reminder.",
+          "correct": true,
+          "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
+        },
+        {
+          "id": "setup_q1_c",
+          "text": "Test file upload with customer records before checking their sensitivity.",
+          "correct": false,
+          "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
+        }
+      ],
+      "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
+    },
+    {
+      "id": "setup_q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "A colleague sees Microsoft 365 Copilot (Basic) in Word. What can you conclude?",
+      "answers": [
+        {
+          "id": "setup_q2_a",
+          "text": "The paid add-on is assigned.",
+          "correct": false,
+          "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
+        },
+        {
+          "id": "setup_q2_b",
+          "text": "The full paid experience, because Basic describes the base subscription.",
+          "correct": false,
+          "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
+        },
+        {
+          "id": "setup_q2_c",
+          "text": "Standard app access; confirm the settings.",
+          "correct": true,
+          "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
+        }
+      ],
+      "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
+    },
+    {
+      "id": "setup_q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Before using Copilot for work, which checks should you make? Select all that apply.",
+      "answers": [
+        {
+          "id": "setup_q3_a",
+          "text": "Use a personal opt-out as workplace permission for client records.",
+          "correct": false,
+          "feedback": "A personal training opt-out does not give workplace permission to use client records."
+        },
+        {
+          "id": "setup_q3_b",
+          "text": "Check the approved work account.",
+          "correct": true,
+          "feedback": "The selected account affects protection and access."
+        },
+        {
+          "id": "setup_q3_c",
+          "text": "Confirm enterprise protection and the team data rule.",
+          "correct": true,
+          "feedback": "Protection and permission to use data are separate checks."
+        },
+        {
+          "id": "setup_q3_d",
+          "text": "Ask IT about web-search settings for your task.",
+          "correct": true,
+          "feedback": "Generated search terms can go to Bing."
+        }
+      ],
+      "feedback": "The selected account affects protection and access. Protection and permission to use data are separate checks. Generated search terms can go to Bing."
+    },
+    {
+      "id": "setup_q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "With enterprise data protection, which statement is accurate?",
+      "answers": [
+        {
+          "id": "setup_q4_a",
+          "text": "No foundation-model training; retention may apply.",
+          "correct": true,
+          "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
+        },
+        {
+          "id": "setup_q4_b",
+          "text": "All work chats disappear immediately.",
+          "correct": false,
+          "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
+        },
+        {
+          "id": "setup_q4_c",
+          "text": "The shield approves confidential uploads.",
+          "correct": false,
+          "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
+        }
+      ],
+      "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
+    },
+    {
+      "id": "setup_q5",
+      "type": "MATCHING",
+      "question": "Match each option to its meaning.",
+      "answers": [
+        {
+          "id": "setup_q5_a",
+          "text": "Copilot Chat with an eligible work account",
+          "matchText": "Included at no extra cost",
+          "correct": true,
+          "feedback": "Included at no extra cost"
+        },
+        {
+          "id": "setup_q5_b",
+          "text": "Microsoft 365 Copilot Business",
+          "matchText": "Paid add-on for eligible plans, up to 300 users",
+          "correct": true,
+          "feedback": "Paid add-on for eligible plans, up to 300 users"
+        },
+        {
+          "id": "setup_q5_c",
+          "text": "Personal Copilot training controls",
+          "matchText": "Controls for the personal account experience",
+          "correct": true,
+          "feedback": "Controls for the personal account experience"
+        }
+      ],
+      "feedback": "Copilot Chat with an eligible work account: Included at no extra cost; Microsoft 365 Copilot Business: Paid add-on for eligible plans, up to 300 users; Personal Copilot training controls: Controls for the personal account experience."
+    }
+  ]
+}

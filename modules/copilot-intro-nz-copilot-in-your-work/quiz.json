@@ -1,0 +1,145 @@
+{
+  "title": "Copilot in your Microsoft 365 work quiz",
+  "type": "quiz",
+  "questions": [
+    {
+      "id": "apps_q1",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does broader work grounding through Microsoft Graph mean?",
+      "answers": [
+        {
+          "id": "apps_q1_b",
+          "text": "It uses work content within your permissions.",
+          "correct": true,
+          "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
+        },
+        {
+          "id": "apps_q1_a",
+          "text": "It can use any file stored in the organisation.",
+          "correct": false,
+          "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
+        },
+        {
+          "id": "apps_q1_c",
+          "text": "It guarantees accuracy when an answer comes from a work document.",
+          "correct": false,
+          "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
+        }
+      ],
+      "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
+    },
+    {
+      "id": "apps_q2",
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is accurate about included Copilot Chat in a supported Outlook experience?",
+      "answers": [
+        {
+          "id": "apps_q2_a",
+          "text": "Only the open email is available.",
+          "correct": false,
+          "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
+        },
+        {
+          "id": "apps_q2_c",
+          "text": "Bounded inbox and related data; paid access reaches further.",
+          "correct": true,
+          "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
+        },
+        {
+          "id": "apps_q2_b",
+          "text": "It supplies the same broad organisational grounding as every paid licence.",
+          "correct": false,
+          "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
+        }
+      ],
+      "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
+    },
+    {
+      "id": "apps_q3",
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which checks help with the Word and Excel exercises? Select all that apply.",
+      "answers": [
+        {
+          "id": "apps_q3_a",
+          "text": "Check each Word checklist step against the supplied notes.",
+          "correct": true,
+          "feedback": "A useful draft preserves source responsibilities."
+        },
+        {
+          "id": "apps_q3_b",
+          "text": "Use a separate Excel practice file and check the source cells.",
+          "correct": true,
+          "feedback": "Keep live work safe and verify the numbers."
+        },
+        {
+          "id": "apps_q3_c",
+          "text": "Accept the chart's labels without comparing the selected data range.",
+          "correct": false,
+          "feedback": "Compare the selected range and labels with the source cells before you accept a chart."
+        },
+        {
+          "id": "apps_q3_d",
+          "text": "Choose Chat only for the Excel exercise if that mode is available.",
+          "correct": true,
+          "feedback": "It keeps the response in the pane instead of editing the workbook."
+        }
+      ],
+      "feedback": "A clear draft preserves source responsibilities. Keep live work safe and verify the numbers. Chat only mode keeps the response in the pane instead of editing the workbook."
+    },
+    {
+      "id": "apps_q4",
+      "type": "MULTIPLE_CHOICE",
+      "question": "After a Teams meeting, what is needed to ask Copilot about what was spoken?",
+      "answers": [
+        {
+          "id": "apps_q4_b",
+          "text": "The invitation is sufficient.",
+          "correct": false,
+          "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
+        },
+        {
+          "id": "apps_q4_c",
+          "text": "A saved recording, even when no transcript or supported setup exists.",
+          "correct": false,
+          "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
+        },
+        {
+          "id": "apps_q4_a",
+          "text": "A transcript and supported licence/settings.",
+          "correct": true,
+          "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
+        }
+      ],
+      "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
+    },
+    {
+      "id": "apps_q5",
+      "type": "MATCHING",
+      "question": "Match each work step to the right action.",
+      "answers": [
+        {
+          "id": "apps_q5_a",
+          "text": "Missing Copilot entitlement",
+          "matchText": "Ask IT to confirm the assignment and app access",
+          "correct": true,
+          "feedback": "Ask IT to confirm the assignment and app access"
+        },
+        {
+          "id": "apps_q5_b",
+          "text": "Excel says 10 more enquiries",
+          "matchText": "Check 30 minus 20 against the source cells",
+          "correct": true,
+          "feedback": "Check 30 minus 20 against the source cells"
+        },
+        {
+          "id": "apps_q5_c",
+          "text": "Meeting proposal looks like a decision",
+          "matchText": "Read the source and confirm the outcome",
+          "correct": true,
+          "feedback": "Read the source and confirm the outcome"
+        }
+      ],
+      "feedback": "Missing Copilot entitlement: Ask IT to confirm the assignment and app access; Excel says 10 more enquiries: Check 30 minus 20 against the source cells; Meeting proposal looks like a decision: Read the source and confirm the outcome."
+    }
+  ]
+}

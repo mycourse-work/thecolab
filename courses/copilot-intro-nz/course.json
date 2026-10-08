@@ -1,0 +1,17 @@
+{
+  "id": "copilot-intro-nz",
+  "title": "Microsoft 365 Copilot: a free introduction for NZ businesses",
+  "coverImage": "cover.png",
+  "description": "A free, practical introduction for New Zealand office staff, owners and managers. Learn which Copilot you have, write useful prompts, explore Microsoft 365 apps, and set safe habits for work.",
+  "estimatedDuration": "88 minutes",
+  "welcomePath": "welcome.md",
+  "quizPassingThreshold": 80,
+  "modules": [
+    "copilot-intro-nz-getting-set-up",
+    "copilot-intro-nz-first-good-prompts",
+    "copilot-intro-nz-copilot-in-your-work",
+    "copilot-intro-nz-safe-use-and-next-steps"
+  ],
+  "quizRevealMode": "immediate",
+  "quizMaxAttempts": 10
+}
