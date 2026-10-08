@@ -1,6 +1,6 @@
 # Turn notes into a checked summary
 
-**Allow 5 minutes.** This Wellington HR team and its notes are invented. There is no employee case information here.
+Allow 5 minutes. This Wellington HR team and its notes are invented. There is no employee case information here.
 
 ## Source notes
 
@@ -15,7 +15,7 @@ The idea of a buddy programme was discussed, not approved.
 
 ## Before and after
 
-Before: “Summarise our meeting and tell everyone what to do.”
+Before: "Summarise our meeting and tell everyone what to do."
 
 After:
 
@@ -32,14 +32,13 @@ Use NZ English. Do not infer approval from discussion.
 
 The checklist trial was agreed. The buddy programme was only discussed. A summary that says both were approved changes the meeting's meaning.
 
-The coordinator has a deadline. The manager has no agreed review date. A neat action table must preserve that gap.
+The coordinator has a deadline. The manager has no agreed review date. Keep the review date marked as not agreed.
 
 ## Try it: 3 minutes
 
-Run the prompt. Match each decision and action to a line in the notes. Ask: “Which open question should we resolve before circulating this?” Then request a draft follow-up note based on the **checked** summary.
+Run the prompt. Match each decision and action to a line in the notes. Ask: "Which open question should we resolve before circulating this?" Then request a draft follow-up note based on the **checked** summary.
 
-**Done when:** the draft separates a decision, a proposal and a missing date. Keep it as a practice draft.
-
+Done when: the draft separates a decision, a proposal and a missing date. Keep it as a practice draft.
 
 ## Sources
 

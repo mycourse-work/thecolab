@@ -1,12 +1,12 @@
 # Teams: check decisions and actions
 
-**Allow 3 minutes.** Copilot in Teams meetings needs an add-on Microsoft Copilot licence and appropriate meeting policies. Use an approved training meeting, or use the Chat route.
+Allow 3 minutes. Copilot in Teams meetings needs an add-on Microsoft Copilot licence and appropriate meeting policies. Use an approved training meeting, or use the Chat route.
 
 ## Find the meeting answer
 
 For a supported meeting that has a transcript, open its meeting chat, select **Recap**, then **Copilot**. You can ask for decisions and action items. After a meeting, questions about what was spoken need an available transcript.
 
-Copilot can also work only during a meeting without keeping a transcript, if the meeting options and organisation policy allow it. That does not give you a later record of everything said. Do not assume “no recording” means “no retained Copilot interactions”.
+Copilot can also work only during a meeting without keeping a transcript, if the meeting options and organisation policy allow it. That does not give you a later record of everything said. Do not assume "no recording" means "no retained Copilot interactions".
 
 Arrange approval and participant notice before any recording or transcription. Do not turn it on just to complete this exercise.
 
@@ -22,10 +22,9 @@ Read the source passages. A speaker can propose a date without the team acceptin
 
 ## Try it: 1 minute
 
-**Chat route:** use the invented notes in module 2. Check that the buddy programme stays a proposal. This practises the checking habit without using a real recording or a Teams licence.
+Chat route: use the invented notes in module 2. Check that the buddy programme stays a proposal. This practises the checking habit without using a real recording or a Teams licence.
 
-**Done when:** you can explain which evidence supports an action and which point still needs confirmation.
-
+Done when: you can explain which evidence supports an action and which point still needs confirmation.
 
 ## Sources
 

@@ -11,19 +11,19 @@
           "id": "safe_q1_a",
           "text": "Remove the name only.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Use an invented scenario; ask the privacy lead."
+          "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
         },
         {
           "id": "safe_q1_b",
           "text": "Use an invented scenario; ask the privacy lead.",
           "correct": true,
-          "feedback": "Correct. Use an invented scenario; ask the privacy lead."
+          "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
         },
         {
           "id": "safe_q1_c",
           "text": "Use a personal opt-out and assume the workplace complaint is then approved.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Use an invented scenario; ask the privacy lead."
+          "feedback": "Removing a name may leave identifying details. Replace the complaint with an invented scenario and consult the privacy lead about real use."
         }
       ],
       "feedback": "Correct. Use an invented scenario; ask the privacy lead."
@@ -55,7 +55,7 @@
           "id": "safe_q2_d",
           "text": "Check the wording only when the output includes an uncertainty flag.",
           "correct": false,
-          "feedback": "Account approval, source comparison and human review remain necessary."
+          "feedback": "A confident output can still change a fact or decision. Review it even when no uncertainty is flagged."
         }
       ],
       "feedback": "Verify against reliable current sources. Check meaning as well as wording. Sharing permissions still matter."
@@ -98,19 +98,19 @@
           "id": "safe_q4_a",
           "text": "A draft requiring manager and privacy review.",
           "correct": true,
-          "feedback": "Correct. A draft requiring manager and privacy review."
+          "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
         },
         {
           "id": "safe_q4_b",
           "text": "A completed privacy assessment.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. A draft requiring manager and privacy review."
+          "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
         },
         {
           "id": "safe_q4_c",
           "text": "An immediately effective policy.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. A draft requiring manager and privacy review."
+          "feedback": "The starter needs manager and privacy review before use. Filling it in does not complete a privacy impact assessment."
         }
       ],
       "feedback": "Correct. A draft requiring manager and privacy review."
@@ -124,19 +124,19 @@
           "id": "safe_q5_a",
           "text": "Buy the add-on before trying any prompt, even with invented material.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Practise approved tasks; choose training for a gap."
-        },
-        {
-          "id": "safe_q5_b",
-          "text": "Practise approved tasks; choose training for a gap.",
-          "correct": true,
-          "feedback": "Correct. Practise approved tasks; choose training for a gap."
+          "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
         },
         {
           "id": "safe_q5_c",
           "text": "Connect all work files immediately to maximise context for future practice.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Practise approved tasks; choose training for a gap."
+          "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
+        },
+        {
+          "id": "safe_q5_b",
+          "text": "Practise approved tasks; choose training for a gap.",
+          "correct": true,
+          "feedback": "Practise approved tasks with safe material. Choose further training for a specific gap; an add-on is not required for the core exercises."
         }
       ],
       "feedback": "Correct. Practise approved tasks; choose training for a gap."

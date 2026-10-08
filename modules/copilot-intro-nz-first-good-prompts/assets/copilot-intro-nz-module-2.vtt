@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.780 --> 00:00:03.240
+Picture a Hamilton accountancy office.
+
+2
+00:00:03.260 --> 00:00:04.160
+It's made up,
+
+3
+00:00:04.180 --> 00:00:05.720
+but the job is real.
+
+4
+00:00:05.740 --> 00:00:09.100
+A client needs a reminder to send in a document.
+
+5
+00:00:09.230 --> 00:00:10.730
+The quickest prompt is,
+
+6
+00:00:10.750 --> 00:00:12.010
+write an email.
+
+7
+00:00:12.030 --> 00:00:14.170
+But that leaves Copilot guessing.
+
+8
+00:00:14.190 --> 00:00:15.050
+No date.
+
+9
+00:00:15.070 --> 00:00:16.090
+No source.
+
+10
+00:00:16.110 --> 00:00:17.770
+No clear next step.
+
+11
+00:00:17.790 --> 00:00:19.690
+So it fills the gaps for you…
+
+12
+00:00:19.710 --> 00:00:23.150
+politely, and not always correctly.
+
+13
+00:00:24.130 --> 00:00:26.670
+Microsoft's own guidance breaks a good prompt
+
+14
+00:00:26.690 --> 00:00:28.270
+into four parts.
+
+15
+00:00:28.290 --> 00:00:29.150
+Goal.
+
+16
+00:00:29.170 --> 00:00:30.270
+Context.
+
+17
+00:00:30.290 --> 00:00:30.990
+Source.
+
+18
+00:00:31.010 --> 00:00:33.170
+And expectations.
+
+19
+00:00:34.300 --> 00:00:36.860
+The goal: a reminder email.
+
+20
+00:00:36.880 --> 00:00:40.020
+The context: a busy client who already uses
+
+21
+00:00:40.040 --> 00:00:41.500
+the secure portal.
+
+22
+00:00:41.520 --> 00:00:43.980
+The source: the notes you paste in.
+
+23
+00:00:44.000 --> 00:00:45.460
+And the expectations:
+
+24
+00:00:45.480 --> 00:00:46.593
+a subject line,
+
+25
+00:00:46.613 --> 00:00:47.780
+a calm tone,
+
+26
+00:00:47.800 --> 00:00:50.080
+and under a hundred words.
+
+27
+00:00:52.060 --> 00:00:54.120
+Here are our invented notes.
+
+28
+00:00:54.140 --> 00:00:56.040
+Last month's bank statement.
+
+29
+00:00:56.060 --> 00:00:57.960
+Due by the end of next week.
+
+30
+00:00:57.980 --> 00:01:01.260
+Uploaded through the existing secure portal.
+
+31
+00:01:01.390 --> 00:01:03.837
+A tip: write the notes first,
+
+32
+00:01:03.857 --> 00:01:04.997
+then the instruction,
+
+33
+00:01:05.017 --> 00:01:06.437
+and keep them apart.
+
+34
+00:01:06.457 --> 00:01:08.597
+That way you can always see which parts are
+
+35
+00:01:08.617 --> 00:01:10.837
+facts, and which parts describe what you want
+
+36
+00:01:10.857 --> 00:01:11.977
+back.
+
+37
+00:01:12.107 --> 00:01:14.167
+Now add two guard rails.
+
+38
+00:01:14.187 --> 00:01:16.287
+Use square-bracket placeholders for anything
+
+39
+00:01:16.307 --> 00:01:17.327
+that's missing.
+
+40
+00:01:17.347 --> 00:01:18.807
+And don't invent a link,
+
+41
+00:01:18.827 --> 00:01:21.627
+a fee, or a legal deadline.
+
+42
+00:01:22.607 --> 00:01:24.987
+Read the first draft against your notes.
+
+43
+00:01:25.007 --> 00:01:27.227
+Then ask for one change.
+
+44
+00:01:27.247 --> 00:01:28.387
+Make it warmer,
+
+45
+00:01:28.407 --> 00:01:31.407
+but keep the facts exactly the same.
+
+46
+00:01:31.537 --> 00:01:33.037
+Here's what to look for.
+
+47
+00:01:33.057 --> 00:01:35.357
+Our illustrative draft reads nicely,
+
+48
+00:01:35.377 --> 00:01:37.197
+but it added a line:
+
+49
+00:01:37.217 --> 00:01:39.717
+late documents may incur a fee.
+
+50
+00:01:39.737 --> 00:01:41.157
+That wasn't in the notes.
+
+51
+00:01:41.177 --> 00:01:43.057
+So out it goes.
+
+52
+00:01:43.187 --> 00:01:44.927
+Compare the two versions.
+
+53
+00:01:44.947 --> 00:01:46.687
+Does the date still match?
+
+54
+00:01:46.707 --> 00:01:49.007
+Is the portal wording unchanged?
+
+55
+00:01:49.027 --> 00:01:51.347
+Has a new promise crept in?
+
+56
+00:01:52.277 --> 00:01:54.897
+Underline every claim you could check.
+
+57
+00:01:54.917 --> 00:01:56.777
+If a claim has no source,
+
+58
+00:01:56.797 --> 00:01:59.537
+cut it, or mark it as a question for the person
+
+59
+00:01:59.557 --> 00:02:01.157
+responsible.
+
+60
+00:02:02.137 --> 00:02:04.517
+The same habit works everywhere.
+
+61
+00:02:04.537 --> 00:02:06.917
+A Christchurch builder's quote cover note?
+
+62
+00:02:06.937 --> 00:02:09.317
+The price and the terms stay in the approved
+
+63
+00:02:09.337 --> 00:02:10.617
+quote.
+
+64
+00:02:10.747 --> 00:02:12.887
+Meeting notes for a Wellington team?
+
+65
+00:02:12.907 --> 00:02:14.967
+Keep what was proposed separate from what
+
+66
+00:02:14.987 --> 00:02:16.167
+was decided.
+
+67
+00:02:16.187 --> 00:02:18.407
+Don't fill the gaps just to make a table look
+
+68
+00:02:18.427 --> 00:02:19.707
+tidy.
+
+69
+00:02:19.837 --> 00:02:22.564
+And remember, a change in style can change
+
+70
+00:02:22.584 --> 00:02:23.644
+the meaning.
+
+71
+00:02:23.664 --> 00:02:26.004
+So check against the source again after every
+
+72
+00:02:26.024 --> 00:02:27.464
+revision.
+
+73
+00:02:28.444 --> 00:02:30.344
+Try the examples in the lessons,
+
+74
+00:02:30.364 --> 00:02:31.784
+in an approved Chat account,
+
+75
+00:02:31.804 --> 00:02:33.024
+or on paper.
+
+76
+00:02:33.044 --> 00:02:35.304
+Then save one prompt you'd reuse,
+
+77
+00:02:35.324 --> 00:02:36.864
+with spaces for the task,
+
+78
+00:02:36.884 --> 00:02:38.584
+the audience, the source,
+
+79
+00:02:38.604 --> 00:02:40.204
+and the limits.
+
+80
+00:02:40.334 --> 00:02:42.741
+A good prompt makes the job clear.
+
+81
+00:02:42.761 --> 00:02:44.861
+A person still checks the result before it
+
+82
+00:02:44.881 --> 00:02:46.361
+goes out.

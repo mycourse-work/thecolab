@@ -1,14 +1,14 @@
 # Write a useful office email
 
-**Allow 4 minutes.** This Hamilton accountancy example is invented.
+Allow 4 minutes. This Hamilton accountancy example is invented.
 
 ## Before: too little to work with
 
-“Write an email to clients.”
+"Write an email to clients."
 
 This gives Copilot no purpose, facts or tone. It may fill the gaps with details you never approved.
 
-## After: a checkable draft
+## After: supply the facts
 
 Copy this prompt into an approved Chat session, or mark its ingredients on paper.
 
@@ -27,9 +27,9 @@ Do not invent a portal link, fee or legal deadline.
 
 ## What a useful result could look like
 
-**Illustrative draft written for this exercise; your result will vary.**
+Illustrative draft for this exercise. Your result may vary.
 
-Subject: Last month’s bank statement
+Subject: Last month's bank statement
 
 Hi [client],
 
@@ -41,10 +41,9 @@ This is a requested date in the example. It is not a statutory tax deadline.
 
 ## Try it: 2 minutes
 
-Run the prompt. Then ask: “Keep the facts and placeholders. Make it warmer without adding a promise.” Check the period, date, portal wording and placeholders in both versions.
+Run the prompt. Then ask: "Keep the facts and placeholders. Make it warmer without adding a promise." Check the period, date, portal wording and placeholders in both versions.
 
-**Done when:** you have a draft you can trace to the notes. Leave it unsent.
-
+Done when: you have a draft you can trace to the notes. Leave it unsent.
 
 ## Sources
 

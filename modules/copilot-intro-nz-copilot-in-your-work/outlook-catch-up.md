@@ -1,12 +1,12 @@
 # Outlook: catch up and draft
 
-**Allow 3 minutes.** Start with an approved training mailbox or use the Chat route below.
+Allow 3 minutes. Start with an approved training mailbox or use the Chat route below.
 
 ## Know the scope
 
 In a supported Outlook experience, sign in with your work account and select the **Copilot button in the upper region** of Outlook. Without the add-on, Copilot Chat can answer questions about the inbox, calendar, meetings and limited related data. The add-on provides broader work context.
 
-This does not mean every mailbox, client or shared mailbox supports every task. If your experience is missing, check with IT rather than buying another licence yourself.
+Support varies by mailbox, client and task. If a feature is missing, ask IT to check your access before you buy another licence.
 
 ## Ask for a bounded catch-up
 
@@ -24,10 +24,9 @@ Compare the summary with the thread. Check the latest message, not just the firs
 
 ## Try it: 1 minute
 
-**Chat route:** use the invented Wellington notes from module 2. Add this invented update: “The coordinator's deadline is now Wednesday next week.” Ask for a follow-up draft that uses the updated date. Confirm that the old date is gone.
+Chat route: use the invented Wellington notes from module 2. Add this invented update: "The coordinator's deadline is now Wednesday next week." Ask for a follow-up draft that uses the updated date. Confirm that the old date is gone.
 
-**Done when:** your draft reflects the current source and stays unsent.
-
+Done when: your draft reflects the current source and stays unsent.
 
 ## Sources
 

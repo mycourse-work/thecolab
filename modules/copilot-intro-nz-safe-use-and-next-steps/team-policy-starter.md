@@ -1,6 +1,6 @@
 # A simple team AI policy starter
 
-**Allow 5 minutes.** This is a draft for your manager and privacy lead to adapt. It needs approval before your team treats it as policy.
+Allow 5 minutes. This is a draft for your manager and privacy lead to adapt. It needs approval before your team treats it as policy.
 
 ## Copy and complete the starter
 
@@ -45,8 +45,7 @@ Choose a real owner and reporting channel. Give one allowed task and one task th
 
 Fill in the placeholders. Add a rule about who checks client-facing drafts. Mark the document **Draft: needs approval** and save it for discussion. Do not describe it as an approved or legally complete policy.
 
-**Done when:** another staff member can identify the approved account, data rule, reviewer and incident contact.
-
+Done when: another staff member can identify the approved account, data rule, reviewer and incident contact.
 
 ## Sources
 

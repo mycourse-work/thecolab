@@ -1,8 +1,8 @@
 # Privacy and what to keep out
 
-**Allow 4 minutes.** The Privacy Act 2020 applies when your organisation uses personal information with AI. A vendor's protection does not remove your organisation's responsibilities.
+Allow 4 minutes. The Privacy Act 2020 applies when your organisation uses personal information with AI. A vendor's protection does not remove your organisation's responsibilities.
 
-The Privacy Commissioner recommends a privacy impact assessment before using AI and keeping it up to date. Their generative AI guidance calls for leadership approval, a necessary and proportionate use, transparency, and checks on accuracy and privacy risks.
+The Privacy Commissioner recommends assessing privacy impacts before using AI and keeping that assessment up to date. Their generative AI guidance also calls for leadership approval, a necessary and proportionate use, transparency, and checks on accuracy and privacy risks.
 
 ## Use a clear data rule
 
@@ -19,7 +19,7 @@ These are course safety rules. They are not a claim that the law bans all busine
 
 ## Removing a name may not be enough
 
-An invented example: “the only night-shift supervisor in our small office” may identify someone even without a name. Use a completely made-up scenario while learning. If a task needs real personal information, involve your privacy lead before you start.
+An invented example: "the only night-shift supervisor in our small office" may identify someone even without a name. Use a completely made-up scenario while learning. If a task needs real personal information, involve your privacy lead before you start.
 
 > **Important:** Do not claim that Copilot guarantees NZ-only processing or legal compliance. Ask your organisation to assess the service, agreements and information flows.
 
@@ -27,8 +27,7 @@ An invented example: “the only night-shift supervisor in our small office” m
 
 Pick one planned task. List its information types. Replace the real records with invented facts for practice. Write down who must approve the real task.
 
-**Done when:** your practice prompt has no real personal or confidential information.
-
+Done when: your practice prompt has no real personal or confidential information.
 
 ## Sources
 

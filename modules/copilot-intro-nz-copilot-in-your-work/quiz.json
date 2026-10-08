@@ -8,22 +8,22 @@
       "question": "What does broader work grounding through Microsoft Graph mean?",
       "answers": [
         {
-          "id": "apps_q1_a",
-          "text": "Grounding guarantees correct answers.",
-          "correct": false,
-          "feedback": "This misses a required boundary or check. It uses work content within your permissions."
-        },
-        {
           "id": "apps_q1_b",
           "text": "It uses work content within your permissions.",
           "correct": true,
-          "feedback": "Correct. It uses work content within your permissions."
+          "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
+        },
+        {
+          "id": "apps_q1_a",
+          "text": "It can use any file stored in the organisation.",
+          "correct": false,
+          "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
         },
         {
           "id": "apps_q1_c",
           "text": "It guarantees accuracy when an answer comes from a work document.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. It uses work content within your permissions."
+          "feedback": "Work grounding uses content within your existing permissions. You still need to check whether the source and answer are correct."
         }
       ],
       "feedback": "Correct. It uses work content within your permissions."
@@ -37,19 +37,19 @@
           "id": "apps_q2_a",
           "text": "Only the open email is available.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Bounded inbox and related data; paid access reaches further."
-        },
-        {
-          "id": "apps_q2_b",
-          "text": "It supplies the same broad organisational grounding as every paid licence.",
-          "correct": false,
-          "feedback": "This misses a required boundary or check. Bounded inbox and related data; paid access reaches further."
+          "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
         },
         {
           "id": "apps_q2_c",
           "text": "Bounded inbox and related data; paid access reaches further.",
           "correct": true,
-          "feedback": "Correct. Bounded inbox and related data; paid access reaches further."
+          "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
+        },
+        {
+          "id": "apps_q2_b",
+          "text": "It supplies the same broad organisational grounding as every paid licence.",
+          "correct": false,
+          "feedback": "Supported Outlook Chat can use inbox and related content without the add-on. Paid access provides broader work grounding."
         }
       ],
       "feedback": "Correct. Bounded inbox and related data; paid access reaches further."
@@ -73,9 +73,9 @@
         },
         {
           "id": "apps_q3_c",
-          "text": "Accept the chart’s labels without comparing the selected data range.",
+          "text": "Accept the chart's labels without comparing the selected data range.",
           "correct": false,
-          "feedback": "Account approval, source comparison and human review remain necessary."
+          "feedback": "Compare the selected range and labels with the source cells before you accept a chart."
         },
         {
           "id": "apps_q3_d",
@@ -92,22 +92,22 @@
       "question": "After a Teams meeting, what is needed to ask Copilot about what was spoken?",
       "answers": [
         {
-          "id": "apps_q4_a",
-          "text": "A transcript and supported licence/settings.",
-          "correct": true,
-          "feedback": "Correct. A transcript and supported licence/settings."
-        },
-        {
           "id": "apps_q4_b",
           "text": "The invitation is sufficient.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. A transcript and supported licence/settings."
+          "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
         },
         {
           "id": "apps_q4_c",
           "text": "A saved recording, even when no transcript or supported setup exists.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. A transcript and supported licence/settings."
+          "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
+        },
+        {
+          "id": "apps_q4_a",
+          "text": "A transcript and supported licence/settings.",
+          "correct": true,
+          "feedback": "Questions about spoken content after the meeting need an available transcript, a supported licence and the right settings."
         }
       ],
       "feedback": "Correct. A transcript and supported licence/settings."

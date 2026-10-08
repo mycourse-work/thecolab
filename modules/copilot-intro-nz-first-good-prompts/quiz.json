@@ -11,19 +11,19 @@
           "id": "prompt_q1_a",
           "text": "Infer a likely deadline.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Use supplied notes; set tone, length and limits."
+          "feedback": "Supply the office notes, tone and output limits. A typical reminder or inferred deadline can add facts the office never supplied."
         },
         {
           "id": "prompt_q1_b",
-          "text": "Describe a typical reminder, without providing the office’s source notes.",
+          "text": "Describe a typical reminder, without providing the office's source notes.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Use supplied notes; set tone, length and limits."
+          "feedback": "Supply the office notes, tone and output limits. A typical reminder or inferred deadline can add facts the office never supplied."
         },
         {
           "id": "prompt_q1_c",
           "text": "Use supplied notes; set tone, length and limits.",
           "correct": true,
-          "feedback": "Correct. Use supplied notes; set tone, length and limits."
+          "feedback": "Supply the office notes, tone and output limits. A typical reminder or inferred deadline can add facts the office never supplied."
         }
       ],
       "feedback": "Correct. Use supplied notes; set tone, length and limits."
@@ -73,19 +73,19 @@
           "id": "prompt_q3_a",
           "text": "Timing will be agreed after acceptance.",
           "correct": true,
-          "feedback": "Correct. Timing will be agreed after acceptance."
+          "feedback": "The notes leave timing to be agreed after acceptance. The draft must preserve that condition."
         },
         {
           "id": "prompt_q3_b",
           "text": "Acceptance confirms the start date.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Timing will be agreed after acceptance."
+          "feedback": "The notes leave timing to be agreed after acceptance. The draft must preserve that condition."
         },
         {
           "id": "prompt_q3_c",
-          "text": "Acceptance confirms the start date, even though none has been supplied.",
+          "text": "A provisional start next week, pending acceptance.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Timing will be agreed after acceptance."
+          "feedback": "The notes leave timing to be agreed after acceptance. The draft must preserve that condition."
         }
       ],
       "feedback": "Correct. Timing will be agreed after acceptance."
@@ -105,7 +105,7 @@
           "id": "prompt_q4_b",
           "text": "Ask Copilot to confirm accuracy instead of checking the source.",
           "correct": false,
-          "feedback": "Account approval, source comparison and human review remain necessary."
+          "feedback": "Copilot may miss its own errors. Compare the revised draft with the original source yourself."
         },
         {
           "id": "prompt_q4_c",
@@ -131,19 +131,19 @@
           "id": "prompt_q5_a",
           "text": "Approved in principle.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Proposed; approval remains open."
-        },
-        {
-          "id": "prompt_q5_b",
-          "text": "Ready to launch.",
-          "correct": false,
-          "feedback": "This misses a required boundary or check. Proposed; approval remains open."
+          "feedback": "Discussion does not establish approval. Keep the buddy programme as a proposal and ask for confirmation."
         },
         {
           "id": "prompt_q5_c",
           "text": "Proposed; approval remains open.",
           "correct": true,
-          "feedback": "Correct. Proposed; approval remains open."
+          "feedback": "Discussion does not establish approval. Keep the buddy programme as a proposal and ask for confirmation."
+        },
+        {
+          "id": "prompt_q5_b",
+          "text": "Ready to launch.",
+          "correct": false,
+          "feedback": "Discussion does not establish approval. Keep the buddy programme as a proposal and ask for confirmation."
         }
       ],
       "feedback": "Correct. Proposed; approval remains open."

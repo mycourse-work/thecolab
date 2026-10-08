@@ -1,6 +1,6 @@
 # Your next seven days
 
-**Allow 5 minutes now.** Plan seven small practices. The later practice is optional and sits outside the course's 88 minutes.
+Allow 5 minutes now. Plan seven small practices. The later practice is optional and sits outside the course's estimated 87 minutes 49 seconds.
 
 ## Five minutes a day
 
@@ -34,4 +34,4 @@ Choose a day-one time, a safe practice task and the person you will discuss your
 
 Complete the final quiz and mark all lessons complete. Signed-in learners who meet the platform's completion requirements can get the end-of-course certificate. It recognises independent TheColab training, not Microsoft certification.
 
-**Done when:** you have a practice plan and a clear next step you can use at work.
+Done when: you have a practice plan and a clear next step you can use at work.

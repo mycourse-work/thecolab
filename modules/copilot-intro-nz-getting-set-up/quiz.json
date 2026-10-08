@@ -11,19 +11,19 @@
           "id": "setup_q1_a",
           "text": "Summarise an unapproved complaint.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Draft and check an invented reminder."
+          "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
         },
         {
           "id": "setup_q1_b",
           "text": "Draft and check an invented reminder.",
           "correct": true,
-          "feedback": "Correct. Draft and check an invented reminder."
+          "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
         },
         {
           "id": "setup_q1_c",
           "text": "Test file upload with customer records before checking their sensitivity.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Draft and check an invented reminder."
+          "feedback": "An invented reminder lets you practise drafting and checking without using real private records."
         }
       ],
       "feedback": "Correct. Draft and check an invented reminder."
@@ -37,19 +37,19 @@
           "id": "setup_q2_a",
           "text": "The paid add-on is assigned.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Standard app access; confirm the settings."
+          "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
         },
         {
           "id": "setup_q2_b",
           "text": "The full paid experience, because Basic describes the base subscription.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. Standard app access; confirm the settings."
+          "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
         },
         {
           "id": "setup_q2_c",
           "text": "Standard app access; confirm the settings.",
           "correct": true,
-          "feedback": "Correct. Standard app access; confirm the settings."
+          "feedback": "Microsoft 365 Copilot (Basic) means standard in-app access without the add-on. Confirm the tenant settings and features available."
         }
       ],
       "feedback": "Correct. Standard app access; confirm the settings."
@@ -63,7 +63,7 @@
           "id": "setup_q3_a",
           "text": "Use a personal opt-out as workplace permission for client records.",
           "correct": false,
-          "feedback": "Account approval, source comparison and human review remain necessary."
+          "feedback": "A personal training opt-out does not give workplace permission to use client records."
         },
         {
           "id": "setup_q3_b",
@@ -95,19 +95,19 @@
           "id": "setup_q4_a",
           "text": "No foundation-model training; retention may apply.",
           "correct": true,
-          "feedback": "Correct. No foundation-model training; retention may apply."
+          "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
         },
         {
           "id": "setup_q4_b",
           "text": "All work chats disappear immediately.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. No foundation-model training; retention may apply."
+          "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
         },
         {
           "id": "setup_q4_c",
           "text": "The shield approves confidential uploads.",
           "correct": false,
-          "feedback": "This misses a required boundary or check. No foundation-model training; retention may apply."
+          "feedback": "Enterprise data protection keeps work prompts and responses out of foundation-model training. Work interactions can still be logged and retained."
         }
       ],
       "feedback": "Correct. No foundation-model training; retention may apply."

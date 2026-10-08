@@ -1,6 +1,6 @@
 # Choose the right account and plan
 
-**Allow 4 minutes.** An account and a licence are different things. Use your organisation's approved account for work.
+Allow 4 minutes. An account and a licence are different things. Use your organisation's approved account for work.
 
 ## The plan map
 
@@ -26,8 +26,7 @@ Availability depends on your tenant configuration. Standard access can be limite
 
 Record your work account, Microsoft 365 base plan and Copilot label. If you cannot find them, make this your administrator question. Do not buy a plan to finish this course.
 
-**Done when:** you know your experience, or have a clear request for IT.
-
+Done when: you know your experience, or have a clear request for IT.
 
 ## Sources
 

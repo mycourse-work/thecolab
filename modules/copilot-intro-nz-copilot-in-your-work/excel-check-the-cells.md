@@ -1,6 +1,6 @@
 # Excel: ask, then check the cells
 
-**Allow 4 minutes.** Work in a separate practice workbook. Never experiment on a live finance file.
+Allow 4 minutes. Work in a separate practice workbook. Never experiment on a live finance file.
 
 ## Prepare a small table
 
@@ -28,12 +28,11 @@ Do not forecast future demand or edit the workbook.
 
 Check the answer yourself: 30 minus 20 is **10** more enquiries. If you ask for percentage change, the increase is **50%** of Month 1's 20. A higher count does not prove why demand changed.
 
-Check each figure against the correct column. An attractive chart is not proof that the range is right.
+Check each figure against the correct column. Compare the chart's range with the source table.
 
-**Chat route:** paste the invented table into an approved Copilot Chat session. Ask the same question and check the arithmetic yourself. This route does not test an Excel integration.
+Chat route: paste the invented table into an approved Copilot Chat session. Ask the same question and check the arithmetic yourself. This route does not test an Excel integration.
 
-**Done when:** you can point to the two source cells and verify the difference.
-
+Done when: you can point to the two source cells and verify the difference.
 
 ## Sources
 
