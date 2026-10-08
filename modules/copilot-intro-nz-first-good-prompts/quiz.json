@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "prompt_q1_a",
-          "text": "Ask for a client email, letting Copilot supply a likely due date.",
+          "text": "Infer a likely deadline.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Use supplied notes; set tone, length and limits."
         },
@@ -77,7 +77,7 @@
         },
         {
           "id": "prompt_q3_b",
-          "text": "Work should start next Monday, subject to the customer changing it.",
+          "text": "Acceptance confirms the start date.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Timing will be agreed after acceptance."
         },
@@ -129,13 +129,13 @@
       "answers": [
         {
           "id": "prompt_q5_a",
-          "text": "Approved in principle, because it was discussed by the team.",
+          "text": "Approved in principle.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Proposed; approval remains open."
         },
         {
           "id": "prompt_q5_b",
-          "text": "Ready to launch after the summary is circulated to everyone.",
+          "text": "Ready to launch.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Proposed; approval remains open."
         },

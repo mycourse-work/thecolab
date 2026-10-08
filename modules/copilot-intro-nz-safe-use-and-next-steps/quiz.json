@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "safe_q1_a",
-          "text": "Remove the name and assume the remaining complaint is sufficiently anonymous.",
+          "text": "Remove the name only.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Use an invented scenario; ask the privacy lead."
         },
@@ -102,13 +102,13 @@
         },
         {
           "id": "safe_q4_b",
-          "text": "A workplace policy effective as soon as its required fields are filled.",
+          "text": "A completed privacy assessment.",
           "correct": false,
           "feedback": "This misses a required boundary or check. A draft requiring manager and privacy review."
         },
         {
           "id": "safe_q4_c",
-          "text": "A completed privacy assessment that approves all future Copilot tasks.",
+          "text": "An immediately effective policy.",
           "correct": false,
           "feedback": "This misses a required boundary or check. A draft requiring manager and privacy review."
         }

@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "apps_q1_a",
-          "text": "It gives you access to related files even without existing permission.",
+          "text": "Grounding guarantees correct answers.",
           "correct": false,
           "feedback": "This misses a required boundary or check. It uses work content within your permissions."
         },
@@ -35,7 +35,7 @@
       "answers": [
         {
           "id": "apps_q2_a",
-          "text": "It uses only the currently open email and never any other inbox data.",
+          "text": "Only the open email is available.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Bounded inbox and related data; paid access reaches further."
         },
@@ -99,7 +99,7 @@
         },
         {
           "id": "apps_q4_b",
-          "text": "A meeting invitation and licence, without any source of spoken content.",
+          "text": "The invitation is sufficient.",
           "correct": false,
           "feedback": "This misses a required boundary or check. A transcript and supported licence/settings."
         },

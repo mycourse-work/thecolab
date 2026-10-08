@@ -9,7 +9,7 @@
       "answers": [
         {
           "id": "setup_q1_a",
-          "text": "Summarise a real complaint before confirming your team’s data rules.",
+          "text": "Summarise an unapproved complaint.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Draft and check an invented reminder."
         },
@@ -35,7 +35,7 @@
       "answers": [
         {
           "id": "setup_q2_a",
-          "text": "A paid add-on assignment, because the button is visible in Word.",
+          "text": "The paid add-on is assigned.",
           "correct": false,
           "feedback": "This misses a required boundary or check. Standard app access; confirm the settings."
         },
@@ -99,13 +99,13 @@
         },
         {
           "id": "setup_q4_b",
-          "text": "No retention of any work prompt once the response has appeared.",
+          "text": "All work chats disappear immediately.",
           "correct": false,
           "feedback": "This misses a required boundary or check. No foundation-model training; retention may apply."
         },
         {
           "id": "setup_q4_c",
-          "text": "Training is optional, so all confidential uploads are automatically approved.",
+          "text": "The shield approves confidential uploads.",
           "correct": false,
           "feedback": "This misses a required boundary or check. No foundation-model training; retention may apply."
         }
