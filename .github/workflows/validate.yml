@@ -1,0 +1,53 @@
+name: Validate course content
+
+# Runs the pinned course format validator on pull requests that change
+# course content. It does not publish anything: sync-to-r2.yml does that,
+# on push to main only.
+on:
+  pull_request:
+    paths:
+      - "courses/**"
+      - "modules/**"
+      - "widgets/**"
+      - ".github/workflows/validate.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  # Course format validator from mycourse-work/skills. To upgrade, change
+  # this tag in a pull request and fix any new errors in the same PR.
+  VALIDATOR_REF: v1.0.0
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the pull request (no LFS files needed)
+        uses: actions/checkout@v4
+        with:
+          # The merge commit and its first parent (the base branch).
+          fetch-depth: 2
+          lfs: false
+          persist-credentials: false
+
+      - name: Download the validator
+        run: |
+          curl -fsSL --retry 3 -o "$RUNNER_TEMP/validate_course.py" \
+            "https://raw.githubusercontent.com/mycourse-work/skills/${VALIDATOR_REF}/course-validator/scripts/validate_course.py"
+          python3 -I "$RUNNER_TEMP/validate_course.py" --version
+
+      - name: List changed files
+        run: |
+          # HEAD is the PR merge commit; HEAD^1 is the base branch it merges into.
+          # Keep deleted files: a deleted module still checks the courses that list it.
+          git diff --name-only HEAD^1 HEAD > "$RUNNER_TEMP/changed.txt"
+          cat "$RUNNER_TEMP/changed.txt"
+
+      - name: Validate changed courses and modules
+        run: python3 -I "$RUNNER_TEMP/validate_course.py" --repo-root . --changed-from "$RUNNER_TEMP/changed.txt" --github
