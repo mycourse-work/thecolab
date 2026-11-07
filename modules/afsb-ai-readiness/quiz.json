@@ -1,5 +1,6 @@
 {
   "title": "AI Readiness Quiz",
+  "type": "quiz",
   "description": "Test your understanding of AI readiness assessment, data auditing, process mapping, skills analysis, and building a business case.",
   "passingScore": 70,
   "questions": [
