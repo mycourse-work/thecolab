@@ -1,5 +1,6 @@
 {
   "title": "First AI Wins Quiz",
+  "type": "quiz",
   "passingScore": 70,
   "questions": [
     {

@@ -1,5 +1,6 @@
 {
   "title": "Responsible AI in NZ Quiz",
+  "type": "quiz",
   "passingScore": 70,
   "questions": [
     {

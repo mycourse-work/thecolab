@@ -1,5 +1,6 @@
 {
   "title": "Understanding AI Quiz",
+  "type": "quiz",
   "passingScore": 70,
   "questions": [
     {
