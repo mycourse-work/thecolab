@@ -19,9 +19,15 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  # Course format validator from mycourse-work/skills. To upgrade, change
-  # this tag in a pull request and fix any new errors in the same PR.
-  VALIDATOR_REF: v1.0.0
+  # Course format validator from mycourse-work/skills, pinned by commit SHA
+  # (a tag can be moved) and checked by SHA-256 after the download.
+  # To upgrade, change both values (and the tag comment) in a pull request
+  # and fix any new errors in the same PR. Get them with:
+  #   git rev-parse 'v1.0.0^{commit}'
+  #   git show 'v1.0.0:course-validator/scripts/validate_course.py' | sha256sum
+  # TODO: re-pin to the v1.0.0 merge commit SHA after skills#2 merges.
+  VALIDATOR_REF: ce81e638a78dc2ec5315d3830f5da306fd598043  # v1.0.0 (skills#2 head)
+  VALIDATOR_SHA256: da66b1d5c1e21d3daf739dfc4f6782a797b9fb0358d0d5aa8792a67d5be62779
 
 jobs:
   validate:
@@ -40,6 +46,7 @@ jobs:
         run: |
           curl -fsSL --retry 3 -o "$RUNNER_TEMP/validate_course.py" \
             "https://raw.githubusercontent.com/mycourse-work/skills/${VALIDATOR_REF}/course-validator/scripts/validate_course.py"
+          echo "${VALIDATOR_SHA256}  $RUNNER_TEMP/validate_course.py" | sha256sum -c -
           python3 -I "$RUNNER_TEMP/validate_course.py" --version
 
       - name: List changed files
